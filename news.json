@@ -1,7 +1,7 @@
 {
  "title": "IP & Tech Transfer Pulse",
  "tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
- "updated": "2026-10-08T13:35:10.164006+00:00",
+ "updated": "2026-10-08T23:23:29.801931+00:00",
  "tags": [
   "Patents",
   "Licensing",
@@ -12,11 +12,93 @@
  ],
  "items": [
   {
+   "title": "AmCham Nepal and U.S. Embassy convene business roundtable with USPTO on Intellectual Property and Business Confidence",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMy1wR3drMjlVVWRzT1VTa0VKWmpJNWU1ODVPZWNPU25ISWJNUmVUMGJjNUVoTzFSTGZ1SGhHcEdiY3hSTTNyb0lfVTdGbHZhOVVjZkNacGY1TFNXUGtybA?oc=5",
+   "source": "Technology Khabar",
+   "snippet": "",
+   "date": "2026-10-08T21:47:59+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "ABLE proposes India-Montana ‘bio-bridge’ to drive biotech partnerships",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWV9rbzU5NGlQaDJtd0xtRDJOQTFLNTIyTFB6LWxneWd6TFRIWEVsZkRCNzdMemNLaUJmZG5GUjlYdEpzejd5MkhBb09FNU5nNjRvR0NBNUJ2UWRjdlZYR0Y1YVZ0SVdDeVh0V0tBdEpMU2w3R0ozV3BJVnlWOEI3RE1INGFnc1JSVjh3cXhBUlh4bEVCR0tzX1NFZzJWTGVaaF9VTFpqdnVnYl9RVEV5Z3Y0a0MzU3RkQks4eQ?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-10-08T20:41:34+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "AI May Be the Missing Link to Your Company’s Trade Secret Theft: What In-House Counsel Should Know",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWM0SjdBZkcwVEVtYVAwT196S0ZfLUlNZm9GaUlTWUppWGVzT3V4bDBYd245R2Vuc1FBRlNCUDRIWVlkQjVoVlVHUTRPYTRNSndEdEpZdE9rZWFLbHE5bzRtWkdFb0ZQdmxDcWRnbUN1VF9oOGludm00LWZ2bUxHQTBwQU1veWp4c2dDMGd1ZF9abU5WVFFBcndoeThDWmI5ZnNvUk4zQkRPMTlVcVlLUTdRNknSAboBQVVfeXFMTzg0ZFBBbHZvX24zUnVPd3JaaWFlY0JZdWJ5RGV4ME5VeUtETE83aDI3ZVBtYnlFbHhtV1J2X3N5UnM5ZVNlaG5DTFVrOVpUNTJobUc1bXpJUXpfV21YcVg1NHRQWFNlak5KTEpvelJUTG85NzZXVmxMaEw0aDhJSHZZLU9xdDhGcGplUk4yTHVvNXg0RVJNbjNGRVVkUF9jT3N3UmVGY0xTbWhIRlNNQjZaNGFIVkdtVVRR?oc=5",
+   "source": "The National Law Review",
+   "snippet": "",
+   "date": "2026-10-08T20:02:52+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Jepson and Other Point-of-Novelty Claims in U.S. Patents, 1976–2026",
+   "link": "https://patentlyo.com/patent/2026/10/jepson-and-other-point-of-novelty-claims-in-u-s-patents-1976-2026.html",
+   "source": "Patently-O",
+   "snippet": "Point-of-novelty claims are rare: Jepson claims appear in 0.03% of U.S. patents, and the European two-part form in well under 1%. Continue reading this post on Patently-O.",
+   "date": "2026-10-08T19:53:55+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "WIPO ranks Algeria second globally in education expenditure",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXg0LU55a2o1NG1YVWI1VkhHQlhZVWY4bzNPTkZnZk5aTHRZXzliUzNiWGRjdFM2UmpJeTdJc1pCSFBfZHlHOXBydkhlVm44eUdlXzlQcjZQc19BYlYxYWs3ZzZHU2VnUTl2OUhud1lMNkJoX2tNemo0bjJlQTlUSzRsOVNKYUhCTV92ejBnXzcyTE80UkF4anNNa0VLcGdmR3ZHU3RHM1NfT2Z5QThjSXhR?oc=5",
+   "source": "وكالة الأنباء الجزائرية",
+   "snippet": "",
+   "date": "2026-10-08T19:12:00+00:00",
+   "tags": [
+    "Patents",
+    "Policy"
+   ]
+  },
+  {
+   "title": "Postcards from WIPO: What’s Ahead for IP in Geneva This Fall",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUcxcDBrblNDa3FNR1ZDSm9FLUZIRHNwS3Y5QzgtWnMyZjh3Zl9MamRaOGpwWElEcGc5UHFmejI5MDgtLTl2QVlLUzZHOGpUTEd4TTByM2k1ajJ0Vy0wZmx3cHdpX2lfaWlOenJuWnFPUzR5QXhNRUo1ekZ5TGsyUldWa3Q4YTA3RGFzbmhuNXdvYk4xMUhabQ?oc=5",
+   "source": "IPWatchdog.com",
+   "snippet": "",
+   "date": "2026-10-08T16:37:34+00:00",
+   "tags": [
+    "Patents",
+    "Policy"
+   ]
+  },
+  {
+   "title": "Out of Line: Chief Judge Moore Rebukes Counsel, Then Leans Toward Reversal in J&M v. Kinze",
+   "link": "https://patentlyo.com/patent/2026/10/out-of-line-chief-judge-moore-rebukes-counsel-then-leans-toward-reversal-in-jm-v-kinze.html",
+   "source": "Patently-O",
+   "snippet": "Chief Judge Moore rebukes J&M's counsel for touting credentials at Markman, yet the panel signals that \"askewed angle\" is broad, not indefinite. Continue reading this post on Patently-O.",
+   "date": "2026-10-08T15:01:53+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "Lopa kulture - Epo Mwali | MP3 Download",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTXJjNjlfd2tqQUJid3lFQU1pSGtBVER6OUd6ZEdNRjg5c2JxS05ObkhEWVJZZEM4b1lidkIybEdZWFVGZ2pXeEIweUl4Z3BxbFUyYnFJelNEa09xcHJiTQ?oc=5",
+   "source": "Voxtrendy",
+   "snippet": "",
+   "date": "2026-10-08T12:02:52+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
    "title": "India, Ghana Sign Five-Year MoU on Agricultural Research, Technology Transfer",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTZURUNOZjByNjJDZ29mZ0gzbWF0NnFGaEVPZkExX3QzTnZJdVpEb0JWUVVBeEp4V21mU3hod2xEbV84MXNsNlFlc2s3SGdnb2Y3TXBkRFBYbktQVk5Ea3dXMjFLSlVIcXZtVk51ZlVjZ3NsT1RxZWZZZmNRdjIyakd3NmtrWWlXM3lYY2pxX0xYbzRFclZUWkRtNFRWMm9RZXFhWkJJWWsxX2F6bjFzeFZrV0U4aTYyVlpDeGltOUE?oc=5",
    "source": "KNN India",
    "snippet": "",
-   "date": "2026-10-08T11:28:53+00:00",
+   "date": "2026-10-08T11:46:41+00:00",
    "tags": [
     "Tech Transfer",
     "India"
@@ -43,6 +125,16 @@
    ]
   },
   {
+   "title": "MoSPI signs MoU with Pahle India Foundation, New Delhi to strengthen collaboration in Official Statistics, Research and Data Analysis",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJcnFOYmpUbVQyODBCc3ZfUHlwZFJlb0pfVnRYVjh4N091LXJDNGlzXzhCWHBDRTZwQnNCcEVuVjVrUXJTUFlWdzZqcnBuM1JWcEdRVlRDSlVYMVU3VVMteC14Sks5NFlw?oc=5",
+   "source": "PIB",
+   "snippet": "",
+   "date": "2026-10-08T09:43:00+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "NRDC Signs MoA With CPPRI to Boost Technology Development, Transfer and Commercialisation",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWG56WUZ6SlQzc19vRFdQOFNTWWZHNVpKSllHamQwRjluNEs4ZlY1QXVzTXVaVUtRQXhSR3o5eDNpN09SQllTMkZRUHZDU3QwSm8wUlFQejMtX2VkZlp4S29aSVN3U3NWaWJWREZ1SnBDRDhHS0pVR200bmVNdGUxeGVETi1SdGdtMU9zQXlKd00tRUVxUE5mUElraEg1X1dzNmVwUWlvT2VNTWM?oc=5",
    "source": "Indianmasterminds",
@@ -61,6 +153,16 @@
    "date": "2026-10-08T09:06:16+00:00",
    "tags": [
     "India"
+   ]
+  },
+  {
+   "title": "US Embassy and AmCham Nepal Discuss Intellectual Property and Business Trust",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnppM0hOMU16bFV4eTdKUUphY0JQSXB2NnFFeEQ2WkwtVjlzRWdWOVVVM0NfdjdOdDB6dklRcHVZWUpQYlQtQXk3SUl0SERnaHRzYk9OQlBYY0RsNmFKNzA3VHJ6bU1TTnlXYmwyZ3BYNVdfbEd2RkFJV0xKQnhPckFRcmtzZjJCTDJ1R2d0N0NXRW5qNFZTM2lkME84dkExX25pcDZoSXpWbWJqY1FfQkwzU3FvTWZ4dVQxdHpRYlk3ZHo1Mldv?oc=5",
+   "source": "Ratopati",
+   "snippet": "",
+   "date": "2026-10-08T08:49:37+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -170,16 +272,6 @@
    ]
   },
   {
-   "title": "Lopa kulture - Epo Mwali | MP3 Download",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTXJjNjlfd2tqQUJid3lFQU1pSGtBVER6OUd6ZEdNRjg5c2JxS05ObkhEWVJZZEM4b1lidkIybEdZWFVGZ2pXeEIweUl4Z3BxbFUyYnFJelNEa09xcHJiTQ?oc=5",
-   "source": "Voxtrendy",
-   "snippet": "",
-   "date": "2026-10-07T19:10:32+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
    "title": "India, Ghana deepen agricultural partnership with five-year MoU on research, technology transfer",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUlHekZSTU5qbnNwbG42YkQ1UlB5WkJTd2NYWjZpeXUtYk1FOWVrVXo5ci00ME90T2xITmQzSE1CSXlDS012VzJHZzdhLWxWWkpQUy1iWkROSklWODFKdEhfOFRkaFBuNC02MkJUQU9jVzE2X3VDX1JoZXV2bWt6NTA4WnV6YXc3S0syQUtNbjAtOVg4NG9mLXp1SVRGVU9ONkNOejNCZnlGRjNyY2RSU2VEbmJGMWlzZ2RnNGFWQl9udVk?oc=5",
    "source": "DD India",
@@ -274,7 +366,7 @@
   },
   {
    "title": "India and Ghana Sign Historic MoU to Advance Agricultural Research, Education, and Technology Transfer",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1QmZ0RzE5UEIzWVQ5UkJhT1FCZ2tFdFFYQkpKb3BZWjhONEJCai1WTFFFUTR0eXlRUjI1QTBaY1h6VzduVDJ1eHBaM1JGR3pKSWpLLXNnT1U2QVlTLVJRcFNJMzV0R1REVUJpZjdCU2hvVzhuaXR4SllOcEg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPSUw4VGhFOTRRS2dJc2JVSjRUQzhWS2lJSUlCRUNPX3I0T2tET1VuNU9pTlhRMmVaOE1rcDhfWXh0Vlk5LUFwVENFR29CT2ZrS1IyVGR5UEVONmZfZEdiU29EcUc0RnVG?oc=5",
    "source": "PIB",
    "snippet": "",
    "date": "2026-10-07T12:34:00+00:00",
@@ -579,7 +671,7 @@
   },
   {
    "title": "Netlist, Micron Reach Multi-Million-Dollar Patent Licensing Deal",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXc1bHBBQ3hrYy1RQkdNMVFia2t2MFdIRnVsbFI5Y1RiSUgzeWpjam9oM2ROeTgtb0hSSnNjZmZReWlsOWNTOXZpTFF1QjZLNGxYc2ZMaWhsZ0d6cHBFR2ZWcERXcTB4c2RWajdFaXJEZzRXYlJZMndjQXRURGVBRHlxa0J6RVNpeXAycWpkYll6TEVoOFhqb1p1NEZibG40Vmc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSENpWklIa2VEM0dIS2pDOEdVWnNyRy0tTld6Z3pCMHBhR3lnRlhLR2Jra1FJSlFEdGVvUGY2NTc1MUZXMUxVYTdRdjJ0Z3FQZjJZMXE1aTRIa2pVaFF0R0FCQldwSUYwWVRob1ZFR3Bhcjh6THRHbEdzMEQ5Zm5ya0JEU3FtN2R1SlA3TjdfeDFya2hGSXVpeWh0dVdmYlkwcDFGNkhEWlo1QkRONDhJaWdSMGdWdw?oc=5",
    "source": "Bloomberg Law News",
    "snippet": "",
    "date": "2026-10-06T16:14:00+00:00",
@@ -828,7 +920,7 @@
   },
   {
    "title": "Huawei and Qualcomm reach patent licensing deal",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUhvNDUzZWhzay1GUFduS2xjRXFIRG9mVWVxVjR6V2VXY2VNbURqMFltdllhaTVDM1oxYmFHMGpVcDVleWF5X1cwX0lYWnpjaTBzcEZ5c3poVF9LaDczeTNENWlnNl9nTFBrWXdhWk1weHN1WWd2ZmdfeXQ0aE1rWDIxazY3SWJj?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFZJblZqSHp3YWRBQzNFLWxzRENjZTRzQXBDdkREWnZ1Mjh4Qzk3cTYyWm5kdnJBMlhuM3RqbzE3T2xLY3NOU1B3SzFuaHZHY0RlX3FZaXN5SG5TODZzRlU3M2Qta1QwUFg0elVnT3lsbkFCNXp6enhvTXRIWEkyMGpfbGFjaTAtT1cwdWZRRTM?oc=5",
    "source": "TahawulTech.com",
    "snippet": "",
    "date": "2026-10-06T06:35:33+00:00",
@@ -888,16 +980,6 @@
    "tags": [
     "Patents",
     "Licensing"
-   ]
-  },
-  {
-   "title": "Italy PM Meloni seeks EU trademark for her voice amid AI deepfake risks",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUN1cVpEaWpIc1c4aFNYVExKTnhPeGhxNXh5eDRncXN2ZEhndlU5UVpURkY3d2NvellDSWlMZVBjY0xWZWFWZFdjcFVmNDE2S051cXZscjhqMjljVzJoZHVRaHo0VWZINjdEUXVlX0I2eEtBa0FZTWFzTmp4Zi1EMnVLWEtFZTNob1dXVmtIM2RSamVSalVJeWd4d2hteEYzb1BCZHNKeEllZDd1ZE8tNzBBVQ?oc=5",
-   "source": "The Straits Times",
-   "snippet": "",
-   "date": "2026-10-06T03:42:00+00:00",
-   "tags": [
-    "Trademarks & Copyright"
    ]
   },
   {
@@ -971,6 +1053,16 @@
    "tags": [
     "Patents",
     "Licensing"
+   ]
+  },
+  {
+   "title": "Italy PM Meloni seeks EU trademark for her voice amid AI deepfake risks",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2xRcUZHLUJybUdWU0hwNHo4emp6NmhObVNRMlFoVE1oaXJCdXFIZEFYY1MxQ0U2dVNOVkV2b0o3dUpzQVYzSEwySFpHOGRmVnZlaVZxdHY3a256Q2gxcW93UHVNT2lSUUVfVmxZdEtHVk91UFh5MXlXWG54Qm5SaFZVcHF5OWJfSVRYSGs5dzh3TE5ybkVxdUJpM0ZVeU51UlRQYmdLTVVDakl6bXBZM3Jrc18?oc=5",
+   "source": "Reuters",
+   "snippet": "",
+   "date": "2026-10-05T21:09:43+00:00",
+   "tags": [
+    "Trademarks & Copyright"
    ]
   },
   {
@@ -1090,8 +1182,19 @@
    ]
   },
   {
+   "title": "Canada ranks 16th in WIPO innovation index. We can and should do better",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlQ1N1FXb2pDcUNWLXFhZXMyX0FDUkhNeGZtVnFWdnBiTHFhYVZLZElJYkZodEZaZDM5SllXbGUzTHBEVHE0dDFZY2hlZUUxRnNJRUs4TFEwTDRSSWtZUkR6dDVKSnh3bEstZGFxMF9pS3pBVWdBLUdqZVYwYVlBbVE1eWNDSmw4S0dFeGQySDhOSWVyVHFRM25LZHRHYmJYQmdKX3R6a3VJeHQta2dIRkR3TldTUQ?oc=5",
+   "source": "The Hill Times",
+   "snippet": "",
+   "date": "2026-10-05T16:56:51+00:00",
+   "tags": [
+    "Patents",
+    "Policy"
+   ]
+  },
+  {
    "title": "CSIR-IICT Cheers Research To Mark Its 85th Foundation Day",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2ZVc251ZU5SdGJhMGRicXRHVDhHdTkzdldrd2xmMEJid05rdjFDVnhFM251WmtVNFE2UGcxYzhNcVBFeDFSME1KM2QydzFDelEtZ19GM1d2eEpTSGRkcHVIWUY5Qng4bXRJQ3l2WmdpUU5sOXpyRnBvMTlOeU5TUERlWWZVTVRGazB4TEMzZHhEZGJZMmlUN01HVjNiQXUyaFJPeS1XX016cTdVU0ttUGc5M3dQdWZtYnd0Q1FzbTRvSTdZVXfSAcYBQVVfeXFMUENmVXNudWVOUnRiYTBkYnF0R1Q4R3U5M3ZXa3dsZjBCYndOa3YxQ1Z4RTNudVprVTRRNlBnMWM4TXFQRXgxUjBNSjNkMncxQ3pRLWdfRjNXdnhKU0hkZHB1SFlGOUJ4OG10SUN5dlpnaVFObDl6ckZwbzE5TnlOU1BEZVlmVU1URmsweExDM2R4RGRiWTJpVDdNR1YzYkF1MmhST3ktV19NenE3VVNLbVBnOTN3UHVmbWJ3dENRc200b0k3WVV3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR01zRU9xQi16TzM5ZUZnUXdSNmdSa240eVlBQmRsMUdWY01BRk5oMTFITC1LM1NGcGdxWHYyeVZieU16c01QUUFNSHl3V1ZhclFZM0s1Uy1RamxSU1o5YmF5VGdfamhCUVZaLUR2S2tuN1NlTUtMalg4QmFsWHRYWlJtQ2Z3UksxNmV0YzBLZjlYbjZaSlh4RmRWcUdJeTI3bm83VWZMMmN2WTlMNDExem5kbmFUR1E1YWRIYmg4clDSAcYBQVVfeXFMUENmVXNudWVOUnRiYTBkYnF0R1Q4R3U5M3ZXa3dsZjBCYndOa3YxQ1Z4RTNudVprVTRRNlBnMWM4TXFQRXgxUjBNSjNkMncxQ3pRLWdfRjNXdnhKU0hkZHB1SFlGOUJ4OG10SUN5dlpnaVFObDl6ckZwbzE5TnlOU1BEZVlmVU1URmsweExDM2R4RGRiWTJpVDdNR1YzYkF1MmhST3ktV19NenE3VVNLbVBnOTN3UHVmbWJ3dENRc200b0k3WVV3?oc=5",
    "source": "Deccan Chronicle",
    "snippet": "",
    "date": "2026-10-05T16:34:00+00:00",
@@ -1108,6 +1211,16 @@
    "tags": [
     "Patents",
     "Policy"
+   ]
+  },
+  {
+   "title": "DOE Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUx3Mm0yMFc1cXAyRkVoMVFIYzQyZVE3U3RTLVJkd1lzakRNMDRqT3JRUzFXZ1pLekUxRVJudXphZURnRTJKS3JTWVdnbVU4WjhzdXdPbk1TbFZIOHBPTFAxclpBeWxaTTFBVlRnVnVnbWt6SEtfTGlnOUpER1RFdC1XZjVaSm1QTDlQSHBxdVFYS2tFRV93SjVhbmc1TEVWY0NSZVlTOFctMHFicU51X0tIUQ?oc=5",
+   "source": "Department of Energy (.gov)",
+   "snippet": "",
+   "date": "2026-10-05T15:48:55+00:00",
+   "tags": [
+    "Tech Transfer"
    ]
   },
   {
@@ -1579,6 +1692,17 @@
    ]
   },
   {
+   "title": "Korean biopharma drives APAC deals as technology transfers dominate",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYTBvYThNTW9MNzE1OTdOaXJMRjMwYXRWbjRfWHhrYUF3WXV6NDFxcGo2SDNEUU1iczl5VTdSdThlSDNhTUtwcnFyWllYWXN2cTZBYko5SWx6bXgzMl9jUE5Eb29pdHk3Zl82N0FIc2pfX1FqWVVJcW50NFZCanQ0bQ?oc=5",
+   "source": "Chosunbiz",
+   "snippet": "",
+   "date": "2026-10-05T02:11:00+00:00",
+   "tags": [
+    "Licensing",
+    "Tech Transfer"
+   ]
+  },
+  {
    "title": "CSIR-NIScPR Leverages SARAL AI to Take Scientific Research to Wider Audiences",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FZHB0dGd1OWp6QUNoS1IyVXYtRHFVR3R0TjFiNWVCN1l0ZGxpYmlKLTRTSmpUSUY4Z1FhZVN1MEtyeUlHd2FzOGZkRjBtMV82RVNwQVVEWElweHE0N19VSkZYSUlxVTRnN21MZF8zX3ktV3hKZUtCMTAtb1hfdw?oc=5",
    "source": "PIB",
@@ -1745,16 +1869,6 @@
   {
    "title": "Keralam and Rajasthan Media Delegation Explore Key Health Research Achievements of ICMR-NIHR",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzQkNtT3M4UGcweXBSMU13cGg1dWlxdFFZU2RESHlpMnMydFVOTGJHUWNBMWJnRGZjYlpLY1lGZnZ4NVB5LS1PMzhYeWwzY0tqMGZzVEJOMlg2dnIwS29WblRaOU9RSjNSOHpWcmFtVkRNZWh4MkU0M1BzVWdWdw?oc=5",
-   "source": "PIB",
-   "snippet": "",
-   "date": "2026-10-03T12:10:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "MC²+ to Launch Dedicated Co-working Space and Innovation Node at NRL Centre, Guwahati Tomorrow",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wa1VjazZpRHp2TGZXZGZ3VldmZGg5VUFZZnlaWDNKNURGUWpTcmNjUklWVHM2cmN1bmkya2JxOXZHSmlLQkhwbWZvSEVFdXkxN1dNOXdUYV9WV0s2cHgtaVFFVXRqSkVrX0kzekhIcDM4X3MyN1pRZjNWc0VuQQ?oc=5",
    "source": "PIB",
    "snippet": "",
    "date": "2026-10-03T12:10:00+00:00",
@@ -2346,10 +2460,10 @@
   },
   {
    "title": "Govt sanctions Rs 1,600 Cr for 41 Pharma and MedTech innovation projects under first round of PRIP",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1JidVZUVFNuN1ViQ2NrNFMzZS0ybU50RV85STlsUE95UFRveEYzNU9qWjZhb2FPYjVuV1RENkR6TnQwT0pwQkN1Wm9KUUVjZzFaakxRV1dJSlhUbEw4dzRDVF9BdDIzX3Q5TnZCaG5fTGlyY0lQSGRnaE5fRjJtRHRsX01nLVVEUjhLTEx6MktYR3BYWVZHdVBENTE0Y1R6eERHZjkwVEU1aEtQR0pHeGdUa1hGbGxHZUpfYmoyYlhOWExsN1FmZmpuNFRhRWZDeE5tclQwb2t4MWlicGdrMXNGRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15OEY4cV9RbXBhZUpTY0RyUU56SDU0Q0hmYnpXTE9jeURlWTF5YjY4NHlOSnQwazdfbjZpenp1aEludnI5NTQ0bHoyYjlibjU3MUZWLVppYjBaTFQ0dmRR?oc=5",
    "source": "BioSpectrum India",
    "snippet": "",
-   "date": "2026-09-30T18:02:59+00:00",
+   "date": "2026-09-30T18:22:46+00:00",
    "tags": [
     "General"
    ]
@@ -2395,6 +2509,16 @@
    "date": "2026-09-29T18:46:59+00:00",
    "tags": [
     "Patents"
+   ]
+  },
+  {
+   "title": "MC²+ to Launch Dedicated Co-working Space and Innovation Node at NRL Centre, Guwahati Tomorrow",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXRDFLNzhtalBQTUZmeWFubEhPV3FIazROMXNDUkhyZFJFam5KMzkwMzBCbHI4WENDWjRua0E3SWJOUXNfQ0diZ2Jjc2x2NkdsTjcwQUEwd21DTEFTRk5La0FkdXhhakJDR0hkUWtPLWdvaDkwVE5oN2t2bl90QQ?oc=5",
+   "source": "PIB",
+   "snippet": "",
+   "date": "2026-09-29T15:20:34+00:00",
+   "tags": [
+    "General"
    ]
   },
   {

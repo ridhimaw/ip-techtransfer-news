@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-08T13:35:16.179355+00:00",
+ "updated": "2026-10-08T23:23:34.915522+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,10 +12,103 @@
  ],
  "items": [
   {
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "source": "TechCrunch Startups",
+   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+   "date": "2026-10-08T18:19:45+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+   "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+   "source": "TechCrunch Startups",
+   "snippet": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing,…",
+   "date": "2026-10-08T16:45:00+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "NABVENTURES Marks First Close Of ₹1,500 Cr Fund At ₹450 Cr",
+   "link": "https://inc42.com/buzz/nabventures-marks-first-close-of-%e2%82%b91500-cr-fund-at-%e2%82%b9450-cr/",
+   "source": "Inc42",
+   "snippet": "NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has announced the first close…",
+   "date": "2026-10-08T15:31:01+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Nearly half of India’s startup ecosystem report low wellbeing; employees fare the worst: Study",
+   "link": "https://yourstory.com/2026/10/india-startup-ecosystem-low-wellbeing-employees-study",
+   "source": "YourStory",
+   "snippet": "According to the State of Mind: The Startup Ecosystem study, more employees scored at or below the wellbeing threshold, compared to investors, ecosystem supporters, and founders.",
+   "date": "2026-10-08T14:47:06+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
+   "title": "AI will fuel another wave of startup creation in two years: AWS Ventures chief",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdVVBaUFIRlNRQ2xEbTlmSl9wUS1xZDE1TjRrbTAwVjVEUkVmRW51aFlldXp3TV9yZTVYNHNYRm9SZzlNWHhKc3MxX0Itd01DMGNFSTNyb0V2cnZCY3lEWExnc3dCMWZqNlVqNDBHT2JXb0V6Wkd5YW5zWHQybHROcXZqS2RocUplcmFhQkhpZ0RsVDhPQmlFYmZLRm9GWFdYQnY5TGFKN2o3MWtpbXlFekZuVTd1WkZ1MWdiU1ZnN3dwNGhEYWtDSkJla2hkY0VzcXdoYzFZTjZlZXRPLTFoVXpqRGQzcDF3V0o4V9IB5gFBVV95cUxQNDZYS080X29LM2hueEpwanBDTTBoRmtwOE1JX0pyR1ZQYTZFcnN6ZUZZTjFDSGhBbzN4VS0wMU1IeHZKY0RmNG5ydEowWHh3b0JqWFlteGN2a2paYXpGMTRQd1p4cVFQNUN5dEtMNHl1WVdPME9UWmRzREN0WkZIRUNqbExoUVBQcjhwaEUxTjJCR0xXSER0Y0VydHpwZEVBVmhKV1hVUmI0eEZBYjlId0NJMEtzWmdyYUpaSXh1OEUxRUNUV0NVNkhhbDRyMVBMb3BHWmh1QzdJdjZSbmVRZFBPcUM3dw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-08T14:41:58+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "The complete Side Events lineup at Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
+   "source": "TechCrunch Startups",
+   "snippet": "Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode with energy — and the real magic kicks off with an epic lineup of Side Events lighting up the city from November 3–6!",
+   "date": "2026-10-08T14:00:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+   "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+   "source": "TechCrunch Startups",
+   "snippet": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+   "date": "2026-10-08T14:00:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "D2C startup DailyObjects raises Rs 332 crore from Xponentia, Anicut and Axiom",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaC1yMlhBUGlQX0c0OFlKNHFPQ21RNU9SVUdBeFIwdm9PVzU3eGRmbTJOdzVQRlFDQkU1VG5JVU12SnAwMHhNcjJvV3pWZmFGS0lraUxFNnJPcXBoeDFMUmRfejFJTE1VSk8xcUxfaXNpaU1ES2g2WHB1SmRtd3lHZGFTOENualJxZDZHZFFzalJKNGF6aDdhTFNsZ25kNnNVSEVqOEtsZGJXMkcwOTk4eFhUX1d6WHB6SEtGMGtZVk9iQkIzQ19hWDdLOFl1XzJ4U2V6ZHlPcmPSAd4BQVVfeXFMTjJaQ0tHcVMxdm5QSjkwNDd4ME45d2FKeXVTSXBlWGdoZ2dWMTJTY0pQQnhhSnNPWWxacklSekJLSzBoa0JTQzQwZ05yM1FPVWE3R2xXWXlSNlpLSXY4bXhockdoZzd5X2FtR01sSXFIeU8xM3E0UVpsa2E0Q19tMmtrcm1pVURONmVocWhoRWN1bXdEOVNOMm1wTVNDOHA4UmVpUE5ZQUxUSWJ5UUJhd200WWdMWXl2N050Vkk0UTNzeGpmcnozVERGcnJwYW1yVHlnUEJzekJCZWdYc01R?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-08T13:58:55+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "DailyObjects raises Rs 332 Cr in Series C funding round",
+   "link": "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round",
+   "source": "YourStory",
+   "snippet": "The design-led lifestyle-tech brand will use the funding for retail expansion, R&D, brand building, and possible international expansion.",
+   "date": "2026-10-08T13:40:03+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
    "source": "TechCrunch Startups",
-   "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+   "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
    "date": "2026-10-08T13:20:32+00:00",
    "tags": [
     "Funding"
@@ -27,6 +120,26 @@
    "source": "The Economic Times",
    "snippet": "",
    "date": "2026-10-08T13:19:55+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Zinara, Better Nutrition, MoneyTruVa pocket early-stage funding",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUNicjFfTkN4bTN4VXp4TVJEY1g0UktONllzTTA1NXRNTWxzaWprUGpsNVNVMWl0d0NJM0JqQUNadFU2NndiUzFCNktSZkVaQnV4MGs1MWlTeGJ5Mk9CVWt0Sm5FYmFPUW5TSTJIU1lYUFRoZUNlRnBTSDc5cW1mODZnZEhBZmpWcjdpeS1B?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-08T13:14:28+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Xponentia, others bet on DailyObjects as Roots Ventures logs partial exit",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWUxT2VYdGh5b0pkeUtqUjkwQjU5VVFVSktRclljN2ZsM0d2TkplbW1BdGJmbDVJR3oxOGl1X1Vkd3FHVGhrLTlPdEVoWF9RMzZtc1d5LTdwQ2NWaTFNX0hiMW1WOXcxQjJSMzdmYThSemVTa1ZmQmRvUTg2Yzd0MlY4TGZkWndiUEl0eVJLbm5rZVpheGZKVEFrVFg?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-08T13:04:04+00:00",
    "tags": [
     "General"
    ]
@@ -73,7 +186,7 @@
   },
   {
    "title": "Karnataka invites startups to solve AI-based citizen services, water challenges; offers work orders up to...",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeHRNUUlNWW9tMExCZk5CbFVXenNuYVA4eHUyRUJjLV9Za05EYlFmLUJDY19pdm5hdXlKbVpiRFFwMXFkVHF3N3lSd01NN1I0bmQ0TTFvOXFZeXpFTTBFbXhrTjQ3d084NmJkT2ppRGtFZWZLSXV1SUYwdnVWX1A0bEtYcUgzUS1acS1fbnRKOXFLX3N0MWttZnNnWnMtbjJFdUQ2V0ZFTHVoZUdaZGt3M2Z0a0ZoQTAtT0ZWa0lKSTBGclBVa1pNNm5RT0ZfRWlHazVLY3c2X1hTdV9rc1JxQTdZZm1DWkZWN3NfMWYtRVBOVk1yelZLa3dzSzPSAYICQVVfeXFMTmZrVWQ1ZEJhb1JNTEdTMWxEOTMyTi1zMDA2bzhCN2hxOFFkMFVTRzMzVnM1TC1FOEVlVWkwWmVBcTBVSWZPMWtnYnk4QVBTMHZZaEc1eWY2M0dQcUFvLVVfbDBQa2VXLW1UTXNoOV9teHMxaXNJMDZvMVhTOC1xQUs2UkRPOExDdW9NVVl4bWtxeEt4Uk5telRFOGllOHA3T3Fwb1lHT2FjamZzbzBaVnZOZGQwYXlUaXpTSjVlWllhMGJkVW9aNjZnZmJhV1kyTk9NRDZ4YWlIcmtmQnFkTmRmb25YRWJUSERLcVFlSENZNGZxUVBZdDN3SHF6SDlEUDVB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZmtVZDVkQmFvUk1MR1MxbEQ5MzJOLXMwMDZvOEI3aHE4UWQwVVNHMzNWczVMLUU4RWVVaTBaZUFxMFVJZk8xa2dieThBUFMwdlloRzV5ZjYzR1BxQW8tVV9sMFBrZVctbVRNc2g5X214czFpc0kwNm8xWFM4LXFBSzZSRE84TEN1b01VWXhta3F4S3hSTm16VEU4aWU4cDdPcXBvWUdPYWNqZnNvMFpWdk5kZDBheVRpelNKNWVaWWEwYmRVb1o2NmdmYmFXWTJOT01ENnhhaUhya2ZCcWROZGZvblhFYlRIREtxUWVIQ1k0ZnFRUFl0M3dIcXpIOURQNUHSAYICQVVfeXFMTmZrVWQ1ZEJhb1JNTEdTMWxEOTMyTi1zMDA2bzhCN2hxOFFkMFVTRzMzVnM1TC1FOEVlVWkwWmVBcTBVSWZPMWtnYnk4QVBTMHZZaEc1eWY2M0dQcUFvLVVfbDBQa2VXLW1UTXNoOV9teHMxaXNJMDZvMVhTOC1xQUs2UkRPOExDdW9NVVl4bWtxeEt4Uk5telRFOGllOHA3T3Fwb1lHT2FjamZzbzBaVnZOZGQwYXlUaXpTSjVlWllhMGJkVW9aNjZnZmJhV1kyTk9NRDZ4YWlIcmtmQnFkTmRmb25YRWJUSERLcVFlSENZNGZxUVBZdDN3SHF6SDlEUDVB?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-10-08T12:06:47+00:00",
@@ -114,7 +227,7 @@
   },
   {
    "title": "AI startup Manus secures over $500 million funding as it resumes independent operations",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzJDcDdCeWVLLWZHSXA5N0ljZVItVGZ0Rlo1R2xTNXR3alo0Y2pCcE5pVS1FUUJ5TWZtX3RNbHZ1ekJPdkFpUnNzUE5JVS1DenhQX0VhRGZzSlZDdGZ2RjFmTGxEbjhhdW9yc3RfZnJlTHZtZVhWY1BRdlpLY0d5VklZZWtMY1dQRUdnbzdnVk5yMXBfVXVyUHotNERWeGliM0xUemZ3RzhBV1RDZFlnLXdOX1ZiZlkyMmsyVGFjQzdZYV83dFJFellBTWFwbTg5aThEUkhSdGNDMFYzSnMwdjVYWk93RDNQcmR6QVVZc9IB7wFBVV95cUxOTzJDcDdCeWVLLWZHSXA5N0ljZVItVGZ0Rlo1R2xTNXR3alo0Y2pCcE5pVS1FUUJ5TWZtX3RNbHZ1ekJPdkFpUnNzUE5JVS1DenhQX0VhRGZzSlZDdGZ2RjFmTGxEbjhhdW9yc3RfZnJlTHZtZVhWY1BRdlpLY0d5VklZZWtMY1dQRUdnbzdnVk5yMXBfVXVyUHotNERWeGliM0xUemZ3RzhBV1RDZFlnLXdOX1ZiZlkyMmsyVGFjQzdZYV83dFJFellBTWFwbTg5aThEUkhSdGNDMFYzSnMwdjVYWk93RDNQcmR6QVVZcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVHI4YWQtbWpvSXRZYkRTSFltRUthNHVpb0c4WDdLa1Y3M1RNN0JUMXJrVThMaVRFSjBSbjRzeDM4aWVUWUMtb0xCZkdPMlltQUtvOFFCdlNEazJsVi1YZklIb2FoYmRaTlUwMUY2RVJHVTBiRUU2YklmcnpocmV2TVZCOGtTX0o1cWxHZ1hOelYwNVpTN1FJcXVxSUdGVTBTSlFYbjlSR3gyT0YtY2ZKNzUzbGU4aEFxRnBuNVhXS1JJelV2OHFOX0FXNG9FUUZzYWZLanlBUkZ3TWduSWp5a0NFVGg2R3FBUUZWNzc2VG5mY1BGRmVJU1E2dm94bG9WUDhwaW9FUnYwSFNwV2g0d2g0TnhBdFJrSktJQ1c2dUJJSHfSAe8BQVVfeXFMTk8yQ3A3QnllSy1mR0lwOTdJY2VSLVRmdEZaNUdsUzV0d2paNGNqQnBOaVUtRVFCeU1mbV90TWx2dXpCT3ZBaVJzc1BOSVUtQ3p4UF9FYURmc0pWQ3RmdkYxZkxsRG44YXVvcnN0X2ZyZUx2bWVYVmNQUXZaS2NHeVZJWWVrTGNXUEVHZ283Z1ZOcjFwX1V1clB6LTREVnhpYjNMVHpmd0c4QVdUQ2RZZy13Tl9WYmZZMjJrMlRhY0M3WWFfN3RSRXpZQU1hcG04OWk4RFJIUnRjQzBWM0pzMHY1WFpPd0QzUHJkekFVWXM?oc=5",
    "source": "ET CIO",
    "snippet": "",
    "date": "2026-10-08T11:30:00+00:00",
@@ -144,6 +257,16 @@
    ]
   },
   {
+   "title": "Anthropic offers Indian startups up to $7,000 in Claude credits",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUnZreDRpV0NybWpQLVkydWJidjlURXFKNzNGVkRTOTlPVHZpQ0E2SW5WSElxdmp6eWZlbjBpN2NvWUNRRWI0cE1qRjNxTXVVbFU2UEdwWHRTdG5MdDhfNE9pUTdFVXU3dk5mb1dlU3piYnJwNFhkY2d0bWJzbVFTdXpUOUZ3UXhjd0dJUnVBYUdKeS1jbGk1bHBWLTgzSWFVeV9jb2dFa1NTX3kwN243Zk5YQXFpT1NWbF9INTR2VlJHd2FhVGVQNl8yU3F6d9IBzgFBVV95cUxOUnZreDRpV0NybWpQLVkydWJidjlURXFKNzNGVkRTOTlPVHZpQ0E2SW5WSElxdmp6eWZlbjBpN2NvWUNRRWI0cE1qRjNxTXVVbFU2UEdwWHRTdG5MdDhfNE9pUTdFVXU3dk5mb1dlU3piYnJwNFhkY2d0bWJzbVFTdXpUOUZ3UXhjd0dJUnVBYUdKeS1jbGk1bHBWLTgzSWFVeV9jb2dFa1NTX3kwN243Zk5YQXFpT1NWbF9INTR2VlJHd2FhVGVQNl8yU3F6dw?oc=5",
+   "source": "ET Entrepreneur",
+   "snippet": "",
+   "date": "2026-10-08T08:49:34+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "Startup news and updates: daily roundup (October 8, 2026)",
    "link": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-8-2026",
    "source": "YourStory",
@@ -165,7 +288,7 @@
   },
   {
    "title": "Startup employees report lowest wellbeing, study finds",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2YwY0RqX1ZuWGJ0bVQ4bzR1cXFlYmxQOTc5eVdLZmVkTXdKWGl3NVpEQ0l2NkRfMnBRUXczVUw4Y1ZjYndpVDY3a3hhVjEyMVFtZzlKRjBpN2gxdmxJcGJ2cnhQaG9BdTB6cXhscGxCRHc3aU1iVjJ4RThkdVI2YzVSM1BOSnphekNiNDRwZUFXMVFwZGp1c0I4NjlLZEFYQnNoMnZaRUxJTjZjNHNWNlItS1E0Wi1zOUdqRW81bFFrN2ZIa216aFhjSlZlRlJhZHBhLUwwRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2YwY0RqX1ZuWGJ0bVQ4bzR1cXFlYmxQOTc5eVdLZmVkTXdKWGl3NVpEQ0l2NkRfMnBRUXczVUw4Y1ZjYndpVDY3a3hhVjEyMVFtZzlKRjBpN2gxdmxJcGJ2cnhQaG9BdTB6cXhscGxCRHc3aU1iVjJ4RThkdVI2YzVSM1BOSnphekNiNDRwZUFXMVFwZGp1c0I4NjlLZEFYQnNoMnZaRUxJTjZjNHNWNlItS1E0Wi1zOUdqRW81bFFrN2ZIa216aFhjSlZlRlJhZHBhLUwwRdIB0AFBVV95cUxQNjFoR3F2VW1kYVhMR0ktRDJkQm51QS1KeEZCdUhDeFhIWTU4YVBSR2U1XzdpbnI1STc3S1JrcUxYTEdyMXBPTk81XzFtWDhFN0ZKY3U4VVhMNjBnczZvdTBzR1k1Tnd1RUhUSXBSWFdHSExtYThxcG0tT1BNdXduTU9vcHBpS2pNaXQ3T2ZiX25TbEE0Mmxya3gtajRtdFlHZXpBOHFyUzZDdjItM3pmSTNsQ0p2YUlRTUpEd3lxRnJNaEZnU1A5TF8zUlJkUzVu?oc=5",
    "source": "The Economic Times",
    "snippet": "",
    "date": "2026-10-08T07:45:26+00:00",
@@ -226,6 +349,16 @@
   },
   {
    "title": "DeepSeek doubles funding target to $15 billion ahead of 2027 IPO: Who has committed and where will the money go?",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORDJfWW9BajZhN2NZMEgxTmpDbWwzODhGNEtZMXJCTU9qMmE0NHpuelhfbXluOFJLcFVhSmpHd2pWdWZrNXlhLU0zNmVpaEdCbmgtYnRRU0RWWXI4UEV4bjl4eXhuSzJnT2tOaXZWU1A3eGlSX1JwZTNoNjJjOW54WmIxRF9UVUEtTkNCN0VYMXFCVHpRUEFQN284clpuUkRIcWxVMEdobk1RZnp6aDBrcExUekhBQU5FQ1cwS2JRNHhuRklsSjhmYU9tWjNXbnBwS19hT1FrYjVfSng3QjFhNjdyLTAxQ0lxbmhjNHhKUXZFUUk3MWIzY2FhYlFLZ29kempua21BVDVMYjZTZkHSAZMCQVVfeXFMTWtHYWZxNDJ4N0ROVC03YU1DR2hzb01LNHNWd09uWnR5MlVzZVdpWXNzMUlRNE80S2tPRFVBaG1lUU9jclJnWGlyUHpUNWhXSGpuUVFOZVpPSVowU2pWMHkzNG9yb19ucHQ5RlZkeDZ6djZlRjRfdzNoTkRoREtEMU93V25lS3MtaEVidG4xVFBibzczUHJtWlRZYU1qYmxldmZnWVlEYlhxUElDMEFVdDVtMGpJOWVUZHZkaEl6WWFTRi1IbHhPUEtRTHl1c2VjZ2hRUVdfTk5nMDJPUlE5Z0JOYjk0bDJ5Rm9sd1E5YUE3b3ExdGNtcGZyNm9TbE9MZzBiYjZrek1tQWtSVk1EeGRielk?oc=5",
+   "source": "Livemint",
+   "snippet": "",
+   "date": "2026-10-08T01:20:37+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "DeepSeek doubles funding target to $15 billion ahead of 2027 IPO: Who has committed, where will money go?",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORDJfWW9BajZhN2NZMEgxTmpDbWwzODhGNEtZMXJCTU9qMmE0NHpuelhfbXluOFJLcFVhSmpHd2pWdWZrNXlhLU0zNmVpaEdCbmgtYnRRU0RWWXI4UEV4bjl4eXhuSzJnT2tOaXZWU1A3eGlSX1JwZTNoNjJjOW54WmIxRF9UVUEtTkNCN0VYMXFCVHpRUEFQN284clpuUkRIcWxVMEdobk1RZnp6aDBrcExUekhBQU5FQ1cwS2JRNHhuRklsSjhmYU9tWjNXbnBwS19hT1FrYjVfSng3QjFhNjdyLTAxQ0lxbmhjNHhKUXZFUUk3MWIzY2FhYlFLZ29kempua21BVDVMYjZTZkHSAZMCQVVfeXFMTWtHYWZxNDJ4N0ROVC03YU1DR2hzb01LNHNWd09uWnR5MlVzZVdpWXNzMUlRNE80S2tPRFVBaG1lUU9jclJnWGlyUHpUNWhXSGpuUVFOZVpPSVowU2pWMHkzNG9yb19ucHQ5RlZkeDZ6djZlRjRfdzNoTkRoREtEMU93V25lS3MtaEVidG4xVFBibzczUHJtWlRZYU1qYmxldmZnWVlEYlhxUElDMEFVdDVtMGpJOWVUZHZkaEl6WWFTRi1IbHhPUEtRTHl1c2VjZ2hRUVdfTk5nMDJPUlE5Z0JOYjk0bDJ5Rm9sd1E5YUE3b3ExdGNtcGZyNm9TbE9MZzBiYjZrek1tQWtSVk1EeGRielk?oc=5",
    "source": "Livemint",
    "snippet": "",
@@ -499,6 +632,17 @@
    ]
   },
   {
+   "title": "RBI raises rates for first time in nearly four years, signals further tightening",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGNpU3Y0TnFSaU1oemdfWFZIYWw0VW1vWWhGUjlCZUs1aTR2aTRzaXpEeVVtTEhtbDR0TWVtYVlLT3hDTk9qaHhaVDlmTlVoZmgxb3pVWEU0YTJTMlNvMl9pcm10bEtZY2Nia0dqbGtzejYyUk1TSk9sdlV3cGwwaC0wcDAtVzZOY0ZYUkZtODRWWnVleE9PYmFwM2J6eEZpOUt4NVhB?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-07T07:42:35+00:00",
+   "tags": [
+    "Funding",
+    "Policy"
+   ]
+  },
+  {
    "title": "Wealthtech startup Zomint raises Rs 36 crore from Lightspeed, Prime Venture Partners",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdUZ0cmdzZjlYNDAyWU5nT2h1QnZCYzVQeXdjTjYydHVZaXV3dnJjQ21DZE5YdVdwMDdBcnNSY2xvUXkxdXFQVHlsLS1DWWxERnBKQVRRd0JNS0tyb19oS0NGOFQxaFJZel91cGhZTVl1cEdyUHI4X0pLbzNCZkl2R0RLTk9WYjdUcWpHTjJXMGs1bTdFc2hQVTVPWld6MFZjS3pQaGk3Z1UyUDRSSVpjRFJjTlg5bmU4UFBDNE90UnNzX0VuamsyTklReFBrdThIQlEweHVSRWxiMjQwSWw4VlJsQkFsTmU0SHNpX0xSRjREd9IB6wFBVV95cUxPNWNKVDZqX1V4WkJ3cm9CNHhBZDlnYjdpaG1RQ1J2NHJwRUM1RUVwRERlMzlXbmNleTl5R3R5MnN0eG9GTGdGOTZWb01RMlc0VEpvMGpfQWZlZ19wcDY4eEQ3S29VQ1NiNkt4NmpuRDhnUS1YNjFRN2VyUWlZTVpYUXRyR3NwMG8zZEkxS1k0X2tHTENlbldZam4wcG5GYVNUbDZBbHBmbHVnTDN1SE9RWC16eUp6cmIwbTNjei1uN2FpYkh6NjZ6cVNZTkkwalZLMkc3Sk1xN0tWSk9QeUwwWF9DQ3lqckwxcHdv?oc=5",
    "source": "The Economic Times",
@@ -605,17 +749,6 @@
     "Funding",
     "Deep Tech",
     "India"
-   ]
-  },
-  {
-   "title": "RBI raises rates for first time in nearly four years, signals further tightening",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGNpU3Y0TnFSaU1oemdfWFZIYWw0VW1vWWhGUjlCZUs1aTR2aTRzaXpEeVVtTEhtbDR0TWVtYVlLT3hDTk9qaHhaVDlmTlVoZmgxb3pVWEU0YTJTMlNvMl9pcm10bEtZY2Nia0dqbGtzejYyUk1TSk9sdlV3cGwwaC0wcDAtVzZOY0ZYUkZtODRWWnVleE9PYmFwM2J6eEZpOUt4NVhB?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-07T05:22:41+00:00",
-   "tags": [
-    "Funding",
-    "Policy"
    ]
   },
   {
@@ -1137,6 +1270,16 @@
    ]
   },
   {
+   "title": "Menlo Ventures backs Factory in bid to automate the entire software lifecycle",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM2M3b3c5bE5MTDlQd0w0MFFYYjBOMThUTFFGREYzNkRYaXdGQWI0bXlGOEdPQ2J6V0JqMHF1RHV2UjF3Z1k1UHU5S2tmLWJ4ekVQSWNYS3A3QnZ3Y3BHcDVCUndxSzkyWnQyQ2dtVTlvRm1UUmpxd2RKS2tWRXpyQWJKQzJEN09CYUY4RXpmeTl0cnFiVXZieGxRTTFZOE4tSDhvQU1GZGI2X2Y5UHJEUUd4WkY4a1k1Uy14cFhhR1hJREZBT3JKb2tUVk5xZmthYkJqN3ZEQ09KY0dPREI4Ni1IV196WGNsdWfSAeMBQVVfeXFMTlVSbHMxZGp3RmdGREJObUlNbmFMdWNrblBjX1oyQkVLckx0VTdlVHFrUlhiRnJ0S0h3OTBOcTBscThDWV9YNzZEb0FKajVPYXJHQS13OENkU2tNcUNVTEszQ01jZFFqRFBOekdXM3ROeDV2LXNxbXdUTUJqQTBzMEpjMnByMm1NQkpJT18tMzV2Q1B6Um9iMTMxSEtIbGdxY05VbENtSWZudzEtTXhjMVNXSExpWnJuQjVoUXhHS0RtaVBSSVlLMU9JblVBVUlUV29GNFBRdEV4TVVlaV80el9ZWVE?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-05T19:19:27+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Funding|Financial News|Funding news |Latest Funding News India|Angel Funds for India",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54Z2FBZE84ck5RVEd4QjBCZ3JLbHhXTG9IaGxkNjYzNmRNNERld09hSDc1MXVYUHhiWmZ2Sk04TXRUQVFLVHUtdDdXVDY5UW1ZWWkxUHVKdEhZTm9BTkFHUDR3?oc=5",
    "source": "VCCircle",
@@ -1312,6 +1455,16 @@
    ]
   },
   {
+   "title": "Tech News | Startup News | Funding | IT | Crypto",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3IzVERMSnpXVEpxZWdEekc4T2dxOG82ZnAyVWc1OFRabHNCVFlfVWF4aXg3MkhtUjZvZ1FLWGlucl92azRTUVlDczVxLXBxWnNHWXpONDUtNG5GeHRlTDNBVzNOMi1mMk50U2NmRGZQMDdJVjdwUjlLeFJkT0I3Nm9rdFNQRDhsLUFYSmwzY2pmdmdtdkFDOEJPNDdreVQ3aWxlNTExdEdxQmhFRzRnOEdfLWNlTnF4SnFDcjRB?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-04T00:37:48+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
    "title": "‘Next year could be bad’: Zerodha co-founder Nikhil Kamath endorses grave warning for startup funding",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObW9YajBEWVlTUHd5SzN2dGViTEVqWFVJcXpGaTE3clp1QzRpUEtXLVlGNTlMUk1CU0xVdzJzUWdTQk95REMtczFoVE5kdDZUeVJWMk5wdDJjX2lkU1BkLVBWSVZmaVlYYTlMQ0JPRWw1a0Z4ZXFzcHNSYkFHTUVCaVdMMmNqUDJxVWdEM0xiTS1feXFvV0lReW1MZk92SDhNb2M5R3dLcG9VZG9HZGNFa2dOdTNwNTVCNmdwMGtlZEd5V09ZSlB3QVNRNTFHSE9FalIyR3F0RGN4UkZfaUVZX0pfWGdsNTR5bXU40gHwAUFVX3lxTE1Udko4UGx3U2xyWTl6S3FEU1pvT0hoamstNEJUVDE0ZnpRdW1nWHN2LURQRDNWMGw0bkVuaVlKd1JyR2ZEWFpMdWlrTzhJRzNlczB2VlFfallmR3hwdFlJSm5OdEtNU3Z2RXJ0Yk9jQ1Qzd2EtMGJfajVpSGw0dDE0ajhxTkNwU0NvWlo5QzJJR0pWWVNrZ0VxZkZEUEZNM3ZGenZEV0ZhX3N0WE1RLXBwWlBrMXNKNEFDVjR5OUluLWxjbHQ3Z2tjQ240S2RIQ3NDMEs0M3F6d2sxaUF2YnhvbjdwZFZWNlNHNWxIakFnaA?oc=5",
    "source": "Livemint",
@@ -1360,16 +1513,6 @@
    "tags": [
     "Funding",
     "India"
-   ]
-  },
-  {
-   "title": "Tech News | Startup News | Funding | IT | Crypto",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGdRWUFHR0NudHZEY2hXMTAzNklRdndsY0xqSnZRc1pMYU55M0x4RWdSVWlvc01INVlXYkktYm1LSWpiLUxubF8tbVExTENrQkJacXBwRmZJYXcwNUVEN0JiRGlraXV3aWlYUlpRcUhvUllkM3dSX0ZieGlTUUNBalJuZkwxbWtsMTBB?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-03T01:07:10+00:00",
-   "tags": [
-    "Funding"
    ]
   },
   {
@@ -1622,7 +1765,7 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOThZOHgtUVBkaWJoQ055TFhYamlwdks2MmpKc25lSnpLSzZyZTJuUTg5TzlwMHdic2NhRlpwTGlHd1FQUE1BMXMyTXZVTGpKY2czTTNJZHdralZMS1FuVVdfWGV2SG5rMmVxSDBBeWlPX3lraEFaWmM0REx4MEhTRGNMYThHZFY5aEpaRGUxQVl5emhXTHJUYi1aT1pXNUhOdEZqQmFkUG04NWZlTEhndkFkVDJ2MWc?oc=5",
    "source": "Pragativadi",
    "snippet": "",
-   "date": "2026-09-26T17:08:47+00:00",
+   "date": "2026-09-26T07:00:00+00:00",
    "tags": [
     "Incubators & Programs"
    ]
