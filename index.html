@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IP & Tech Transfer Pulse</title>
+<meta name="description" content="Auto-updated news on patents, licensing, innovation policy and technology transfer.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f7f6f2; --card: #ffffff; --ink: #1c1f26; --muted: #646b78;
+    --line: #e4e2db; --accent: #1f5f8b; --accent-soft: #e3eef6; --chip: #efede6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12151a; --card: #1a1e25; --ink: #e9eaee; --muted: #9aa1ad;
+      --line: #2a303a; --accent: #6fb3e0; --accent-soft: #1d2f3d; --chip: #232832;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 16px/1.55 Inter, system-ui, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+  header { padding: 48px 0 20px; border-bottom: 1px solid var(--line); }
+  .kicker { font-size: 13px; font-weight: 600; letter-spacing: .08em;
+            text-transform: uppercase; color: var(--accent); }
+  h1 { font-family: Fraunces, Georgia, serif; font-size: clamp(30px, 6vw, 44px);
+       line-height: 1.1; margin: 8px 0 10px; }
+  .tagline { color: var(--muted); margin: 0; }
+  .updated { color: var(--muted); font-size: 13px; margin-top: 14px; }
+  .controls { position: sticky; top: 0; z-index: 5; background: var(--bg);
+              padding: 14px 0 10px; border-bottom: 1px solid var(--line); }
+  input[type=search] { width: 100%; padding: 11px 14px; font: inherit;
+         border: 1px solid var(--line); border-radius: 10px;
+         background: var(--card); color: var(--ink); }
+  input[type=search]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .tabs { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px;
+          scrollbar-width: none; }
+  .tabs button { flex: none; font: 500 14px Inter, sans-serif; cursor: pointer;
+         border: 1px solid var(--line); background: var(--card); color: var(--ink);
+         padding: 6px 14px; border-radius: 999px; }
+  .tabs button[aria-pressed=true] { background: var(--accent); border-color: var(--accent);
+         color: var(--bg); }
+  main { padding: 18px 0 60px; }
+  .day { font-size: 13px; font-weight: 600; color: var(--muted);
+         text-transform: uppercase; letter-spacing: .06em; margin: 26px 0 10px; }
+  article { background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+            padding: 16px 18px; margin-bottom: 10px; }
+  article a.title { color: var(--ink); text-decoration: none; font-weight: 600;
+            font-size: 17px; line-height: 1.35; }
+  article a.title:hover { color: var(--accent); text-decoration: underline; }
+  .meta { font-size: 13px; color: var(--muted); margin-top: 6px; }
+  .snippet { margin: 8px 0 0; color: var(--muted); font-size: 15px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .chip { font-size: 12px; padding: 2px 9px; border-radius: 999px;
+          background: var(--chip); color: var(--muted); }
+  .chip.india { background: var(--accent-soft); color: var(--accent); }
+  .empty { text-align: center; color: var(--muted); padding: 60px 0; }
+  footer { border-top: 1px solid var(--line); padding: 24px 0 40px;
+           font-size: 13px; color: var(--muted); }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="kicker">Daily news digest</div>
+    <h1 id="site-title">IP &amp; Tech Transfer Pulse</h1>
+    <p class="tagline" id="site-tagline">Auto-updated news on patents, licensing, innovation policy and technology transfer</p>
+    <div class="updated" id="updated">Loading…</div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <input type="search" id="q" placeholder="Search headlines, e.g. pharma, university, Delhi High Court" aria-label="Search news">
+    <div class="tabs" id="tabs" role="toolbar" aria-label="Filter by topic"></div>
+  </div>
+</div>
+
+<main class="wrap" id="list" aria-live="polite"></main>
+
+<footer>
+  <div class="wrap">
+    Headlines are collected automatically from public news feeds and link to the original publishers.
+    Curated by <a href="https://ridhimaw.github.io/portfolio/">ridhimaw</a>.
+  </div>
+</footer>
+
+<script>
+let data = { items: [], tags: [] };
+let activeTag = "All";
+
+const fmtDay = d => d.toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long" });
+const fmtTime = d => d.toLocaleTimeString("en-IN", { hour: "numeric", minute: "2-digit" });
+const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+function renderTabs() {
+  const tabs = ["All", ...data.tags];
+  document.getElementById("tabs").innerHTML = tabs.map(t => {
+    const n = t === "All" ? data.items.length : data.items.filter(i => i.tags.includes(t)).length;
+    return `<button type="button" data-tag="${esc(t)}" aria-pressed="${t === activeTag}">${esc(t)} · ${n}</button>`;
+  }).join("");
+}
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const shown = data.items.filter(i =>
+    (activeTag === "All" || i.tags.includes(activeTag)) &&
+    (!q || (i.title + " " + i.snippet + " " + i.source).toLowerCase().includes(q)));
+
+  if (!shown.length) {
+    document.getElementById("list").innerHTML = `<div class="empty">No stories match that yet.</div>`;
+    return;
+  }
+  let html = "", lastDay = "";
+  for (const i of shown) {
+    const d = new Date(i.date), day = fmtDay(d);
+    if (day !== lastDay) { html += `<div class="day">${esc(day)}</div>`; lastDay = day; }
+    html += `<article>
+      <a class="title" href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+      <div class="meta">${esc(i.source)} · ${esc(fmtTime(d))}</div>
+      ${i.snippet ? `<p class="snippet">${esc(i.snippet)}</p>` : ""}
+      <div class="chips">${i.tags.map(t => `<span class="chip${t === "India" ? " india" : ""}">${esc(t)}</span>`).join("")}</div>
+    </article>`;
+  }
+  document.getElementById("list").innerHTML = html;
+}
+
+document.getElementById("tabs").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  activeTag = b.dataset.tag; renderTabs(); render();
+});
+document.getElementById("q").addEventListener("input", render);
+
+fetch("news.json?ts=" + Date.now())
+  .then(r => r.json())
+  .then(json => {
+    data = json;
+    document.getElementById("site-title").textContent = json.title;
+    document.getElementById("site-tagline").textContent = json.tagline;
+    const u = new Date(json.updated);
+    document.getElementById("updated").textContent =
+      `${json.items.length} stories · last updated ${fmtDay(u)}, ${fmtTime(u)}`;
+    renderTabs(); render();
+  })
+  .catch(() => {
+    document.getElementById("updated").textContent = "Couldn't load the news file yet. The first update may still be running.";
+  });
+</script>
+</body>
+</html>
