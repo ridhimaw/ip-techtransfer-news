@@ -3,7 +3,7 @@
   "site_title": "IP & Tech Transfer Pulse",
   "site_tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
   "keep_days": 45,
-  "max_items": 400,
+  "max_items": 500,
   "feeds": [
     {
       "name": "Google News: technology transfer",
@@ -26,16 +26,52 @@
       "url": "https://news.google.com/rss/search?q=India+patent+OR+%22Patent+Office%22+OR+DPIIT+IPR+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "name": "Google News: WIPO",
-      "url": "https://news.google.com/rss/search?q=WIPO+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
       "name": "IPWatchdog",
       "url": "https://ipwatchdog.com/feed/"
     },
     {
       "name": "Patently-O",
       "url": "https://patentlyo.com/feed"
+    },
+    {
+      "name": "WIPO",
+      "url": "https://www.wipo.int/pressroom/en/rss.xml"
+    },
+    {
+      "name": "JUVE Patent",
+      "url": "https://www.juve-patent.com/feed/"
+    },
+    {
+      "name": "IPKat",
+      "url": "https://ipkitten.blogspot.com/feeds/posts/default"
+    },
+    {
+      "name": "Google News: IP offices",
+      "url": "https://news.google.com/rss/search?q=WIPO+OR+EPO+OR+USPTO+OR+EUIPO+OR+%22European+Patent+Office%22+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: tech transfer associations",
+      "url": "https://news.google.com/rss/search?q=AUTM+OR+ASTP+OR+%22Licensing+Executives+Society%22+OR+LESI+OR+AURIL+OR+EARMA+OR+APCTT+OR+SARIMA+OR+%22Knowledge+Commercialisation+Australasia%22+OR+%22Federal+Laboratory+Consortium%22+when%3A14d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: Indian IP bodies",
+      "url": "https://news.google.com/rss/search?q=%22IP+India%22+OR+CGPDTM+OR+%22Controller+General+of+Patents%22+OR+DPIIT+OR+%22Startup+India%22+OR+NRDC+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: Indian science agencies",
+      "url": "https://news.google.com/rss/search?q=%28DST+OR+ANRF+OR+DBT+OR+BIRAC+OR+CSIR+OR+MeitY+OR+%22NITI+Aayog%22%29+%28%22technology+transfer%22+OR+patent+OR+commercialisation+OR+licensing+OR+innovation%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: PIB",
+      "url": "https://news.google.com/rss/search?q=site%3Apib.gov.in+%28patent+OR+%22technology+transfer%22+OR+innovation+OR+startup+OR+research%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: global IP policy",
+      "url": "https://news.google.com/rss/search?q=%28%22European+Commission%22+OR+OECD+OR+WTO+OR+TRIPS%29+%28%22intellectual+property%22+OR+patent+OR+%22technology+transfer%22%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: IP trade press",
+      "url": "https://news.google.com/rss/search?q=site%3Amanagingip.com+OR+site%3Aiam-media.com+OR+site%3Aworldtrademarkreview.com+OR+site%3Alegalblogs.wolterskluwer.com+OR+site%3Abiospectrumindia.com+when%3A14d&hl=en-IN&gl=IN&ceid=IN:en"
     }
   ],
   "must_match_any": [
@@ -59,7 +95,11 @@
     "start-up",
     "royalt",
     "trade secret",
-    "autm"
+    "autm",
+    "research",
+    "r&d",
+    "biotech",
+    "commercialisation"
   ],
   "tags": {
     "Patents": [
@@ -69,13 +109,17 @@
       "ptab",
       "infring",
       "prior art",
-      "claims"
+      "claims",
+      "wipo",
+      "juve"
     ],
     "Licensing": [
       "licens",
       "royalt",
       "deal",
-      "agreement"
+      "agreement",
+      "licensing executives",
+      "lesi"
     ],
     "Tech Transfer": [
       "technology transfer",
@@ -86,7 +130,16 @@
       "commerciali",
       "university",
       "autm",
-      "incubat"
+      "incubat",
+      "astp",
+      "auril",
+      "earma",
+      "apctt",
+      "sarima",
+      "federal laboratory",
+      "knowledge commercialisation",
+      "nrdc",
+      "birac"
     ],
     "Policy": [
       "policy",
@@ -98,7 +151,13 @@
       "court",
       "ruling",
       "government",
-      "ministry"
+      "ministry",
+      "oecd",
+      "wto",
+      "trips",
+      "european commission",
+      "niti aayog",
+      "euipo"
     ],
     "India": [
       "india",
@@ -110,12 +169,25 @@
       "bengaluru",
       "bangalore",
       "iit",
-      "gujarat"
+      "gujarat",
+      "dst",
+      "anrf",
+      "dbt",
+      "birac",
+      "csir",
+      "meity",
+      "niti aayog",
+      "startup india",
+      "ip india",
+      "nrdc",
+      "pib"
     ],
     "Trademarks & Copyright": [
       "trademark",
       "copyright",
-      "brand"
+      "brand",
+      "euipo",
+      "design right"
     ]
   }
 }
