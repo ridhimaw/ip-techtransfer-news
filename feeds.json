@@ -1,29 +1,121 @@
 {
+  "site_url": "https://ridhimaw.github.io/ip-techtransfer-news/",
   "site_title": "IP & Tech Transfer Pulse",
   "site_tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
   "keep_days": 45,
   "max_items": 400,
   "feeds": [
-    { "name": "Google News: technology transfer", "url": "https://news.google.com/rss/search?q=%22technology+transfer%22+when:7d&hl=en-IN&gl=IN&ceid=IN:en" },
-    { "name": "Google News: patent licensing", "url": "https://news.google.com/rss/search?q=%22patent+licensing%22+OR+%22licensing+deal%22+patent+when:7d&hl=en-IN&gl=IN&ceid=IN:en" },
-    { "name": "Google News: university spin-off", "url": "https://news.google.com/rss/search?q=%22university+spin-off%22+OR+%22university+spinout%22+when:7d&hl=en-IN&gl=IN&ceid=IN:en" },
-    { "name": "Google News: intellectual property policy", "url": "https://news.google.com/rss/search?q=%22intellectual+property%22+policy+when:7d&hl=en-IN&gl=IN&ceid=IN:en" },
-    { "name": "Google News: India patents", "url": "https://news.google.com/rss/search?q=India+patent+OR+%22Patent+Office%22+OR+DPIIT+IPR+when:7d&hl=en-IN&gl=IN&ceid=IN:en" },
-    { "name": "Google News: WIPO", "url": "https://news.google.com/rss/search?q=WIPO+when:7d&hl=en-IN&gl=IN&ceid=IN:en" },
-    { "name": "IPWatchdog", "url": "https://ipwatchdog.com/feed/" },
-    { "name": "Patently-O", "url": "https://patentlyo.com/feed" }
+    {
+      "name": "Google News: technology transfer",
+      "url": "https://news.google.com/rss/search?q=%22technology+transfer%22+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: patent licensing",
+      "url": "https://news.google.com/rss/search?q=%22patent+licensing%22+OR+%22licensing+deal%22+patent+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: university spin-off",
+      "url": "https://news.google.com/rss/search?q=%22university+spin-off%22+OR+%22university+spinout%22+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: intellectual property policy",
+      "url": "https://news.google.com/rss/search?q=%22intellectual+property%22+policy+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: India patents",
+      "url": "https://news.google.com/rss/search?q=India+patent+OR+%22Patent+Office%22+OR+DPIIT+IPR+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: WIPO",
+      "url": "https://news.google.com/rss/search?q=WIPO+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "IPWatchdog",
+      "url": "https://ipwatchdog.com/feed/"
+    },
+    {
+      "name": "Patently-O",
+      "url": "https://patentlyo.com/feed"
+    }
   ],
   "must_match_any": [
-    "patent", "intellectual property", "ipr", "licens", "technology transfer", "tech transfer",
-    "spin-off", "spinout", "spin-out", "trademark", "copyright", "wipo", "uspto", "epo",
-    "innovation", "commerciali", "startup", "start-up", "royalt", "trade secret", "autm"
+    "patent",
+    "intellectual property",
+    "ipr",
+    "licens",
+    "technology transfer",
+    "tech transfer",
+    "spin-off",
+    "spinout",
+    "spin-out",
+    "trademark",
+    "copyright",
+    "wipo",
+    "uspto",
+    "epo",
+    "innovation",
+    "commerciali",
+    "startup",
+    "start-up",
+    "royalt",
+    "trade secret",
+    "autm"
   ],
   "tags": {
-    "Patents": ["patent", "uspto", "epo", "ptab", "infring", "prior art", "claims"],
-    "Licensing": ["licens", "royalt", "deal", "agreement"],
-    "Tech Transfer": ["technology transfer", "tech transfer", "spin-off", "spinout", "spin-out", "commerciali", "university", "autm", "incubat"],
-    "Policy": ["policy", "law", "bill", "regulat", "wipo", "treaty", "court", "ruling", "government", "ministry"],
-    "India": ["india", "indian", "dpiit", "cgpdtm", "delhi", "mumbai", "bengaluru", "bangalore", "iit", "gujarat"],
-    "Trademarks & Copyright": ["trademark", "copyright", "brand"]
+    "Patents": [
+      "patent",
+      "uspto",
+      "epo",
+      "ptab",
+      "infring",
+      "prior art",
+      "claims"
+    ],
+    "Licensing": [
+      "licens",
+      "royalt",
+      "deal",
+      "agreement"
+    ],
+    "Tech Transfer": [
+      "technology transfer",
+      "tech transfer",
+      "spin-off",
+      "spinout",
+      "spin-out",
+      "commerciali",
+      "university",
+      "autm",
+      "incubat"
+    ],
+    "Policy": [
+      "policy",
+      "law",
+      "bill",
+      "regulat",
+      "wipo",
+      "treaty",
+      "court",
+      "ruling",
+      "government",
+      "ministry"
+    ],
+    "India": [
+      "india",
+      "indian",
+      "dpiit",
+      "cgpdtm",
+      "delhi",
+      "mumbai",
+      "bengaluru",
+      "bangalore",
+      "iit",
+      "gujarat"
+    ],
+    "Trademarks & Copyright": [
+      "trademark",
+      "copyright",
+      "brand"
+    ]
   }
 }

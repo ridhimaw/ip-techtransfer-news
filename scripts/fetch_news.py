@@ -165,6 +165,57 @@ def build(new_items):
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Wrote {len(items)} items to {OUT.name}")
+    write_static_html(items)
+    write_sitemap()
+
+
+IST = timezone(timedelta(hours=5, minutes=30))
+PAGE = ROOT / "index.html"
+START, END = "<!--NEWS-START-->", "<!--NEWS-END-->"
+
+
+def write_static_html(items, limit=60):
+    """Put the latest headlines straight into index.html so search engines
+    can read them without running JavaScript. The page's script replaces
+    this list with the full, filterable one when it loads."""
+    if not PAGE.exists():
+        return
+    page = PAGE.read_text(encoding="utf-8")
+    if START not in page or END not in page:
+        print("!! index.html has no NEWS markers; skipped static headlines", file=sys.stderr)
+        return
+    esc = lambda s: html.escape(str(s), quote=True)
+    parts, last_day = [], ""
+    for i in items[:limit]:
+        d = datetime.fromisoformat(i["date"]).astimezone(IST)
+        day = d.strftime("%A %-d %B")
+        if day != last_day:
+            parts.append(f'<div class="day">{esc(day)}</div>')
+            last_day = day
+        chips = "".join(
+            f'<span class="chip{" india" if t == "India" else ""}">{esc(t)}</span>' for t in i["tags"])
+        snippet = f'<p class="snippet">{esc(i["snippet"])}</p>' if i["snippet"] else ""
+        parts.append(
+            f'<article><a class="title" href="{esc(i["link"])}" target="_blank" rel="noopener">{esc(i["title"])}</a>'
+            f'<div class="meta">{esc(i["source"])} · <time datetime="{esc(i["date"])}">{d.strftime("%-I:%M %p").lower()}</time></div>'
+            f'{snippet}<div class="chips">{chips}</div></article>')
+    before, rest = page.split(START, 1)
+    after = rest.split(END, 1)[1]
+    PAGE.write_text(before + START + "\n" + "\n".join(parts) + "\n" + END + after, encoding="utf-8")
+    print(f"Wrote {min(len(items), limit)} headlines into {PAGE.name}")
+
+
+def write_sitemap():
+    url = CONFIG.get("site_url")
+    if not url:
+        return
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    (ROOT / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"  <url><loc>{html.escape(url)}</loc><lastmod>{today}</lastmod>"
+        "<changefreq>hourly</changefreq><priority>1.0</priority></url>\n"
+        "</urlset>\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

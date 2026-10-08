@@ -2,9 +2,46 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>IP & Tech Transfer Pulse</title>
-<meta name="description" content="Auto-updated news on patents, licensing, innovation policy and technology transfer.">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f7f6f2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#12151a" media="(prefers-color-scheme: dark)">
+<title>IP &amp; Tech Transfer Pulse: Patent, Licensing &amp; Tech Transfer News</title>
+<meta name="description" content="Daily auto-updated news on intellectual property, patents, licensing, university spin-offs, innovation policy and technology transfer, with a dedicated India section.">
+<meta name="keywords" content="technology transfer news, IP news, patent news, licensing, university spin-off, innovation policy, IPR India, DPIIT, WIPO">
+<meta name="author" content="ridhimaw">
+<meta name="robots" content="index, follow, max-snippet:-1">
+<link rel="canonical" href="https://ridhimaw.github.io/ip-techtransfer-news/">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%231f5f8b'/><path d='M8 34h12l6-14 10 26 7-16h13' fill='none' stroke='white' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+
+<!-- Link previews on LinkedIn, WhatsApp, X, etc. -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="IP &amp; Tech Transfer Pulse">
+<meta property="og:title" content="IP &amp; Tech Transfer Pulse">
+<meta property="og:description" content="Daily auto-updated news on patents, licensing, innovation policy and technology transfer, with a dedicated India section.">
+<meta property="og:url" content="https://ridhimaw.github.io/ip-techtransfer-news/">
+<meta property="og:image" content="https://ridhimaw.github.io/ip-techtransfer-news/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="IP &amp; Tech Transfer Pulse: auto-updated IP and technology transfer news">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="IP &amp; Tech Transfer Pulse">
+<meta name="twitter:description" content="Daily auto-updated news on patents, licensing, innovation policy and technology transfer.">
+<meta name="twitter:image" content="https://ridhimaw.github.io/ip-techtransfer-news/og-image.png">
+
+<!-- Tells Google what this page is -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "IP & Tech Transfer Pulse",
+  "url": "https://ridhimaw.github.io/ip-techtransfer-news/",
+  "description": "Daily auto-updated news on intellectual property, patents, licensing, innovation policy and technology transfer.",
+  "inLanguage": "en-IN",
+  "about": ["Intellectual property", "Technology transfer", "Patents", "Licensing", "Innovation policy"],
+  "author": { "@type": "Person", "name": "ridhimaw", "url": "https://ridhimaw.github.io/portfolio/" }
+}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -13,16 +50,37 @@
     --line: #e4e2db; --accent: #1f5f8b; --accent-soft: #e3eef6; --chip: #efede6;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #12151a; --card: #1a1e25; --ink: #e9eaee; --muted: #9aa1ad;
       --line: #2a303a; --accent: #6fb3e0; --accent-soft: #1d2f3d; --chip: #232832;
+      color-scheme: dark;
     }
   }
+  :root[data-theme="dark"] {
+    --bg: #12151a; --card: #1a1e25; --ink: #e9eaee; --muted: #9aa1ad;
+    --line: #2a303a; --accent: #6fb3e0; --accent-soft: #1d2f3d; --chip: #232832;
+    color-scheme: dark;
+  }
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body { margin: 0; background: var(--bg); color: var(--ink);
-         font: 16px/1.55 Inter, system-ui, sans-serif; }
-  .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+         font: 16px/1.55 Inter, system-ui, sans-serif;
+         transition: background-color .25s, color .25s; overflow-x: hidden; }
+  .wrap { max-width: 860px; margin: 0 auto;
+          padding: 0 max(16px, env(safe-area-inset-right)) 0 max(16px, env(safe-area-inset-left)); }
   header { padding: 48px 0 20px; border-bottom: 1px solid var(--line); }
+  .head-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+  .theme-toggle { flex: none; width: 44px; height: 44px; border-radius: 50%;
+         border: 1px solid var(--line); background: var(--card); color: var(--ink);
+         display: grid; place-items: center; cursor: pointer; padding: 0;
+         transition: border-color .2s, transform .2s; }
+  .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+  .theme-toggle:active { transform: scale(.94); }
+  .theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .theme-toggle svg { width: 20px; height: 20px; }
+  .theme-toggle .sun { display: none; }
+  :root[data-theme="dark"] .theme-toggle .sun { display: block; }
+  :root[data-theme="dark"] .theme-toggle .moon { display: none; }
   .kicker { font-size: 13px; font-weight: 600; letter-spacing: .08em;
             text-transform: uppercase; color: var(--accent); }
   h1 { font-family: Fraunces, Georgia, serif; font-size: clamp(30px, 6vw, 44px);
@@ -36,10 +94,14 @@
          background: var(--card); color: var(--ink); }
   input[type=search]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
   .tabs { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px;
-          scrollbar-width: none; }
+          scrollbar-width: none; -webkit-overflow-scrolling: touch;
+          scroll-snap-type: x proximity; overscroll-behavior-x: contain; }
+  .tabs::-webkit-scrollbar { display: none; }
   .tabs button { flex: none; font: 500 14px Inter, sans-serif; cursor: pointer;
          border: 1px solid var(--line); background: var(--card); color: var(--ink);
-         padding: 6px 14px; border-radius: 999px; }
+         min-height: 38px; padding: 6px 14px; border-radius: 999px;
+         scroll-snap-align: start; white-space: nowrap;
+         -webkit-tap-highlight-color: transparent; }
   .tabs button[aria-pressed=true] { background: var(--accent); border-color: var(--accent);
          color: var(--bg); }
   main { padding: 18px 0 60px; }
@@ -49,7 +111,10 @@
             padding: 16px 18px; margin-bottom: 10px; }
   article a.title { color: var(--ink); text-decoration: none; font-weight: 600;
             font-size: 17px; line-height: 1.35; }
-  article a.title:hover { color: var(--accent); text-decoration: underline; }
+  article a.title { overflow-wrap: anywhere; }
+  @media (hover: hover) {
+    article a.title:hover { color: var(--accent); text-decoration: underline; }
+  }
   .meta { font-size: 13px; color: var(--muted); margin-top: 6px; }
   .snippet { margin: 8px 0 0; color: var(--muted); font-size: 15px; }
   .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
@@ -60,15 +125,57 @@
   footer { border-top: 1px solid var(--line); padding: 24px 0 40px;
            font-size: 13px; color: var(--muted); }
   footer a { color: var(--accent); }
+
+  /* Tablets */
+  @media (max-width: 900px) {
+    header { padding: 36px 0 18px; }
+  }
+  /* Phones */
+  @media (max-width: 600px) {
+    header { padding: 22px 0 16px; }
+    .kicker { font-size: 12px; }
+    .tagline { font-size: 15px; }
+    .controls { padding: 10px 0 8px; }
+    /* topic tabs run edge to edge and fade out so it's clear they scroll */
+    .tabs { margin: 0 -16px; padding-left: 16px; padding-right: 16px; scroll-padding-left: 16px;
+            -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent);
+                    mask-image: linear-gradient(90deg, #000 85%, transparent); }
+    main { padding-top: 6px; }
+    .day { margin: 20px 0 8px; }
+    article { padding: 14px; border-radius: 10px; }
+    article a.title { font-size: 16px; }
+    .snippet { font-size: 14px; }
+    footer { padding-bottom: max(32px, env(safe-area-inset-bottom)); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
 </style>
+<script>
+  /* Apply the saved or system theme before the page draws, so there's no flash */
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("theme"); } catch (e) {}
+    if (t !== "light" && t !== "dark") {
+      t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
 </head>
 <body>
 <header>
-  <div class="wrap">
-    <div class="kicker">Daily news digest</div>
-    <h1 id="site-title">IP &amp; Tech Transfer Pulse</h1>
-    <p class="tagline" id="site-tagline">Auto-updated news on patents, licensing, innovation policy and technology transfer</p>
-    <div class="updated" id="updated">Loading…</div>
+  <div class="wrap head-row">
+    <div>
+      <div class="kicker">Daily news digest</div>
+      <h1 id="site-title">IP &amp; Tech Transfer Pulse</h1>
+      <p class="tagline" id="site-tagline">Auto-updated news on patents, licensing, innovation policy and technology transfer</p>
+      <div class="updated" id="updated">Loading…</div>
+    </div>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch to dark mode" title="Switch to dark mode">
+      <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+    </button>
   </div>
 </header>
 
@@ -79,7 +186,10 @@
   </div>
 </div>
 
-<main class="wrap" id="list" aria-live="polite"></main>
+<main class="wrap" id="list" aria-live="polite">
+<!--NEWS-START-->
+<!--NEWS-END-->
+</main>
 
 <footer>
   <div class="wrap">
@@ -89,6 +199,27 @@
 </footer>
 
 <script>
+/* Dark / light toggle: remembers the choice; otherwise follows the device setting */
+(function () {
+  const root = document.documentElement, btn = document.getElementById("theme-toggle");
+  const label = () => {
+    const next = root.dataset.theme === "dark" ? "light" : "dark";
+    btn.setAttribute("aria-label", `Switch to ${next} mode`);
+    btn.title = `Switch to ${next} mode`;
+  };
+  label();
+  btn.addEventListener("click", () => {
+    root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
+    try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
+    label();
+  });
+  const mq = window.matchMedia && matchMedia("(prefers-color-scheme: dark)");
+  if (mq && mq.addEventListener) mq.addEventListener("change", e => {
+    let saved = null; try { saved = localStorage.getItem("theme"); } catch (_) {}
+    if (!saved) { root.dataset.theme = e.matches ? "dark" : "light"; label(); }
+  });
+})();
+
 let data = { items: [], tags: [] };
 let activeTag = "All";
 
