@@ -195,6 +195,8 @@ class Site:
         for item in old + new_items:  # newer copy overwrites older one
             if datetime.fromisoformat(item["date"]) < cutoff:
                 continue
+            if self.excluded(item["title"], item["source"]):  # also clears out stories saved before a source was blocked
+                continue
             merged[norm_key(item["title"])] = item
         items = sorted(merged.values(), key=lambda i: i["date"], reverse=True)[: self.cfg["max_items"]]
         out.write_text(json.dumps({

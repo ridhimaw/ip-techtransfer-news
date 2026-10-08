@@ -47,3 +47,17 @@ To change the site name, edit `site_title` and `site_tagline`. To change the foo
 - **Action fails at "git push":** step 3 wasn't saved (read and write permissions).
 - **A source shows `!!` in the Actions log:** that feed was down or blocked. The others still work, and it retries next run.
 - **Updates stop after ~60 days:** GitHub pauses scheduled jobs on repos with no activity. Click **Enable workflow** on the Actions tab, or make any small commit.
+
+## Sister sites (Pulse family)
+
+The repo also runs two sister pages, linked from the switcher bar at the top of every page:
+
+| Page | Folder | Address |
+|---|---|---|
+| IP & Tech Transfer (main) | repo root | `…/ip-techtransfer-news/` |
+| Pharma & Biotech | `pharma/` | `…/ip-techtransfer-news/pharma/` |
+| Startups | `startups/` | `…/ip-techtransfer-news/startups/` |
+
+Each folder has its own `feeds.json` (sources, keywords, tags), `news.json` and `index.html`. The same robot updates all of them in one run, and `sitemap.xml` lists all three.
+
+To add another sister site later: copy the `pharma` folder, rename it, edit its `feeds.json` and the titles in its `index.html`, and add a link to the switcher bar on every page.
