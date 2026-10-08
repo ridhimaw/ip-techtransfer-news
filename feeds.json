@@ -70,8 +70,8 @@
       "url": "https://news.google.com/rss/search?q=%28%22European+Commission%22+OR+OECD+OR+WTO+OR+TRIPS%29+%28%22intellectual+property%22+OR+patent+OR+%22technology+transfer%22%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "name": "Google News: IP trade press",
-      "url": "https://news.google.com/rss/search?q=site%3Amanagingip.com+OR+site%3Aiam-media.com+OR+site%3Aworldtrademarkreview.com+OR+site%3Alegalblogs.wolterskluwer.com+OR+site%3Abiospectrumindia.com+when%3A14d&hl=en-IN&gl=IN&ceid=IN:en"
+      "name": "Google News: free IP blogs and press",
+      "url": "https://news.google.com/rss/search?q=site%3Alegalblogs.wolterskluwer.com+OR+site%3Abiospectrumindia.com+when%3A14d&hl=en-IN&gl=IN&ceid=IN:en"
     }
   ],
   "must_match_any": [
@@ -189,5 +189,22 @@
       "euipo",
       "design right"
     ]
-  }
+  },
+  "exclude_any": [
+    "stat+:"
+  ],
+  "exclude_sources": [
+    "Managing IP",
+    "IAM",
+    "IAM Media",
+    "World Trademark Review",
+    "The Ken",
+    "BioCentury",
+    "Endpoints News",
+    "Endpoints",
+    "The Information",
+    "The Morning Context",
+    "Law360",
+    "MLex"
+  ]
 }

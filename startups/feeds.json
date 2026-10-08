@@ -1,0 +1,168 @@
+{
+  "site_url": "https://ridhimaw.github.io/ip-techtransfer-news/startups/",
+  "site_title": "Startups Pulse",
+  "site_tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
+  "keep_days": 30,
+  "max_items": 500,
+  "feeds": [
+    {
+      "name": "Inc42",
+      "url": "https://inc42.com/feed/"
+    },
+    {
+      "name": "YourStory",
+      "url": "https://yourstory.com/feed"
+    },
+    {
+      "name": "TechCrunch Startups",
+      "url": "https://techcrunch.com/category/startups/feed/"
+    },
+    {
+      "name": "Crunchbase News",
+      "url": "https://news.crunchbase.com/feed/"
+    },
+    {
+      "name": "Google News: startup press",
+      "url": "https://news.google.com/rss/search?q=site%3Aentrackr.com+OR+site%3Avccircle.com+OR+site%3Asifted.eu+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: business papers on startups",
+      "url": "https://news.google.com/rss/search?q=startup+%28site%3Amoneycontrol.com+OR+site%3Aeconomictimes.indiatimes.com+OR+site%3Alivemint.com%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: Startup India and DPIIT",
+      "url": "https://news.google.com/rss/search?q=%22Startup+India%22+OR+%28DPIIT+startup%29+OR+%22Fund+of+Funds+for+Startups%22+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: Atal Innovation Mission",
+      "url": "https://news.google.com/rss/search?q=%22Atal+Innovation+Mission%22+OR+%22Atal+Incubation+Centre%22+when%3A14d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: BIRAC and DST",
+      "url": "https://news.google.com/rss/search?q=%28BIRAC+OR+DST+OR+%22Department+of+Science+and+Technology%22+OR+NIDHI%29+%28startup+OR+incubator+OR+grant%29+when%3A14d&hl=en-IN&gl=IN&ceid=IN:en"
+    }
+  ],
+  "must_match_any": [
+    "startup",
+    "start-up",
+    "founder",
+    "funding",
+    "raises",
+    "raised",
+    "seed",
+    "series a",
+    "series b",
+    "series c",
+    "incubat",
+    "accelerat",
+    "spin-off",
+    "spinout",
+    "spin-out",
+    "venture",
+    "deep tech",
+    "deeptech",
+    "unicorn",
+    "angel",
+    " vc "
+  ],
+  "tags": {
+    "Funding": [
+      "raises",
+      "raised",
+      "funding",
+      "seed",
+      "series a",
+      "series b",
+      "series c",
+      "funding round",
+      "invest",
+      "valuation",
+      "angel"
+    ],
+    "Deep Tech": [
+      "deep tech",
+      "deeptech",
+      "semiconductor",
+      "quantum",
+      "spacetech",
+      "space tech",
+      " ai ",
+      "robot",
+      "drone",
+      "biotech",
+      "medtech",
+      "climate",
+      " ev ",
+      "battery",
+      "photonic",
+      " ai-",
+      "artificial intelligence"
+    ],
+    "Spin-offs": [
+      "spin-off",
+      "spinout",
+      "spin-out",
+      "spun out",
+      "university",
+      "iit",
+      "iisc",
+      "research"
+    ],
+    "Incubators & Programs": [
+      "incubat",
+      "accelerat",
+      "atal innovation",
+      "t-hub",
+      "startup india",
+      "cohort",
+      "grant",
+      "hackathon",
+      "nidhi",
+      "birac",
+      "dst"
+    ],
+    "Policy": [
+      "policy",
+      "dpiit",
+      "government",
+      "ministry",
+      "scheme",
+      "regulat",
+      "tax",
+      "sebi",
+      "rbi"
+    ],
+    "India": [
+      "india",
+      "indian",
+      "bengaluru",
+      "bangalore",
+      "delhi",
+      "mumbai",
+      "hyderabad",
+      "pune",
+      "chennai",
+      "gujarat",
+      "ahmedabad",
+      "inc42",
+      "yourstory"
+    ]
+  },
+  "exclude_any": [
+    "stat+:"
+  ],
+  "exclude_sources": [
+    "Managing IP",
+    "IAM",
+    "IAM Media",
+    "World Trademark Review",
+    "The Ken",
+    "BioCentury",
+    "Endpoints News",
+    "Endpoints",
+    "The Information",
+    "The Morning Context",
+    "Law360",
+    "MLex"
+  ]
+}

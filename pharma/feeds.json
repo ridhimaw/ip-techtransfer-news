@@ -1,0 +1,158 @@
+{
+  "site_url": "https://ridhimaw.github.io/ip-techtransfer-news/pharma/",
+  "site_title": "Pharma & Biotech Pulse",
+  "site_tagline": "Auto-updated news on drug patents, licensing deals, biosimilars, regulation and biotech innovation",
+  "keep_days": 45,
+  "max_items": 500,
+  "feeds": [
+    {
+      "name": "STAT",
+      "url": "https://www.statnews.com/feed/"
+    },
+    {
+      "name": "Fierce Biotech",
+      "url": "https://www.fiercebiotech.com/rss/xml"
+    },
+    {
+      "name": "Fierce Pharma",
+      "url": "https://www.fiercepharma.com/rss/xml"
+    },
+    {
+      "name": "BioPharma Dive",
+      "url": "https://www.biopharmadive.com/feeds/news/"
+    },
+    {
+      "name": "GEN",
+      "url": "https://www.genengnews.com/feed/"
+    },
+    {
+      "name": "Google News: Indian pharma press",
+      "url": "https://news.google.com/rss/search?q=site%3Abiospectrumindia.com+OR+site%3Apharmabiz.com+OR+site%3Aexpresspharma.in+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: CDSCO, DBT, BIRAC",
+      "url": "https://news.google.com/rss/search?q=CDSCO+OR+DCGI+OR+BIRAC+OR+%22Department+of+Biotechnology%22+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: FDA and EMA",
+      "url": "https://news.google.com/rss/search?q=%28FDA+OR+EMA+OR+%22European+Medicines+Agency%22%29+%28approval+OR+approves+OR+biosimilar+OR+generic+OR+%22orphan+drug%22+OR+%22breakthrough+therapy%22%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: drug patents and exclusivity",
+      "url": "https://news.google.com/rss/search?q=%22drug+patent%22+OR+%22pharma+patent%22+OR+%22patent+expiry%22+OR+%22patent+cliff%22+OR+%22Orange+Book%22+OR+evergreening+OR+%22Section+3%28d%29%22+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Google News: compulsory licensing and generic entry",
+      "url": "https://news.google.com/rss/search?q=%22compulsory+licence%22+OR+%22compulsory+license%22+OR+%22patent+challenge%22+OR+%22generic+entry%22+OR+%22Paragraph+IV%22+OR+%22biosimilar+launch%22+when%3A7d&hl=en-IN&gl=IN&ceid=IN:en"
+    }
+  ],
+  "must_match_any": [
+    "pharma",
+    "drug",
+    "biotech",
+    "biolog",
+    "biosimilar",
+    "generic",
+    "patent",
+    "licens",
+    "clinical",
+    "trial",
+    "vaccine",
+    "fda",
+    "cdsco",
+    " ema ",
+    "therap",
+    "medicine",
+    "molecule",
+    "antibod",
+    "gene therap",
+    "cell therapy",
+    " api ",
+    "royalt"
+  ],
+  "tags": {
+    "Patents": [
+      "patent",
+      "exclusivity",
+      "orange book",
+      "evergreen",
+      "infring",
+      "litigation"
+    ],
+    "Licensing & Deals": [
+      "licens",
+      "royalt",
+      "deal",
+      "acqui",
+      "merger",
+      "partnership",
+      "collaborat"
+    ],
+    "Biosimilars & Generics": [
+      "biosimilar",
+      "generic",
+      "compulsory licen",
+      "anda"
+    ],
+    "Regulatory": [
+      "fda",
+      " ema ",
+      "cdsco",
+      "approval",
+      "approves",
+      "regulat",
+      "clearance",
+      "dcgi"
+    ],
+    "Biotech": [
+      "biotech",
+      "gene therap",
+      "cell therapy",
+      "antibod",
+      "mrna",
+      "crispr",
+      "spin-off",
+      "spinout",
+      "series a",
+      "series b",
+      "gene edit",
+      "genom"
+    ],
+    "India": [
+      "india",
+      "indian",
+      "cdsco",
+      "dcgi",
+      "birac",
+      "hyderabad",
+      "bengaluru",
+      "bangalore",
+      "mumbai",
+      "ahmedabad",
+      "gujarat",
+      "sun pharma",
+      "cipla",
+      "dr reddy",
+      "lupin",
+      "biocon",
+      "zydus"
+    ]
+  },
+  "exclude_any": [
+    "stat+:"
+  ],
+  "exclude_sources": [
+    "Managing IP",
+    "IAM",
+    "IAM Media",
+    "World Trademark Review",
+    "The Ken",
+    "BioCentury",
+    "Endpoints News",
+    "Endpoints",
+    "The Information",
+    "The Morning Context",
+    "Law360",
+    "MLex"
+  ]
+}
