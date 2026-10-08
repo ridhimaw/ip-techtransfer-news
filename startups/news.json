@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-08T06:09:32.688398+00:00",
+ "updated": "2026-10-08T13:35:16.179355+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -11,6 +11,178 @@
   "India"
  ],
  "items": [
+  {
+   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+   "source": "TechCrunch Startups",
+   "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+   "date": "2026-10-08T13:20:32+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Is it possible to beam solar power from space to Earth? Virginia startup Overview Energy gets Pentagon fun",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNWVc2RWkxeEpYeV9wLVdldE5OWlEwZGJpNW5aLVNadGs1ZW1YMTNLMVpFNDZleFFtcmhMQTljZUpaMDhSa1dYbTFJa1pvcUZhQ1F3ZzZ4S19xYkx5UU9tdkxTTHkzVDlnZHF6Vk1HZVpiR1NLTjZobks3VGlSbHQ5Ukp5aUdBZnNhYkY5a1A0YUFWZlgxSFh6ZkR4TW5KaWl1UlRnSTNPcl9qRTRRbzdBQldQWUxXbUJra1FndFY1aHBiU1JSa0REMlBCREFMeVg5cTJ5SWR5NmpFeDlmM2hhQkdZaE15TjJNMVRUbzFxRnVPLWpBR1pYeC1JcEpjR3dJTlpNNmpGWV9JRjJSX0ZsNTYwTDNDb2pVclJzU1RMaEJwUl9uY283QW5xSnJXeFo3cVFv0gGsAkFVX3lxTE9iM3VHOHZ3ejhTb0FTdC1ZVUdWX05VMnVwZkxCdFJlUFhCZVF6NDBUX3lPazFZLXQ5djd3cXlQWU1NczFrZmdoQkM4a2pyZHhWNnpIZXVaai0xUU1NNnRIdmpqUXJVTDhmNDNEbHZ3MXNwdERiVW9uV3NQUzhPa0U4N2RKdi04WmhsanB0NU9EQ1RJNXU3Q05YZFhUSDdtb2pkTXFrblJjYlQyUnZoaXpXempCc19YME9RRWZyX1JXUHkxV3ljQWdUTUw0ZkJrSGpZWDFEVG5TUE1LYkdmOTFST0FkTUhwdmNhUDVweE83QlFHODlQTWdjNlhCc21ySDhGYWhGSkxpTzA0RHh1N3RVQ1VueFA2ZXpNOS14Yzh3cV9JQy1lTG9KcjJZdw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-08T13:19:55+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
+   "link": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+   "source": "Crunchbase News",
+   "snippet": "Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the…",
+   "date": "2026-10-08T13:00:02+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
+   "source": "TechCrunch Startups",
+   "snippet": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner…",
+   "date": "2026-10-08T13:00:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "D2C Lifestyle Brand DailyObjects Raises ₹332 Cr To Expand Offline Presence",
+   "link": "https://inc42.com/buzz/d2c-lifestyle-brand-dailyobjects-raises-%e2%82%b9332-cr-to-expand-offline-presence/",
+   "source": "Inc42",
+   "snippet": "D2C lifestyle startup DailyObjects has raised ₹332 Cr ($34.3 Mn) in a Series C funding round co-led by Xponentia Capital…",
+   "date": "2026-10-08T12:44:56+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Karnataka invites startups to solve citizen service, water challenges",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMF9CWlVZbkRtZDZDZ1VlQUtoN1NLSUZVTlVQa19KZHFkT3dmSVZLNDdwWTZCSWV4UXJhUzRUM1d4YjJjcXNuYWZsc0c5SDUtd0x3ZjFpYWVsanZuWHU0RW5nOXRVS0VHWkg0ZGZUY3UwcGVIMFhXeUJzVEl2S2JlaXVDVkc4bElaTHkyb09ncm5pWlZMMXE1cnhHcEQ2dnA2d1NoSlVwaW02Ukt4azZQN0JCT1NmMVVyay1LdUVJMXVnUFd6aHJ6N0tBR1VuZkZRMzY0ay0wWm1HckhVUkHSAdcBQVVfeXFMT3FkUk9yR210OWpqOEE2MUZUZUhER1VNLTVBV1VoNDA3MWJ0ZU04UTE0djdrRlVPQlBybWVFLWkzd2taQ2JkeWpqYUlFMGM1UVRJMTl5Z0ZlTF9UVG1RLXMyNWcxUDk5Z3RFdDloN0lxdkt3V0xBWWlWem9UcFMzbWdxb2g4dFNqNzQtTWlPNmZwMEFpbjJNMlVhTVBSMnhpNmp1Nm1ITHM0LVJ1TWNLU3RlZXhTOEhJNjNoNGlSVGE1d3pxYjN2cWhyS25nclN5U1NqM0MzZ2c?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-08T12:32:30+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Karnataka invites startups to solve AI-based citizen services, water challenges; offers work orders up to...",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeHRNUUlNWW9tMExCZk5CbFVXenNuYVA4eHUyRUJjLV9Za05EYlFmLUJDY19pdm5hdXlKbVpiRFFwMXFkVHF3N3lSd01NN1I0bmQ0TTFvOXFZeXpFTTBFbXhrTjQ3d084NmJkT2ppRGtFZWZLSXV1SUYwdnVWX1A0bEtYcUgzUS1acS1fbnRKOXFLX3N0MWttZnNnWnMtbjJFdUQ2V0ZFTHVoZUdaZGt3M2Z0a0ZoQTAtT0ZWa0lKSTBGclBVa1pNNm5RT0ZfRWlHazVLY3c2X1hTdV9rc1JxQTdZZm1DWkZWN3NfMWYtRVBOVk1yelZLa3dzSzPSAYICQVVfeXFMTmZrVWQ1ZEJhb1JNTEdTMWxEOTMyTi1zMDA2bzhCN2hxOFFkMFVTRzMzVnM1TC1FOEVlVWkwWmVBcTBVSWZPMWtnYnk4QVBTMHZZaEc1eWY2M0dQcUFvLVVfbDBQa2VXLW1UTXNoOV9teHMxaXNJMDZvMVhTOC1xQUs2UkRPOExDdW9NVVl4bWtxeEt4Uk5telRFOGllOHA3T3Fwb1lHT2FjamZzbzBaVnZOZGQwYXlUaXpTSjVlWllhMGJkVW9aNjZnZmJhV1kyTk9NRDZ4YWlIcmtmQnFkTmRmb25YRWJUSERLcVFlSENZNGZxUVBZdDN3SHF6SDlEUDVB?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-08T12:06:47+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "DailyObjects raises Rs 332 Cr in Series C round led by Xponentia, Anicut, Axiom Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2FXay1TeElUbGMwTFVBSFh5RTJ3RUotSXVjdThlVFh0N0ZHekFqQ0JKakV2T0JiVWNPUERpSWo2UVdhTXl3UHVIVlFrYTZJMlRxUEd0ckx5REQ0SkNhRHNKTWpXbk9mNUlPQ0J6NXBiZTlxNXJfcktIR2k3OV9TYU80aXhoSDZyY3cxeFVlZG9sTlUtcDBTa0FyZ3Jadkpoa0lzM3N5T2xuQkN6aXEtOXNWSEVCQjhw0gG4AUFVX3lxTE9TYVdrLVN4SVRsYzBMVUFIWHlFMndFSi1JdWN1OGVUWHQ3Rkd6QWpDQkpqRXZPQmJVY09QRGlJajZRV2FNeXdQdUhWUWthNkkyVHFQR3RyTHlERDRKQ2FEc0pNalduT2Y1SU9DQno1cGJlOXE1cl9yS0hHaTc5X1NhTzRpeGhINnJjdzF4VWVkb2xOVS1wMFNrQXJnclp2SmhrSXMzc3lPbG5CQ3ppcS05c1ZIRUJCOHA?oc=5",
+   "source": "Entrackr",
+   "snippet": "",
+   "date": "2026-10-08T12:00:03+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+   "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+   "source": "TechCrunch Startups",
+   "snippet": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+   "date": "2026-10-08T12:00:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI",
+   "link": "https://inc42.com/buzz/miko-maker-inner-sky-labs-unveils-foundation-models-for-physical-ai/",
+   "source": "Inc42",
+   "snippet": "AI startup Inner Sky Labs, the maker of children’s companion robots under the Miko brand, has launched a suite of…",
+   "date": "2026-10-08T11:41:08+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "AI startup Manus secures over $500 million funding as it resumes independent operations",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzJDcDdCeWVLLWZHSXA5N0ljZVItVGZ0Rlo1R2xTNXR3alo0Y2pCcE5pVS1FUUJ5TWZtX3RNbHZ1ekJPdkFpUnNzUE5JVS1DenhQX0VhRGZzSlZDdGZ2RjFmTGxEbjhhdW9yc3RfZnJlTHZtZVhWY1BRdlpLY0d5VklZZWtMY1dQRUdnbzdnVk5yMXBfVXVyUHotNERWeGliM0xUemZ3RzhBV1RDZFlnLXdOX1ZiZlkyMmsyVGFjQzdZYV83dFJFellBTWFwbTg5aThEUkhSdGNDMFYzSnMwdjVYWk93RDNQcmR6QVVZc9IB7wFBVV95cUxOTzJDcDdCeWVLLWZHSXA5N0ljZVItVGZ0Rlo1R2xTNXR3alo0Y2pCcE5pVS1FUUJ5TWZtX3RNbHZ1ekJPdkFpUnNzUE5JVS1DenhQX0VhRGZzSlZDdGZ2RjFmTGxEbjhhdW9yc3RfZnJlTHZtZVhWY1BRdlpLY0d5VklZZWtMY1dQRUdnbzdnVk5yMXBfVXVyUHotNERWeGliM0xUemZ3RzhBV1RDZFlnLXdOX1ZiZlkyMmsyVGFjQzdZYV83dFJFellBTWFwbTg5aThEUkhSdGNDMFYzSnMwdjVYWk93RDNQcmR6QVVZcw?oc=5",
+   "source": "ET CIO",
+   "snippet": "",
+   "date": "2026-10-08T11:30:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Europe Posted Its Strongest Quarter In Q3 In 4 Years, As Its Venture Ecosystem Expands Beyond The UK",
+   "link": "https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/",
+   "source": "Crunchbase News",
+   "snippet": "European startup funding reached $25 billion last quarter, well above the $14 billion invested in Q3 2025 and up slightly from the $24 billion invested in Q2. Quarterly funding was up 77% year over year, per…",
+   "date": "2026-10-08T11:00:56+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Meet The Startups That Won The Ericsson Innovation Challenge 2026",
+   "link": "https://inc42.com/buzz/meet-the-startups-that-won-the-ericsson-innovation-challenge-2026/",
+   "source": "Inc42",
+   "snippet": "At the India Mobile Congress 2026, telecom and network infrastructure company Ericsson unveiled the winners of its flagship startup competition,…",
+   "date": "2026-10-08T10:13:13+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Startup news and updates: daily roundup (October 8, 2026)",
+   "link": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-8-2026",
+   "source": "YourStory",
+   "snippet": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 8 , 2026.",
+   "date": "2026-10-08T08:43:33+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "New FEMA Rules Explained: What Freelancers, Creators, And SaaS Startups Need To Know",
+   "link": "https://inc42.com/buzz/new-fema-rules-explained-what-freelancers-creators-and-saas-startups-need-to-know/",
+   "source": "Inc42",
+   "snippet": "RBI governor Sanjay Malhotra yesterday eased concerns over the new foreign exchange reporting framework, clarifying that individuals undertaking transactions of…",
+   "date": "2026-10-08T07:50:04+00:00",
+   "tags": [
+    "Policy"
+   ]
+  },
+  {
+   "title": "Startup employees report lowest wellbeing, study finds",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2YwY0RqX1ZuWGJ0bVQ4bzR1cXFlYmxQOTc5eVdLZmVkTXdKWGl3NVpEQ0l2NkRfMnBRUXczVUw4Y1ZjYndpVDY3a3hhVjEyMVFtZzlKRjBpN2gxdmxJcGJ2cnhQaG9BdTB6cXhscGxCRHc3aU1iVjJ4RThkdVI2YzVSM1BOSnphekNiNDRwZUFXMVFwZGp1c0I4NjlLZEFYQnNoMnZaRUxJTjZjNHNWNlItS1E0Wi1zOUdqRW81bFFrN2ZIa216aFhjSlZlRlJhZHBhLUwwRQ?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-08T07:45:26+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Startup Street | Smart money increases bets on India’s new manufacturing revolution",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOENMWTFLdnBMSG9xRGl4MkF3UHpTcEg2OElhRk1mbkVXRFFMR1ZkbkhGMTFPam5lY05ra0hSSUtLLThESzVxNzNTVzFTN3ZFYmNLV3Q1emlmbFJXWjlUWVRKTHg2YlhVTVRYbFhZNXhCQkRYajhuNmZubUtUMFdqYkZaS1hHMWkzX2hrMVlWd0t3ZnFXaEtBSndiSlZsQzlDUC1oSVZRNzhMVFF0N2xIMlhSRFZ1LTVEX2VyT0NpSnY1WjBKWjE3WEhVU1BmYWI4UzFn0gHYAUFVX3lxTE5NQ1RJczlwdXRxQ01xMHBkZmtIMldoYUVvM0JfX1VnNUIxTnI5OHUzaGthSzBhMGFaTzRKVFNpaG4taE5FaDhlV01uVU1jSGdBSnd4TEhJUEJFM211NUhlMk0xbDFFelNnZ3lhTHNhTDZ4N0ZsVFV5ZlFYN2lMZjlZdlFfeHpPS2tZdDlfb1VQZjRnX05GVjlUV1hnQ1IxaG9SYkNWYjVwNkFtTTZFZFFYcVNkM1ZITkIwVHN4LW5uVWl2NTRHazByMXFTNVpqRXNMSmxTWFFJLQ?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-08T06:18:16+00:00",
+   "tags": [
+    "India"
+   ]
+  },
   {
    "title": "Very bullish on India, looking for global leaders: TDK Ventures founder and president Nicolas Sauvage",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd2tkNWcyempONkNqbS1TamlFX0o0MW1nYWc2WTdGWmJtc2tXRm85dWlWVHRDNTBvS21PMVZiRk9vWk1qRVVrM0c3X1ZhamJKU0hOSHNiZUdxUi1JaFpkQ3lLT00yVG9Ka1JZS2RMby03LWl2ZjRuUFBiSnFvMFpnU2hXbHhhdllpVi1CQUp5eEZlS213TUhOd2FUZXpUc1l1WkFPdkRnR21EQmZWb2RFLTR5ZlJrWG9SWERFM0lzaVlVQTBWRzNjYXAySjJiMDBCZElaU2hqY0hMYURuelN0ZVlvcHVveHFOeGJjdFRpS1VOei1RaHBz0gH8AUFVX3lxTE1od3BQVVdSakgxTnQ3U0NyMVJvcEgtQ0FVN3Vzc1pvQktNNmZFZlFlTkxiaFNNRmxRMnJiamNadTVQTWs2MXBRZkdqZ3VDU01KQ192TEJTYWF3c2kyazBMbWNaT19OSDJ4SWZ3WHVNdVBXN0pBUktsWDNkYWRoNGxPOUVUOWg5OVRsN0RNWTM5eFNseWhGYjdlR3JnY2UwNVIzeUdNcHZpaHRJRVR3emlyenBWMzJCSHUwWUhPVmJXc3Noa25TTWsxNmtsV1loV05MRzVIS3ZKY2FtejN6OUd5blliazhmNHdCWWVfNHZ4XzdoUlBscHZmNF9wZQ?oc=5",
@@ -372,6 +544,16 @@
    ]
   },
   {
+   "title": "Grapevine: Advent, EQT Partners, RPSG Group, IndusBridge Ventures, others in news",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTd3U2VyUWd6bE5qTkJNSzlyWEp0NF85S1Z0RFdJZTlONVpFZERIU1BkY2NZaXlRWW5hcl96bTBNR0J6MExQMnBUQjhlN3RvNTVDYXRILUw0X2xVY2U3RTd4LTNLQUd4MjZwanBsZHVPOWExMkEwSEQzUlVBRDd6clppOG5PSmpJUGxqNEZtdmhoM1JPczJqVmlha21vaWpaNXc?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-07T06:02:46+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Zomint Raises ₹36 Cr To Scale Wealth Management Platform",
    "link": "https://inc42.com/buzz/zomint-raises-%e2%82%b936-cr-to-scale-wealth-management-platform/",
    "source": "Inc42",
@@ -411,16 +593,6 @@
    "date": "2026-10-07T05:28:40+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Grapevine: Advent, EQT Partners, RPSG Group, IndusBridge Ventures, others in news",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTd3U2VyUWd6bE5qTkJNSzlyWEp0NF85S1Z0RFdJZTlONVpFZERIU1BkY2NZaXlRWW5hcl96bTBNR0J6MExQMnBUQjhlN3RvNTVDYXRILUw0X2xVY2U3RTd4LTNLQUd4MjZwanBsZHVPOWExMkEwSEQzUlVBRDd6clppOG5PSmpJUGxqNEZtdmhoM1JPczJqVmlha21vaWpaNXc?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-07T05:27:27+00:00",
-   "tags": [
-    "General"
    ]
   },
   {
@@ -532,10 +704,10 @@
   },
   {
    "title": "Naveli Ventures",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xNnVLSHN0VEdBNXdIQjNOTk9JZHg2N3F5UV9GbGluVVZNSmZlZXZRaGZFdFpMNEE0azNYNlpDU1dSX1JpSnFVLUp6OWhwSG5iVURaN3A5RQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZaEg0ZHNDU09Fb1Z2VWdzajRHdmJBUzZQY1FFMGhiYW92SFFLck14OHVCZjR1RzlxZnBCY3Jfa1ZGMFY2eDZ4c2wzaXlpUjhPRjZPbG11NWlkeUhkZXg4?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-07T00:20:30+00:00",
+   "date": "2026-10-07T00:20:31+00:00",
    "tags": [
     "General"
    ]
@@ -694,17 +866,6 @@
    ]
   },
   {
-   "title": "Italy regulator probes AI music startup Suno over terms of service",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3pHS3RlbGU5c0xFenBRMVdnVXpRT00yZGNwV1ZIdTBBSDBUMHdQVW93aWhBMGlNbUNuRlVjSDhNbzdxRUN4YXMtQ1ZTdUhqeE84ZVdDM1VSNFRMY0laQ3lEdldYOUNHWEJnVG5mR3NtUzNRLTlmQTFKdEo3Unh1ck5KMnhXWnlPNzdHSnJ1cUd3MVJ3bm5lYktXQkx4RFB3ZksxT0hMbjlBVDRkX0E1Tk9GemM1akNJcDJCU1lWN2pvNGhoYmdyT2JkVWlzUmtRTnRlVNIB2gFBVV95cUxPZl9BOE80VW85T0xSVlhydS10TS1WaHBGYlFlVXJJakhOYkJMVndYODluQ254b000UDlGSEJFTXE0WFZBS05TdnNPTXQ3YnBnQ1ROR3dwcm94Y3VkcHhIenVVWUlYNncxWi0wTmR1b1lSa25qRW85T0ZtMU1tdHZzNndNdno2a0xEMmVKVEUwTnVUaHpFd3pmczZwVUZjUm1jcXFib0RPNWJkTVloQl9VTnA5NFpqZl8yaUpoanFBZzRWbTJpV2dIZDJZcHdWR2lnVjREaEZJQ3FEZw?oc=5",
-   "source": "ETLegalWorld.com",
-   "snippet": "",
-   "date": "2026-10-06T11:51:35+00:00",
-   "tags": [
-    "Deep Tech",
-    "Policy"
-   ]
-  },
-  {
    "title": "Marico raises stake in Plix owner to 84%",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGZjRGFuVzdRRk0yX2NFX0JqeENWRElYcFpjb1NSek1ua0l2OXVqdVZnX1RNVkxKcTB6UGhGcWJqRTJzcUZVeFd1RFNWcklkVUlGRHNWcDIzalYtMGplZ081WWl2Zk5ZVm1HeEVINmJkNWEzeEl4R2VoVEg5ZnZTUkVXWTBuU0FhdW9UdFZVWi01clpOQVl6ZnFuQS1wb053bEtWRC0xTmhBNlp6cnB3WTIwdjJiOFHSAbABQVVfeXFMTS1FdUhELUY1REszLVJtYjkxTjU3U2MwY2wyanl6QVFNVUdaZnBOMWp5aDNBT2pVUDdnQzVteU1BUFI5ZGNlRkRnaUQzRzBQUXppNEIxdlNpcFlJOW9RWmZQNVVHdTBRQ2VZZDFRdm9mTUtJaDJTODlZbUt1c2MwREpZZ0ZuU1B5YWZDMWJLN1k3eHM3YnRTeDB2cGpveTJqUGh0YXNuS3l6cnk2UVdxQmU?oc=5",
    "source": "The Economic Times",
@@ -736,18 +897,6 @@
    ]
   },
   {
-   "title": "30 Investors, Founders and Policymakers join DeepVerse, Startup Policy Forums Centre for DeepTech Innovation",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzB6VVBfSDhLdEpRVzBnZDdfMVhyNm5qdE1GVWlMdXRxeTFxUjFlNHhOQ0NMX1U3NTZnVGV4b3lYTmlJU0s3MXUwMC1ra2NwQ2ZRYzk3aUdxTl9sbG02Qlg5YVRQclcwR0RYbU9DaHdOeGhsbE1na1dUUFlkRnJYUU12Mld4eDhpcm5wd0U4b3YweXVISGdoMGpJZmVRTVlEVVdSZUlzMHdGVmNkcWp2eVN0RDhkS2RLOFJsVGNRT1gwNTJrM1BuckdsbEZXVk5kY1JXNzlDbEh2NE1jVFBEU2hla2xqZ3BQYmxKMy1XWmtPdmp3U04xMG9ZajN0QdIB_gFBVV95cUxPMzB6VVBfSDhLdEpRVzBnZDdfMVhyNm5qdE1GVWlMdXRxeTFxUjFlNHhOQ0NMX1U3NTZnVGV4b3lYTmlJU0s3MXUwMC1ra2NwQ2ZRYzk3aUdxTl9sbG02Qlg5YVRQclcwR0RYbU9DaHdOeGhsbE1na1dUUFlkRnJYUU12Mld4eDhpcm5wd0U4b3YweXVISGdoMGpJZmVRTVlEVVdSZUlzMHdGVmNkcWp2eVN0RDhkS2RLOFJsVGNRT1gwNTJrM1BuckdsbEZXVk5kY1JXNzlDbEh2NE1jVFBEU2hla2xqZ3BQYmxKMy1XWmtPdmp3U04xMG9ZajN0QQ?oc=5",
-   "source": "TheWire.in",
-   "snippet": "",
-   "date": "2026-10-06T10:55:03+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech",
-    "Policy"
-   ]
-  },
-  {
    "title": "India’s cybersecurity startups face a new hurdle: proving they can protect customers",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlVOMnVmbC1vSHI4WVBJQkFpRElFTGZ4amV5RnJ2Wjd2WXVfMjVBMFBlNGhXaGpGSVJCY1ZEaWNBTVJnbDNSRG5LeVNMcjRFYTQ3SHVaQVM1cGlsNlhuNkpfZUdwa1lneW5hSnlJYjBrRFhQa3laLWRmdVJiLW8xeWp3djlrX2hDd2lwYVlxT2dtdkh6YUZBV2VhMUhXZ3BGSDdMXzZaZnJybVVsRmlwQkxTVmXSAboBQVVfeXFMTXl4WjBKU1h4T1IycVFsOXRTb1hSZ2RGeUw2d2FobkdCZHZKVmhYNm1OVnpYcXo2TkFZVUlLTE1oRjZSRVhHbW14R1pPUlZIdDFGci1XQjJ1UXg5UkpGMUw4b3hHeThTRkJkOWVDRTQ2LTRzLVpFa3hINFdZam04bkw3YmhVWlRfeGRjczdvdjJPREt3R2ZkblA4ZlpHdklOMDhkN0dEZUt3bk40b1QzNERJTWM1X25YdC1n?oc=5",
    "source": "Livemint",
@@ -768,6 +917,17 @@
    ]
   },
   {
+   "title": "India’s NDude Labs leads $3 Mn Series A in US wellness brand SuperMush",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUxja1h3SXBZOHlkaVpzWVRJUjl3RFhrQS0tZlZSX1EwYTJQOFBFQktFbUpMbnA0dVdobzc0elBRNkxJUEY5ZFNoUWQweUFZcVB2SWxERjltZWNGWmlyUUVlenVLWEdwRDRjVjJGUElwUVltWklta1ZwSm1HRVRXa1VPb2hxamVuVWE5ZjZhU2daTWdZNUJmblZnS0JTZHBSOTlWLU91MWR5RzTSAasBQVVfeXFMTy1MY2tYd0lwWTh5ZGlac1lUSVI5d0RYa0EtLWZWUl9RMGEyUDhQRUJLRW1KTG5wNHVXaG83NHpQUTZMSVBGOWRTaFFkMHlBWXFQdklsREY5bWVjRlppclFFZXp1S1hHcEQ0Y1YyRlBJcFFZbVpJbWtWcEptR0VUV2tVT29ocWplblVhOWY2YVNnWk1nWTVCZm5WZ0tCU2RwUjk5Vi1PdTFkeUc0?oc=5",
+   "source": "Entrackr",
+   "snippet": "",
+   "date": "2026-10-06T09:30:42+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
    "title": "How startups are making AI useful for India’s aspirant generation",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVliSWRBbnJlUWNLbGNEdi03cVY4TVJVZGhUNWIwY2E0NFZlTHVlUEYwMW5kRDZlcHhhSVBQOEtLcDZRaTlxcVo4Nk5fbWVuRU9DaXYxbUdSOEtiWmNTRWJRVTN2SHBnQ1BOZHBhbVluZFJlQ25rRnZuYjhLRnhrMlVQM21ZNW95ZzRqMTZoSnZINU52ZHpyUlNVbno1VzFBQWk5SUU3SXRjeHV5aTNBNnMtODNTUm0wNzU1T0xZR0JGcWFTTXUydWxicFh1NXBRSDFnX3d2UkVGZ9IB0wFBVV95cUxNZ3F3R3pPRUliMGI2aWpORUtCMG9LQ3BUY0hPaVlncG9WbXNfMVdmZXctemdhRWhzemhUYV9QUHVfaG42Z1JJdVBMbWhGMnVlQ2dmZmxVc0VKMWtZUlFIV25maDVXSmtndlk0TkFOVHNPR1dtT2ZZSmR1dUFxMnVuaElSeDRDbUNzczYtb0dGOC1mWHY1a2ZESF82UkhSVlNXVV80V2ttUmpEYnVTazh5dVFmMDc0ck5hRWNBcjBVVnJHaDQxczVKbFpPVjRwQ2ZQLTJZ?oc=5",
    "source": "The Economic Times",
@@ -776,6 +936,17 @@
    "tags": [
     "Deep Tech",
     "India"
+   ]
+  },
+  {
+   "title": "Italy regulator probes AI music startup Suno over terms of service",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYm9TdnB2bUhTZmFwZGk0c000VE02VjZnUGFCX1BuZTFoZHJEQlEyN3U2Vm81ZVZlTjVldlpCY25CbXR6T2ZYbWtSdXVhZm9MTV9LUjkxSEQ4MVdQMXZJRVhMUTBSZFdWMHVQLUlLUzBjbFJPcy1NLUhNVTBsRjdpZnRHd1FncHNCX3hDN0c5VUNIeWl2aXZLbDA1dEVOUFNzTGItbVVBM181OEpnTUU2dEFzdFBSZGN2c3NObXo2UkUyNHZsSzQ3QVh1RGRpNXNPQllVNUJrRG10Z3fSAdQBQVVfeXFMTlhiYjJFcVlwWXlkREYxd3dyb3RySkVGd0laS2c2RTBCTU9OaWtyd2lXYy1jMzlKem1TUDk1U01EX21TU1l0OTdMNHRBTFZiXzYySjZRUV9kT3hjV2NVNDNhOXEtZklwczNSZ2NlYzhQWDNOOEpnOEwtLUsxMm5WSFc2REdQNHFkVTdxT1Q1X18zZWszTWVMcUYxTjVHVmMtLU93dVVQSUpaZkthYXRLc1NkOUQ5RFZnSWN1ZThGU18yZlU4S3pqNlBuYm81Rlk3dEtiLVQ?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-06T09:15:28+00:00",
+   "tags": [
+    "Deep Tech",
+    "Policy"
    ]
   },
   {
@@ -816,6 +987,18 @@
    "date": "2026-10-06T07:16:16+00:00",
    "tags": [
     "Funding"
+   ]
+  },
+  {
+   "title": "30 Investors, Founders and Policymakers join DeepVerse, Startup Policy Forum's Centre for DeepTech Innovation",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckVYcFR5U1FwN0ZtaTlnY0pGakk0bnhNM1ZtbEFxbTV5NXE2S3pRQlBia1pnb0xKam1kNWNmRDVpeEJUZkNILTd2WXZOY2tDS19Md2ZlSWxKaXBJRmdZNzVwUW40eDd0MVRjb29FaGxJMlZ3ZkpoWHpJUFgyd08yalk3RnY0NHl6ZjhYOW1OZFFXcWc5d2d6NjJLbWZqZlhTMmp1UzFOcHNWSDlIWmtHd0hRZ18ySTBzTlF0Wm1DYThVbjNVdzNOQnRGSXRQekJWUXF1YmxwOWJKWnZ3cGFCWDNtM0dYbmlB?oc=5",
+   "source": "Press Trust of India",
+   "snippet": "",
+   "date": "2026-10-06T07:00:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech",
+    "Policy"
    ]
   },
   {
