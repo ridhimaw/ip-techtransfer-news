@@ -1,7 +1,7 @@
 {
  "title": "Pharma & Biotech Pulse",
  "tagline": "Auto-updated news on drug patents, licensing deals, biosimilars, regulation and biotech innovation",
- "updated": "2026-10-11T05:51:38.272050+00:00",
+ "updated": "2026-10-11T12:55:13.213576+00:00",
  "tags": [
   "Patents",
   "Licensing & Deals",
@@ -11,6 +11,37 @@
   "India"
  ],
  "items": [
+  {
+   "title": "Govt expands control over prices of cancer drugs with patients expected to save Rs 2,500 Cr annually",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQlRyTl85cXJNQjRYRmJwT0NhdU5vTUtWM3ZZaERnWU15NDRFcFVrOUV5SWhVOVhUejY3WWFNTUZoWjBnVDR1RngzZTI4TW0teGxxLWZMN2Fra2dtVGF4ZHIzakxzLUJ1ci1HSHJndjlXUE96TlR0eXU0YzVIdlNodTZqWGI4cU5IUzFwMk9wLTN0bV8yQzdPY0htNlN5b3ZqRFVCanI2NnN3aUtvWHpDSFlNeE9ONFJKRW5YOUhWNm9xT1hjVms1SU05QXNRSDNUSjVTV3hfOUwyRFVWenJ1Ulc3NU5JQQ?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-10-11T09:02:11+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Korean Biosimilars Target $400B Patent Cliff Opportunity",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXJucF9SMDhhb05kZEJaeHgtV0tNTTBNa21taVQ2VERjTjVQRC04Z3BJOUx0Vlh4Z1VaWVFjd0dzeTBRLXlnSjVPOGJ5eWkyU0dwOVQ0SnFtM2dWakk4a21XQl90aDdhLWhuM0JmN3lJZG9BM0k3OTJaaDJHV2t1YnpxOE5IdGwz?oc=5",
+   "source": "조선일보",
+   "snippet": "",
+   "date": "2026-10-11T08:29:39+00:00",
+   "tags": [
+    "Patents",
+    "Biosimilars & Generics"
+   ]
+  },
+  {
+   "title": "fda approves eli lilly weight loss drug",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWExTejdmcnlKenI2NWswYlNWTjJ3NVBRZjlhOEsyZ092Q1hCaDdvUVhDUmQ3c2wxcjNxYTZzQnVIOXQ3RWtjOE53bWthS3dpSmFQZm03REhRQnVfTDBQRXhfOTRzVDZxUDRxYWJuVU5INWZLS2U1azRSdlJGZGdtMm0zUDRNZDQ3?oc=5",
+   "source": "Olhar Digital",
+   "snippet": "",
+   "date": "2026-10-11T02:24:07+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
   {
    "title": "CDSCO to begin focused audits of cough syrup plants this month, DCGI tells IPA workshop",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haGZVSEx4aHVpOHFmZURLNEVUOEo4Wldac18zV0JDVDJNb3d4RnRmTm12YklHYjEtWUhsQWQxbzdpVHRoZFdrb09NdDc4dE55MUFoZnNDczM4Q1ZmaXZZa0NMRQ?oc=5",
@@ -28,6 +59,27 @@
    "source": "Contagion Live",
    "snippet": "",
    "date": "2026-10-10T20:47:53+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "snippet": "",
+   "date": "2026-10-10T18:43:46+00:00",
+   "tags": [
+    "Regulatory",
+    "Biotech"
+   ]
+  },
+  {
+   "title": "Israeli Pharma Giant Teva Wins FDA Approval for Monthly Schizophrenia Injection Weltruza",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONnY0andBVDJvbGNGeTRXVWFiWU0wRkd6dEFIdHh4ZkNEelRuLWtlX20xUzUycWFCVEQ2MHdHOVlNVFB6VlZiQldZOGxic3pId1hidUM2bnVOQjRsbm1UWFlzSlp5b3hBZTNXb1V2a3lnQ1pYR080dXJsRjVWZzZRUjBERDFvZ2xaLWQwNjdvMEtkUExCcjlwaDhvVnFfVjRjOTYyRGRtRDR6YmJ1MEJjeHkxUzRJX2c1Z3FuZTZ2YVBUalZ6cWZtdWJDUkZDVTZjMU1Dd2tLVmh0MFBjVXZmS21rQTYwUFB1NnphQUI4VC13R2V0VXlJUHEwSFQtMHpIRzNiZ282blE5SHl1dmc?oc=5",
+   "source": "Haaretz",
+   "snippet": "",
+   "date": "2026-10-10T17:50:00+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -153,7 +205,7 @@
    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOZTREM1lSdWtEUnRkQ1o2MkR1ZjZzVGJQTnM2V3N3NC1GVnRQa0MybnJTN3RrSTk1MTN3a21oNGdES3dFTHZfSl9NajVxQ1JnemJKcHFGODJMeVlJSUpWc0ZSeldqalJjQkl1QTNCbGhtMWZTVHpncGMzWl9DRnZHX0dFWnBtemJqV0VUZWFxa0tKb2diSE82elozV2hMbFRVcWVpS2hESjctejVHVGRUbno1NVVJR01MYi1HbUtKejVCOHRnR21OZW4ydVpuajFZRC1QZ2RZeDhVU3RZUlhPREZkVElyeGRENm8tcmlwbHRCTEVNempTS05VWXpiOHRDeFZMQ1NDczJQc2JKMF9ESVJIRWd6LUphM0VTSmItWFRYRldOZFc0U1F5NzFQbktzT1lxYUxkeFZsWlJ0cmw0TnVFOEJMcUw1emVyTnZsWkZfZDlqSHFJTksxX0djeTlUVHVoMDNpY2JTdHlYTE1QbEVDbno1QXhuNW9v?oc=5",
    "source": "Business Wire",
    "snippet": "",
-   "date": "2026-10-09T22:41:33+00:00",
+   "date": "2026-10-09T22:41:00+00:00",
    "tags": [
     "Biosimilars & Generics",
     "Regulatory"
@@ -173,7 +225,7 @@
   {
    "title": "FDA Approves Treatment Combination for Maintenance of Patients With Advanced HER2-Positive Breast Cancer",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaG5RMi1RVUFYaFctWVJvS3EwTW1wU0lheTExcm1PbFR5dEg0d0xIVjQybTJiWVE0NFdkdUpCaV96X0JWUnQxYWQtcERlSG14MU0xTnpQU2VJN3hQYXZVdmVUb1JnV3dkcHYwVjQwM0tiaUZMM29SS3JXVnotQWJUMHk3VjY0RlViZFJhREFWWHRzN3NQQ3pMTHNHX3cxY1diQzQzX0xpMTJCdm1mcTRCRQ?oc=5",
-   "source": "Breast Cancer Research Foundation | BCRF",
+   "source": "Breast Cancer Research Foundation",
    "snippet": "",
    "date": "2026-10-09T20:12:40+00:00",
    "tags": [
@@ -373,6 +425,16 @@
    ]
   },
   {
+   "title": "FDA Approves Tecentriq Plus Chemotherapy for Stage III Mismatch Repair-Deficient Colon Cancer",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTE4WG5NR2d2NjY3bkJJTGxUX2JJaXpNWVg2TDFYQ0tWalRCUUMzRXFDOGxiVWlKZ3ZoTk93RS02YlMteHpKMHZCQUNFWmd4eW1uX3pBdmNtTGVYTXV5aklaVi1EMy1LQ2RKcG1pelRYcjVsSjd2VUhsVlVjTXl4aHcyd3NWbDRPQlE1OTF6MTJwc185d0dFdHM3ZUpLVHJYWldnTjZSaVRyRnBa?oc=5",
+   "source": "BioPharm International",
+   "snippet": "",
+   "date": "2026-10-09T16:39:35+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "FDA Approves Once-Monthly Olanzapine Injection for Adults With Schizophrenia",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXpzd0tUdFRKdUFiT0Rnd2NnVWNOdlhIcWg1WWdWQ0pvdjBKQ2JyWHE3QlNSdGVESnZQTUFhTHZPeUQzVG1LUFp1eXM4ajdqaFhNeVFmQ2ZhWWRhREVJUU82dXVuc2VPbldQVHNYa09mam15V2h6aXM3Z3gwX05sVlB5MVE3T3phMXdKQ1RiV1d4clAwYUJmdDg1eERWR2d5UkNWbDFZbzlfMU1iLUY0NU1VSUV4QQ?oc=5",
    "source": "Patient Care Online",
@@ -393,11 +455,11 @@
    ]
   },
   {
-   "title": "FDA Approves Tecentriq Plus Chemotherapy for Stage III Mismatch Repair-Deficient Colon Cancer",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTE4WG5NR2d2NjY3bkJJTGxUX2JJaXpNWVg2TDFYQ0tWalRCUUMzRXFDOGxiVWlKZ3ZoTk93RS02YlMteHpKMHZCQUNFWmd4eW1uX3pBdmNtTGVYTXV5aklaVi1EMy1LQ2RKcG1pelRYcjVsSjd2VUhsVlVjTXl4aHcyd3NWbDRPQlE1OTF6MTJwc185d0dFdHM3ZUpLVHJYWldnTjZSaVRyRnBa?oc=5",
-   "source": "BioPharm International",
+   "title": "Teva wins FDA approval for WELTRUZA",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkVoeFNHSi1NbVdsQlFrak56VFFwOXJrT3MxTmVZZHFrdXRQZWpGV3hNYUNzNTF2em43eGNWTmhjRGhhSlJsX2JTMVpDZC02WXNxS3ROaW5LcUxIVTBZTU4wVWhmUXdjaTdtN3c0VnRDQks4QVhiOENXOU8yY0t5c3laY2JkbVE?oc=5",
+   "source": "grafa.com",
    "snippet": "",
-   "date": "2026-10-09T16:30:00+00:00",
+   "date": "2026-10-09T16:19:00+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -460,6 +522,16 @@
    "date": "2026-10-09T15:01:00+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "FDA Approves Adjuvant Atezolizumab for Certain Colon Cancers",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LckZJbGpiUS0wUERiZ1pkc0Y4Y0tTLXEtdVgyTlpYMERZZlpiblRHVk9wRHdia1A5eENtUnhjRS0wdVZqajZaUkNvUFdZWjl0ZnM0angzSVhmSFhhMkJhVHkweFBLUTM5WW5YUXplNHFXZ3pS?oc=5",
+   "source": "MedPage Today",
+   "snippet": "",
+   "date": "2026-10-09T14:59:53+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -908,6 +980,16 @@
    ]
   },
   {
+   "title": "FDA Approves Genentech’s Tecentriq in Combination With a Fluoropyrimidine and Oxaliplatin for the Adjuvant Treatment of a Certain Type of Stage III Colon Cancer",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQaEd6QlFzVkhaNzQ4YzdxQmxzSnp4N0xFbkI5cGpOM2lIVDFJcFZwb2ZDQlFLdFh3QVhYOU5fdlhJOWZ5NDBUMXZ6UnJJUDk2Wmc5NEw3eVppb2RsX0M3WTFTaUdfcFVLY1NxQmZESms2U21Kd3Zzb0FES2JTcXR4QjROd2p2Zzc3em5zWVFvOWZDVEkwbEFFczVQS0x4eTRWNzgxTVJ1MEVNenZPUGtEc1o0VmJrZzBpNFRZamhMdy1hNE5hREthREc1R19XeGplYnNSVldDaXRtOFBheEdnR0hpQUVkRlA5elU0NDQ2LVlyWG1WZnhHOUdVV0FaZEJmUjdXeTBKcXFkSVRjUnRiWnpCc3dtV3lUUUp2OWVWbWFBX2NfSlhtMk03X2RwT21KenNlWHNhVTFhZEth?oc=5",
+   "source": "Business Wire",
+   "snippet": "",
+   "date": "2026-10-09T05:00:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "18 Years of the Faculty of Biotechnology – Solid Foundation, Aspiration for Greater Heights",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlc1MG84dW9UU21DZHhnXzc2N3JwUXJpSTUya1BFMEZxZ2lmVXFMaVpaLVlHaTZOX3RkYTVSckxtTFU5dDUyZnh3Sjh5UEQ0N1lyeWZKYTlVeW1hSjBpYUJVdzQtREgyU2lCNDBmaTlaY2hLd1cyVHZSc2JURF9QMzQ0NC1mcjdCcFRmT3RhSS03dw?oc=5",
    "source": "Vietnam.vn",
@@ -966,6 +1048,16 @@
    "date": "2026-10-08T23:23:57+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "Abbott Gains FDA Approval for CardioMEMS Update Letting Heart Failure Patients View Pressure Readings on Their Phones",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekh2c19uTVJiQ2xFUWVFQlh5R3loUGVyVy02djVkN2ZzdkFGbXJvbjdIdmI5eTBJTDl4amtvVk5zUEtBWWQxUGhBQUNrQnlXTV9COUtUdVByd1ZkWnQtdkFJZjE5Sk0xRkVPcXZsZGpNbmt6YzR6Unl2azJMMGp2WUpJc0RVOVBSaGVTOGpNZ1hwcGszcWNVRXZjblJGc3pDN0d1dUlpajM4QlVqV0ZiTmRGZW5ZT2hfVTBuallvUWZyaElVbi1UVEZuNmlrYmVRcnBYLTdFdXdUU0FOM1hGSlliR2dEV3BaRjJxRQ?oc=5",
+   "source": "Patient Care Online",
+   "snippet": "",
+   "date": "2026-10-08T23:06:44+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -1267,6 +1359,16 @@
    ]
   },
   {
+   "title": "Edwards Lifesciences shares drop around 3.5% after FDA valve approval fails to stem selling pressure",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXpmNzhOTm1PUS1TVko3cXBVRUVxSWZFd1pHTXlhWTNNR3pvcEZKQXVQWWFjMXVNamxzRi1Gc3FoZG0wdmduNzB4b2c5TEZFdHVOZ0xzUDdFb1k4bGtIQnZxeE50cTU2VzZ0dVRUYjRfcllVMGhGS2pyVGp4eFdDZGZrTnJ4MXZZeFFvTG03M0ZpVC13dGJNR0hLVQ?oc=5",
+   "source": "Traders Union",
+   "snippet": "",
+   "date": "2026-10-08T15:10:32+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "Viatris to snap up Pacira's non-opioid pain pipeline for $1.65B",
    "link": "https://www.fiercepharma.com/pharma/viatris-buyout-paciras-pain-pipeline-165b",
    "source": "Fierce Pharma",
@@ -1318,6 +1420,16 @@
    ]
   },
   {
+   "title": "FDA approves Pfizer’s Tukysa regimen for metastatic breast cancer",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajktY1lCZnhkYVZxY05URzVJVk1leWhlS3dGOWJFbEJkNGJRNmdHOGtJNTdvMVh6Q25YZE0xZDVCMGtycTExMGhFUXB4aVVBZVJ1Z0ZPNFFuSnNrdlBxN0U2d1V5NE9YRFA1M3Y2ZFd5c1RUVE9KNGpIR2Z0bzdmdEpJVjFhbHJKUk9NSFJOYzNOdUwwYnc?oc=5",
+   "source": "Pharmaceutical Technology",
+   "snippet": "",
+   "date": "2026-10-08T14:20:37+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "Pharma’s $500B patent problem will come in waves — not as a cliff",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjFwT3d3ZEpRQ2hFX0FHSjNwV3BvUnY1ZEpoaWE4aTljS1VtWExLVkl2ZkViVmpJZDN6cGFMeDJUVTZKSGlwcVZydk1YLXNnSERYRlhtTWJNMURyMDlubzU2QWVQaGpsZ2hNOHZfV2I2aW1BeXFYT0xjN2RZR3BSZ3o1bkp6RFFuY21IWg?oc=5",
    "source": "PharmaVoice",
@@ -1350,7 +1462,7 @@
   {
    "title": "Drug regulator to launch ‘focused inspection’ drive for cough syrup mfg units this month",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMHdvRFducVdNa1hoc1lGd3NNSks2Y1Ruc0U3ckFaQ3dia1VveE9pTTZVNjNSck9RUXVXUWFsal9TVm9XczNpaGdfTzN6WGY2VTU2RWs1Wk1ZdThTUkM1QllDUDVEbGVmcDBUTjBLOExnN2wtZXdqSDd0MWxiaGtERGRDNnpWRnZhc0VPTHZyNFIwTFlqSHI3akxhbEFpTjVSY2FpeGJqTjR1NDBOM1I4VDU0eFU5TzZNM0w3bTFfQ1ZGRFp5aXdGOUZMZk52M2JCSG5hWWphR1VYT1E3VWR0SWN2NldpdXlOS1AwYU5iQ3BaYm9KN1HSAfsBQVVfeXFMUHFIN1NIX0NRRGhHYTBpZU9iTTE2a0U1Y3hQT0phWlU1S0t6R25ZWVNFSVZkQWptWG5uNU1zY0tfWHVqZldFV1dHQ2hEdTBFSmdkV3VPcXdxYzJ5Z2pFLW5DQlJ0RnFGbFJEV1VHV3dGb0JNYURzWDZKSE9FMjVZY2w5R0pYTV9pMzh6cTM0d19hYXRwS0o1NVktdGRfMTF0YlBzX0pzTGRkWE5aUlFmTV9LVnZiS2NjUkRuQ253QkE3bzZaRUwwblNiR3NWSm11Tk9WbEwzWDVNbDV2MmxGLW9QOS11LTN3cnB3UWdZSHZWVEdDWnZtb0EwMFk?oc=5",
-   "source": "ETPharma.com",
+   "source": "pharma.economictimes.indiatimes.com",
    "snippet": "",
    "date": "2026-10-08T13:21:20+00:00",
    "tags": [
@@ -1373,6 +1485,16 @@
    "source": "Investing.com India",
    "snippet": "",
    "date": "2026-10-08T13:17:46+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Drug Regulation That Forgets: How a Blacklisted Firm Kept Winning Contracts",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemxvejJCb3p2SHZiOGZ2ek9LX3pOSFNka3lLcW1relBRQmI4SmltRGh6RUVhWnVibWRBWkFSVEx6X051X29zaTJkSEZMRGJRN1NWVkdpXzdTeTY0ZUgzNS16R25QYXpaSXBuSGtiSDJvZFNCRFZrVk95S3ZleFQweHF2WWt1OEtEOFlicWZlamxvVjc2OHI5SnpSVG40RDZubzNjcXpuTWFRUm5yUkJzNDhrcHlRb08yODA1Sk9zWlAtcU9O?oc=5",
+   "source": "orfonline.org",
+   "snippet": "",
+   "date": "2026-10-08T13:07:48+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -1441,16 +1563,6 @@
    ]
   },
   {
-   "title": "FDA approves Pfizer’s Tukysa regimen for metastatic breast cancer",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdm9XQWRmdU9EYjJxS1RFaThjV0twWlh0cHR1S0ZVRzgzc25jc3hYUlplWlpjU0hGaVNhRU5sU3BDSDlNUnNUZ2JqcjFONGYta3RERjVQbGlKSVlVUXpiNk5WajVEdzNkYVBnSmxwbkZlSkRVXzh5a085R2JwUGVsbjhyQWFrUWNCY0lBZW1LQnIwSllqYUxRQVB6VE8?oc=5",
-   "source": "Pharmaceutical Business review -",
-   "snippet": "",
-   "date": "2026-10-08T11:47:59+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
    "title": "Department of Biotechnology launches Special Campaign 6 with focus on E-waste Management and impactful initiatives reaffirming its commitment to promote cleanliness, hygiene and a culture of responsible workplace practices",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQbG56WlJ0cVlkeXphLXBzMUU4eEQ3SUdMV2pkRzBpaExjcV9ndC1ucE8yRTZCb1laNEQtWUZsSXRvc3puamhRdWNZOUpKV3FvV3VPeVViZktScjB1UXBONlA4bk5TVDdVS1REQjhmWDFfbVVhQkJoM3d3cC1IMFlUX2lCV3M3NlE1UmVQQ0xISDZ3eTBGdHFiRXR0WEQxcDJCNTAzTmQzYnlPTU00SXNIdzZFR1RfaWJjdllQVmJNbGRlbk5BbnduaTJjU0t1anpzb0NIRVF4dkFEWHZkd0hHMlVfcnhxa1FNbDlBZkNlYlVkLTdLbjJlRXAzaUEyWXI0QkMzNldKZWRZQk1hSFVNMWZRMnQyN1hvT0l1bHh6RjF1X2dWanAtVmxadHlMenVZdXVIdGZWS3ZfLU1DakJJVm9VcUJXMXAtSlJtYkNkdm8?oc=5",
    "source": "India Education Diary",
@@ -1468,6 +1580,16 @@
    "date": "2026-10-08T11:32:11+00:00",
    "tags": [
     "Regulatory"
+   ]
+  },
+  {
+   "title": "Biotechnology Department Launches Special Campaign 6",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHZva1c5RHdqZFo5VGU5eHNkdGlPZ1hJTzFONUFseUNHdWxRNW54ZTdTdHdiSzdEWmJ2NFd6SUdjb2pCMFV4YWNWUVpfWDFpbV9OUHhUNDBEYTYwV1FxQk41TWJnQ3FMeUhydlBvZ215a1BENnF6MXZXOTlyQVN3SUhTSE94dGNhNTJOQmJhZ3dpTFlGSmc?oc=5",
+   "source": "StratNews Global",
+   "snippet": "",
+   "date": "2026-10-08T11:14:42+00:00",
+   "tags": [
+    "Biotech"
    ]
   },
   {
@@ -1559,6 +1681,16 @@
    "date": "2026-10-08T08:30:00+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "FDA approves Pfizer's TUKYSA as front-line maintenance in HER2+ metastatic breast cancer",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUw2Vkg0QVM1RDh3Q0oxR3d5Z3VLWFZEWGtaTEdpdV9NMnZ2MGttUUdyZ2pBTE9RbVUyN0tuRlZweEowNmVibWczdjZCVXk2MHh4Q0hpYmNBOXRPeVJzVDNrdTRELW9LVDFEaEl3UXBLWmhoUVFRaHdHOHJUYnNEeDRFOEUxVU1HSXlxYm1fZFNnUng4OEZpYll0NVkzZWZlanpfaUlUMm8tU0Y2bDMtWEJCRDRWdHhwaWMtR0pn?oc=5",
+   "source": "Dealroom",
+   "snippet": "",
+   "date": "2026-10-08T07:24:17+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -1660,17 +1792,6 @@
    "date": "2026-10-08T02:59:43+00:00",
    "tags": [
     "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "snippet": "",
-   "date": "2026-10-08T02:29:28+00:00",
-   "tags": [
-    "Regulatory",
-    "Biotech"
    ]
   },
   {
@@ -2036,6 +2157,16 @@
    ]
   },
   {
+   "title": "FDA Grants Clearance to Motivista, the First Authorized Treatment for Negative Symptoms of Schizophrenia",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZTJfUHFFYlgtYkpVZ1BaaVNkaHZKdGRrakJoTVIwUFBDcXBPdlk4a2ZodXJVdVlybGFvU2dCNlE1MFVyUWU3N3BRMExDLXhFN2dXNHNNRTBvenFBUHRHOV8zOEh2d3M1QzdKV0FXTXZCUkZnRFFOWl9ILWFxVGxOZEVuM3NuN1pqeE4yVjVtb0FYN3JPQTdINjZDNWw5OWxLd21fMFQ2Ukc2cEhtSU96c0RRLWhQRW5VckVxREV4QmlveHlPVUswMkVNT2FKU2l3ZXRxY2E2TnA?oc=5",
+   "source": "Psychiatric Times",
+   "snippet": "",
+   "date": "2026-10-07T14:24:03+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "TCGX launches $600M fund to bankroll Asian biotechs",
    "link": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
    "source": "Fierce Biotech",
@@ -2206,6 +2337,16 @@
    "date": "2026-10-07T07:11:18+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "Lupin introduces worldâ s first fixed-dose triple combination drug for COPD management",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0ZWE0WFQ5bjJMcFVNSWpaeXd5RUpLNW54RjVTYVIzbVNUa1hJVEx1MHZIeHg1cV9mZkNxanBaWGJaanh0YlNJelNsaUtWNUtiS1dEYUZ1VXN0QzBxbXlR?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-10-07T06:51:47+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -2633,16 +2774,6 @@
    ]
   },
   {
-   "title": "Lupin introduces world’s first fixed-dose triple combination drug for COPD management",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYWE5TWFqeVJ1TzhvOXNlR2VFc0xrYWFwTUw0YkpSOTg1QU1GVmZoNm5jeVdzeVdkbm0tcTZiZDRuQVR1LVZDdlhZdlgyRjhhWklSa244ZFhwY00zVUdBVXhRcnI3UklFSHRoSnhOcjZxUlIwUGljT0xkUTZURHdjdlhJcmNJc29zbVNET0pCQXRHUnMtU0dJRXhwY3BpZ19kUkpHTU1La0praHBYRUFnSVZFZWg0NFVrZmtIeXFPWTA3Rm5LOElDWjdnbE1ZVTZza2c?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-06T11:36:16+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
    "title": "India’s Cervavac HPV Vaccine Receives WHO Prequalification, Eligible for UN Procurement",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDNDNXJNbHpLNjNPcndOU3dpOEZXVHRfNkRFcXFuNWR6cy1rck9OWEx6Sy0wSlhDTW1DbFQ0NEZfN0tidGpZdDhvS1dla3RQZ0Vrenc2Tm5zaS1zQXFVZFlCdTRMcTNYd25QYmVQYm53VGpiYjF0LTVCMENmVXN6TUFZX0ljUFdtZ3Y4Z3hnMWVidEJNNEFFXy1USTJTMGhkZzRKd1NvSXMzTWJIQW00RWdpd3FGTTdDWTlzOFB3S1FIeUhQUFc0?oc=5",
    "source": "NAVLIN DAILY",
@@ -2904,6 +3035,16 @@
    "date": "2026-10-06T03:04:35+00:00",
    "tags": [
     "India"
+   ]
+  },
+  {
+   "title": "Happy Health’s Smart Ring Receives FDA Clearance for Cuffless Blood Pressure",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0Y4ckJueGxCdURsdEctOUZpQlNiWUNDYzdMVVdpZjVGVkFadXdyUGhCcTJwVFJ2VjFwYzVnTjBqdkFFRkF3TS1NNXA3eExYbzlEUkFQQVB5QTJ3MDVZTWIzVW43R0RCeXp6UXlDYXJILWlEUjJDdE1GSXJNaFB1Qmx5TWM?oc=5",
+   "source": "Fitt Insider",
+   "snippet": "",
+   "date": "2026-10-06T02:26:47+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -3252,6 +3393,16 @@
    ]
   },
   {
+   "title": "China pharma five-year plan Archives",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02V2U2a0xSaXNWWmt2RmRzRWdTNW5GWjJieXNOakMwSklxcVJTM2RQd2tra0RfamkySnFVMFJfdmZwOFdsTnY4MXhqNkZYdUNBTFVNOGlzQm5KUVpJVG9EY2ZfZy1iRWhvLU1wOVpn?oc=5",
+   "source": "Express Pharma",
+   "snippet": "",
+   "date": "2026-10-05T11:48:34+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Novo flags FDA hemophilia review extension tied to manufacturing site corrections",
    "link": "https://www.fiercepharma.com/pharma/novo-flags-fda-hemophilia-review-extension-tied-manufacturing-site-corrections",
    "source": "Fierce Pharma",
@@ -3278,6 +3429,16 @@
    "source": "Stock Titan",
    "snippet": "",
    "date": "2026-10-05T11:00:28+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "A possible treatment for muscle diseases gains U.S. patent protection through 2044.",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemw1ZTJIbThBMkVTTVhlUDFXcW5fT0JYRWZHVVNqRDBXaHFOcEtfZmloc1Itc3dXZ3NFSDhaV1FmZUhQSE5VWEU0Z0ZUcEpQQ1Nlb0phWEVRM3RrbjZ2LUMyTDRRQzVyaERIdjZMRW1EYVZTTVRnelo5eHRfdEVOSndTOUdub1ZYS1pfTWFMaUp3ZU55ek1mRFVEZEg2MEpuQnMxY1VaZw?oc=5",
+   "source": "Stock Titan",
+   "snippet": "",
+   "date": "2026-10-05T11:00:00+00:00",
    "tags": [
     "Patents"
    ]
@@ -3411,6 +3572,16 @@
    "date": "2026-10-05T08:30:00+00:00",
    "tags": [
     "India"
+   ]
+  },
+  {
+   "title": "weight loss drug price decrease",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MMllqOEx3dlQ4SGlwVThkYXZKZ1VCNGVkQUR2cXo0eU1mQmYyZkdvQVQwSm5Pd2d5WDItSjFhQkFXbGNVbFV2azVFM2p1S3FvT2tQVko2YVdHckFrZzBzbjZCWlNuUy0yVlJUWUNDdWdPU0k?oc=5",
+   "source": "www.polskieradio.pl",
+   "snippet": "",
+   "date": "2026-10-05T08:23:00+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
