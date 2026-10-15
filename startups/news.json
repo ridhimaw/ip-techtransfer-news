@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-14T21:44:10.373763+00:00",
+ "updated": "2026-10-15T04:45:00.087518+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -11,6 +11,57 @@
   "India"
  ],
  "items": [
+  {
+   "title": "AI infra startup Modal raises $750 mn at $15.7 bn valuation",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNY3R2MTdJWEwxMGZJdnRJUlhJZEdzbGZZdXB6VTBrQjM1Rmx0TlhkTW1KUFVEcEI2cTVCZVVVbGJnWTNPRWNfbFo5V1VNWTA4eHVfZldNTmJYQUtTYWV4UHA2QnVETDREQnZtcTE0SEZ4OGZsRDM3Z0ZDTTRYbXpYSUU3MV9TZ1dYOGlCcXVNMm91MzRPRWI4a0J1NHByVEhjaV9xNjlhNHJDR2NtaXhjQ0dsU0paX19qMFA4VEMxbWl0NlJ5S0dhY05oaDNMSnQyZkVmNXhid1RRMmtfbktpWm0wbXY0cVU4OG10VEE3OWdwSmtZdFJ0M1ZjS2xETngtSENTVDczX0ZDbG_SAcgBQVVfeXFMTk9NcXVVTEQ2VURhTjd2Z1dnWno4cEgxN0xuQW9GaUd5aUpTMm4xWEFzRU5lRWw0RUZxNC1pMEdYeTYtYkJYR05idDdKLWtvQnY2Y1l0N1FuT3JfcjZ5YlJSekt6bnA2clVyLUJnR1JxNmF6U3dNekM1cDBESHhMNkplZzNyVDdRNDNBZDJ5OXg0YUo2QVFhWnhBQlpxNmFHZ3RQV1B5c0x0M2pKam44VnRIVnl0YmI5eGlCLXF2NHl3VDVlV3VaRy0?oc=5",
+   "source": "ET CIO",
+   "snippet": "",
+   "date": "2026-10-15T03:07:34+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Tech can improve governance, says Krishna Byre Gowda; Why Indian startups should build for the world from day one",
+   "link": "https://yourstory.com/2026/10/tech-can-improve-governance-says-krishna-byre-gowda",
+   "source": "YourStory",
+   "snippet": "At TechSparks 2026, Karnataka Minister for Greater Bengaluru Development, Krishna Byre Gowda, acknowledged the challenges facing Bengaluru and said there is plan to address some of key issues.",
+   "date": "2026-10-15T02:20:02+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Anthropic Q3 revenue surges 45% to $16.8 billion as AI startup gears up for $2 trillion IPO",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWllVTFd4UGFpd2lhcW9fc3pVSGtPOTFCNVpWSkZ5dFd3VXB2dDB3T2JiQzZVZ2VhdkR6aE9kZ0JZUVJIQ3JoZnhGSUpyMHI1SFA2Q2p4Z3AyMGVDYjB3OE5RZ3BNR2Z0NzdDZUk0bWE0S2prUWhPaGc3TU9NYWt3ZHhsakpCTkplN3NucFBqX2l5Y2FueHVtYnpEQ3VuaUM3ektEQzFxdTFvenpxbHdUY2V1YXZBS2w2OUVvQUIxSzJJNGRkNTRvbHBUcy1OWk9UbWhIaWQzM3pwQjhYLWxTU0Z1anNYSDFTWjVmbHNmZHN4UGlrbzZiVzh30gHzAUFVX3lxTE80LXJZcTROMXplZGJJLXB4R1EtRExocy1ENzZfT2J6ckQxNnBGSVJXZmRsSUtoMTR1OFhsY2FzeHc1U2Z5YW45WVJUQXlOa1hBLTZ0MHlCdUVMczZEc0R1TkEzUmJRckhBQ2ZLLU5ia25sSEV0RTNVTm9mOG8xSnBOV05vTHRCcDZ0a1RzLU02WHZaVTdkTEt6NnVHTjU3NkM0Z1NHQ3FnSUZLUTJTQ2N4Nnc3LUtKRzRZMmQ0Ui1MNld1c1c3cHdYay1yZ0drZG9CNDZfUmFlUkpCa21iVXVtbENaOFQtWENYWkdDQk44WlBMZw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-15T00:52:07+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+   "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+   "source": "TechCrunch Startups",
+   "snippet": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+   "date": "2026-10-15T00:30:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+   "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+   "source": "TechCrunch Startups",
+   "snippet": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+   "date": "2026-10-14T23:00:00+00:00",
+   "tags": [
+    "Policy"
+   ]
+  },
   {
    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
@@ -146,6 +197,26 @@
    ]
   },
   {
+   "title": "Latest Sila Properties News | Sila Properties News | Sila Properties Funding | Sila Properties Fund",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hcjdjcUFTTm9yUzV3c3pqeUpuWXBkRE94N3l3WlNBWEpnWHl4Ulk2eThsWDJzWkJNNlhRMm0wVF9VYnRhaVUzc0g2eVRDVlExUmVNQ2RwTQ?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-14T14:16:37+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge: Report",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXNQeUFXbWgtM3llZFdtWEhXY19qOVZmOThPRDZMcl9jdkZySmUtOF9rRjgtZlhtVHdkdHpuWHJIV2RqVVlvS0RpeThQUktENE9HdVA0NjdBbFRPTjQ0Y0NMX2xEQ1dwcjVhVGF1aWpwWHFfemh6Y28yamdNSmpLYzRXb1F3WFBnNzVpSHNDVEtxdEF0WGJLTWptMzNSTElIeW1UeWtCc2I1NkRjd0pVamZZeVZ2SWV3eGNNRUw2dEE1U1pJMDhueTlWU3RKQ3BfN0dseDlNMTdxM2h5Mk1feHU2Y0ZlT2duWkhpRkZza9IB9AFBVV95cUxPenRYRmZreUlYTmNkZzNVMFVYSEN2ZWVrNHZWTGRzSnFWZ296WnM1UXNXLVVtZWhIOE8yT1BBNm9QZmpueDhaa3hSbk5SMnVyQnJaUW9NYVhCV3RJUlBCVGJ2bWlBdE1Oc3laeElSelJtZTFRMW5RX1o3NHRjS3pUVmlKeFpoRlRCV0hYeG1KTGdSamVxNVFqUG91NUc5MVlDLWtxU0pMaHMxWnkzMzNheFpzelJWVmNiSE8zVVhRLURnem5DYXJPRWJaSm1ja0Q2aFJEb3N5aHpWWVMzVkcwaDhkaGZCc3BzYVdDWTkyY2lyTEN6?oc=5",
+   "source": "ET Entrepreneur",
+   "snippet": "",
+   "date": "2026-10-14T14:16:24+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
    "title": "The math behind why young startup employees are underinsured by over Rs 1 Cr",
    "link": "https://yourstory.com/2026/10/math-behind-why-young-startup-employees-underinsured-over-rs-1-cr",
    "source": "YourStory",
@@ -213,6 +284,16 @@
    "source": "The Economic Times",
    "snippet": "",
    "date": "2026-10-14T12:59:18+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Latest Sila Services News | Sila Services News | Sila Services Funding | Sila Services Fund",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tdXJpOVVJY0tLaDBweFhwcDduUW1vT2VNRGN5VkdtWWEzcEFxWHQyWUNXZ182eEdfV2hRTjdrbHAwT0IwMHp6YXBuRlp0XzlxendGbQ?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-14T12:52:14+00:00",
    "tags": [
     "Funding"
    ]
@@ -636,6 +717,16 @@
    ]
   },
   {
+   "title": "US AI data center startups raise $33.5 billion in 2026",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVVN2x1WHNpSnVvVEtlZ0cxM3JTNnFfVkl4cGc0Z09lRlFmUGZhRVVyOFFfVDBlVVBvcENvUzk5YnZUZEYzclpYZFRUaFVYN1JuUmwtSTUzMmQ5TUh3cF9NMFBjUy1DaDNUOHZSanZ3OGVTcHZ4cU9uMDFyQjQzZjMyTnE5SWRLdFpXcHpOR3gxdjNNZUEzOWtMVG9UdDF4RWdpQklKbzZEcGgybV9GbC1VVlNIRGtQQWs5UjFJNjd5TWhZOEh2UHpOOTZKbkx4MFZmbDZ3cDQtQdIB3wFBVV95cUxQWE1ZWjlINW5ROFZianZKR0U3ZEtHandnUU05SDlTN2VsTmpOU29faHZ2SWZNRWN5Zy1PNWhpRE5rZWpETno3MWZtWGlmN3lsWm1Hcl9lMjFfR25peGpBODFPdkxJSWZhV3pLT3hUTXRxR2VHTXhFcnY5X2NKVUpSQXBPZUNCV2EyUFlMN29uM3ZWcTNoZVZhWUNIbDVDU0tONlk5YlJvQXRJRUZHV2tjMmdNSlJ3dFBHZ1lJRjRVWTVSd0YxNDQycFdvQm5mNGxvZkwyaVAzX01SZkQwOTRv?oc=5",
+   "source": "ET Datacenters",
+   "snippet": "",
+   "date": "2026-10-14T03:00:00+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
    "title": "Cancellation may be a creator’s biggest turning point: Varun Mayya",
    "link": "https://yourstory.com/2026/10/cancellation-creators-biggest-turning-point-varun-mayya",
    "source": "YourStory",
@@ -643,16 +734,6 @@
    "date": "2026-10-14T02:49:53+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "US AI data center startups raise $33.5 billion in 2026",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2trMlhkSHF5S3FmSmlWWDBla2swRmN1bk5HMTl3UENVNTYtc1FPMlExWERlWUpiWGtzMDNtNkphNE0tVU91bG1hZ3NtX0ozYUs5RlhKcEhOTHVaa3pFMGRSakhwMEhWbFY3V19EbE1kLUVLRzJpRTlpZUI3UVBfeGpxQWFFUm9faU1vemk0MGZnUDVBUERwUDdaNnNwMU1yX3hvdklJREhOYllhUE9CYXJoZFZzN2cxbDlGcDNzMEVONjBNWHJweV9qQm0xS0NWR3NKOEhTbDNsMXVsR0pfU1dGUTlEdGFXaGc0NHotSmUwQi1ZV2p3WE5kdkdJTW93cW05YjlVM19NWE8xT2l2VdIB3wFBVV95cUxQWE1ZWjlINW5ROFZianZKR0U3ZEtHandnUU05SDlTN2VsTmpOU29faHZ2SWZNRWN5Zy1PNWhpRE5rZWpETno3MWZtWGlmN3lsWm1Hcl9lMjFfR25peGpBODFPdkxJSWZhV3pLT3hUTXRxR2VHTXhFcnY5X2NKVUpSQXBPZUNCV2EyUFlMN29uM3ZWcTNoZVZhWUNIbDVDU0tONlk5YlJvQXRJRUZHV2tjMmdNSlJ3dFBHZ1lJRjRVWTVSd0YxNDQycFdvQm5mNGxvZkwyaVAzX01SZkQwOTRv?oc=5",
-   "source": "ET Datacenters",
-   "snippet": "",
-   "date": "2026-10-14T02:29:57+00:00",
-   "tags": [
-    "Deep Tech"
    ]
   },
   {
@@ -1673,6 +1754,17 @@
    ]
   },
   {
+   "title": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkZGX1hlZGRHMzBBUzZkUG9LcnVlUS1qdF9ydDVhSnBzMHFVYmZMRm5fUUF0UFd6cDRBb2hqYlNodnFoR18xcnVqY3RocUV4b1JVWVJRTm5wTDdXbmlhMUQzc1o1ZDRuOF9LOWZmdHdQWll3ZXEtTHA1M0ZFTklmaHZ3WmNSMlE4dGZDSFp2RlltYlJxV1Joa01ieWVlWnIxUy0tVmRGdTR1SWlnZVpKM1RHNm5nRWZvR3JtVEo3bnJLQ0pjU2lrMHlTYlVwMjE0QmFzOFEwMXU?oc=5",
+   "source": "Business Wire India",
+   "snippet": "",
+   "date": "2026-10-12T14:02:14+00:00",
+   "tags": [
+    "Incubators & Programs",
+    "India"
+   ]
+  },
+  {
    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
    "source": "TechCrunch Startups",
@@ -1704,10 +1796,10 @@
   },
   {
    "title": "Garuda Aerospace completes pre-IPO round; Karkhana.io raises venture debt",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFNJeTZQX3Myb241eV9UVEVSbXRkSnA1X2pwWmd1V2tZQ01tZnk2MkxJUXVlMUlMSDVuWllEbVAzeUp0TGM0MHJfXzBycWlYd24yTVVIZDlVUk5pSkJXY01ZYkYybG1DZ2lWT2Z2VnplVEhIYmRXZjQwOFdDQlVlYmxCZ09pMzhqZ1VkWFdTSldlNl8tNVhBZ25Eb03SAaQBQVVfeXFMTVRscW5vekxBbklFc0NXN2daZHhVSm5nQU0zRHhHajF5Rl80MHFpVjhnaWhKLUMzUzJRQ21vTngtemlNWFl5Z3BsQWtMWGNvdTBjYWNDMTZ5YmpBX1FyTGQtdGFnZ180WVdlUXRfVm5NSEh5d19GWHd0YnYwUmo0LU5OX24wOFRHT19LWms4MTlmWno5SU1fQTZ0YnE0Q1NIay1fYVc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGxxbm96TEFuSUVzQ1c3Z1pkeFVKbmdBTTNEeEdqMXlGXzQwcWlWOGdpaEotQzNTMlFDbW9OeC16aU1YWXlncGxBa0xYY291MGNhY0MxNnliakFfUXJMZC10YWdnXzRZV2VRdF9Wbk1ISHl3X0ZYd3RidjBSajQtTk5fbjA4VEdPX0taazgxOWZaejlJTV9BNnRicTRDU0hrLV9hV9IBpAFBVV95cUxNVGxxbm96TEFuSUVzQ1c3Z1pkeFVKbmdBTTNEeEdqMXlGXzQwcWlWOGdpaEotQzNTMlFDbW9OeC16aU1YWXlncGxBa0xYY291MGNhY0MxNnliakFfUXJMZC10YWdnXzRZV2VRdF9Wbk1ISHl3X0ZYd3RidjBSajQtTk5fbjA4VEdPX0taazgxOWZaejlJTV9BNnRicTRDU0hrLV9hVw?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-12T13:18:05+00:00",
+   "date": "2026-10-12T13:18:40+00:00",
    "tags": [
     "Funding"
    ]
@@ -1783,17 +1875,6 @@
    "date": "2026-10-12T11:16:53+00:00",
    "tags": [
     "Deep Tech"
-   ]
-  },
-  {
-   "title": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSU4tNmZBbW42TUxpVE45cFl4TlI2aklDSWFwdEYzYkh6QXAxYWNNczlzNFRrNXJvT0dRVUdlTWp3YWRKcFdzZ2ppQ2tXRG1lNVdHOVJsbjRTNW83cVBNZ1RLTE1CQzBTTEtvVXR3R3NqbDBQaFpDaW1GSEZDRjlRdzB4dUVyUGhJeHR6aGRnZ3RUc0xRUHJnSmJmWUlkQk5xX2pDVURTYkxwbEdCMEZJaEJSNl83aWdSRFVLMTRETjAzOFJtVnNfb2I3VFI0R0ktV2lxLW91cmJQMF9rM3hWLWRTbHl3YVFz0gHoAUFVX3lxTE9JTi02ZkFtbjZNTGlUTjlwWXhOUjZqSUNJYXB0RjNiSHpBcDFhY01zOXM0VGs1cm9PR1FVR2VNandhZEpwV3NnamlDa1dEbWU1V0c5UmxuNFM1bzdxUE1nVEtMTUJDMFNMS29VdHdHc2psMFBoWkNpbUZIRkNGOVF3MHh1RXJQaEl4dHpoZGdndFRzTFFQcmdKYmZZSWRCTnFfakNVRFNiTHBsR0IwRkloQlI2XzdpZ1JEVUsxNEROMDM4Um1Wc19vYjdUUjRHSS1XaXEtb3VyYlAwX2szeFYtZFNseXdhUXM?oc=5",
-   "source": "TheWire.in",
-   "snippet": "",
-   "date": "2026-10-12T10:46:39+00:00",
-   "tags": [
-    "Incubators & Programs",
-    "India"
    ]
   },
   {
@@ -1981,6 +2062,16 @@
    "date": "2026-10-12T02:03:00+00:00",
    "tags": [
     "India"
+   ]
+  },
+  {
+   "title": "The ET Startup Awards 2026 special",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOUxSR2o2d0tMVm5NeWp5MkJnaUtYNHZYbGdKYmZSUUlFUjQ4QXhxZFp6UHZtaTZVNHgzZksyeXZ5NkxLOGRFLUlHcGlLbl92dnFJV1E1cTlJMjU1V3g4c3NIOWxyY0JlMGRjZm8ySWhiRXBlY05fTzJnN0VnNzNianFycXZmQ0lnd3BDNW9aaGJvT29DcE9yaV94MVZOYXU4MXlVMzdNNlFjOU9ZY2EyTVVSNXZXZnU1WkNURnlYbjBGX0k3MTI0Ykdub9IBxAFBVV95cUxPRGV5bHVRN2l4eVo2N2h6UnlWako1dC1UbzF2QkZ5S09FMXgwUjZsTkxoYXdiV0VCZmRxdGxLbGQ5NEZKMmhJSFptQV9qRUxwMzRybmNHdEo4QnlMRkNRNjZqalpCNFJYT2VlRkJqYXM1cTZWT1VRQXlaMDBLQjVTeUFOSHBUckRJcEp1NW1ZR21jM3Zwak1tdnBUUnBkM19tendtY0lpV21tTlp6ZEJLRFRVQlpqOXp4Q1dmSldfNVRqbUxw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-12T02:03:00+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -2580,16 +2671,6 @@
    "source": "The Economic Times",
    "snippet": "",
    "date": "2026-10-09T15:54:57+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "The ET Startup Awards 2026 special",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRDMxdGVaYm93VFY0dVd6bnkzN081TkJRNDZyekVUc0R2bkM5cHdwQWl3d0lMcmlISFJyS2lGZTJVMExUVkdpazNaVU5ub3BXS09iNzV4VFQweWFYMFQ5cnppdC1rRUo1S1RuUThGZTR5YmxBTlkwMUlhVURDTmM0cWhSZHMwRzRpcGtmUW5xekJhb3RCUk1Da1JtVHV2SGZ4dGhfUk96NmYxQWdieHR4Qy1DTXlKRWhFaVJvTXBKZkREamfSAbwBQVVfeXFMTjhiTmFtY1NudnpncGxqOFF0M1laQlBFcEhidXVrV2diUEc0RDBPb3FncW1oQndkUmE0MzU3WFNpN2U4NzJrQ0thbE1STm93MWdsb0NXenhPUlY4MnJPenNrS2EtelZpUTlfSXFTQlhncGlPTmUya2VTS2J6M3pfMlRNT2ZLeFZ6b21zYkRnQkVyT0pQQk1jNWNNdS1URTlXeE5WZUtZOElTVlIzckRkVmZ1ZHZJdmltVkJPb1k?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-09T15:36:00+00:00",
    "tags": [
     "General"
    ]
