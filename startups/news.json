@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-23T17:12:04.971657+00:00",
+ "updated": "2026-10-23T21:27:10.335449+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -11,6 +11,87 @@
   "India"
  ],
  "items": [
+  {
+   "title": "VCs, Superhuman Mail founder share red flags about product market fit",
+   "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+   "source": "TechCrunch Startups",
+   "snippet": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+   "date": "2026-10-23T20:57:13+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+   "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+   "source": "TechCrunch Startups",
+   "snippet": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching,…",
+   "date": "2026-10-23T20:03:14+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+   "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+   "source": "TechCrunch Startups",
+   "snippet": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+   "date": "2026-10-23T19:25:13+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+   "source": "TechCrunch Startups",
+   "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing…",
+   "date": "2026-10-23T19:06:23+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+   "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+   "source": "Crunchbase News",
+   "snippet": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab…",
+   "date": "2026-10-23T18:51:22+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "ETtech Deals Digest: Even, Different lead as weekly funding hits $246 million, down 27% on-year",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX09NWmtaaW1VMmtPOUl2OFRqNHRpZ2VXVlQzc1BSUVlHUlN1YVZNck90eVpYX3hnV0x2Q0w0UW1IRmVaall0VnM0ZW5YYTk5Ry1TeGNtRW1ndi1ZXzgtcnU1RUJ3aGk4LV9tb3FEWHRwYzFJdFdoUXM0VFBlQlU0cjZ3VlNyd2R3MWRCTkgtMDhlZlhSbEZjdWo0Rm1NNlF1Nmc3cnhIRlowcXhvZHJxNktmMHhTQUxkOEx5a3dfYTZudUxFMk8tU2V1Nm9ENzhHTE9mVmJIXy1VSGcwdTBjY0I5RE9keWNSYi02cFhNVVpLR2pvUDZxTmV0SdIB9AFBVV95cUxNMVlDNllnMWkycUQ5LUxNQkM2SlNsOENXMENoQ2R5bGlESjZYZ20wUUZkdnc5YnYyWmpWZVFVek91ZUxKOWlqUVpqLVhjMHV0UEtfSFl5OFNUbTlHS1Z4R1hjeXNNNE1SY0pZZWsyYVA0clhybWNfa0gwNEt3TENLQ3BYWE41cTNrSmN1M3RYaGhIX0RabWVlWTFBU0F0LUpuWkRZaWZsclVzODZMTTA4SFhzRjBVLUF4Y29sWTFlcWFaaUM3VVpkT0g1QzQtV1BGaFNKWHRXbHpqTERsSzVPZnVFMG9RTU9Id0ZIbG5QSnR3OU91?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-23T17:55:26+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Meet Lauren McDuffie and Rachel Albers, cousins who launched a salad dressing startup; they made $2,500 in",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNVlRDcWFSaFJCdmRIWGxGbWpfNllHang2VHF0SVlQM29iVFpoMW1zcVhwdXpidHgxdkowaEctUmpoTFhJVXkyakgzVC1xRlAxY1k5bTMwZzY0d0ZGTlExZldRbEJnWE16UGlIZG9BLTRFcTEzWGotWE1lemJUZnJZWVExTDhIRWJla3RVWVhLSUFmbFp5OTNQcFNsdmU0akpMRE16Snc2cXl5Mjl4eXhpMFpWMzJibFN4dmE4b2U2eXRTc01HNUFfUndFMkhpLVdtYXMxcmNEQ1JDX1EzaE5aSG5fODM5YWxpelN4eUJFRWRKSmswbzNqVFFQcXZ4dlA3ak9uTlFQVk53c0c2dVRxSWNiMm83V3J4V3hqY0FGU2hub2dHZHhQSmRadFBobG5IUG9sUW1HVmJLZmxfRkc0R0130gG7AkFVX3lxTE83X3ViY3VYTjZkVWRQampYTTNoVzY2a0dPMW1PZXpxNl9BVVA0aUZ4QU4zSU1WUjg1d3Y1RlFubTQwWDVVX2VOZ2NrQ0x2TzhXX09fS3dSOHNJUzk0ZE5Gck5yYVE5SkE1UkFFc2duZFl2V044cWMtdVlrUmJWYk5JdG13Z0NKZWdDUVRYUWJ1OG1ISkc5SXlqdXN6c1l4UU95SUIweGZCcnZJVFphWjd1TXU3RFkwQzFmcUVaelg4RXFhRndJSG1jakplMkxEZ1JhZ3BFS0E0amhET3ZqcTlGNGdWRUVZQVFGb1lfeDVTR2Vja01rMEpfWmFwandjYk12R1pyZ0RQSjFJVGhCNDRvQTBxR0o3TjBaMlAzU2NiYUhvTy1ubS1BOUJMMDZQWVB2ZUYyLVRCdkxkdw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-23T17:47:18+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Tech News | Startup News | Funding | IT | Crypto",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQ2YwV1JnV1hqYWFCekNWZm5uc3U3Szkxd2k0NUY4MTNJZ1ctSXZWLTFOeF9YMG96MExXTFNfNmdaLXhTVkJFQUhCd0FfOE1aTkNNX1FGN3U1Tk1VcWJ5MGVNS0pac3NRX3dXUlVR?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-23T16:27:53+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
   {
    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
    "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
@@ -97,9 +178,19 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWVjaUhjbzNkY1NqQllGQkQ3ZDB0UnhLUUlZYUlDRmNzcTBfWU8zcGtjYW9BcTVGYXIyTVdYX2lsU3h6QllYaVNiakFxTjlLNHF1V1o0SlJiVlZSY0FKR3NoVkhnYUpDNlNiakVYRnVaaU0tYXNESVlEcVl5bW41ZEVJdV9ta3p6aVBvamVHcDZ4SUFIM0ozNHFUaXhrOWNYS2pPb9IBrAFBVV95cUxPOUhCdFhKU21sbkFxak4xaFcxUnFodUx2MDZwZXRIUlVURnlFYzEzdTF6alZQeU1RRHlPck1PVlY3aFQxelJkRG9VYnNGd3N6NkRJbXpWV09QZDh5TmhzaFFrSU92U3drSmxyY2tuUlE3V0VydXpXQnBGSU5KdlJVX3JXR3RGdFN0VXhwSzVlQ2FzeldEdEZBbk9EaUwzMzVWakIxVTBJUFd2eDUx?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-23T13:17:22+00:00",
+   "date": "2026-10-23T13:21:06+00:00",
    "tags": [
     "Funding"
+   ]
+  },
+  {
+   "title": "Early-stage VC BlueGreen ropes in venture partner for South India expansion",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2FteVNZZmRVcl9YZE5WRzVCcnNiOTRrTzhNX2xrZWVNSWFzY1l6U1ljeklqc0swbHhJYmJSSUk5WElDQnhlQW8wbDZfUTZoa3JfTW9fMzlZMklTSGFpU1U4M0JTanhETGhLV25xaWYwM2J4NUItWkJKQXZsQVl4bllSSjJqY3kxcEl6TEdOZktDRW9qSkxoa21uOW0wSExh0gGoAUFVX3lxTE9BaGl2ZGllRGc4YW5VYUJIVlpCYmwyVjRpdXcyWnlyS3FxZW54MEYtZjNka19Qd0tuNUM4TC0xYmd4UGg3X0hpbDhwSEhiS1JFdVVYMFl1VEl3NnNpZUJNWnFsN0FzWGVSTkZvcXZvNTdLRXp0Wlhob0xPYzBVMFpzMGIwa042N0ROY2FQRks0dlBVTWxaMTM5a0hSTlZYSE9ManEyb3Q5Vg?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-23T13:21:06+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -110,16 +201,6 @@
    "date": "2026-10-23T13:16:38+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Early-stage VC BlueGreen ropes in venture partner for South India expansion",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2FteVNZZmRVcl9YZE5WRzVCcnNiOTRrTzhNX2xrZWVNSWFzY1l6U1ljeklqc0swbHhJYmJSSUk5WElDQnhlQW8wbDZfUTZoa3JfTW9fMzlZMklTSGFpU1U4M0JTanhETGhLV25xaWYwM2J4NUItWkJKQXZsQVl4bllSSjJqY3kxcEl6TEdOZktDRW9qSkxoa21uOW0wSExh0gGoAUFVX3lxTE9BaGl2ZGllRGc4YW5VYUJIVlpCYmwyVjRpdXcyWnlyS3FxZW54MEYtZjNka19Qd0tuNUM4TC0xYmd4UGg3X0hpbDhwSEhiS1JFdVVYMFl1VEl3NnNpZUJNWnFsN0FzWGVSTkZvcXZvNTdLRXp0Wlhob0xPYzBVMFpzMGIwa042N0ROY2FQRks0dlBVTWxaMTM5a0hSTlZYSE9ManEyb3Q5Vg?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-23T12:49:20+00:00",
-   "tags": [
-    "India"
    ]
   },
   {
@@ -193,6 +274,16 @@
    "date": "2026-10-23T10:59:32+00:00",
    "tags": [
     "India"
+   ]
+  },
+  {
+   "title": "Number of space startups have gone up from 1 in 2014 to 189 in 2023: Jitendra Singh",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZnZsX2U5U3kwQmY2bVVsR3o0M3MwY3k5dmlXLUhVUXNpamY0TnRXclByMVZfMW54aXRmV2dka2pMc1N3SWdodVUwb1Jqck1aa21WRFFFS1hzVFpBSVlOTGFTQzAzUW9DcndRck9DSjROeEI5ZWxNM0Z2Tmh3V2lnamNpcTRIek94UWhkM1ZxYzR2TmRlZ095cjJaTWNSb2xXZ1pBVjRZZzY0QlhLeFFmLWhHUldPeEs4Um1DWHBWblJRYUVMcEwxQkhFbEVTWHhpM2hpZFJTcXNwb1g3UFpoeFdOMTh5SFZ5empDOWxMQWw0eUNWQ0HSAfABQVVfeXFMTkN1OEgxLVJrc2dLcW1lV0FqMTh6bUJMYTltTFpMakRpa0xvbkxpcUVrZmZVdWd4cC1EcU1wTFFfbk5STUI2LTk5NWpkS0lpRzJKRDlzWDlwcjctbzdjNER0bzBUbm9YWk9TNlNOSUl5NWxkNHBQVVdkeTE5VF8wWkxaanhPbGdHV3dpc2syNEc0OXhPekRPbU9ISGJRZkc2TUhGazVlRDhLQUREZlZScUdLVThzVnk0cHN1VkxBeVVZZjlUUXpJWXdXN2xmS1BXXzI4c1V4NVpQaWVaM3BZYWNDd0J4Qmhjd2hHYkJta3Fl?oc=5",
+   "source": "ET Government",
+   "snippet": "",
+   "date": "2026-10-23T10:41:21+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -431,7 +522,7 @@
   },
   {
    "title": "Ex-OpenAI’s Kevin Weil, Former Meta AI leader Manohar Paluri's startup bags $215 million from...",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNOGtCVjZJcXZKcUlLZ3AxSnAyTG9qZFRDWlNzb0RWUVBjRWRoV19YeWJGM3M4bF9zVGozWjVCcFBMcHJaYlRXclptYzRFQWdUeUpVS3E1am5mTDhlWGJqWFJTNzdMYmotOWpyUWo3XzAzcV9zUXlHdGJzVTh6eDZPUFNCVVBTU1dycFQtTnJZanJpQ1E4YklVRHdSdTZreTJOellXQ0puN3lwQjFRX1FueHZsZ0ZSYUNKSUdIVlJIeUpQY1Y3dG5kcmdLVHVvbU1ZQmVhTW9lM2tUSFBHVWFyNDJMV3lKZ3dpaGQybFdreHpRVlZFbzdRRm9WZnRVZUMyN3U2X29VYlVVZXpNc0xxRTZBUVZYcHNoSHBsa9IBnAJBVV95cUxNOGtCVjZJcXZKcUlLZ3AxSnAyTG9qZFRDWlNzb0RWUVBjRWRoV19YeWJGM3M4bF9zVGozWjVCcFBMcHJaYlRXclptYzRFQWdUeUpVS3E1am5mTDhlWGJqWFJTNzdMYmotOWpyUWo3XzAzcV9zUXlHdGJzVTh6eDZPUFNCVVBTU1dycFQtTnJZanJpQ1E4YklVRHdSdTZreTJOellXQ0puN3lwQjFRX1FueHZsZ0ZSYUNKSUdIVlJIeUpQY1Y3dG5kcmdLVHVvbU1ZQmVhTW9lM2tUSFBHVWFyNDJMV3lKZ3dpaGQybFdreHpRVlZFbzdRRm9WZnRVZUMyN3U2X29VYlVVZXpNc0xxRTZBUVZYcHNoSHBsaw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTm8tbHVPb19nbXlMS0VnZHB6OVh0VGl3dFhUSFZBa1FYRkNRMF9EME5jMHBOM2lqeUROSmRwQlR6eTZCY2hzQVJidkhLYmhPVXVJemFxUHNyM0Y3eXFtVkF1TU43eFE2LUVkcHRHS2JJQ2hFUmIwbUR1QjlLdXBlNy0zVTVManJmS0xNZmxFSVRBbGh4WFVlVG8tZ25VMFpxQnRXSXhBczNvMVB3QllkbkRMck5Fb1hSbEI2T05NMGY5ZGItTVRLZjdNSU54LS04UEZjR1lQTUNmMTRabTQ5ZHM5cDRPWnpRbXh2T2pSZXhfbTc2ZFdFaHlZNFRWOE5qNTcyYWtlZk9iUnl1QW9UR2swaVMtM0XSAZwCQVVfeXFMTThrQlY2SXF2SnFJS2dwMUpwMkxvamRUQ1pTc29EVlFQY0VkaFdfWHliRjNzOGxfc1RqM1o1QnBQTHByWmJUV3JabWM0RUFnVHlKVUtxNWpuZkw4ZVhialhSUzc3TGJqLTlqclFqN18wM3Ffc1F5R3Ric1U4eng2T1BTQlVQU1NXcnBULU5yWWpyaUNROGJJVUR3UnU2a3kyTnpZV0NKbjd5cEIxUV9Rbnh2bGdGUmFDSklHSFZSSHlKUGNWN3RuZHJnS1R1b21NWUJlYU1vZTNrVEhQR1VhcjQyTFd5Smd3aWhkMmxXa3h6UVZWRW83UUZvVmZ0VWVDMjd1Nl9vVWJVVWV6TXNMcUU2QVFWWHBzaEhwbGs?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-10-22T20:59:03+00:00",
@@ -1070,6 +1161,16 @@
    ]
   },
   {
+   "title": "Latest Stargazer Fund News | Stargazer Fund News | Stargazer Fund Funding | Stargazer Fund Fund",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kUVhZTmg3eGNXVnYxZmgtRkw1NDhqaVlMcWtpSHJyM3FQeWpaWXp6WWY0ZjFsQ0FpQVZuV181ZU5NeGxZWkhoenNoSGhvSllYUHdKM3NR?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-21T14:30:25+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
    "title": "Finance influencer V Harish dies by suicide; father alleges cyberbullying",
    "link": "https://yourstory.com/2026/10/finance-influencer-v-harish-suicide-father-alleges-cyberbullying",
    "source": "YourStory",
@@ -1445,16 +1546,6 @@
    "tags": [
     "Funding",
     "Deep Tech"
-   ]
-  },
-  {
-   "title": "Tech News | Startup News | Funding | IT | Crypto",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sX2dPUEE2UFpBZXgySU84Y0ZObXo4dWc1eXBOMzJveTlyazNQOFo0NVZWSUxQUUJnWlhjajBJSTZoU2lkbnJTbmhSQ01UbEhkMUpJenBSWHZtSmlQZ1VPNQ?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-21T03:42:31+00:00",
-   "tags": [
-    "Funding"
    ]
   },
   {
@@ -5074,100 +5165,6 @@
    "date": "2026-10-13T05:55:26+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Toothsi Parent MakeO Raises ₹90 Cr For India, Southeast Asia Expansion",
-   "link": "https://inc42.com/buzz/toothsi-parent-makeo-raises-%e2%82%b990-cr-for-india-southeast-asia-expansion/",
-   "source": "Inc42",
-   "snippet": "MakeO, the parent of clear aligner brand Toothsi, has raised ₹90 Cr (about $9.4 Mn) in a funding round led…",
-   "date": "2026-10-13T05:40:25+00:00",
-   "tags": [
-    "Funding",
-    "India"
-   ]
-  },
-  {
-   "title": "Fintech funding rises 14% to $2.2 billion in Jan-Sep; deal count falls 41%: Tracxn",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYWUtbm55MWdma3h5MUdaNThSaWdyb21MM2FTMzl0VFlWLXduak5fckl2ZjR6NFd3dWIxZlBHVnRsd0otSmZPSGF2VUVKd0pJSE45NnVFOTJwVHRRNWhXM3ExSHg2RHRVOVA4aFYxTWZYU2dHNFlnNVl6V2tVZHJlSmtYZ01HRWlfX0pGWUljSEl3RlMzY0JGN1dpV0VTWWp2R0U2RGZMaXJsWEhHTDFvZ1p5UEd6MXB5elVvWVZmYmpDcTMyYnJXWWUtWEVLZVVIQm1mUzdRbTg5d0I1VU5KTWpoM1dMSUs00gHiAUFVX3lxTE9GVWpUbGFZdkxzS2hWNDNSNnQwZzNrR0R0TndiOE5Wd0VLcXBfTEVYTXhZeHUySE1iWlcwQ3dwcUxiV1FwYnRLWmFiWWFsR0FpWWE3LVZxY0pMVTYwNHRRbkRNdU5IdG10ellBSldrYzJYT0l4TFhwb3Qzd0VKT1BrYTd0NnJRZG9YZFpBVnczeTdDNS05bUk5VDFVX3hSVXkwSEFpcHFzSXBMVXhqVTN4V3JueWVSZGR5TGxFQkhUakVXaTBiV0hZNkc4UWNTWFJ4dktEb1JCRFJ5Nlh3dzIyU0E?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-13T04:49:45+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "NuSynth Technologies raises Rs 36.5 crore in round led by Avaana Capital, Shastra VC",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMnJtUmxFXzNnNzQzRUlQZ0ZTNkFUY1lUMGNZSE5CcjRvRlVHaVpjVUo0S2NhUjVEZWZGbVpCR1FfRERxOHFNV3M2dUFySWNYTkhBX0NVMGtuSUpwWEM1OEdUaWgwYlBud3h3eGZYaHJLN2lFNnNtalVtS0tXSUtqTzRmSHVLNGQ2M1NFRVYwTFdVTXRKbXptU2V2NWhid3llM1d4QUxVTFpoaXplc09JNnJHdGtMdlpRRW11RnVFSHZLdTVacEM1Uy1yQ3Q5OVQ5VG5zUlJRRjFaUEJQSW1pTUhkRTdDRFZmbmlYLU5WOXjSAeoBQVVfeXFMT2wxNVdUTEJsNDE1YVhsUDIxNlhWNlpBS1VVb012SE5rdllYSGY1QTZXS3M1LWg0QW4tQUZJb3czTzFXSGkxTlpkTGhiWmFNNWhuMUMxeXRweFd4LU1yR2I5bGF3OU1zbTFnbWZYOXphOGVqSmhQNjRsS0g1U2lJOTFoSjJTOVlIV1dzdnFXSG9VQklzQW9sQjk5allwM3ROSVBJVWQ0RXJQVWlmQi13RjlndEEwWXlYY3NmS09XRW1GR1JBeU5uSW5xWHBQNDAzUmhhZ3kwV2I0N2JrRkVaZFRMQ2l6ZkNVS053?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-13T04:37:56+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "UP CM Yogi cites rise in women’s workforce participation, startup leadership",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaDJTWUFKSTN5YlRxUllrNHg0ZlpQYjFfS3ZVN2lFME4tUzV3ZGl2TElHNGR3VEJJRXR3cDJTUjg1a0JSMEQ1Y3JUX1lYWWw1a2xONGxMME9LQU9Ca0lMbjNYV1gyVlRSLXBkQUkyVzIxT2lVUXVqSUpJQzBtM0hsZkpGbzhfS1RQc29nT1dadEhXMkVoVy1XZUlnYzg1MU1LMmtIeTRybXd4Yi15LTQ5X0xOVEw2SEN2SV93ZGppZjZrWm04?oc=5",
-   "source": "Livemint",
-   "snippet": "",
-   "date": "2026-10-13T04:28:54+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Mesa School of Business raises Rs 110 Cr in equity and debt",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWNTWVlXV0VyclhxWHNjNzFZUUhLTHg3eUZoOG9xcGVPcWNrN2NWVkotNzJSb1hjY3VqMk81X1V4Q093QVdHcFB4QWpxTGFzeDNwTUp5eS1SVHlnS2dZbmNZNGRDcVhBR2VoSERYS3RUSFBiWEs4bXU3QmNVQnE0ZWU4ZXFMSlhKeVdmTVJVZjdjSWltVDV0djZ30gGaAUFVX3lxTE5hY1NZWVdXRXJyWHFYc2M3MVlRSEtMeDd5Rmg4b3FwZU9xY2s3Y1ZWSi03MlJvWGNjdWoyTzVfVXhDT3dBV0dwUHhBanFMYXN4M3BNSnl5LVJUeWdLZ1luY1k0ZENxWEFHZWhIRFhLdFRIUGJYSzhtdTdCY1VCcTRlZThlcUxKWEp5V2ZNUlVmN2NJaW1UNXR2Nnc?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-13T04:23:15+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Ex-OpenAI researcher in talks to raise $15 million from Peak XV, Bessemer for new AI startup",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmtrQ21MZG5lNGQyWkU4M2JPMDhtYXlocTJSclRWRG5uUTNFc21qMG5hS0o4LUdkTHZ0YTRMQk1SSzhZOVBwUmVieFVoeWxzNGRseEQ5Um1rM2N3NlJyU1FRdXZJNUp3R2hzMHhXUTZZaTdpcXV6ZUI2ZXpxcFNzaW54VTFocHJDcjJDLWJRTzlqYW5Gb0JvVnVvTTR0U3ZKRjM4OTV4QUQwYWVlaUpuNVdTS2cwQm9LSi1xMGItOExnOHRwLWdNcWEwMXBWYUxfbVpadlRlVWYwNlptUFVFTEVDbGRadW9zak5R0gHwAUFVX3lxTE1lNy1fanVoMHNrMEdHX3EyZUJndURaLURDWVpqeHN2LWlQTXNnRW1zdmhiSExmanZpb3ViZHJ2b0VoaHlyblpaTXJzNWdZamlsckQxMF9VNFlBZVFkT2QwRmVFMk1NOFp0ZzlzcGtwY2dlTC0tSGNKcVRiWk9vX0hSTS16eFM5cFphOFFfMk5lQ04teDhfdEl3VllkaFBsMlBvcUhPNXNRSW1FcENnMmx5Mlp0WmZnUFVrRjFtQ1FuNHdQWEMxWENhVWdzTndFWTZWemN3bTExbjFvT2I0bTZ3amxpZkR2bzBwWjVmaDZlMw?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-13T04:12:46+00:00",
-   "tags": [
-    "Deep Tech",
-    "Spin-offs"
-   ]
-  },
-  {
-   "title": "European+tech+startup+news",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00QWR5bWJfR2Z2cG5xWkVRaDlrTmpvZ1JMa1BaNXJCYWxzUVhCNnRodmlJS1Y1S2wtU2RWUkNmdGhwaGdWR2tvRnVvZjJpbnh3TUdScUlrVldDUUR0b2hjSzZIQ0FFMUlMSWViM0R6WFdhdWV2ZVhnMGkwMTJOUQ?oc=5",
-   "source": "ciome.economictimes.indiatimes.com",
-   "snippet": "",
-   "date": "2026-10-13T04:08:59+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Mesa School of Business raises Rs 110 Cr co-led by Dharana Capital and Elevation Capital",
-   "link": "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital",
-   "source": "YourStory",
-   "snippet": "Founded in 2023 by Ankit Agarwal and Varun Limaye, Mesa School of Business will use this funding to build on AI-first curriculum for existing programmes, launch & grow new programmes and build strategic partnerships…",
-   "date": "2026-10-13T00:40:00+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Mesa School Bags ₹110 Cr To Launch New On-Campus Courses",
-   "link": "https://inc42.com/buzz/mesa-school-bags-%e2%82%b9110-cr-to-launch-new-on-campus-courses/",
-   "source": "Inc42",
-   "snippet": "Bengaluru-based Mesa School of Business has raised ₹110 Cr ($11.4 Mn) in its Series A funding round in a mix…",
-   "date": "2026-10-13T00:30:58+00:00",
-   "tags": [
-    "Funding",
-    "India"
    ]
   }
  ]
