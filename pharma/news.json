@@ -1,7 +1,7 @@
 {
  "title": "Pharma & Biotech Pulse",
  "tagline": "Auto-updated news on drug patents, licensing deals, biosimilars, regulation and biotech innovation",
- "updated": "2026-10-24T11:06:20.903578+00:00",
+ "updated": "2026-10-24T15:59:48.892051+00:00",
  "tags": [
   "Patents",
   "Licensing & Deals",
@@ -12,6 +12,26 @@
  ],
  "items": [
   {
+   "title": "Drugs with a warning",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS2FZQW5OUy1Lb0lkMXcwNjBBcktNb3VsUHJCUmF5RGlDWmx4RF9zVW90aktpempNX1JHemRfLUJsMWh6NlZMOG5OUGs0S0M3WVlZQ3Nkam5mUEZ3RUxfV2Vhdk1LVXN3LU81UlFXYm8xdjF0LWxjZHNrTjJlSzNrZnduWmtFZl95S0tEbmxDbmxzb0hhWjBmV1JKRVI3NFBwU2M4N29ZcDFmMWtsVEZ1eUh2ZmJ3UFNOdVlvdjQ3MTFNVjY3d0h4Q0QtMUNXSm1OUTV6QVlGNFlGY0hFNWl1YtIB5wFBVV95cUxNMHp4QnBYLUc4SWZTZlUyNThSWnQxZEptYkVyQzVqS1poVVFoTkpEeTdVbmNlb2EtSkNPTjh5UGFUTTVpRy1YQjBKbFdPUTg5TFJDWl9ISTFuMGkzMy02X3k2YVozLTJURU9sRjdYWkRKUF9VWkVES1RETS1YRHhjSWRPb01wUzc0aXd5aXhIQVdhampsREdJUUR1Ul8wVGlXUEp0aHIzbzZHZXFXTVR6aVVvRkJreW9hbGliWjl1QWRaLWJLRktBRDBWYUpTbGY2cGtYUWFZS01kRV80d2w3SWhYS19LNGM?oc=5",
+   "source": "The Financial Express",
+   "snippet": "",
+   "date": "2026-10-24T12:55:14+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Merck & Moderna to present positive results from phase 3 INTerpath-001 trial for intismeran autogene plus Keytruda at ESMO 2026 Presidential Symposium",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HamRRY0pob1Rua01IN0duOFo5dmJicHhXUHhtYy1FcEdOWkE1Mkxpc1ZkczZYbktDTDJSN2F1S3ljSWlLemZod0R0M3hSUXZGRDdYXzJMRkZvb1NkOFFIaS14RnpiMUNwaVNZ?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-10-24T11:31:10+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Labcorp, US FDA and Charles River announce research collaboration to advance preclinical methods for evaluating drug abuse potential",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PM1FRai1wYVFwSGJ2VFFqQWdDTFI5al9YUTlta2pZU2kxWHhTcG4tNkZmVkVsYy15NDZWckR3aDFORXYzX1JCY0lWYlZwZXdxTEFqRjc3QzRMRVhsYW1YV0g0SHdzNml0eVRJ?oc=5",
    "source": "Pharmabiz.com",
@@ -20,6 +40,16 @@
    "tags": [
     "Licensing & Deals",
     "Regulatory"
+   ]
+  },
+  {
+   "title": "‘It is what it is’: Merck exec unruffled by ‘unfortunate’ leak of ESMO cancer vaccine data",
+   "link": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+   "source": "Fierce Biotech",
+   "snippet": "Merck & Co. and Moderna always knew they would be making headlines in Madrid this week—just not in the way it happened.",
+   "date": "2026-10-24T10:25:00+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -47,7 +77,7 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVJiZ2ZCaU1NbHFEdU9ZRFRzZkdvUnloaEFTYTBTbTNVSzJicV9wcnlBRVNnaFlWYjhwUTRzRXZrMkhsTERvNnFHSWxIbFJqRkg5TjhqYk1DZnM3Zk9QTGd1ajY1d0hETUxn?oc=5",
    "source": "Pharmabiz.com",
    "snippet": "",
-   "date": "2026-10-24T05:15:31+00:00",
+   "date": "2026-10-24T06:30:10+00:00",
    "tags": [
     "Licensing & Deals",
     "India"
@@ -81,6 +111,16 @@
    "date": "2026-10-24T03:00:44+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "snippet": "",
+   "date": "2026-10-24T00:05:23+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -373,10 +413,10 @@
   },
   {
    "title": "Amneal Pharmaceuticals injects Rs 135 Cr to open new office in Ahmedabad",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtNHdRSkdFQllneVBGWTdvbVp5d0x4aEJDS2hyTFF0cUhPaXpIZDdCc09wUU9LUzM4cUIwTDdrSEZQbENtQVAtVUxNaFBmcFhSQ21rTGtSNnM4LXFqRElR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2hIRldjREc4QW4ybHg4a1JuQXNVMzg2bFdUVThmU2hHT2NGTXltaHJwSmNRa3M3SG5TOU1FZVZ0R2VkOFFKalZ4YW9ZWWdTSXlyS1NlaVROQl9kVUwwSTgzTm9oM28zb3VOMjg4ODUwT1JBME5mdjUybTdDNlJhRUlxcUpNaXMtYUVxekxzRjljcE1tR2VPZU9NQXMyenVaUWhhcmttZ3dvZWhtRnJsQnpUVkdsZ3doUUxHNG1JNDBmdw?oc=5",
    "source": "BioSpectrum India",
    "snippet": "",
-   "date": "2026-10-23T10:07:42+00:00",
+   "date": "2026-10-23T09:55:38+00:00",
    "tags": [
     "India"
    ]
@@ -1081,16 +1121,6 @@
    ]
   },
   {
-   "title": "US FDA approves ORLADEYO oral pellets in adults and adolescents with hereditary angioedema",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXJubmlDMlI5VV9mQUJuLUU3OUlQVElzaWdoSWN5eUVzNFp1R2t4aGhSYlFtOHF2aHlfanRUZlA2Wm1TUzJzVWxHRkJQNWRpWDc5LU5ERk95Qy1yLS13RjhxZkEzVzRHMzZ2NTJxN2VYdi1FU0k1dTA3dTRpUldNa2ZtUzFhZkt0ZFdpUm1QUnR5OG9HZ0c5aFRzZ0VsOVViRlZ4Z09Cay0wRlVhWU5aZnU3SGZBbDB5RXRyWHB5U0FjZw?oc=5",
-   "source": "Dealroom",
-   "snippet": "",
-   "date": "2026-10-22T12:07:04+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
    "title": "FDA rebukes Baxter over 'repeated' production stumbles in new warning letter",
    "link": "https://www.fiercepharma.com/manufacturing/fda-rebukes-baxter-warning-letter-ongoing-production-problems",
    "source": "Fierce Pharma",
@@ -1642,6 +1672,16 @@
    ]
   },
   {
+   "title": "Nucelion Therapeutics and VeGen Bio partner to build end-to-end pathway for cell therapy innovation",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVGdEMUozOTlVYUx0U2hSX0p2bjhYc3Z0S0hfd3NDaUhZdHhLdDdrWmpPZzJaY256a0ZTQk9MQWF3dFBPbVB1V29LVFR4REU2YW5rUzN6RDFCTXI0Qm9GeXd4YkpFbXVOZVk0LTFhZlg0QTBJcmtQS0FmdGpBUFdlTVZXcF9lZTBGT203SGNybDRmanM5YWZadUZwQkRLM2xiOWdGR2J1LXlKZlNKSTA2d2NDaWtXR2FnaWdWdnJ6Yy1TVVZNcGI1d2VMM3Y0VFBMYlVXcm5TRS1qR0MwNkMxaE5RN3JoQQ?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-10-21T17:37:13+00:00",
+   "tags": [
+    "Biotech"
+   ]
+  },
+  {
    "title": "FDA Approves GSK's New Hepatitis B Treatment, Offering Hope for Patients to Discontinue Antiviral Therapy",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUkyem94X29yZ1dvSm40Tm91Q3BsbGZ0cy02SGd5Vk1uZk5MZmdMdTEtaHFJUUtaRkpEckItVnR0N1VvSEt2azY5d0swZFpKVXdjc3B6dmVHUlN3RjZrT0w1VXR0b016c29lb3c1LXZtYlVYeHJCMXNPOW5NdGtQSGRReU1ISFJpQ21lcXBDU04tdWtHZ0lxSkNhWThJclRtWG1SbVBIMnlBeGQ4WjM5ZjNRNUdoM0U1VlBGdENsU0I5WGtIYjh2eG1lblI?oc=5",
    "source": "INDIA New England News",
@@ -1679,16 +1719,6 @@
    "date": "2026-10-21T16:35:37+00:00",
    "tags": [
     "Regulatory"
-   ]
-  },
-  {
-   "title": "Nucelion Therapeutics and VeGen Bio partner to build end-to-end pathway for cell therapy innovation",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbnVoME9XQUJ4Sk9RY1NmMVJHWG5HVEtuVUtGVWZCaXEzeU15S1Awc2RHODJ0LTZoamw3eTdRQkQ2VzliSnhTMDdfbEZSNElILXFMMjhES2pub3NKR0hwMXAxTzlrbllZSkpRaGI3NnQwSElYRnZYZ1FKa01PUF9tSm1zdlJRS1JnV1Zkay01VDFrXzRWZUV6UTFnZV9SWk9VelJzQ18xRE5QSVlkaWFoUVVac0NEREdIZVdJRkV4T090d0k0YjJReXczcmQ1WXFhcUhiR0NQTVBwUGZ0eFJ4MWZFVDJRZw?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-21T16:22:12+00:00",
-   "tags": [
-    "Biotech"
    ]
   },
   {
@@ -1739,6 +1769,16 @@
    "date": "2026-10-21T16:00:00+00:00",
    "tags": [
     "Biotech"
+   ]
+  },
+  {
+   "title": "US FDA approves ORLADEYO oral pellets in adults and adolescents with hereditary angioedema",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXJubmlDMlI5VV9mQUJuLUU3OUlQVElzaWdoSWN5eUVzNFp1R2t4aGhSYlFtOHF2aHlfanRUZlA2Wm1TUzJzVWxHRkJQNWRpWDc5LU5ERk95Qy1yLS13RjhxZkEzVzRHMzZ2NTJxN2VYdi1FU0k1dTA3dTRpUldNa2ZtUzFhZkt0ZFdpUm1QUnR5OG9HZ0c5aFRzZ0VsOVViRlZ4Z09Cay0wRlVhWU5aZnU3SGZBbDB5RXRyWHB5U0FjZw?oc=5",
+   "source": "Dealroom",
+   "snippet": "",
+   "date": "2026-10-21T15:32:35+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -1855,7 +1895,7 @@
   },
   {
    "title": "Wegovy Tablets for Weight Management: CDSCO Panel Seeks More Data from Novo Nordisk",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdGhpMkY2NEpYamJySVE5ZVRrb2MtOVg1QTE2ZExXYm1ZRFpKdmhNUTJiZnVaWldKNFFOcDF6WnZ5emVPM0QzQXYzY210NU42ZjFOc2VQZERxbmlRaS1pdVpRdk5INFUzVkxLbVdZS0dXNkRnMElFcng4TXQyOEwzbUtHcFdNdk92U0ZGSEdKVHFWTHhGNmZNbTkydFF0bTFZR01hWmxFVWNVMU4ycEMzdV9JX2RqQmtJWWV0eDJQallneEZVRnExeDhvUmxyNTRWOUNORExnRk9VZ9IB2gFBVV95cUxOdGhpMkY2NEpYamJySVE5ZVRrb2MtOVg1QTE2ZExXYm1ZRFpKdmhNUTJiZnVaWldKNFFOcDF6WnZ5emVPM0QzQXYzY210NU42ZjFOc2VQZERxbmlRaS1pdVpRdk5INFUzVkxLbVdZS0dXNkRnMElFcng4TXQyOEwzbUtHcFdNdk92U0ZGSEdKVHFWTHhGNmZNbTkydFF0bTFZR01hWmxFVWNVMU4ycEMzdV9JX2RqQmtJWWV0eDJQallneEZVRnExeDhvUmxyNTRWOUNORExnRk9VZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTRreXZaODJiTU5mSnR2dnAyMHhqc3psTV9Md1NkcXVobG42X0NYSjZPYTRvVGQ4WndodEVHTW16Ump2ZGxnMUdoUE9vd0RNSE9uaVA5MTQ1NGlpYkY1RU1pS19TTlNXM0l1bTNxT1FyZzhiMlZqbk1XOGdqUkVTc2VUVGZtRElFbmxDQlhlRTNjam9ZdmVVZGF3UC13clVMTkI3WWxLeEdqeDdtc3hYWWdTXzFDcGRHMXFTQ2E3VFlJRGM2ZXhoNGJSaE9oUkdZS3o1YdIB2gFBVV95cUxOdGhpMkY2NEpYamJySVE5ZVRrb2MtOVg1QTE2ZExXYm1ZRFpKdmhNUTJiZnVaWldKNFFOcDF6WnZ5emVPM0QzQXYzY210NU42ZjFOc2VQZERxbmlRaS1pdVpRdk5INFUzVkxLbVdZS0dXNkRnMElFcng4TXQyOEwzbUtHcFdNdk92U0ZGSEdKVHFWTHhGNmZNbTkydFF0bTFZR01hWmxFVWNVMU4ycEMzdV9JX2RqQmtJWWV0eDJQallneEZVRnExeDhvUmxyNTRWOUNORExnRk9VZw?oc=5",
    "source": "Medical Dialogues",
    "snippet": "",
    "date": "2026-10-21T14:00:06+00:00",
@@ -5065,47 +5105,6 @@
    "tags": [
     "Licensing & Deals",
     "Biotech"
-   ]
-  },
-  {
-   "title": "FDA approves Opus Genetics’ eye drops for presbyopia treatment By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUpDNEpTdzJBOHpXbWxnWTd0M3I0TjlQbHlSSUJvYXBqT3RyS1YweGZSLVRwSS1Bc2lXRmNkLXN1c2FZRXJ3TDJPTmFVOVl1Mmg5U0ZOcDRfdXpveW50Nnc2Tl80VWRBWUxuV0tGWXdvQUpnc0plcW5rQlBjNzZOaEZtMVd4OXplaW5lbVVjY2N3UU8tMDM3bnFLM2wwY21XZ3YzcnZlekw1YUNsUUFqN29zRm5CQzJkYnEyMDU3RQ?oc=5",
-   "source": "Investing.com India",
-   "snippet": "",
-   "date": "2026-10-16T16:44:42+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Zilucoplan Autoinjector for Myasthenia Gravis",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemJoNUZFajluTVNLSG1RaFV0VXlNUmg0a1lWMExpVTBiaGVqSkdfNEJwcmx1eHQzQWRDelg0YTRaUFktVUMyUlNrMnI0c3RHRlZwOXBlM2RaS3IyUTVqM0ZWTENNWHBnUUNMWERweEpBN1R2d1FoNlhud0hteFFpLVVfNUhGSVFrV3d6NnBwWG5WaE14VlFnYw?oc=5",
-   "source": "Pharmacy Times",
-   "snippet": "",
-   "date": "2026-10-16T16:37:02+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "US FDA sets up board to oversee drug exclusivity determinations",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnpzZWRTbnhGYTlYUWJscGJmYzN2ZGFXTm5iZUg2TVpUVWNZNzdtY082UW9OZEtLakdIeUlvVDJDUWZjZ3lPMGVuYmhHWllBdERldkJVYklzWUlIQUt0UzNfQVJYQ3ktYVQ1SkVmZnpRTURWMnRNN3FCZWRrSF9YTjdpSElyYnFvMzNFT2RpOFFFcnNhY0FfNW12eWdLZ0toTWptVlYzUDd0Zm1KYmtnMW1Law?oc=5",
-   "source": "Reuters",
-   "snippet": "",
-   "date": "2026-10-16T16:26:58+00:00",
-   "tags": [
-    "Patents",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Bladder Cancer: FDA Expands Anktiva Without a New Trial",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2RyZEpyU1NGU3FVZkxDM0NmNTI5Q2o2Q2E4bW10UE0wNVdKM2Z5NUhsbXRYZTJlY0ZlVjRUY1pmYUtrQWdHV3o3TTRwOVpSQ3I3a3l1RmdHWnIzTkVITjJ6MGNfdXR0U1YwNTJJQ285Vl91WjlYay1CZ3ByZmNQbTBFQno5eXJvVnZN?oc=5",
-   "source": "PharmTech.com",
-   "snippet": "",
-   "date": "2026-10-16T16:22:45+00:00",
-   "tags": [
-    "Regulatory"
    ]
   }
  ]
