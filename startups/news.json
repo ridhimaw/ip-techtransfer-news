@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-23T21:27:10.335449+00:00",
+ "updated": "2026-10-24T04:41:08.341593+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,10 +12,63 @@
  ],
  "items": [
   {
-   "title": "VCs, Superhuman Mail founder share red flags about product market fit",
+   "title": "Weekly Funding Roundup: The startup deals you may have missed in week of October 25",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0FxcTB5NTNfNktHYnZhazJsZXZia2JmZkRDQUlPN0syUHh5VVNNY29rVm0xRHFwRllwRGRmVGYyRVZ1OVZsR0tWaTV4cEV4R2ZybG1TWTVZc3NpeDNYY1FvdDBtaDUyb3Fmb2NhMlFUdTdmOHFuNGgzTVdyajdWcHNIbmZJZEktbjFtbzhrNkUzVGFRSi1mZXVab0Ytd2hxdXhJZzJVOXB3QlpESkNKXy1HS2E4a1RFOUJSNDBLb3ZYakxhaklwVWFvV1NZenFXLTFldTVyZWJBLTFvUm96ZdIB5gFBVV95cUxPd3kzOThpVVhsaGFueVNtajMxOGF6VDY2aV9QdVpwTzZCZDJvYjRWVWVHWF9rb1BsSExvYk1hVjZRc2oxMUx2bU9Eclo3NVpySWE1bzZacWNJWXR3bk54amhuQ0xvWkEzeTFNRmhLSERjRjk2SGJwRThUVjdXMWQwUEhNMUZWYTliSkpHOW16eUxRZUVlYkIxcFNraDloNlY1MVotMTJ5ZDNJRlE0ZjNFVmZENlVxdW1MNElmNTY4NXNET28tV202Wkl1SmZsSUZnQ3BqUV9oQVQ0ejNFdGhpdHZ6blU3QQ?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-24T04:17:17+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "From Even Health To The Pant Project— Indian Startups Raised Over $184 Mn This Week",
+   "link": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+   "source": "Inc42",
+   "snippet": "Indian startup funding activity slowed down in the third week of October, with 17 startups raising over $184 Mn. This…",
+   "date": "2026-10-24T03:30:36+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
+   "title": "Why India’s flying taxi revolution begins with electric air ambulances",
+   "link": "https://yourstory.com/2026/10/why-indias-flying-taxi-revolution-begins-with-electric-air-ambulances",
+   "source": "YourStory",
+   "snippet": "Speaking at TechSparks 2026, Professor Satya Chakravarthy explained how The ePlane Company plans to avoid deeptech traps by launching high-margin electric air ambulances before scaling low-cost urban air taxis globally.",
+   "date": "2026-10-24T02:30:00+00:00",
+   "tags": [
+    "Deep Tech",
+    "Policy",
+    "India"
+   ]
+  },
+  {
+   "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
+   "link": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
+   "source": "YourStory",
+   "snippet": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant. The founder of burger brand ‘Beyondburg’, one of…",
+   "date": "2026-10-24T02:15:00+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Startups don’t need to go viral to win customers",
+   "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+   "source": "TechCrunch Startups",
+   "snippet": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+   "date": "2026-10-23T23:07:45+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
    "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
    "source": "TechCrunch Startups",
-   "snippet": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+   "snippet": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
    "date": "2026-10-23T20:57:13+00:00",
    "tags": [
     "Funding"
@@ -93,21 +146,21 @@
    ]
   },
   {
-   "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-   "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-   "source": "TechCrunch Startups",
-   "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-   "date": "2026-10-23T16:26:29+00:00",
+   "title": "Startups outside Iloilo are hitting a funding wall",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUVVUVNjWUxqZ29uRngyUFpWQUVzTG44Z0dPdEdiUVFab3MxUHF4ckZ2MlE2UTJXekxJM3dub2dBOThxNk04LUQyNGJ5N1p5Y2FMNXlSR1oxb1g1eTNiWnZzRzkwTGZZMFZvcXpqTHZaQldWNGxGQm9iNHBWU2xlZHVJOTRtOHlhQl8zeFgxd1g2UQ?oc=5",
+   "source": "Daily Guardian",
+   "snippet": "",
+   "date": "2026-10-23T16:27:37+00:00",
    "tags": [
     "Funding"
    ]
   },
   {
-   "title": "Startups outside Iloilo are hitting a funding wall",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUVVUVNjWUxqZ29uRngyUFpWQUVzTG44Z0dPdEdiUVFab3MxUHF4ckZ2MlE2UTJXekxJM3dub2dBOThxNk04LUQyNGJ5N1p5Y2FMNXlSR1oxb1g1eTNiWnZzRzkwTGZZMFZvcXpqTHZaQldWNGxGQm9iNHBWU2xlZHVJOTRtOHlhQl8zeFgxd1g2UQ?oc=5",
-   "source": "Daily Guardian",
-   "snippet": "",
-   "date": "2026-10-23T16:22:48+00:00",
+   "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+   "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+   "source": "TechCrunch Startups",
+   "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+   "date": "2026-10-23T16:26:29+00:00",
    "tags": [
     "Funding"
    ]
@@ -787,6 +840,17 @@
    ]
   },
   {
+   "title": "Indian AI startup Chariot launches real-time speech AI model, claims edge over Google and Sarvam",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRW1YQjR2dzV1eEdEU25aTXlyWU02cXk0ZHVLMkUwbTJyVnM4RUw3TkVPZkR1WmdjQ242RTdFM3dKNmtXR3NhLThtalBaM0t1bmg1Q0NOaEFocmRIZVRtSUV3a2Qzb0htdnVWZGpyZGt2SDV1WHYyQi1GUDdPX2Uxci00TFJaSjhiZjFzcDFnS2RIb2l3UXRzMkpPdkFkYXdEWk5Penk0elg1a2w1Y3p5a1ZLVm1GYjNBd2RFb0I5S1ZkcnZvWk5aSmFIbVRPa1I3dUFPNDl4LTVqVDlVNmt1RktaTWpNdE9HMFNjdEhscUM2NTNoYmFBbEJQMUt1QdIBgwJBVV95cUxNYUlUZjdOWHNfM1dCaFkxRW83TXh0Ui0wc3M5TV9MMU1odVdHZXhldHJIakJfSU1wb2o2cFAtSHFFSVpBSndxWm52MktodjZtWmkxTnk1Z1dMdEt0aUdFY2lfbTE2Zk1iakppSFlVX3VDOE9IWUZyZ0FLckNfUl9vZTBKZEE1VW8wMGJYTTBlcnVzRWkxZ0owSEJmM19oQTh6RHFjVENmSGR0S3BCelZBb0VzWDBvVDRsVURWWVlFaG9RYlY2MnRBbG5vSllGWU15YmdZOTYySnEzNWJkT1pjZXBVTXRhdzZMYXJtRkNlcXFaYV9fTWZ2YUFrRmFfUnN4Mm9B?oc=5",
+   "source": "ET Enterprise AI",
+   "snippet": "",
+   "date": "2026-10-22T11:02:45+00:00",
+   "tags": [
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
    "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
    "link": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
    "source": "Crunchbase News",
@@ -1182,7 +1246,7 @@
   },
   {
    "title": "Former Groww execs launches travel startup Onto with $1 mn pre-seed funding",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQmRzX0JSbVgwckVzUXVYTGppdGFoTTNnOUpZSmhDWW0wT1Y2ZVZkLUM5dUU1ZmdXekZWVFFQRlJCWXQ3NWtJQ0wyN2JqRUVDLUdSUUJuYVJZWlBabm1MUko5bG54R3F2NW44R1VmM1JETFJJMHRMSUd1dDZTS21QOTQ4c2l1Zlg3V1Jwenkxa2U4akdLUVdBSlJJYURfYUM0Z285LUFLTVEwbXdlY19fRndOM3Y4NzJMUWJMZm81b3U2UTdyMjZEUkFDeU90MW12QVN6MnMxOUdfdWxVMjN1dg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQmRzX0JSbVgwckVzUXVYTGppdGFoTTNnOUpZSmhDWW0wT1Y2ZVZkLUM5dUU1ZmdXekZWVFFQRlJCWXQ3NWtJQ0wyN2JqRUVDLUdSUUJuYVJZWlBabm1MUko5bG54R3F2NW44R1VmM1JETFJJMHRMSUd1dDZTS21QOTQ4c2l1Zlg3V1Jwenkxa2U4akdLUVdBSlJJYURfYUM0Z285LUFLTVEwbXdlY19fRndOM3Y4NzJMUWJMZm81b3U2UTdyMjZEUkFDeU90MW12QVN6MnMxOUdfdWxVMjN1dtIB5gFBVV95cUxPRXRzZTJFVU1ZTWUzbHBpSUlRRm9mckdob0R2YzA2aWswbHBMOWdBNWJBaUIzUmdMeWM0eDljbFNDMUdQOTVUN2RBWklkdVotVzIyT1hFREpjdDJRV1hwbjBmNEVvT0s2VUV1bFNodGdFN2dLX3A0emZ2NlpGeDFvd1dOODBpVzgzQTM0N3RocHVNcFJDZzBOcFFZUzhfRTVJYlM3UDNFLWNRV2cwZWE0ak9ZOTVjbnprcmVzUkNjNzlYSHFWcTFrVmRPckJiV0VhajF0VC15VzhQekNnOG4taGQzbEdYZw?oc=5",
    "source": "ET Entrepreneur",
    "snippet": "",
    "date": "2026-10-21T14:22:43+00:00",
@@ -1323,10 +1387,10 @@
   },
   {
    "title": "Vectorial, Onto, Raaho pocket early-stage funding",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tOHlwcm9RdkFIRkdDbDNlbUNoMU9IZ2c2Y0ZLWVdSRlRHbVpDVkp3akdybHZRdW9OZUFJUlJLVzZpVjZFTTVKU0p6aGVaQmlVRWthbFc4S3N2Q19mTWdOWmFOQlBVRXYyWUREQVBwZDN4RmF6U0dnSFJUUdIBgwFBVV95cUxQVG84NlpHQlc1ZDdVOXl1eFpfcFU3TGpMNWdZa3d0ajJYVmJNYVBSbGJQa0Y1WW5Cc21fakQyZ2oxWFhGQ0lyT1JDLUdJT2NrUmJsYnBCVUdvdk9QNFI4QjlIcGFvU0pQQVd2ZlVjdTBmVzNLa2xDSWhZaHJEMlZ3RXFRNA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG84NlpHQlc1ZDdVOXl1eFpfcFU3TGpMNWdZa3d0ajJYVmJNYVBSbGJQa0Y1WW5Cc21fakQyZ2oxWFhGQ0lyT1JDLUdJT2NrUmJsYnBCVUdvdk9QNFI4QjlIcGFvU0pQQVd2ZlVjdTBmVzNLa2xDSWhZaHJEMlZ3RXFRNNIBgwFBVV95cUxQVG84NlpHQlc1ZDdVOXl1eFpfcFU3TGpMNWdZa3d0ajJYVmJNYVBSbGJQa0Y1WW5Cc21fakQyZ2oxWFhGQ0lyT1JDLUdJT2NrUmJsYnBCVUdvdk9QNFI4QjlIcGFvU0pQQVd2ZlVjdTBmVzNLa2xDSWhZaHJEMlZ3RXFRNA?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-21T12:54:33+00:00",
+   "date": "2026-10-21T12:25:07+00:00",
    "tags": [
     "Funding"
    ]
@@ -1354,6 +1418,16 @@
   },
   {
    "title": "This mother built a startup between breastfeeding sessions. It went on to make $90,000 in a month",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmhzb2hxOERCRHJaMlJqQjBlU1RKR0ZmS0tCYVJxeDFjVGIzTGY1WGVUenV5LWhnLVhVOHpwVFNRb3N1Yk5CcWtFWjhvRm52Z3hybFRpd0NsSE1QNG5HdG5IZzhNdUtuX3poc1RqQlBCR2xSOWIxUDFwNXl5TFpDUkpxXzRLQkxmOFBybjVEWGtpQUFta3pMTUh1TnM2eTB2TkVVc2hpWm5NQm41REZXaGpOMllabUROZEszdTdVTEstN0U5YlVOYnJYVnRpWU5Kd3UwRNIBzgFBVV95cUxNSnhDTTBHaDFXdzUzU1FQOTlMbE1HYkhRRF85cEI1RVo2Tng0SHU4Vm1ubzRaNEQ2dUR6aV96cHJNdW9PRUQwUVZ1SnA4ekRYd1VZR1lqSU53LTRSM25Kd0llQUFXbWpibm5TNXRTSGJVeXIzdmRpXzhMOVdtMWhKeFpPRHNrTDhvTVByb3J4TjcxWTZQM3YwTEUzdk9kRTZ0aDc0WVJnVmVmZEphWk00cHdSbVdPOFBUVl9oZ0V5eWVMbk5KRlEySjhvcVJFdw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-21T11:28:06+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "This new mom built a startup between breastfeeding sessions. It went on to make $90,000 in a month",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmhzb2hxOERCRHJaMlJqQjBlU1RKR0ZmS0tCYVJxeDFjVGIzTGY1WGVUenV5LWhnLVhVOHpwVFNRb3N1Yk5CcWtFWjhvRm52Z3hybFRpd0NsSE1QNG5HdG5IZzhNdUtuX3poc1RqQlBCR2xSOWIxUDFwNXl5TFpDUkpxXzRLQkxmOFBybjVEWGtpQUFta3pMTUh1TnM2eTB2TkVVc2hpWm5NQm41REZXaGpOMllabUROZEszdTdVTEstN0U5YlVOYnJYVnRpWU5Kd3UwRNIBzgFBVV95cUxNSnhDTTBHaDFXdzUzU1FQOTlMbE1HYkhRRF85cEI1RVo2Tng0SHU4Vm1ubzRaNEQ2dUR6aV96cHJNdW9PRUQwUVZ1SnA4ekRYd1VZR1lqSU53LTRSM25Kd0llQUFXbWpibm5TNXRTSGJVeXIzdmRpXzhMOVdtMWhKeFpPRHNrTDhvTVByb3J4TjcxWTZQM3YwTEUzdk9kRTZ0aDc0WVJnVmVmZEphWk00cHdSbVdPOFBUVl9oZ0V5eWVMbk5KRlEySjhvcVJFdw?oc=5",
    "source": "The Economic Times",
    "snippet": "",
@@ -5092,79 +5166,6 @@
    "tags": [
     "Deep Tech",
     "India"
-   ]
-  },
-  {
-   "title": "EON Space Labs is building India’s indigenous optical payloads after Falcon 9 Success",
-   "link": "https://yourstory.com/2026/10/tech30-eon-space-labs-indigenous-optical-payloads-falcon-9",
-   "source": "YourStory",
-   "snippet": "After Mira’s Successful Launch on SpaceX’s Falcon 9, Hyderabad spacetech startup EON Space Labs is positioning itself as India's pioneer in end‑to‑end optical systems by indigenising payloads and securing flight…",
-   "date": "2026-10-13T06:35:00+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Apollyon Dynamics quits building drones to make defencetech for the military",
-   "link": "https://yourstory.com/2026/10/tech30-apollyon-dynamics-defencetech-indian-military",
-   "source": "YourStory",
-   "snippet": "Hyderabad-based student startup Apollyon Dynamics sold drones worth over Rs 1.5 crore last year. It has now moved to a jet-powered target drone, a multirotor interceptor, and a marine unmanned system.",
-   "date": "2026-10-13T06:35:00+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "SpaceFields is turning solid propulsion R&D into scaled manufacturing",
-   "link": "https://yourstory.com/2026/10/tech30-spacefields-solid-propulsion-rd-scaled-manufacturing",
-   "source": "YourStory",
-   "snippet": "From winning iDEX challenges to signing MoUs with defence PSUs, IISc-incubated SpaceFields is moving from bespoke propulsion design to large‑scale supply.",
-   "date": "2026-10-13T06:35:00+00:00",
-   "tags": [
-    "Spin-offs",
-    "Incubators & Programs"
-   ]
-  },
-  {
-   "title": "NuSynth raises Rs 36.5 Cr in seed round led by Avaana Capital, Shastra VC",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGpPQUlhWDRQbHBUbmFBNmRQSEQ2VEV3d3pDWEQyVVhRdEdVdjVuQmFUSEJwV3lBUU5wWi1TejQ0eHBQejJIWVpSQ2FZT3ZlN284ODRKRmdScGNJV0Y3V3Y4QlZraHZ1c1ExQVBMTTBBcFFlX2FjM2RETlI0ZGV2alVET0d0V20xT2xuZEhrTGhwdGV0X0Z2VTJfSGdzMkc3SFlUc3JRNmF4QjRXWGdn0gGvAUFVX3lxTFBsak9BSWFYNFBscFRuYUE2ZFBIRDZURXd3ekNYRDJVWFF0R1V2NW5CYVRIQnBXeUFRTnBaLVN6NDR4cFB6MkhZWlJDYVlPdmU3bzg4NEpGZ1JwY0lXRjdXdjhCVmtodnVzUTFBUExNMEFwUWVfYWMzZEROUjRkZXZqVURPR3RXbTFPbG5kSGtMaHB0ZXRfRnZVMl9IZ3MyRzdIWVRzclE2YXhCNFdYZ2c?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-13T06:17:26+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "CoinSwitch Ventures rebrands as BlackLane Capital; aims to 'enable' over $100 million in funding in 5...",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONzNVcnRzUTg4RU1iTkRXc1JwekczYVZzU1BaUkZGVk0ySmJ1ZGpWUXpCWnY5WGwzWllnMHNZYVJTU3RWdDNzTjZwOWVJZHpuc0VWWnZJWWszR3RuNlpYMHI2N3lUWHNhNEhMbW94dWt0S05YTEFPMVdYLXhoTE9jeV9vTERBU0pWRVBtTDhrVEpqU3J3Y2ctYXh2ZkpIUDlyQzJEOW51YU5odWRZZk9mU3lXVEVZRjROUXA4cWs5R1hMTUthRTIyb2hvYUxhcFF0bW04NHlHRVJ3N0k4ZWwyREJYUGUyY01oWkxacUt6b0gxcUxwMHhxTERFaWLSAYICQVVfeXFMT3JjNmxBY0xPUXo1WTloV19mdnQ2ci1QNWpFSks1QmZwb3c1WHoySHhCOGZZNkFRdnBVYnUwaktXRFdweUxhMEFhOGtrQlA5b01tTHhRdHpra19zY1ZmTGlJNHBsRFdZS1JONWU5MHpnd0N3MEhWUGlOOXFYUmtiUEVZSVg4MnFTLXhEaVdaWjJoNG1sS0FiOWhmTUlxVk5PZXJYQzBaVGt6cjI3SlA0YTk2VGt5WTJHa3MxNVBxNUY5RDJGV3dXSDlDcW1RT2dhSlZpWFJQVFNHamNRUDJISFdnS21uQ1B1QTJhUjBTTG13MEJ6T1RTZV9waWNuNWxVUWh3?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-13T06:02:31+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Wudhomes raises ₹2.5 crore in pre-seed round led by AJVC",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2JQdmdjNl9RcmQyaUM4WkVUbmdkQ000aTh5d2lNOGo5a0Q5TDdRaGR1aWFtZ3QxYzVFTWEtMjRKUUxlOFNmZDZJWFY2MUNfSGRvWllMV1BUc3FSd21YQ1BwR294MUtUYXh5d2o4UFlFQWUzMmdyNkxubGZsblNWS1JCSDZFLWVyYjhudUJiNlBkcUZSRG9ucUY5QWpDTXlFcXhpTXh4WVRrNnhoV0hjZ1JZd091S0FqNGlLVGxfODc1SXJ4RE1j0gHMAUFVX3lxTE9hN2c5andGdUZnRUdhYlhkQ084Yy1FSnBaSTFKNUFEWXdYVTYxbk5nYmtpNnNnbm9QQ0lqZ3c0WVhOd1pFQW9MaFJxdnFkRE9wVlZ5OHFXMndfUkMxZEtnODNPNFpma0RmYmU4VTA0QXBld3FWZFhKNGs2LWdxdzJLT1g4WGJOSDBjNHQzb2l1cFM5Q095eG9MUDRaeEl3aTNDSjN3X0hYNzhvalZvYlNhUlR5bzZGUkV2OFpKbW5neDZTcXBSZ3dVQzlpZA?oc=5",
-   "source": "ET Entrepreneur",
-   "snippet": "",
-   "date": "2026-10-13T05:58:01+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Latest rupee News | rupee News | rupee Funding | rupee Fund",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kZTk0cHBVQ2dRak9reUhja2hlSWtDRFpKQ01uQXVxOUhURmU1SXNFaXdHZmJPYk5KMHlhVll3UUJLYVhFSUJEZUNHdHlIS0Fmc0xv?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-13T05:55:26+00:00",
-   "tags": [
-    "Funding"
    ]
   }
  ]
