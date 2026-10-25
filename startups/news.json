@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-24T20:53:24.893587+00:00",
+ "updated": "2026-10-25T04:46:31.803209+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -11,6 +11,27 @@
   "India"
  ],
  "items": [
+  {
+   "title": "Ultraviolette’s answer to the global chip squeeze; The making of Indian flying taxis",
+   "link": "https://yourstory.com/2026/10/ultraviolette-answer-global-chip-squeeze-eplane-flying-taxi",
+   "source": "YourStory",
+   "snippet": "According to Ultraviolette’s Founder and CTO, Niraj Rajmohan, RAM (random access memory) alone adds Rs 20,000 to the cost of a vehicle.",
+   "date": "2026-10-25T02:00:00+00:00",
+   "tags": [
+    "Policy",
+    "India"
+   ]
+  },
+  {
+   "title": "Can dogs smell cancer in humans? Bengaluru founders says with AI, dogs can detect seven cancer symptoms wi",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQVFkYTFjVWx2Rld2RV9LamJBX0k5dWNoUXRmNlBnQkEzbE03ZjFjdzY4ZC1fV0JZMWVVay0tX1Y2MHVlQlc4d2VKeUowZHJ4ZXY4cUZWUFQzRmdGXzdrcHRTTlo3bjlOQkUtVXJPYURDX3ZOVVRxWFZYS0dfN2lRRUg4SV8wWm9uQ0JNN3NTSXgwbDVPSWpxVzlyYkFCT0dNejNmZmVOcGJjWjJ5MWpFSzlxenJ1T3Zrd0FZNXFLV3JGSm1QZW9sZ2ZvVWRjTnk2enpWS3h5X0JGbGNqaHk5aWRRaVg3NktGTzRaNHVMdlpmR1UzNnVIQy1BQy1MNXc2MGIxVlJEbVhGakR2NzZsY29YQUVGd3NZRGlxMGFFei1CcXdJM2fSAZ8CQVVfeXFMTThXaFlmU1piT3BxOW9TODZCZmxmcUFYWDZfdUcxdGt5Y2RhYXBtQ0RTejFqcGdkczh1OXA5b0F3WTVrTnVPeHlYRlRhSE05SU5relBiM0QtS1dURUs4NExNdlV3azRSR01VYjgyU21oLTJTTWViVWJMOTJUdWF1WWhnMnVIY0xqZ0NvdDNkTTQwYXk5dm9BOVdCQmlQWXltLVZiUDN5aXdGbUZQczhLcVRkRl9JUDMtRmZ4UjZITnoxMi1KY0psSFA4eVU2dlFkSTRnTEN6cFBPbndRLWE0bnplNkxab1A1SzR2Ul9Wdk9tQTRfZ2JiWXBfQzJTMEpwWHVURDZnTV9BMUZRR3doX0Z5V2tYTVVuMDl6U3l1dW8?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-24T15:24:02+00:00",
+   "tags": [
+    "India"
+   ]
+  },
   {
    "title": "Meet Luana Lopes Lara: How a $22 billion prediction market startup made this 30-year-old a billionaire | Success story",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOU1g0allvOHdOaXRYeVQ0R3JNcDV1aVdpVWlzTGl0Q2hJamNQLUFzLTVfdElSUFJscXdxN0hoRFNoV0g2b0xmeEZ4SnRSQ293WFJpRnM5X1hMaTlVQUo2RGs4cldoM1d3OHoteU5kY0hNZnl2U19fWkRoRTlFak4tb29FQ2FzTHRTa29qX2RZeGphb2M1VFVBY3B0QjhWWFBweklCVjE4RzAwOFdiTDdyQ1Vxemxpb1I5YnJERWNyeGhlaUVxT1R0Y1VaME9ITVNPeW9YLXpGZFdNb3BaZWgwNkd5b1NmZEZiWTdkVnQ2dFNuOGZ1RG9DZ1lSVHFialJfcXMxZ9IBigJBVV95cUxPM051bThaZmcxblMwR1d1WlhSM1Q1RFE1MjZudEhYV0RxWmtQbGIxNzB3bkE4NGlQSVVKTGs1WHJsaWhycmQ2d3JMY1dieHZqQTJoVzhQLVBuNDhST1RLWnpja2NRR1dMdjYyWnNObHU5Wks5TzJadEpYaC0yODJFN0RwQlFQdWZMS0tVSzIwbG9wUkJrT0cyOVdfSHppaE5VLWwyY1ZBWDZLUHFuRDl2cXFOSUE2Ry1BenU3Skd0dGEwVkFTdjljSjF3SUpaUThrUDFHTm93aVVKaW1KUnRPdUxuTl9xRDZKcjZ2c01sQTYzMUdnRnFkQVVNVV9kYjk3eFZJWmZMc01iUQ?oc=5",
@@ -172,6 +193,17 @@
    "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing…",
    "date": "2026-10-23T19:06:23+00:00",
    "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Nvidia and TCV extend Higgsfield's Series B as the AI video startup reports $1 billion in annualized revenue",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTZFaWJrNW5XZWtfOUdvSlB5dTVHbDZPb25FS01IcnBycjY3czZwWVdHQ2w1ODY5ZG5YRHdBOUZwS2hEa25kc0JYdXJkQWl5cjZUaHF5SmpDa1dfMUUtS29rN01GWnJZREZYaDFxM1I0aEJwd2lVeFhmZlQzNnFBWkN0czRGak5kWVNmMzZueGNqUDJSWVJpTENVcTVydXRLWnhVMGZ4N1RibWF0b1h4RmdLd1hzTWthVWZiZF9adG53VV92b2VUZzc3S2dDaVluOXhLYkVXZ2tHZGVsUktwQlR3?oc=5",
+   "source": "MarketScale",
+   "snippet": "",
+   "date": "2026-10-23T18:58:58+00:00",
+   "tags": [
+    "Funding",
     "Deep Tech"
    ]
   },
@@ -2405,10 +2437,10 @@
   },
   {
    "title": "Sorin Investments-backed The Pant Project raises Series B round",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjdIQUFsU1YtSXF2dUoxOHFEQUIxR3pxSmtXRmp6OXA0bGYxMWZNZXFuaXRxX1ZkZlBiemlsQ0E4RFV5UWVsYnZFWUdCRGJFMXVCNWpjR0ZualJRN3liNVZYZUtJRGFfclpyRFBRbVpwUXBrWi1sdkozTGp4X0pJZHBidURtaHMtbzNNbHRlOGw4UHFESWZiVdIBmAFBVV95cUxPRjdIQUFsU1YtSXF2dUoxOHFEQUIxR3pxSmtXRmp6OXA0bGYxMWZNZXFuaXRxX1ZkZlBiemlsQ0E4RFV5UWVsYnZFWUdCRGJFMXVCNWpjR0ZualJRN3liNVZYZUtJRGFfclpyRFBRbVpwUXBrWi1sdkozTGp4X0pJZHBidURtaHMtbzNNbHRlOGw4UHFESWZiVQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSGc0cWVndjJTYjIycG4teDk1YVZaSHhnekFZMGxqbGQ4SGdsbUJiYlJZUDVCd2Q2U0M2RVZoWUVuNzZ4dkdLMkt2V2xjdkhFUXA0S2dyWWw3aFhScHB1Tm1hdWRzb2FxVXZXaVJuUnZtcGxvZmVpcVg3MlgtVl9yOVFQaXRaR21rNkIzWGxzbGzSAZgBQVVfeXFMT0Y3SEFBbFNWLUlxdnVKMThxREFCMUd6cUprV0ZqejlwNGxmMTFmTWVxbml0cV9WZGZQYnppbENBOERVeVFlbGJ2RVlHQkRiRTF1QjVqY0dGbmpSUTd5YjVWWGVLSURhX3JackRQUW1acFFwa1otbHZKM0xqeF9KSWRwYnVEbWhzLW8zTWx0ZThsOFBxRElmYlU?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-19T06:17:38+00:00",
+   "date": "2026-10-19T06:17:14+00:00",
    "tags": [
     "Funding"
    ]
@@ -5131,36 +5163,6 @@
    "source": "VCCircle",
    "snippet": "",
    "date": "2026-10-13T07:07:58+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "#startup of the day 29 - proRITHM",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnIwZ2RCU3UzYUZodEU1SVRNZjZONGh4OWJZUVB6by05a1Z5aENuWWNsTXBWNlNteWcwVDR6NDhCWS05Y0t2WElfQ3BqY2pLM3IyRDFNNGdJVENGTEdfdXF6LW03WmVfSl9jb1hyR2V2Z0ZyT1JUd1dNSnJtWEs5Ny1kYms0TzdIRHJpYi11cw?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-13T07:00:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "This Chennai startup is building a device to help doctors choose the right antibiotic sooner",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSGVNbGZsSzJTRHd6Mzh1Sjg4dW80MzRPTDU5UlNXdUlmWDQtRS13M182dE5PYkVSZ3RsUUkyNWxydlM2cGN3TFFHUG1pMzhwT2hTb3hlc2RKM2RSc1JOYk4tNWJ5cUkybzFSaUVLRlB5cWlOUGtIVVpSZ2RnWWtvQTB2UVhpWklyWm8yWm9PVHZCeTA?oc=5",
-   "source": "YourStory.com",
-   "snippet": "",
-   "date": "2026-10-13T06:53:40+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Latest Genesis News | Genesis News | Genesis Funding | Genesis Fund",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FY1RYY2xLYjY5blhRaThYQ2lTRzl0SjQ0UzVtd1VhT2RHWUJGUWI1WVh2OW9OWW5lUldKd0pGcmNSblZHbHd3WkNGZmM4dlE4WFVhdg?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-13T06:45:38+00:00",
    "tags": [
     "Funding"
    ]
