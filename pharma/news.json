@@ -1,7 +1,7 @@
 {
  "title": "Pharma & Biotech Pulse",
  "tagline": "Auto-updated news on drug patents, licensing deals, biosimilars, regulation and biotech innovation",
- "updated": "2026-10-25T20:54:32.110157+00:00",
+ "updated": "2026-10-26T04:52:03.145604+00:00",
  "tags": [
   "Patents",
   "Licensing & Deals",
@@ -12,11 +12,82 @@
  ],
  "items": [
   {
+   "title": "Bayer announces darolutamide plus ADT and radiation therapy reduces risk of metastasis or death by 58% in prostate cancer patients at high risk of recurrence",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hWGx0RndzS3NBa0lsbWpvRmpLY1VTT0p1aTRkSWw1S2VuRDZmMDBMSXRjNU9OMDlBaXdMWkcxZkRlNUgyTkF1Zk4wQnRhd3N5WXdRR2c2WlNXdmhaYk1LMlF2YVFHeEpwQ3BF?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-10-26T04:31:24+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Maharashtra leads bulk drug PLI scheme with 19,180 MT capacity across five projects",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxeHpORWZibE1YWVFHd0Y5b21MLThmUFdvdjBDeGN3aEdzUFAxTG1ncHpMWThoa08yUWN2M2xaLUJTSVp1VkQ3dkRVX1p1dk1tMzA3YWJsUEdaUWViN051UFdnalVac21vVFJF?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-10-26T02:30:21+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "India's diversity in genetics is a scientific advantage in clinical research: Dr Seema Pai",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FbFNJU3Zaek9jOE5KakhGTkFjZV9FQ0RhZFRpbmJyYVNrWXhwbUxPNXZaYlRrOHJiRDJaeGR4Q1ZjSm13SV91dmVFWGxQVmxyZVNHb3lWYU9XbGhwakRMQlBZaW1nWWxWeXNB?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-10-26T02:30:15+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Startups Seeking Capital",
+   "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-investment-banker-talks-u-s-chinese-deals-ipos-and-a-tough-climate-for-startups-seeking-capital/",
+   "source": "GEN",
+   "snippet": "Geoff Meyerson addressed the growth of U.S.-Chinese licensing/collaboration deals, the recent growth of IPOs, and the still-chilly climate for startups seeking financing in a recent interview with GEN Edge. The post…",
+   "date": "2026-10-25T23:11:05+00:00",
+   "tags": [
+    "Licensing & Deals"
+   ]
+  },
+  {
+   "title": "ESMO: BMS’ Massacesi hails ‘very promising’ data for BioNTech-partnered PD-L1xVEGF-A drug",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
+   "source": "Fierce Biotech",
+   "snippet": "Bristol Myers Squibb Chief Medical Officer Cristian Massacesi, M.D., has told Fierce that the latest data for its BioNTech-partnered PD-L1xVEGF-A drug are “very promising,” as phase 3 ambitions ramp up.v",
+   "date": "2026-10-25T16:03:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "FDA Approves Jemperli for Certain Patients With Locally Advanced Rectal Cancer",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYVlSUFNRY19sUlYwYjdPT3JaaHl4TDFGeVUyUmlJWjY4RGNIUmNKMERPLXZLcldfWURIZWpNakQ1SW9uUnpVbEZVTG02cUtRaHRhX2pzLUVJM21HcnQzeWhhaTllanJBXzItYWJXdnhVcm1rNEgzMlR6OUY0d21GejdTY1BvamcwaUxIQjNyMUJCUnhKSm53N0VVZkE3cUptVVNuUzhTR2c5bVZPQ3dF?oc=5",
-   "source": "news.cancerconnect.com",
+   "source": "https://news.cancerconnect.com/",
    "snippet": "",
    "date": "2026-10-25T16:01:50+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "State Drug Alert: CDSCO Flags 288 Samples Including Thyrox, Mounjaro as NSQ in September",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON3hCb0NJUFhpZ1NJWlJPa05nS3VfRjRPSVNjYU5weTFiY2Rfd3BiNHpwYm5JZmFDRUxJSXp3eHVVMFhhMi05b2xfaXVRUkFaYVpLdDFpQTVjOV8zdXlfcDhVckZ4YVNxX3lDbXg1R0Z3bTA2ekVkV09LSkRUakE0ZDBicTFIcDdHVFVtbVQzSWFUU01tdkV1eHYtNjU1S09LcDVHODJlbEljaUVrTm4xVXhQR0YxLTVpdGNTM0tjVWEtUzBRNlc5VUNpOW43WU1vbFE2eHBQcUk5Z9IB3wFBVV95cUxQRW5WeFhvdHFPZmZmZlhoY1U1NVZKZUVtNUxYRGdnTF84dWFEU1dzeThFQ29zRDl3SUVvbGdOUXlCZ2pzUFV3OXN1bm1nckpqMVg3WEwzZ2ZJbWVCel9vRElsRHJJN1ZRczVBLS1aVzA4dGJMUERkZWFfZUdjXzYtNkxmRGtxNzdfSXpvMUFEdnpRb2duVXdmOTM1eldLNERBMnRSRXFvQ0M5OGhIVzhPMzViRm1iX19RRzVvc3k5LUstMDJGaGxYbS11M3lrWmhIem10aVoyTGExLVJnR19N?oc=5",
+   "source": "Medical Dialogues",
+   "snippet": "",
+   "date": "2026-10-25T14:45:05+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "FDA Approves Ryzumvi Eye Drops for Presbyopia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjJYRUt4dnJhdXBFODBmazYyVzZ1aExLZUlqQlJCcUUxeGo0dVA3U244NGQyc0VGZ0w0RHMxTUdXcXQtazZ4U3RNMVY4bmRiUzN1bEVhT253RHlncUl4RnRVX1prcTNLb0dNUm1nV3NSYnR5elBSSGtIb01TcFE3cFJTamlIUFRiX0JKNHM1YzBDVTlwNG1XOURaS240YVNrakdqV19R0gGmAUFVX3lxTFBCMlhFS3h2cmF1cEU4MGZrNjJXNnVoTEtlSWpCUkJxRTF4ajR1UDdTbjg0ZDJzRUZnTDREczFNR1dxdC1rNnhTdE0xVjhuZGJTM3VsRWFPbndEeWdxSXhGdFVfWmtxM0tvR01SbWdXc1JidHl6UFJIa0hvTVNwUTdwUlNqaUhQVGJfQko0czVjMENVOXA0bVc5RFpLbjRhU2tqR2pXX1E?oc=5",
+   "source": "Medical Dialogues",
+   "snippet": "",
+   "date": "2026-10-25T14:30:00+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -586,7 +657,7 @@
   },
   {
    "title": "Kilitch Drugs to divest entire stake in Ethiopian subsidiary in $14 M transaction",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejVGU0VZVkprUkFiZ0JDV2ZiRVlEZUo0X1l1SmdtXzk1R2g0ZlhhVlZUeUY0ZEJaMHpWeXFOZnZwWGRSYUxaLUhsSEZpRkpzZ2RzTGY2UjFkR2ZZNGIzOENZTkxXb2YyZHVoNVowb1ZRdUxyOU01LW1ScTdodzdOcFBTX3cxellrSGVtWlVleTdtdVpGZkJXVDR5aDNNMV9ibk9ZS1hITUdwaFJDM0ZuaHUzYkViajhJa1lTTHZMcHhseTZWSXlfeE1xbWY?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcEplNVUxc2c1UVVtTFJHUmQ2RDA1aVNmYzBzQjNUSFk0OUVyeGZTNnpzRkhYZlNOOVZRS3pIVGctSVJheUFoc2xMbW9neEZ3X0lWS1JlNTJ3U2VTVHQya1hISU5USTZqMjRMQkZaNnAwR0ZjSUdYX1dxTjNTVjRvRU5TNTNjendpSWpKVjNSVENZZnZ5bW82UWMwRFY0b0x5RGx5NjYtbmdieVJGNHk0UW9RckdWUnZ3WUp2WWtucjJYSlQxY25od2VZeEo?oc=5",
    "source": "BioSpectrum India",
    "snippet": "",
    "date": "2026-10-23T10:40:40+00:00",
@@ -2333,16 +2404,6 @@
    ]
   },
   {
-   "title": "FDA approves novel self-administered autoinjector for generalised myasthenia gravis",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMnhwUFFCS085ZTdzSjdyS3UwVDhnUXlzWVVkTEtFNGFJdXhNNVQ0X2pWSHJSU0F6RTlSOW9LQ2JfaHNVSjU5U2JNLU1keFZONTkzZDFVeWNGbm92cVYxN2hwalhwYURRUE5LUk5qbEJQTG1rLWFYRWw2ODUzbG1OdnBJalJmZ0pDUlZtTERGUDdWdE1mQkhiY3hzV2g2cGZZNUNRanRvR1hUNzNxaUh0VlZYOThsbDlGNjBaZTF2LW50dkV0ZGIxOWJnejlzdXA1bzRNcFB2NU1qdnFx?oc=5",
-   "source": "European Pharmaceutical Review",
-   "snippet": "",
-   "date": "2026-10-21T11:45:57+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
    "title": "Sanofi gets CDSCO nod to market hemophilia drug Qfitlia",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcF9IbGt4Q1dfdHdORllwbTg1ZXM3MUxuMndtbnpMcWFyUzFxZFUtc21PTjBFMnJBVVc4alZ6UjI2YTlZNEwwYlpRSHdYQlZNeGdpU3NiLXJEdS1hb1A0aV9KeGotN0xZUGQ3anhGV2htZEJiRUxqaDVITHBCVUxad1pnaGRnQ29DSzl0QmxlTGpIR2RJeFUyZ0ZWTklzNXpJYVhxSXRFUXdlV0lGMTdxNWxFaHM3Zno1d0d5cG5aWWJFUDBsWnlsSDA4bmVDdUYta0Eya25VczNoUdIB3wFBVV95cUxPbDNCOEFKd3hkRi1KMlA4ZGZRcXFORkJzcmd0ZkhGTG1vQmFjek5ScHRxN0ZWUkdiR21iekd5eGt4d21XSlU1YWZDR1lnREU5cFlrb0QtcWI0LS1uY1pjZTBfTkpQQ1NvbzRPdGYwaVRNazUxZDdEcUJSMjJJbUVlMHV4Z3R4QzU5X094LUFkVFZwQ2xaWUdQNEFKcXIxTHd5VGRVUDlubl9NM1lnd0dQOWktWVB5YzQySm1oUmNRSlE3N2REQUJPTDFULUFWX1pSSlZEUmNJbGc5LUNFQ1Zj?oc=5",
    "source": "pharma.economictimes.indiatimes.com",
@@ -2474,6 +2535,16 @@
    "date": "2026-10-21T10:36:53+00:00",
    "tags": [
     "Biotech"
+   ]
+  },
+  {
+   "title": "FDA approves novel self-administered autoinjector for generalised myasthenia gravis",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMnhwUFFCS085ZTdzSjdyS3UwVDhnUXlzWVVkTEtFNGFJdXhNNVQ0X2pWSHJSU0F6RTlSOW9LQ2JfaHNVSjU5U2JNLU1keFZONTkzZDFVeWNGbm92cVYxN2hwalhwYURRUE5LUk5qbEJQTG1rLWFYRWw2ODUzbG1OdnBJalJmZ0pDUlZtTERGUDdWdE1mQkhiY3hzV2g2cGZZNUNRanRvR1hUNzNxaUh0VlZYOThsbDlGNjBaZTF2LW50dkV0ZGIxOWJnejlzdXA1bzRNcFB2NU1qdnFx?oc=5",
+   "source": "European Pharmaceutical Review",
+   "snippet": "",
+   "date": "2026-10-21T10:35:00+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -2681,6 +2752,16 @@
    ]
   },
   {
+   "title": "The DC wing under TG SAFE cracks down on illegal habit-forming drug sales",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VUmVmd2RVYlkyV1QyeWQxR0hScjQ4dnU0OTdHZXFibWNLR3kxeG9UZDlFX3Y1M0QzSWJvOWgyNW5TT1g0RWlQZ2M3c2JnNk1jSm0yRXliamstNkxGVjFMUVFFWVA5dy1udGd2VA?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-10-21T07:00:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "GSK Wins FDA Approval for Hibsago, Six-Month Hepatitis B Treatment",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUZUX1NlV3RLeWlWZTFWM211ZXJiNGNJSm1tdVN0UmZJcFVhV2ZVUHRZT2dEdjBHT0l4YkdPbFhTMDNEZURNWkFkY0tlVVJkXzA1b3pndnhhQ2xpdVBGU0xiQ3lsenlJc2RMRnZtUkZjV2dZVjYyZGNiSzFLN0dZOS0yeVI5ZE04a2YxZXotWUNIVDlWYjNUZ3htS1VPM3gtUWtraQ?oc=5",
    "source": "AskTraders.com",
@@ -2814,6 +2895,16 @@
    ]
   },
   {
+   "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZEYtUFJGNEZTSzB3Q2Z0VGNXS24yeS0wb0lPS1pob0F0ZmQxTXF0RFpuUVZzVDVEcWh6bkJWUHNJaXJXNDhXVE9lczFvd3F2UGQ0YWpRN09CYlZ3THBYSEJWVWpELUpCVUZpenZVNzVpOGxsRW9nV3RJcHR1M2s4Mk9NWGF6dVZWSV9iQVpvNXFYcDlldlBuNG1GbE5lTG9DNVhqMEJuMVU1WjFpbUpLaXZ5OUM3c1lsR3hsdU5JZ3lmWlY1N1dsSDFWdHhXbFpEM2tJNXdJV3otRTZsbWpPb1lOcmhLY2lzcHFGbmFUWks3YXdQZmsyQ3pGX0hGMmZPX3fSAYcCQVVfeXFMTXZlMkxfVEdXLUR3V29zN1BVM0VNZGFoSGRGTElBdHRjVEZoX0tMTHdUSnhrYXJ1MkV1X3ZndFBrbVlWelpLbG14c2dMeFk0UFUxajB1NjIzb2xNQ3VFUzIzcmdUVlZjU1FOLWw0Z2NCdC1OMDQ0eDUzMF92SFphc1NaMkt6VDZHbW5yampLLS11YUhfekc1RzdyQzlEdmIyR0NJdm1yZlNxbk5hX05LMVFFZ3NqaEc0WGQyS1J2aVRyX1ZvMFU2X1hIcUlTQzdBbGhMbkd6dTV3Y0dfWmN0YWhOclBBNnl1UE93elZxVnZFQU5UWlJrQXhhaWRPUXhfYU54V0NvVEk?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-21T04:12:18+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "What Eight APAC Regulators Have Actually Published on AI in Drug Development",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVhLMVg5VjVQSTFORXZMWXg1TEFTWjBMcnc0b2NFeEdIeVhZSVJKa1pjd1U5YXZjNmZaY2gtTE1rd0hiMkxKNHpnUWhwc3ZiTDhFRWZKaVo1dGhsODRhbGpnMTFyVjVTTzREUjNLN2FsZWZHN2w2OEFMZlBLT0hNU1Z5YmZFeG10bGJFY3Q0QTlnSjBYcTBNcGdHLWNEU3lqX0FxSC1YazMtZUhrX0ljam5RZTJkOEdXbkVSM2RGanNEZw?oc=5",
    "source": "BioPharma APAC",
@@ -2939,16 +3030,6 @@
    "source": "Business Wire",
    "snippet": "",
    "date": "2026-10-20T20:42:00+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWi1BQUxhczd5RWE1Q2o4Y2taUjZGWjR4VWlFdEhtdnJ3VGVjTGNERDljZm5WQ0dEYUNvR1Q5ZGQtb1NnaDE4Q2NyYWlNWEdOSGhFSHVtaDRYeUpOSTlCdkJXSDBRMUNacjFhRC1iWVlUd1o2Tk84WVoxSVdSb3AxcmNxdVJzX1JnZ2R4WkY4RmNHRF8yQW1hbTY2Ti1ybkhOdGtnZHhhSWpFMnR3VnR4dVo4UFJJakZCMTBtb0pTNFBCVEdrUDNfUmRiWGxNb2VwdDNsR0gxZEYxOVNYTXd3bi10RFF5WlZZUnJpajRNQ1ZLelU?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-10-20T20:19:06+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -3869,16 +3950,6 @@
    "source": "Pharmaceutical Executive",
    "snippet": "",
    "date": "2026-10-19T18:33:27+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Ryzumvi Eye Drops for Presbyopia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVzJjTUNva2p4NmlFVzMtd2FaM05lMFhtNGpWNlBXdzFOdC1kMDcyei1GejlzeWFRR195T1NZbTNaci1uT0h2OEdBSEtteDlYcUlIOXZrX0RhaGEyNjB5RGFKQ19vS3ZsQmFNUGpyMDRDT0FOZ3kxa0hiX1VSSml6TndOUmt0WkQzSHlXZ0w5dGtSV0xMbnc?oc=5",
-   "source": "Medscape",
-   "snippet": "",
-   "date": "2026-10-19T18:33:24+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -5035,77 +5106,6 @@
    "source": "Pharmabiz.com",
    "snippet": "",
    "date": "2026-10-17T04:30:07+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "fda approved weight loss drug 2022",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODVZTE8xLVZDdDhpRUlaMUozTUdFNmgwLUd4aDByUTR4bkNkRm85ME1oSFJ1bllvY1ZBMGw3c0NtOGotV1E1ekJNaHl1OEVEMDFaOFhoWHM3RF9ZZEVkQ2RjSHpXWnJQTUVLQWVDVG1zZUlCclVsS1JFOVNPNEhaWTdTbG8?oc=5",
-   "source": "www.polskieradio.pl",
-   "snippet": "",
-   "date": "2026-10-17T03:27:18+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "new medicine for weight loss approved by fda",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkRETV9JdWotLXVJemRzQllrUDNHM3ZSam95cTRnSUR6aE9jTmcxYUhQUllRYVhnbTdjbFpMLVdoblVHa21fX3hvaHVrY0c1bzRBU0JSNVM3OUNWenF2NGJrZkhvaGZDUm1HUnAyM1BrUlA0MG5jYjA0aDRyV0xnWHE2Ry1XMVAzc2VLSzR0WmVscHRhdjFzdTVwcw?oc=5",
-   "source": "www.polskieradio.pl",
-   "snippet": "",
-   "date": "2026-10-17T03:24:57+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Telangana DCA issues strict warning against online sale of unapproved weight-loss drugs and peptides",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oSWluYm9xQkJxa2ZDZzdYcG1mbFYyWDBVRzJYczZWcU40VWw1SFVNYmNIakhZWkFObjFuM252QWpncVlkWmFwcFhfbTkwQnh0Mzl5QnpydWx4a2l0UGpSLU4xZnh5cFI1TE1n?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-10-17T02:30:50+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Guardant loses second patent challenge to TwinStrand amid $245m damages fallout",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFpFdXJfbzJVUG90THdkSTlCeUU3QUVYNFBXelRyMElvU0x4a29MdkJVM2p2RUxQMm1ESmFaU1lZbWRIalZFRG9zWFZpa1dpVFc5ZklreUFVc24xdzR6MnY0TFJJMm1RVEdfeVd3cml5eXRnNXhOamNncGhRMzItdElZcWVad1NwTmEybU93RGljQl9FcHhOdVF5MVRrZzRDbUVuTVN1cUJvSVJyXzhjRGNaNjQ2akpVX1NpUXpPUQ?oc=5",
-   "source": "Life Sciences IP Review",
-   "snippet": "",
-   "date": "2026-10-16T23:23:16+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "BioPharm Brief: Gene Therapy Progress, FDA Approval, and $103M Funding",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV29tNzB3OXZfOGpvSGU4TkxuZGQxb01ZaWtrVTlvOTRjQjJla0xnUm9iSzB6dWRlU3hETmZ5TG5vV1QwaW5pYzdUQnZpdy1sVVpRMjE4aV9ITHJsYzVVRVNjQ1gxOHdReU45b2hlSi04NENnNnNyOUk3QWZLdzBqOWFtUl9heDBYWHZNenEySl9MM2hyVEZISlVuMGNWV1ZwQmExNExlYlhXMng4bHc?oc=5",
-   "source": "BioPharm International",
-   "snippet": "",
-   "date": "2026-10-16T23:17:34+00:00",
-   "tags": [
-    "Regulatory",
-    "Biotech"
-   ]
-  },
-  {
-   "title": "Asahi Kasei (TSE:3407) Won FDA Approval, Is The Stock Still Undervalued?",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjRzb2RPV01oS210MVR3MzNvak9FMHhxRllpdGZUTEtxSFRJYTd4REZnY2oybGNpbWNzUHhONXZEamduamt2Zy11LWU3ckptd0FoR1FaV2dZRF9DN3l0NXVXWEZiNVZHYmxLZFJvVGd3Y2pGSTdyU0xoYmloejFCNFprQU1fRUY5WlhhNUhYcl83VmRrTHBIRGN4T0lYa2wtQzBYOUpiZ3piTzV6Q0tFZjh0VDJCUUlycGV5RFZtaHIyUEx3c0pzQWhlSFlZck1t0gHWAUFVX3lxTE45QjJUVTNKYVg2R0xFY1AwS1NtbzFvdUlpcHFUd2U0QXlZX2xxOGY5TDMzVVVFME1GVHp0OUtldEM5aERjamI0UktuSDJHVGIwQmhKZ0N0Y1ktOE9CT0laVDRQVTlvM01WblJwMEVHNFg4ZVFVM2ZkcC02bFZmQ21oeGFrMkF1MTFpYzBFNEpyXzRERUZCRUN5YUtrb094RVp5LUJ4ZWpOdUxaNWJZaVhDV3JkRkVzSHdmVXAyVnFjMF96UnpKel9fTkttYml4V3R3ZWtOemc?oc=5",
-   "source": "Simply Wall Street",
-   "snippet": "",
-   "date": "2026-10-16T22:07:46+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Alcon’S BRYTL Eye Drops",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXdxVTh6M0xwa3ZMSnljUkFXMUwycTI5alg0V184S0M5RUxpRlNuQXhtZ2NnNGhJbnFQSEJsYUJTVjZMdE5WUU1xdHhaZWlJTl9mdlI0UkFZemJJaDUzdFZWSl9uSVVOTU5vd1BDbVJiUWRpSVhvZGM2bGdTdmtJY3FtMGRvYXUzSWMxZThhTjJFSVM0cnQtWXkxMEtHTFZGcVBscDY4UXFaUQ?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-10-16T21:47:36+00:00",
    "tags": [
     "Regulatory"
    ]
