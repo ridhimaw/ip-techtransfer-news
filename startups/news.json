@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-26T22:42:36.552289+00:00",
+ "updated": "2026-10-27T05:10:27.608793+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,10 +12,83 @@
  ],
  "items": [
   {
+   "title": "Indian startups can redefine how we fly, says aviation minister Rammohan Naidu after meeting indigenous eV",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNEs4VHAwbFd2cDFlNEVVVlBKR2tOSk9UN0dKM3lGZUtvX3Z1Z2FGbEZXa3d1TmZmZHRKMzBuZTdTeV84bWFDaEVacVI4R1pzVVpnTjEweVRQUVZNYWdQdnFiSkIzN0FwMUJJZVA2dEZsRnZib3BjSGIxT2dYa1pBWTZyUjI2UUYzTnlLQjB6bXlMRmRoM1FmWGcxRXowWE1maVlqdUJlYm1CQzhVQklILU1PTHJXejdRUjlXeWo1TFVUYnhLYTJxRGpCWGQxbU4xUVNBX01yYm5YVkN4SXlVSXAwUDB4NjJqZ29vSWsyY3RoVEdzR3JFOTM2bld2NnJqUnNzaFloM1dmbXpSOWlWbEVKYi10Vzg3bXZ1ZFJGQU5YT0tuVTVlQlF1b0xXaTDSAagCQVVfeXFMTXJuWl9CU09CSDR2WHdYd2tyaVNHZW93Y3R0SHNnV2JyQzFMWjQzTnhzYmF3VEs5dFltTXM4SVYxck11VlRTM2ZUQTVyNVdkRkxuXzllakZuOHRtaGw1UlBvODJoYUstQ0p6U1FLeWxidGMtaUhYbWJWaEdxdDV6cUx5UFlkbmlfSDc3bnQtY3YxeU1MR2JGd1ZwYmVKZVczaS1MaEtQRVJ5M3BQZ1dFUmJLNWNsZ2IzbW9NN3Q1ZnRodFdEaVhHaHZpbTFoUkNVUTJiY3B3ZW5UMFpCQTlrR2lSWEhNMlFmeWd5UjhyQ3o4QU9ocmduZWVTZ2E2ZVpZWmQ3Z2V2QlJWZ1UtMFI5NUdRNkZ0RTRRd2hFNlNqdW9oYlJZNHRXWEY?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-27T04:34:36+00:00",
+   "tags": [
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
+   "title": "Intel to acquire startup Classiq in quantum computing push",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDRhby1rUmNScXY4LWJDREMxUzBOQWdkQXMwZmxxTFNDalY1em1zRDVMN2xxd0FfbTFfbVoyU3pCMDNZX1c4cUJiSy1EQndLdjBhNXlPa2Fsc09KSXJJbFJtLXZ3RlU0djR1eUE0QkhBU0hLcXJ3MmY4QWViSWM2YnBSR3hJcUhLVzVsOUZGS2tUUFpaT1dKcXRla1FDSlVmUUNPVWZSdl9wMlVHQlY0dGN3Tk52Z9IBuwFBVV95cUxQaFZ5eUxHN1ZCZmFyNTZOazBESDBfU3B6cUc1Zng3NUREYW8yXzJSd2tpbEYwZkx0dGZNMUhDSnVUTXk5NjNkWEpPelRTM01JZnNmRGNGaHg0dFVlZkZORlZrb3AyeHpJTmk4RFBFS2RXcWhVSmZnOC1QOENPREg2U1k4NHVtOVFfbU9WekxTZkl5TXp1S3BNZFp0TWRELTRGT2RiMWNkV2lvVnZCU3RNLVA5TGVreWpvdXNF?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-27T02:25:17+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Tech News | Startup News | Funding | IT | Crypto",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FZ3haT2JGYzJCYWh5X1ZVS2IyMkJLR0tRZ3AzVko5cDRFLUxUdlRyQmt0cUxCR0Z4QW1wSVdzSlFrTzM4TE9oa1drV3l2Z3poeFY0a1BEdEt6aTlVSEtzYnJCWXh5dG5kSzFwRVB2YWhBRGhlTG05dA?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-10-27T01:58:29+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield",
+   "link": "https://inc42.com/buzz/protectt-ai-to-acquire-controlling-stake-in-boschs-aishield/",
+   "source": "Inc42",
+   "snippet": "AI-native cybersecurity startup Protectt.ai plans to acquire a controlling stake in AIShield, an AI security platform incubated within Bosch Global…",
+   "date": "2026-10-27T00:30:38+00:00",
+   "tags": [
+    "Deep Tech",
+    "Incubators & Programs"
+   ]
+  },
+  {
+   "title": "Chip startup Nova Spectral AI raises Rs 21 crore to build low-cost image sensors",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaDBTRkJfTXFmUUZhMFU0UnFmN1FJVHgtajZlSmhqRFVQT25nQzdjNXdreWNVNFFJRG1NaTZ4ZnFObXI3Vk43dkRTejJkWVZhdzJ5ajlwMGNkQ2FsajZsTEdJZU9PeExxOTdNUzdKMENmTWVTbnh3MXBWVmVYN2ZyQTFFRUtFRzRpdHB6TXEtaVBjbkwzUEtVYk5iNDVIcDBJdFpRUDhQMWh2U3l4dkQ2SS1fcU8wUWcyanduT0NsOS1yd2JHY0R3eVVqa3lZNEUzajhWTGNvemVWQVQxUlRiRkg0akc2OUdMelRlbG1n0gHnAUFVX3lxTE9yMEhzX05Wc1pLQkowZkhQaFo0VFdhTTltUVBXVUVJcFJmdFVaSGQ2ZG11OWw5bFpwV3ZFUnpGUHd6UGJHZWpVeVlHc25LOHd1S1IwTWhSVFN2Q1pMRHhHM2RrMU9EdDJPU3Rkd1hJc0Nqak1mTlFEcGh2UFpiVHljanI4ZlRicWxkUTI1c0VhY1I2akItQ1pNd2pud1JxNnhzNEhmN0Y3TVZMNkxtTldjaWhlRTZNWTlyaWRrS1p5S0tidVcyOWpYazlZV21tN1BzTXRFQ1NJbGg1QUwxaEk4OF8zRXFEbw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-27T00:30:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Protectt.ai takes majority stake in Bosch-incubated AIShield to build security platform",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaV9xZWRGYmRkdUNELVFEdHVqUktKak9UOUNjSGQ2NUI0RkdFN0ZPSDNGUzhYTnpTTnVORFVXYkpULU9ucW85dDdvWFN2eTFXZUFmdHFVcm0yRXBLU1ZpMkMyaTE0MzNkeXk4ZUxwYW5pV3pmMC1XVVdVUGJ3dVhkelYyMWdTNE1sYkd1a1A5eHQ4SzdObkplSkJhYllQMWtjd0ZrWjF5TzFQa0FUaVJraTlaU1k4dUQzbHRGQ01JU1drODdjRGs5RFh6UFlFQnlJelBPV3ljRUVZY29CdF9qQ0hjZjhlSVVJVjJ3RHZhNTZKekx3eHlF0gHwAUFVX3lxTFBZTVc3ZVBEM1B6TEtlU240UkhMcWxPclFrZjNSMTkyV3A0VS1sWFhWMjJhemVKdVhGc0ZPWVg1SkNpVW93Ml9naUpMOHc1amxJX2Uwc0FpSk9ZYjVneXNRcEdNMWU2aExXZFp0SWtUcS1jdi1jdTU1UDk5UmtMQUs2a2dwTE5XeTQ1bmJNb0lHNXpocTRhWXB4aTktLUVuQjYyR1pYOU9vNjhSU1ZDcWN0ckc2XzZSWkVxNm9DOHZ5Y0pDcmU5T0RiSkltVGpCMGo5LTRxOUdxZnZucllBZEFxOFNGeVNxWWV5a2JfLXNXSQ?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-27T00:30:00+00:00",
+   "tags": [
+    "Incubators & Programs"
+   ]
+  },
+  {
    "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
    "source": "TechCrunch Startups",
    "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+   "date": "2026-10-26T22:00:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+   "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+   "source": "TechCrunch Startups",
+   "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
    "date": "2026-10-26T22:00:00+00:00",
    "tags": [
     "General"
@@ -53,16 +126,6 @@
    ]
   },
   {
-   "title": "C-CAMP supported startup Tranalab joins Wellcome Leap’s Focused Antibiotics Programme",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUjJLeDlBZUFrdE9HNmtlYWE1VFVMQ0VyOXpwYWdjVzF4R1ZDRllkRXF1WGpJQW1YUE1BaFpLcXhPYldxRWEzSDFaa0F6UGF3Nmg4dU5sNFhYX1h2OFNNZzFRSjBmaDB2YlFOUHhIU0lRVzBlbnkteGE4WmNMakRHYmVLOEwtVUY0MGE5S2xUVFFSTDVhUTJqaXp6b0Q0blVxNUU1YmF3UDVnNUdhSjFCb0RzNmVUX3BoSktVTzBWb05iU1k4M3JmTkw4TVVZOUtHV0E?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-26T17:40:49+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
    "title": "Startups would rather stay young forever than grow up into dull, profitable companies",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVTVKZWtnRmtfd0xSYlZrcTJQWkh1NFQtMlFFNUtmaXRMTFpBVGc0ZGkyWGtWRXhXckRsR2hFU3Y4eGFzWVVGbE1iUzlhNzRfdWhKaDlma0pHRmdSRnNMSHUtd2Q4VlNicHYzV1dmT1YtSHlnZHlHNHZSME5PR3YwSmZFY2M1VXc2VTR3TlhhaEJKZFdSU2ppOThIVnlpMEVwcWphQ0FtVlEzalB0Wl9TdGtlVHRlYmxHZUZyOERjdnJOQlkwM1ZhRkN6WUM2Qm1jSjM0VzEzVWJmZjlrN25tTkNGNWpuNTdqNy04NXJUdzNuemcxWG1lMDN1WkzSAfYBQVVfeXFMTVpTR0JDZkpBSnc2M0t5R21kbTJtMFVoNTlhbTZEMzNfQmRxVzhGTGYwd2xzeWt1bDZmYkd4anloalVDdTBvaGVFM09CNzNNWTJObnFPMjFuVlo2QXZ6SGI2Zk5TWTFiRDNGTDhUWDJYX3FvTmFMY0hlSElxZzB2NVFjV1dSdGVMMDlQQ0MyZTBpSnJFMkNYbndvRFl5aDNNVm5KVTlmR1psMXhLNVotY0xKQ1VNeEM3dmg0dDNJeHRlT0dzb293QWYtTVowbUpxVVpxc1pHa2ZMNkgtZTQ2SDdCNlRjbkJrUXZ0dE10WWh5UVVlWGV3?oc=5",
    "source": "The Economic Times",
@@ -84,7 +147,7 @@
   },
   {
    "title": "Bengaluru Tech Summit: Karnataka to host AI and robotics pavilion with Bharat.ai; 101 startups expected",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNW5xYnVIblVJYTJUMFdybUQyZDBtYVQ1MV85MEt4cjNUUUdrbGtVSW1rQloxRk80Zk9pNGwtR2d2VVhYbXZnZ0RiZW00TGFxZXhxVWJDQUN6VTdWUnE2a1h5ZXF5a2ZIX2U1VzJJSlJVcHJuQkpwRzVjZ1VJa1VYRmNPVTJsODg0ajV5NkdpUkJSMFVRRjg4dEFWNTVleUI1RUJJZ2JSZTNGUW9WTzItN0F0dmFlT2lzc1FiVFAxenozOVlqTFVRUkdVU3pKN1RFWFlsa1FYTmdfSzlwX3JDcFJpRlNya1BVN1NBbVFHcGctVXE3WHlCTUR30gH_AUFVX3lxTE5wWHBLMk5GNThKRG4zNVQ5ckJOVzZNdVZHUkJTR2dwWHlCRnUzRkFmb2VPMmltandFYzd6QTlTMGRiTnZnNFJBRXotMGZxVVhDWUpoRFJrX0NZUi1ieDN4NmJzY3VnTXhiSWN0WGNiLUJ3Y2FXS3oyM2NDeUJlRG51YVFaZjRWSFljc2ZFY3lhRW5wWlM3QjB0bV9yZFlaMzRGeWpJQXR4RjBYdGMyWHBpYlB0SmtjUUV4cWVCcUd6NnFROEo3QlV2U3Nid29YZFdFTWN4NXlhTDhGMVpqaEhWbTAzbk13S1N6aURpLV9zdzlOUnA2bmE2STdQdGVZRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcFhwSzJORjU4SkRuMzVUOXJCTlc2TXVWR1JCU0dncFh5QkZ1M0ZBZm9lTzJpbWp3RWM3ekE5UzBkYk52ZzRSQUV6LTBmcVVYQ1lKaERSa19DWVItYngzeDZic2N1Z014YkljdFhjYi1Cd2NhV0t6MjNjQ3lCZURudWFRWmY0VkhZY3NmRWN5YUVucFpTN0IwdG1fcmRZWjM0RnlqSUF0eEYwWHRjMlhwaWJQdEprY1FFeHFlQnFHejZxUThKN0JVdlNzYndvWGRXRU1jeDV5YUw4RjFaamhIVm0wM25Nd0tTemlEaS1fc3c5TlJwNm5hNkk3UHRlWUXSAf8BQVVfeXFMTnBYcEsyTkY1OEpEbjM1VDlyQk5XNk11VkdSQlNHZ3BYeUJGdTNGQWZvZU8yaW1qd0VjN3pBOVMwZGJOdmc0UkFFei0wZnFVWENZSmhEUmtfQ1lSLWJ4M3g2YnNjdWdNeGJJY3RYY2ItQndjYVdLejIzY0N5QmVEbnVhUVpmNFZIWWNzZkVjeWFFbnBaUzdCMHRtX3JkWVozNEZ5aklBdHhGMFh0YzJYcGliUHRKa2NRRXhxZUJxR3o2cVE4SjdCVXZTc2J3b1hkV0VNY3g1eWFMOEYxWmpoSFZtMDNuTXdLU3ppRGktX3N3OU5ScDZuYTZJN1B0ZVlF?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-10-26T16:04:03+00:00",
@@ -145,6 +208,16 @@
    ]
   },
   {
+   "title": "C-CAMP supported startup Tranalab joins Wellcome Leap’s Focused Antibiotics Programme",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb1piOVQ3NjBqa0FtQXVSX21Qdm52cEZUMHVBVWxGOFhEUzVpMmFiWFdZT3FRWC1NLUhDN0tIUmZMb0J5b1RKWlhQT1pZdjIwTjZ1UGFzUGtLdml5WVQzVlVxMHVwZlBuT003MHNrZi1DSnBrcUpKVzEtcmQ4b3FBRkRvV1JvR05HaTRacEFNQU9DQVM1TUdjRTNqekRCUTZhbzJJMHRnMHZtRU5DS09sZE9zbFpxOVNjZ2tYU3RNMHJvVHBaQkZiTU5jOHg?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-10-26T13:36:34+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Timeline: Anthropic's path from AI startup to industry-defining IPO",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQXZaamZhOHpvVENRek9nU252bXZZc1NfQkpWUjVOWlNvRmF3SlU0clU0OFU2dUR3b0NQd0xVOHRwSWNqUG1fbi1SblVZZ3NGdlpQSHBfdng0SlM5QWttWUpSQjN6RHpUWVJ4b3pOeVdVRGpwSEJXVldfUDQ5Q1B6eXhBRGhfeHMxeWo2RGk2ejdjZ3F2QS1tNmFHQmhiUHBpSUNBMXdnZm14cGhJSExjTzlMZ1p1ZjdzeDNLRDhRb2dTNlBPSkJsZTJfeUtGY1lWSHlsbHp1b3NWaEt6ZTFRcGhDeksxQmV3QnBqUTRkMNIB6AFBVV95cUxQYWxCdTM2R3VqOE1VVWZiaWpHX3hHUElFVmZ1ZVFBSjItT19VZndyLVdIVWF3SUpBQVhlMEcxMEFUYk9LcDBZSXlCUUo0VWZpUWZ3LTFvdms0YUJWa3A3X0JwbHI1d2pEWHY2Y1V2aVVNaERHWmRHVGx0dzdwZkVYMm9RR0w0TERtNXZLU3pYdzlrSWxHSzFrYXFHYWlndnVidmw2QTZXM0MwM3N5NUwycGVEMUE4R0RIU2FlX3FXTjluZ3l0a0NmVEFfTWVPTUp2c1NubW5Zd3pHOFdBeVZJa2hxOGR5ekti?oc=5",
    "source": "The Economic Times",
@@ -164,6 +237,16 @@
     "Funding",
     "Deep Tech",
     "India"
+   ]
+  },
+  {
+   "title": "BioStack, ReplyAll, Bucketlistt.com pocket early-stage funding",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOC1XZ211QzA2Um5OaW1obFhVV2R4bmRHbjhGWlRhbzQ4TlBaakhwaklIVzdpb3ViQWNKS01oc2xnUTNGS0s1eFRnNTdTNEFtMERxam1lN2tzSm1KeVFDMjhZcS1XR19mTERYTGx6U3B4Z1pYdjVuSVBrR1IzU3RRc3hQRk5vYVNSR1Z5LdIBlAFBVV95cUxOUkFQWFZVR3QxYVJzaV9Cd0t3RThFSjJ3MnBjckZKSlJsVG5GSndMSzR0c1F2ZGtQeGJBQ3JZXy1vck5wZnMybHVwWGxUZTRoQlQ3SjB2TlMySHh0d1hDVm9NQVhuN1h4NDk0cVN5Q2VxemIxSlBDeG1Bd3hIS2hjN0hpVGw2ekxyVkhoaF9MNlNROWZi?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-26T13:14:42+00:00",
+   "tags": [
+    "Funding"
    ]
   },
   {
@@ -566,7 +649,7 @@
   },
   {
    "title": "Uttar Pradesh’s next growth frontier: Building a global hub for IT, AI, GCCs and DeepTech innovation",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbGkzT3VKNElGVXpqZ0JKa1VKOWtlOFQwNDFjWDItNW5adDhNUUVpY3VhUDQ0cnphRm9VMFJQUmcwMl9sLTgwZFdWelgzQnVpdm10cnFVWUNMNjlfSHlocHV4WmdrQUlONE1pQWdabHYybjllUGRPSG5qQnpFVXdDOHU1a3dWV3FRenQtdnltTW9Rc1U5cXNSelJXM0Y3RGNaUG1UZVhQWEsxZnF5cGRpS05Vc0g4RmNBcHNrMzZLX2doSW5xRndYbFFOU19RVy1TcFNfc2d3dHFtM1dWNDZxQ21xWGZMQnp5SWlNejloSVhiYld3ZTFwS2ZMRDNvZ2JNMmZv0gGDAkFVX3lxTFBsaTNPdUo0SUZVempnQkprVUo5a2U4VDA0MWNYMi01blp0OE1RRWljdWFQNDRyemFGb1UwUlBSZzAyX2wtODBkV1Z6WDNCdWl2bXRycVVZQ0w2OV9IeWhwdXhaZ2tBSU40TWlBZ1psdjJuOWVQZE9IbmpCekVVd0M4dTVrd1ZXcVF6dC12eW1Nb1FzVTlxc1J6UlczRjdEY1pQbVRlWFBYSzFmcXlwZGlLTlVzSDhGY0Fwc2szNktfZ2hJbnFGd1hsUU5TX1FXLVNwU19zZ3d0cW0zV1Y0NnFDbXFYZkxCenlJaU16OWhJWGJiV3dlMXBLZkxEM29nYk0yZm8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd1Z6cDU4Uy0xbTFFa21Rd0tzcVNvN2FJbzZEVE5TaTJkcFRjd0FZNVZRM1dvaHJRbEJfM3BOanlCR21MT1M2OW9zeXRRT3dtVGR2TC1IX1dTbE1ZUVRZblhWZWJwNFM3MUY5Q05KNWxXUDc3b29zSFBBV3I4bzViVk5Ncm5qdlBxdUtCM0piQno1NjVmTGRGd1BKS0FWZlBHdy1wOGk0bGpHRnZrTTh1SmVmampZZ21QOXVvSk5vYVMwY2ZMeFRQaTlwd0NhQkZ3TDBxMUw5cVBjMHhBTkhoTVNZbmFTU0cwWDZ1V2F4LXYwNl9ZLXZIaTMyYklPQVdzcVBiedIBhAJBVV95cUxOd1Z6cDU4Uy0xbTFFa21Rd0tzcVNvN2FJbzZEVE5TaTJkcFRjd0FZNVZRM1dvaHJRbEJfM3BOanlCR21MT1M2OW9zeXRRT3dtVGR2TC1IX1dTbE1ZUVRZblhWZWJwNFM3MUY5Q05KNWxXUDc3b29zSFBBV3I4bzViVk5Ncm5qdlBxdUtCM0piQno1NjVmTGRGd1BKS0FWZlBHdy1wOGk0bGpHRnZrTTh1SmVmampZZ21QOXVvSk5vYVMwY2ZMeFRQaTlwd0NhQkZ3TDBxMUw5cVBjMHhBTkhoTVNZbmFTU0cwWDZ1V2F4LXYwNl9ZLXZIaTMyYklPQVdzcVBieQ?oc=5",
    "source": "ET Government",
    "snippet": "",
    "date": "2026-10-26T01:50:24+00:00",
@@ -622,16 +705,6 @@
    "date": "2026-10-25T14:59:28+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "Tech News | Startup News | Funding | IT | Crypto",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRF9MUjdFV0dEOGtkRDVaYW5pd3BqeW1Nc2tBX2MtTnRMcl80ek9uSktMTTVnSFp1c2NIQ0VjR3ZxT2gtN25ueHpZaGNsZ0pBNlRoRFJqa2VSZnhOclppUklqMExNTTRVLXNvOXJnZEtzQUllMEFJejM1LUhrcFRnWF90WVRiR2hzQmU3X0Y2WGFwbDZXdERfekR6U09ETDhIRUU4QXhiMkdPcHlRRDQ1U0YyU0QzakE?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-25T13:05:11+00:00",
-   "tags": [
-    "Funding"
    ]
   },
   {
@@ -1691,6 +1764,17 @@
    ]
   },
   {
+   "title": "Women-led Indian AI startup BharatAI becomes a case study on Harvard’s platform",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHVBWDVGc1o5UzRfZnY3ZXRrOENMbE5TSTdyb3RjMmRtek5kQ1dpT0JWNE5WUVFsT0xCNXBRLTlsSG1PQ1gyM2ZpM0pqMzFPMXROWGZCVTVKR05Kd3BLYUpZU2hiZE9WZ3QydmFRUzBVcVlOVUJRTUYxeG45ZTg5MUxoNHVZUU5FVVhWUlpDWGUxUjNYNlNCM1g4OEl3YU96bThrYk9nWGgxaFNpckhXWURLMEVDMFVQWjQyRkZR0gG-AUFVX3lxTE9MdUFYNUZzWjlTNF9mdjdldGs4Q0xsTlNJN3JvdGMyZG16TmRDV2lPQlY0TlZRUWxPTEI1cFEtOWxIbU9DWDIzZmkzSmozMU8xdE5YZkJVNUpHTkp3cEthSllTaGJkT1ZndDJ2YVFTMFVxWU5VQlFNRjF4bjllODkxTGg0dVlRTkVVWFZSWkNYZTFSM1g2U0IzWDg4SXdhT3ptOGtiT2dYaDFoU2lySFdZREswRUMwVVBaNDJGRlE?oc=5",
+   "source": "TheWire.in",
+   "snippet": "",
+   "date": "2026-10-22T09:40:44+00:00",
+   "tags": [
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
    "title": "Japanese-Themed Dining Chain Harajuku Tokyo Café Raises $3 Mn",
    "link": "https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/",
    "source": "Inc42",
@@ -1698,17 +1782,6 @@
    "date": "2026-10-22T08:46:47+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Women-led Indian AI startup BharatAI becomes a case study on Harvard’s platform",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0FQVmtLVldUaEVmM0l1a3lpR1F6QnlPSERPMTgtdVpnZXVwYVBPbVVWN0ppWVBOeGNsTmlKSHJQVmp3OWl1Y1ZvWWxlelVFTU9MbGVFemUyT042R1BjNFI1ajRwNmlKQkYxUWtCTlNFSS1BZm50ZG91R2pxU1hzVGl6bmtXclliZjBPZGEyYVpzQjFpT3R1NEJSVk9ZTDhBOGRadEZ6VXI4cHNVUW9NM1VycDZYYmFNVWtvMzZNa255T1U?oc=5",
-   "source": "Press Trust of India",
-   "snippet": "",
-   "date": "2026-10-22T07:00:00+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
    ]
   },
   {
@@ -2406,7 +2479,7 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTBKV1d0R1JURlhTQU43RVBFcmY0Z21yV09BQmVzZ3doZlJLZV9wSDBPQTc3ODhBVHI1UEdKLVBjYVZlSWxNUlZVUkpVT05za0N5VzdsSlhlYUd0R3QzVjlsVWdkNWU0TEhiSmRTanRyRnhBM1hfNmJibzlxeU8zRno1S3Y3aGJHRm5QcVJLSVdNUldUcm1PcXY4QkvSAaQBQVVfeXFMTnVzQjBDR2RNNkFYanU0cUpzNlBNX2dTUk01YkFMbnNfclcwSEw2aHdlMnRLOWdHaGN6MDNLTWhkYTRaYVBEUXZDbTAzVmpTYXNsSU5BNFhPV3RDbmNWbWE3eUFYWEs4Z0lLUENNaG5DTkJRQ3pHcGpQQXcyUERGOUYwSTNrRjdUUC1qUGtWNWt1dmlTWXlIQUxiNVNVNk1BYTZNcHc?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-21T05:03:44+00:00",
+   "date": "2026-10-21T05:19:21+00:00",
    "tags": [
     "General"
    ]
@@ -5084,81 +5157,6 @@
    "date": "2026-10-14T04:55:00+00:00",
    "tags": [
     "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Who is Tejas Sudarshan? AI startup founder who got 90 seconds to pitch to PM Modi on Chennai Metro",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSmJyMHgybjhVNkRQNTBvVHJYRzROVjktOU1JbmJNYy1hcEdLS09CRElFOG1XN3dxeE40SHQxdk13QU5vUGVtZklBNlpqZ052Rms5TjBial9NblNCZ3JUMXdIWmZaZkFYYVVoZmQxdHJMMGxzenNPcGZMdTVxZjIyLVJ4M2RIREIwQ2RfTDN6bDVlX04xZnNYYk5IVUJxQUJlNHdyRnYyX2traUNPNUNDNHVzQkVlc0FCa293SFpabXdZS2RCalB4cThORUxQUzdXZkU0UHBfZFBybjFfd1Ytb3g0bHhuZnh1MWlVamVTdFBSaHJP0gH6AUFVX3lxTE12cWdEWm12dWhnM0ZhX3lGOG9kMnJtbDJTa01pQV9iS2xKaVdCUWliNXBCemU3VTlNM0xIRG91VEh2RExhbUdKR3B0ekUzemZIS2pLaEVrYjhxNU1uYVUxMUFWb0d4Snc2RjNaYmZnd2FGYktlUkQ4V1E5NlhOdmtmNEZRQzNLdGVYbUlUeTFST0lEN2YxYmp6c2xQSXY2QzdOS3AtZnRrTVpPNUZiLUJ4ZkpaWkVuQXNWRWNMdzJ2Wl9XZzg4eXFXQmZJanpJZXZRM0pZX0VJWjZtZ3hiMk1aY0Q4Skg5SzY5V19xSm41TTVLY2tIN3Q4TVE?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-14T04:41:19+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Meet Tejas Sudarshan: AI startup founder who got 90 seconds to pitch to PM Modi on Chennai Metro",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSmJyMHgybjhVNkRQNTBvVHJYRzROVjktOU1JbmJNYy1hcEdLS09CRElFOG1XN3dxeE40SHQxdk13QU5vUGVtZklBNlpqZ052Rms5TjBial9NblNCZ3JUMXdIWmZaZkFYYVVoZmQxdHJMMGxzenNPcGZMdTVxZjIyLVJ4M2RIREIwQ2RfTDN6bDVlX04xZnNYYk5IVUJxQUJlNHdyRnYyX2traUNPNUNDNHVzQkVlc0FCa293SFpabXdZS2RCalB4cThORUxQUzdXZkU0UHBfZFBybjFfd1Ytb3g0bHhuZnh1MWlVamVTdFBSaHJP0gH6AUFVX3lxTE12cWdEWm12dWhnM0ZhX3lGOG9kMnJtbDJTa01pQV9iS2xKaVdCUWliNXBCemU3VTlNM0xIRG91VEh2RExhbUdKR3B0ekUzemZIS2pLaEVrYjhxNU1uYVUxMUFWb0d4Snc2RjNaYmZnd2FGYktlUkQ4V1E5NlhOdmtmNEZRQzNLdGVYbUlUeTFST0lEN2YxYmp6c2xQSXY2QzdOS3AtZnRrTVpPNUZiLUJ4ZkpaWkVuQXNWRWNMdzJ2Wl9XZzg4eXFXQmZJanpJZXZRM0pZX0VJWjZtZ3hiMk1aY0Q4Skg5SzY5V19xSm41TTVLY2tIN3Q4TVE?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-14T04:41:19+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Elevation Capital leads $10.5 Mn Series A round in Spill Games",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONklSLVlRV1VfUko4STZvMjcxbnFHNzVZTU1qeFdJVVB2Q2lTVjZ1Ti12QURUR1RHWm9Ob2xsU3B0aDhHSUR4RzhRNDducEhqUllUbkYwR21ha1hCUjNjcmN0WlExcGk0Zk95R280dnNrMHlIVEFKckVrSEY4M2JnOGVwMEdEZ0FBYlVSbWRSLV9ZQndCc2FyTW51SdIBmwFBVV95cUxONklSLVlRV1VfUko4STZvMjcxbnFHNzVZTU1qeFdJVVB2Q2lTVjZ1Ti12QURUR1RHWm9Ob2xsU3B0aDhHSUR4RzhRNDducEhqUllUbkYwR21ha1hCUjNjcmN0WlExcGk0Zk95R280dnNrMHlIVEFKckVrSEY4M2JnOGVwMEdEZ0FBYlVSbWRSLV9ZQndCc2FyTW51SQ?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-14T04:35:27+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZ9IBngFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZw?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-14T04:32:22+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "SEBI panel seeks tighter monitoring of equity fundraises",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2JBV3pHLWZsTm1BVTZxczhVREhKZ2tXYmpMekplY2dqS0l6YzBDZWxZaVRJd2xlaGJ2Y2E4M3RCWEE3THRBTU9iZmxfaFdtRmRKMTZuTmJuSkdmaEVVcmlwOU9QbnlaSGh2MEdMMlhOS292WEp3Y3NiaUZnS29oaGx1dkNtQjDSAY8BQVVfeXFMUENFaXk3S0ZqVjFiV2dUS1RRRHRLcGd2cUJ1M2JXYXlIQ0tZNW8yc3BlRVBLT3dHbDFjc3VwcHN6dTcwUkJhRmQ5TjFqb0lRbkFCUmR4VXViRlBiTnQ2N1VEXzA4bHlvNWRlZlJzRU1VNHlmYjhuSk5DanAxNzZ1R0lSQ25MaDNZOXZVcmNzTVE?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-14T04:22:25+00:00",
-   "tags": [
-    "Funding",
-    "Policy"
-   ]
-  },
-  {
-   "title": "Apple supplier Jabil, Adani sign pact for AI data centre equipment venture",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpCY1QxUy1hQnYxTWFPU2FLbFNqYUJoTmRqZVhYSG0wc1poZEJmN0djaWZHWVFpZnZXX3lwOHdBVTg5VURXWnp0d0x5aF8xVUFMMEUzd3ZyNV9jRzRZQmZpcDdFQ0thVmZVZUZFOTBMZjhsc1ZwZi1VVlVmbVRHbkhOclFOWnE0Ti0teVFUdXJfVTFfbWJSVHdib2Vxd9IBpgFBVV95cUxQU21pR3hYYWIxaFk5enZ4ZXJWMnNId1pDUzloSlg1NW9qdGs0SDNTbHlTdWdFOGI3ZEFDSnI2eUZtbm94ejZXd0VMSEdUOFRTWHNMaVp1SldzbHBMcWpXQ1FfRnluQURCMjRqWU9SRm1vN3QxS0ZDVzVFYWpuVHJQckxjY1ZxcXI2Ujd3RUJNV3ZWU0gxdVRjTmlsVFQ2UTdkNlI3MlJR?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-14T04:22:25+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Startup India FoFs 2.0 Has Rs100 Bn Corpus",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1NzOXZJdTNyQk5xT2cwNm9SeG5kdUM0ZFVvblYxQjhhTVY5MTNkMG0zSGdvc1FMTVVYYnlkbjR4bGNiRjNDb1N1amR4TjBwblhMVlBGQlJRTXVQTDZUUGJpLWZmNk1CUzRQakpSMWJ3ZE9XX3JxeTdaWEE0eVl4N1JvaS1FaXpwVUxVSHoxbVVGV1lG?oc=5",
-   "source": "https://www.fintechbiznews.com/",
-   "snippet": "",
-   "date": "2026-10-14T04:16:55+00:00",
-   "tags": [
-    "Incubators & Programs",
     "India"
    ]
   }
