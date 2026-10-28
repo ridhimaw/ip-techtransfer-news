@@ -1,7 +1,7 @@
 {
  "title": "IP & Tech Transfer Pulse",
  "tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
- "updated": "2026-10-27T22:18:04.881170+00:00",
+ "updated": "2026-10-28T05:46:58.492941+00:00",
  "tags": [
   "Patents",
   "Licensing",
@@ -11,6 +11,67 @@
   "Trademarks & Copyright"
  ],
  "items": [
+  {
+   "title": "Webinar: AI for Patent Licensing - Beyond Statistical Triage to Evidence-Grounded Product Analysis",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oSW8yUWpGS1dxMEtKNjNYQlVRdDVrdGRraUQteVhmQURfRXdwdmFXd3F3TTFMUWpXUzBFNm9lSFZhWm04a1NKUEQ1X1BUZzB0YjhGZG94XzcxVEM0?oc=5",
+   "source": "IPWatchdog",
+   "snippet": "",
+   "date": "2026-10-28T01:52:44+00:00",
+   "tags": [
+    "Patents",
+    "Licensing"
+   ]
+  },
+  {
+   "title": "Govt working to utilise procurement process for promoting startups: DPIIT Secretary - People Matters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVkzNm4ycXN2ZGxSVTBYVEluNDJPYTdhMS1meVZlY3FUbHhhTkN0VWxZSmUyX0FjSUVZY1IzY0tFNi05OWZieXBKVkNiTmRkTE5UT0FmUGtxQm5vV3Y3RVBDUmhEX2RoVVVPOUNlQjRlblYycnY2VktVZ3Q5SW03WmhzSi1BRlNBVExUcTZlR3JnMWk2aklNQmkwTEhnX2VvQVJzWkt2UThmZHpwSDZsTUN4RF9jOEVkRDF6WEg5ZUpvWUozajlvYXZ1b1VpcHJJ?oc=5",
+   "source": "People Matters - HR News",
+   "snippet": "",
+   "date": "2026-10-28T01:40:54+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Research Unit",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGY1WDZsOUVJNjhRcWFpVVFRVlNIM0lmdE9xRmduVDVrQ2lXRXRhRVJYU0Y3UVFvNk5CaDZqYmk0MUppRjhtM1NOZUJPY1JGdnludnc3c00wZGRub1ZNVHNfemozODRnVk5raTctekxrVGFQWGdQTVFoc1NsQlFTNm56aDBidw?oc=5",
+   "source": "Press Information Bureau",
+   "snippet": "",
+   "date": "2026-10-27T23:09:10+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "NEX-I seeks IPO as Korea biotech bets on aggressive 2030 profit forecast",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWM5dnJYUmlZZ1N5bU43X2UxbnBLQl94ek9CTDVBWWlCc29nbnJJbWdvcVZkcXlSM3NnY1lFUjRwZ25Id21PWlBzdVlxbnJQTnVlZXZGVmtDR2lVWERYN2MxQ1kxVThXLU4wc2pDQVkwUVg2YVlUZ212cXRyN2RVSXNCN3g5aXV3cEtFWU94cWxnSzZR0gGUAUFVX3lxTFAxYzl2clhSaVlnU3ltTjdfZTFucEtCX3h6T0JMNUFZaUJzb2duckltZ29xVmRxeVIzc2djWUVSNHBnbkh3bU9aUHN1WXFuclBOdWVldkZWa0NHaVVYRFg3YzFDWTFVOFctTjBzakNBWTBRWDZhWVRnbXZxdHI3ZFVJc0I3eDlpdXdwS0VZT3hxbGdLNlE?oc=5",
+   "source": "Chosunbiz",
+   "snippet": "",
+   "date": "2026-10-27T22:29:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "India’s startup number crosses 2.5 lakh: DPIIT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWk5qUFdPT3hqQUpwT2ZJRzhtaUJHcTB5ektSRFlTOFdVQkhIR2ExTHpGUndQQmdRbFAwM1VQUXpkdk51TE5GZXZIdEQ5QUM0bW55blp4cG5FVlNoNGFsSWVTQm9RUVVBd09xbkN1UXlkbGlUaHUxX2pRUjJaa0VxVnlCcjBHZThtM29WLTJ6Y2NYX1lIUDdXMXV4aW5jWXhKQnc?oc=5",
+   "source": "Deccan Herald",
+   "snippet": "",
+   "date": "2026-10-27T22:26:05+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "India-Ghana Agricultural Pact targets tomato production, crop research and post-harvest losses",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW10RWEzTkNRZ1MwSlNMdm96cEpKMmwyU29yTWkycTVCRlRFRWpBc2R3ZXdYeTdSZnM2QWUxTUk1N2ZjZFJvY0FTNUNKajdvWGFJTG9CVmtpYU00NmhpdHlvb1FRREplS3RISlJVZW9xM2ZCcmZJWm9NMWNIeU1qYkRMb3BBcGdwdHNlMUQxcjUwZWRVdjhFLWRJQUxoNWpzUlBBM1JiV0V3T0RoQjJlUWI4eEdiS2tjZExIWGpWN2k1clRieE1SN0dSM1JTdW1yMGpnVlBRS0FUQQ?oc=5",
+   "source": "AgroSpectrum India",
+   "snippet": "",
+   "date": "2026-10-27T21:06:25+00:00",
+   "tags": [
+    "India"
+   ]
+  },
   {
    "title": "USPTO 101: Understanding the Risks of Subject Matter Eligibility Declarations | IPWatchdog Unleashed",
    "link": "https://ipwatchdog.com/2026/10/27/uspto-101-risks-subject-matter-eligibility-declarations/",
@@ -22,21 +83,20 @@
    ]
   },
   {
-   "title": "Webinar: AI for Patent Licensing - Beyond Statistical Triage to Evidence-Grounded Product Analysis",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oSW8yUWpGS1dxMEtKNjNYQlVRdDVrdGRraUQteVhmQURfRXdwdmFXd3F3TTFMUWpXUzBFNm9lSFZhWm04a1NKUEQ1X1BUZzB0YjhGZG94XzcxVEM0?oc=5",
+   "title": "USPTO 101: The Risks of Subject Matter Eligibility Declarations",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFhiOFpUVjJRRmRTVTdkMjA3YkpRemtvTC13UV91R2prMC00OVVqZ2Fpd2VDbUY4TDZjeENqanEzcEROTTJQRW1iSTFSc1U2MmEyd0RiQW1nUzRmY0pWbzlPM3hGOTdPZ2xLaVY1SjlGY2xfS0h6empaVG0tcS0zOEdTRkpPWVhEWDB6SXpadXN3dkdY?oc=5",
    "source": "IPWatchdog",
    "snippet": "",
-   "date": "2026-10-27T19:52:44+00:00",
+   "date": "2026-10-27T19:58:21+00:00",
    "tags": [
-    "Patents",
-    "Licensing"
+    "Patents"
    ]
   },
   {
    "title": "Revived and Forgotten: Should This Patent Issue?",
-   "link": "https://patentlyo.com/patent/2026/10/revived-and-forgotten-should-this-patent-issue.html",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZDhNbmZjcUhxNDhnZzFjbFRTbmxqOXpQUHEzZllaenVPZG52WC1WWXRqWFQ2ajcySGwyd09vQkJhWlo5UGwzbWE1QnVQMjdmM0tDS0djVVEtX1g5Wlk1WS1sNHVjV1VlSXFKUHQzSEE3ZEtpc29zaDgtcWhfTVZuUWxnbXljTFRMZUs0Z0NXZnU3UQ?oc=5",
    "source": "Patently-O",
-   "snippet": "The USPTO revived IBM's allowed application in 2015 and never printed it. Should it now issue with 11 years of added term, or is the delay on Lenovo? Continue reading this post on Patently-O.",
+   "snippet": "",
    "date": "2026-10-27T19:49:28+00:00",
    "tags": [
     "Patents"
@@ -53,22 +113,22 @@
    ]
   },
   {
-   "title": "Science, Innovation Drive New India's Growth: NITI Aayog Member",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjMtdWllMnE5ckx3SGp0dFZuSUpNLWhFWlJ1MWJOV0d5T1NVNXpCSzZndUVWcVZZb3owRU9odHp5ZXY3elN6R1J1aWRYUWdWRmVob2x0N045MXhiVVFuLXBZeTcxdUVPVHZvLUdtX1RrVWVHd0tnV05MTU9Gd29xVFlqZ1FINjVhSHduR2ViU2pIWl9ab09rTE9nclF5dk52dXF1RzAyell5djJmUlHSAbMBQVVfeXFMTXNLSUtRMW1jRlJVXzRyLTN2LVNqU2g1d0xYY0xhdDA4SWt6ZHIyMV8tTzdFakFUQ1RfREhjTE1MVWYxQ19CT1Q5UFA1WUx5MHhsN0RUUUFFTjJwaGlCMkVrcnpaeldYcnNuR3FwNXdDVC16aE54ZUFFTk0wZmVfS3d5bDNaNlZzZGIwaF8xOFdpZnJsNHRPdDVUS3pJbWZNOG1VY25VMzBkOFF4d2pwQUo4dlU?oc=5",
-   "source": "Lokmat Times",
+   "title": "Government procurement could open new markets for Indian startups, says DPIIT official",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhBS1JZdUpubkJvQlRzOG5ycGNOa3ZNUGxFQlVYYURyRXhxdXdHWTU1cjRqal9jSFFhemp0R0F0OEJnbmx2WnJycjUwRU5peTh0MVFsUDR2ZnhkY2Q0cnN3eTFiYnIzY3FiNkRWaENGWXpodWtCRklVN1BEMEtLUmNvd1lsZnM4RVJyNnRERV9Kc0NCM1RUWXJRd2s5MlZzeVpUX0pHQnVzTTU5S2tuSGUtSDJhTmw0enVMakJoUQ?oc=5",
+   "source": "Business Upturn",
    "snippet": "",
-   "date": "2026-10-27T18:56:15+00:00",
+   "date": "2026-10-27T19:02:55+00:00",
    "tags": [
     "Policy",
     "India"
    ]
   },
   {
-   "title": "Government procurement could open new markets for Indian startups, says DPIIT official",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhBS1JZdUpubkJvQlRzOG5ycGNOa3ZNUGxFQlVYYURyRXhxdXdHWTU1cjRqal9jSFFhemp0R0F0OEJnbmx2WnJycjUwRU5peTh0MVFsUDR2ZnhkY2Q0cnN3eTFiYnIzY3FiNkRWaENGWXpodWtCRklVN1BEMEtLUmNvd1lsZnM4RVJyNnRERV9Kc0NCM1RUWXJRd2s5MlZzeVpUX0pHQnVzTTU5S2tuSGUtSDJhTmw0enVMakJoUQ?oc=5",
-   "source": "Business Upturn",
+   "title": "Science, Innovation Drive New India's Growth: NITI Aayog Member",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjMtdWllMnE5ckx3SGp0dFZuSUpNLWhFWlJ1MWJOV0d5T1NVNXpCSzZndUVWcVZZb3owRU9odHp5ZXY3elN6R1J1aWRYUWdWRmVob2x0N045MXhiVVFuLXBZeTcxdUVPVHZvLUdtX1RrVWVHd0tnV05MTU9Gd29xVFlqZ1FINjVhSHduR2ViU2pIWl9ab09rTE9nclF5dk52dXF1RzAyell5djJmUlHSAbMBQVVfeXFMTXNLSUtRMW1jRlJVXzRyLTN2LVNqU2g1d0xYY0xhdDA4SWt6ZHIyMV8tTzdFakFUQ1RfREhjTE1MVWYxQ19CT1Q5UFA1WUx5MHhsN0RUUUFFTjJwaGlCMkVrcnpaeldYcnNuR3FwNXdDVC16aE54ZUFFTk0wZmVfS3d5bDNaNlZzZGIwaF8xOFdpZnJsNHRPdDVUS3pJbWZNOG1VY25VMzBkOFF4d2pwQUo4dlU?oc=5",
+   "source": "Lokmat Times",
    "snippet": "",
-   "date": "2026-10-27T18:38:03+00:00",
+   "date": "2026-10-27T18:56:15+00:00",
    "tags": [
     "Policy",
     "India"
@@ -147,16 +207,6 @@
    ]
   },
   {
-   "title": "DPIIT Launches 6th Edition of National Startup Awards to Recognise Innovation and Entrepreneurship",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pZzVVSEd4c1B4VnN4TUx4YXZ4M0RHblAzUkpCVXJrbGl6WGFxXzZJenNXVldNTjNsYUs4ZHlMOFViQmFXVEl6X1IteUdsWGIydG9CM0lWemw0ckVyd2VXRFcyb29HMWNTdjQwWFNELU5na1lrczM0Y0dfaGM?oc=5",
-   "source": "Press Information Bureau",
-   "snippet": "",
-   "date": "2026-10-27T16:27:00+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
    "title": "Government finalises 15 funds for Startup India scheme, earmarks ₹270 crore for SIDBI",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcm1MRm5rcTFjLUVoSFhNOVdNajRIQ3NQTFc3dE9HbEdzTXBoMEdrN25wM3hsMzVhUXY2cGNRNEMtWUFTS2Noa0o1ZnVCMVJDUG1ZYmtwaWhDTWVHVmxCTk5YaFpsZkF5Qzh2V0FwNExfbzdoWUZjUHB3ZHlOUUhWMng3bnZtRnplN1hyaTU5V2pqR2hBV2hlVlZ6UGNvNzRxMkxjeFd5cVRZd0hEaVM2Rjl1cm1ueXFaaUhtZnJfMXpqbUlXbWNsOUU2a1BMUnlPMzk0Y0hvWW15MkpL?oc=5",
    "source": "CNBC TV18",
@@ -190,7 +240,7 @@
   },
   {
    "title": "Prime Minister Shri Narendra Modi inaugurates Emerging Science, Technology and Innovation Conclave 2026",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdHR3ZDhneldlS3E4dmJHUnM1bmROZzlhNW5hTXJTbVJSV2RsNU42NmVQYkV6U2tIRzE3dFR5Y0FpM3V6RlQ0NlJXaE1wX0RsdUdsekFmcHR1aW9sTGt4TXE0b0R0TGJVd2tF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zNWpNekFOTWdsaGtxTExJb08yYzhPQnhkV1dQM3gtaFV0ZVFrWXVQZG9XdU1jbVZWZW9iMkRxbTVpQnJKLXFrRmptMXNxM0kwOW1Nck9aNmhMaHZCYll5UUJCVGpIcnh5c1Nz?oc=5",
    "source": "Press Information Bureau",
    "snippet": "",
    "date": "2026-10-27T14:09:00+00:00",
@@ -243,7 +293,7 @@
   {
    "title": "TUM tops the list for patent applications",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zREZhY0xfdzkyNmpmdksxaWtIVTVlYXJDY3Vma2RxUXZSTlRzZmJhOFBNSGs2Z196VEJMdWpua0FpQ3YxTFFqSThwSQ?oc=5",
-   "source": "idw – Informationsdienst Wissenschaft",
+   "source": "Informationsdienst Wissenschaft",
    "snippet": "",
    "date": "2026-10-27T13:51:00+00:00",
    "tags": [
@@ -258,6 +308,16 @@
    "date": "2026-10-27T13:28:14+00:00",
    "tags": [
     "Patents"
+   ]
+  },
+  {
+   "title": "DPIIT Launches 6th Edition of National Startup Awards to Recognise Innovation and Entrepreneurship",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XTkpjczQ2WVpfRkpjS09adEtzcXdsWThwa3dyRU5mWDZBd2hZcnVRVm55YjlpUFN5cXlIcHJpdmF5bVpHWHlqaDA1c3owRURVRmRIQUtSNExQaE02S05xbE1ueTNtOVdp?oc=5",
+   "source": "Press Information Bureau",
+   "snippet": "",
+   "date": "2026-10-27T13:17:00+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -284,7 +344,7 @@
   },
   {
    "title": "29th Energy Technology Meet Inaugurated in Goa,Highlights Innovation and India’s Energy Security Priorities",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JTHV4ZmRweHRDb1FhSlhvLU1UTHRxTmlJRDA0elZGSVdmTDMyeGZJWXVxczk5aFVOZVpUT01JemdDYnUtQUFYNGtqLUEyMENMTVl6S2N5V0lNRDNTWVc2MGdlS2s0TUJwYXdJalNyRjNKRjFXRWM3clhsNFQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sTzlVTTFMWHFWY0J6M2k1WHgtUjR4MS1DM3Z3OHRwdGZtV2RhUHFSa0lkcUx3dDFBTkJYNWRFLWMxT1ZnMm1nMHd5MjBWbGVSNzhZd2JvSTZzMEdNeERDM3JkdjNPUkYyNjEwa1RKV2RmMktqWVhmUVpDOFY?oc=5",
    "source": "Press Information Bureau",
    "snippet": "",
    "date": "2026-10-27T12:47:00+00:00",
@@ -354,6 +414,17 @@
    ]
   },
   {
+   "title": "DPIIT Reports 2.5 Lakh Startups Generating 25.42 Lakh Jobs, 47,957 Compliance Cuts",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTJpQl9TZEc0M2h2SkVEbTVnRkRyOXk0Wmt6N2pScjBDcGNKdTkwQXg4Qmp0Mm92ems3LV9JXzE1N0Z2N0g1U3dEWUJZVWo5LWYtaE5oMXpSZWxYMm4wS3hsdm9JVzNEbi1iVGxMbFZuLWx3SENqNW9tbkhrVmtGRUVaN2FLd2dKR01VSmpXVE85ZlppNUVMNVN6MEhHNEhOUGRnWTRTSGZBOUxJOTdhNTUtdnNCdzc1dm1tME92U1RxcFNr?oc=5",
+   "source": "KNN India",
+   "snippet": "",
+   "date": "2026-10-27T10:53:43+00:00",
+   "tags": [
+    "Patents",
+    "India"
+   ]
+  },
+  {
    "title": "Call for Papers: Journal of Intellectual Property Laws, CIPR, Institute of Law, Nirma University",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWjhQVDVQM3BNYWRyMnBjTkQxSTlXUXJsRldqOG9nMWlFZWF5RnRaNjBKMFpJVm5MZFJOR2xCZUs1ZzhUVnBkWFM5YmZjdnVic1N2b0pHZHMtdGZReTB4QVR6cU5kYXVuSlk1Vk9NalJpWE9Ud2xOdUhPZGFDQUhpS0VFNDIxdkUzcXV6VURoejNRVW1NWUhUaGlyN195TXRtUElJYVJOLXlOcW40eUtOX2hYSkhJS3lwbTdNa0ZRZ0pzRkQ3VmF0Z2VocHpMUU5sdGc4V200X0rSAdgBQVVfeXFMUFo4UFQ1UDNwTWFkcjJwY05EMUk5V1FybEZXajhvZzFpRWVheUZ0WjYwSjBaSVZuTGRSTkdsQmVLNWc4VFZwZFhTOWJmY3Z1YnNTdm9KR2RzLXRmUXkweEFUenFOZGF1bkpZNVZPTWpSaVhPVHdsTnVIT2RhQ0FIaUtFRTQyMXZFM3F1elVEaHozUVVtTVlIVGhpcjdfeU10bVBJSWFSTi15TnFuNHlLTl9oWEpISUt5cG03TWtGUWdKc0ZEN1ZhdGdlaHB6TFFObHRnOFdtNF9K?oc=5",
    "source": "Bar and Bench",
@@ -407,22 +478,12 @@
   },
   {
    "title": "India calls for predictable finance, technology transfer to implement global biodiversity framework",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTFMLXFrX2djSU14Y1RxQU5kWW00akJUVFIzS1k4T2V2b2Y0NzJwaWdaVGZ2M1h2UVlRX2tXYmtqcEx1M2ppZll2cVA0LUN1N1VYMFB0N2JXWTAtN0tPZkVVdEFFWWk0N2hKYmRIWWRyeFozSXB1TGQzQmZ5TlM1Yk5FZHI4YWs3MV9lc2paekZWSnEwNFhUakNUV0Z0ckdteDVtWDFCeW9jamZIMC11N3NJSVg1UFVSTkdnVkNTdXU4UQ?oc=5",
-   "source": "Revoi.in",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFU0a3RidXFVZ2RpOENaUWFJY0FSU3VoMVktakxld2F0WTJYQkxMVXpRbXlwVl9rY21TMGZnTF82WS1XSThQQ1pGaFpldkFBa3o1aUVzZ0doNXNaSzNOSExmVjhvdEVYaERCMDNuUXFCZ19xRzRhRXZoYUViU1BvZGt5NEtMX3p0X0JtemtHcHE3elZNWnNMUWNSOF9ia3FGaklrT3RUcTNEcmU4NjQyV0hhWUlqUTA4bDFNTGNXaFB4UQ?oc=5",
+   "source": "DD News",
    "snippet": "",
-   "date": "2026-10-27T09:45:07+00:00",
+   "date": "2026-10-27T09:43:47+00:00",
    "tags": [
     "Tech Transfer",
-    "India"
-   ]
-  },
-  {
-   "title": "India-Ghana Agricultural Pact targets tomato production, crop research and post-harvest losses",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW10RWEzTkNRZ1MwSlNMdm96cEpKMmwyU29yTWkycTVCRlRFRWpBc2R3ZXdYeTdSZnM2QWUxTUk1N2ZjZFJvY0FTNUNKajdvWGFJTG9CVmtpYU00NmhpdHlvb1FRREplS3RISlJVZW9xM2ZCcmZJWm9NMWNIeU1qYkRMb3BBcGdwdHNlMUQxcjUwZWRVdjhFLWRJQUxoNWpzUlBBM1JiV0V3T0RoQjJlUWI4eEdiS2tjZExIWGpWN2k1clRieE1SN0dSM1JTdW1yMGpnVlBRS0FUQQ?oc=5",
-   "source": "AgroSpectrum India",
-   "snippet": "",
-   "date": "2026-10-27T09:02:05+00:00",
-   "tags": [
     "India"
    ]
   },
@@ -488,8 +549,19 @@
    ]
   },
   {
+   "title": "India, Australia join hands to protect traditional knowledge through patent cooperation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUhzZ3BvcVVxUF9TUWxoX0Y0TGNWekMtbXVXcVNsaldkU25iZERqTE5QTURNekxOb1ppcEItYUY5cm9OWS1zZHhVaXJfZ0ttTFRYR0ZxNEl5dlhWNTZOMW8wd19ZVm52WEtoNzlWRmluY0RWTWZCY0NiSUNBbk1HTHBFYTV0R0NuaE9qcXVieXF6QUdQYWNldkQyNVFBdldfcHp5T0RuX2d2MUNOOGJSVXh3?oc=5",
+   "source": "DD News",
+   "snippet": "",
+   "date": "2026-10-27T06:55:36+00:00",
+   "tags": [
+    "Patents",
+    "India"
+   ]
+  },
+  {
    "title": "DPIIT Advances Trust-Based Governance Through Startup Support, Regulatory Reforms and Digital Single-Window Clearances",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EZFk4RFh0ZkF4U1dmaTRlRm0xS3ZLWkVRS2lfVzFjUmFPb2x1Ym1PbndrLUxjbUlqcTZWdUtWV3BHd1E4cU1vVEZtNktnNlJxTlh0a05taGlhU3REU0lLVjd3V1BkQUYweDF4V2ZLcXhNTHg1bFRudHNfMlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMN0FISkRiM0xKOGZvTjlJa3pwVHEwejhfeEZDYkkwNERjbFdKWXlvLXB3MzV2Z1dUanluVDdENXI2eTRiNmZVS3BPdmFfTUxCOEhWV0NZcW9JajVoSkt4MzlzWnVST1F4QzBoMlBiU2Y4NFZ4cldtRDZGVQ?oc=5",
    "source": "Press Information Bureau",
    "snippet": "",
    "date": "2026-10-27T06:54:00+00:00",
@@ -501,7 +573,7 @@
   {
    "title": "Government, Innovation Leaders and the UN Back Samsung Solve for Tomorrow’s Push to Nurture Young Minds",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHBjdGczeWZveTdSUnZlSWFZYkx5Z1pDeWVGMGw4aldqNWpOQlMtUnhUZjl3V1RITC1iWnhKcGtwTk0xby04NHd1R0hHc1ltMjNKaTcwVzJna3o3ZUViZnlVNUFyY1VRZ0NjQmRMY0RTSDBmZk1XOEczV2NERndHcnV2VDdjbUI2ejhlY3pYWlFfRmRlal82MEFxTmtHS1RMVVJhalBCOGl4VF9WbU1KLWJMejg4Vkh4aXMtUy1DOGt5R3c?oc=5",
-   "source": "Samsung Global Newsroom",
+   "source": "samsung.com",
    "snippet": "",
    "date": "2026-10-27T06:37:35+00:00",
    "tags": [
@@ -515,17 +587,6 @@
    "snippet": "",
    "date": "2026-10-27T06:34:00+00:00",
    "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "DPIIT Reports 2.5 Lakh Startups Generating 25.42 Lakh Jobs, 47,957 Compliance Cuts",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0dxN3VJbTZCRENENTRFMzdxd0xHYnlMMDVUUmxOVHFUakNjeU9lOXNSOEVxMWRCNVk2R0ZKMUpvRFBON2NwRlBnUE9vRGl6U1ZBczJBbURFMWFBdTNzZTc2a0dOVmlST1hLa3pDZUlKOHpsVUZ2alBzNU1rN0dCVW1SLVhxbTFOZ0o3T3VINlM4YUx0VXUtbk43TmpjaUxyUm9xWTVHekFmMi02?oc=5",
-   "source": "Menafn",
-   "snippet": "",
-   "date": "2026-10-27T06:11:16+00:00",
-   "tags": [
-    "Patents",
     "India"
    ]
   },
@@ -588,6 +649,16 @@
    "date": "2026-10-27T01:01:46+00:00",
    "tags": [
     "Patents"
+   ]
+  },
+  {
+   "title": "UdeG Strengthens knowledge and technology transfer at InnovaFest Guadalajara 2026",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXA2SUVJZURXbXdNMmdFRlM2NnNpT3BWMjRJeXpUNmEwNnJVLTdiS193cFo2VjZwZVYtX0xLZVlFSUU0aXBuZk1SSVZDRjVXWW9GN2Nrb1hKSkRaZEVaRlBHN1hpSFFiWWhNWHNILUQ1cXJrMG9XU1lHVHBXcFdxVS00Z001NTd6andhNG5Ca083d3c3anM1Zm5oX0JhM19LT2NoQ195aDVqaHdBVUdvd1JwR1Myb3d0YVVDVFpR?oc=5",
+   "source": "Universidad de Guadalajara (UDG)",
+   "snippet": "",
+   "date": "2026-10-27T00:43:43+00:00",
+   "tags": [
+    "Tech Transfer"
    ]
   },
   {
@@ -811,7 +882,7 @@
   },
   {
    "title": "C-CAMP supported startup Tranalab joins Wellcome Leap’s Focused Antibiotics Programme",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb1piOVQ3NjBqa0FtQXVSX21Qdm52cEZUMHVBVWxGOFhEUzVpMmFiWFdZT3FRWC1NLUhDN0tIUmZMb0J5b1RKWlhQT1pZdjIwTjZ1UGFzUGtLdml5WVQzVlVxMHVwZlBuT003MHNrZi1DSnBrcUpKVzEtcmQ4b3FBRkRvV1JvR05HaTRacEFNQU9DQVM1TUdjRTNqekRCUTZhbzJJMHRnMHZtRU5DS09sZE9zbFpxOVNjZ2tYU3RNMHJvVHBaQkZiTU5jOHg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUjJLeDlBZUFrdE9HNmtlYWE1VFVMQ0VyOXpwYWdjVzF4R1ZDRllkRXF1WGpJQW1YUE1BaFpLcXhPYldxRWEzSDFaa0F6UGF3Nmg4dU5sNFhYX1h2OFNNZzFRSjBmaDB2YlFOUHhIU0lRVzBlbnkteGE4WmNMakRHYmVLOEwtVUY0MGE5S2xUVFFSTDVhUTJqaXp6b0Q0blVxNUU1YmF3UDVnNUdhSjFCb0RzNmVUX3BoSktVTzBWb05iU1k4M3JmTkw4TVVZOUtHV0E?oc=5",
    "source": "BioSpectrum India",
    "snippet": "",
    "date": "2026-10-26T13:36:34+00:00",
@@ -1276,7 +1347,7 @@
   },
   {
    "title": "Digital India BHASHINI Division Showcases Multilingual AI Solutions for Accessible Research at ETD-2026, IIT Delhi",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQk5pc3ZaQmQ0c2JjWUdFbmZUc19wOXBsODZvUXZaZzRVc2lLWGVkNk8wbXJRc1lob0hVMXNid05rZEJvUGJYSnBON2FudXNLenpfMTN2YW52QU1zNTJERklJR2FJdlBjQTRCUjdkTk5RLTRsOUI3MUpoNEo?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pRVNVSXhtU3JjMXp5R3MyR0VTWlFTMXpiVDVVdThGSENuVHJHWnVuVmRoTDR5WFpLY1lfVjBmLUJzRk44cEo1dHBURWstdzNWaUs5c1BEa0RMRXcxdndyRUtId2U5X28wM2o2VzJhdjluM0wxRmRkLWRoOA?oc=5",
    "source": "Press Information Bureau",
    "snippet": "",
    "date": "2026-10-24T15:15:00+00:00",
@@ -1895,7 +1966,7 @@
   },
   {
    "title": "ICAR-CIRCOT Signs Technology Transfer MoU for Cotton Harvesting Gloves",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUk8tU0lFRGtQa0xNdmJFUWk5U1EydkgzQk14SlF3WXE0dEVTWUxOZldQamMxMFlIYlF2RTNIMERsbllDUnR3dE5yWVlRVVlUZXlaNC15NE5iSWNXX25nTnJ5a1p5bmR0eEhqLW0tQU5kOVJDMW05amQxY1dpZkZjUU41ZDh2Z1FOZC15cHZWWDFjdDlISUxLTXhYRFBwTXBvZHE3SFpEMnQteG1kR0JScFRTWHBYYlVOa2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWZlWUJrdi0xMW90QXJ3U1NmaVd3cXYxRGNQNjZWM1NLcTBMVTdVdnU2aEs2T0I2NXhBbDVkY2tBalVreTRLSjEyN2o1Q2gzcmFPejhCU3RhaTFMUTBvdm1oNVlwRnMyV2NSX1U5R3pYem5QQ0YtMW1CSkpvMnJkZzRzSkd6MTAxRHpkWFdYM2tJNnZ5S1FtSmlGczA5RXBzU1V4WXlQOUl5MXAzTnF0MmwxVEpGQUgzY21NblRKVDlydnM?oc=5",
    "source": "KNN India",
    "snippet": "",
    "date": "2026-10-23T11:40:10+00:00",
@@ -2032,6 +2103,16 @@
    "date": "2026-10-23T08:10:00+00:00",
    "tags": [
     "India"
+   ]
+  },
+  {
+   "title": "Promoting the linkage of scientific research and technology transfer with businesses.",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWJrUjgtUFVaTmU1bmdRZERMeGplT0FVc0xXWE4xQkhGUTduUWZIVS1TS1RybkR4WGpLUFpoSzA2Y2lHYlNkZ2dWWnJyaTNWbWJyMm5Mcmo5Ni02M1RiNVQ5RlRGbXkzSm52NVJUSEtGMXFYSHhUb19QQldIRlZoSzdFang5UjNhdTExWG92YzU4TnFFWTVZdjQwVjJ1ZUhjRXBEZw?oc=5",
+   "source": "Vietnam.vn",
+   "snippet": "",
+   "date": "2026-10-23T07:00:00+00:00",
+   "tags": [
+    "Tech Transfer"
    ]
   },
   {
@@ -2232,16 +2313,6 @@
    ]
   },
   {
-   "title": "Europe's technology transfer challenge: turning research into market success",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWFWc2xGTVRITHZSM1FaN3lmQldVeXNHdDhkTmczNl9sVDNZMFhEZXBBeTdtVmt1dUN6UjJndUo5Sm05S3V4MFhSbHJhVEkxaEV1bUNvZDZjOEtJSmxHNTlXYldVM0xEM0k3b1JNWEN5Mm9XSklBcTNVa3JyU0Z4ZnFpeVlkc2ROOElVaDgzUU5QajR2UEU2T2Rnd0FqZ2N2MklZVHpOS3YwUjlfbGJ5cg?oc=5",
-   "source": "epo.org",
-   "snippet": "",
-   "date": "2026-10-22T13:30:11+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
    "title": "Catalonia consolidates leadership in deep tech spin-offs in the State",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3BDSDFKRHZqYzVHcVByNDJmY2FWbFp6Wm1QaDZCQVo3RmF6b3lmdVlsUTlJdFdLV0VFeEgwUmFRN2JHT19MYnRpRVlab2dCZjJfUUUzVXhDUWNZS2NTV21wYnM0TUR1cVRNZUR0ZldUVzlTNUNTZW9ndkxTSWJaMERHbTVLeVptTjdoVUpUeXYwdDJPVVdiNkxDMTZlTUFfVERyM0c3YnBaVlpPVWZsNQ?oc=5",
    "source": "Diari ARA",
@@ -2371,6 +2442,16 @@
    "date": "2026-10-22T07:59:11+00:00",
    "tags": [
     "Policy"
+   ]
+  },
+  {
+   "title": "Europe's technology transfer challenge: turning research into market success",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWFWc2xGTVRITHZSM1FaN3lmQldVeXNHdDhkTmczNl9sVDNZMFhEZXBBeTdtVmt1dUN6UjJndUo5Sm05S3V4MFhSbHJhVEkxaEV1bUNvZDZjOEtJSmxHNTlXYldVM0xEM0k3b1JNWEN5Mm9XSklBcTNVa3JyU0Z4ZnFpeVlkc2ROOElVaDgzUU5QajR2UEU2T2Rnd0FqZ2N2MklZVHpOS3YwUjlfbGJ5cg?oc=5",
+   "source": "epo.org",
+   "snippet": "",
+   "date": "2026-10-22T07:00:00+00:00",
+   "tags": [
+    "Tech Transfer"
    ]
   },
   {
@@ -5075,87 +5156,6 @@
    "date": "2026-10-15T06:10:00+00:00",
    "tags": [
     "Tech Transfer"
-   ]
-  },
-  {
-   "title": "Oxford University spinout OMass Therapeutics raises $310m",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTNWRXA1YkpkbWlDQ3cwN1QwX2tXalhqMnpWZkNQTE11VHhBcEN1QVllU25HYlpWY203alJBWGFPZ1ZrOThZdnJ6Z3JVXzA1YUE1YUVUWkNfRmxvME13WEtnaW9ZY2h1M09jNlFka0tJNnhvS0EyNjdlM09tdnE2aVRxVHlkZzdpeEZPeXgxN0tsSy1qUkFjQXFXelQ5eUR6N3hlTTJOeGVwdC1CUmRnUTZyUlc5NjdjTHRyOU9EaVNpRnp2?oc=5",
-   "source": "The Times",
-   "snippet": "",
-   "date": "2026-10-15T06:00:00+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "UQ Leads Australasia in Commercialisation Revenue and Startup Value",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaG1GUlA1S05COWhWcVhWNGpTMUoxcWo5VXhzTGkxLV9QdldTRFpIaHZrZmhzekV2SGpsV1NfYTZla3IzUm14TnRwS3VpQXpTeVRwTGZoMjd1RHFKdW1DeWJaYjU3Z25ES2hEclo4Zkw3Z1hYVlgtQUlEOXR2eGs2U2pTWQ?oc=5",
-   "source": "Mirage News",
-   "snippet": "",
-   "date": "2026-10-15T05:08:00+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "UQ leads Australasia for commercialisation revenue and startup equity value",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGh2NnROcUI4TEkzMTl2RVU0dGJpZk9LOG53RnNaVl9ULXNncGt0TnFuSEFMcXRnTUhYMGRnOHYweDNjNmxaR3MydnljMmtRaE9CSGxnRWdRR2RPRVNZX1Z3NlJXLVFwSVBCdEZhQkNQcEc1WWZxRFZUZDlUYmdqNFpWTE9MOHI2aFF2YVo5X2hiVHJRa1Y4LW1JYWI4Y0FjcjUweg?oc=5",
-   "source": "UQ News",
-   "snippet": "",
-   "date": "2026-10-15T05:01:05+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "Patent Settlement Could Reshape The Case For Netlist (NLST) Stock",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazNNSEhNZHJCR0xUaWxXWTg1ZG53V3ZQajVldHVZMlBtbVZQbVYyU0ltTEs1MVVBRW51U3dVQnNXeGg0cWRVa2M5dS1ON0t6M2NIN1NxMC03QUxQZ25BMm0tZGR2aEVUQzBPakNlOE1heV9jVDVnN3VXTjRsTDBHSTNCdGktang4cEs0blc2SF9paG5MNno3Ny04aFZpa0dGZU5CVUxpUHM4SUFHMkRTNEtBRHZicHd2Q1800gHAAUFVX3lxTE5jSWJSNV9TZGVGbTcydjgtMkhMdFZxaDhEelZRV0JWOXlTVHhObU1xZkNoRmVUN3pXQU1UMXpORmUtSjNZdklOX0hzMmFTeUd6RklhcVpQNlpZVzZISHhpODM0SGVFWlctUGd3Vkh1MTZaY19FSi1EZ1RlcFpIRWpSUF9ZV0dtY09KblZZVDJBODFfME04andsR0FiVWczMV85SHZraVFGRzMzREdHdGxsVXZXeVZMMXpzUzJMb081VA?oc=5",
-   "source": "Simply Wall Street",
-   "snippet": "",
-   "date": "2026-10-15T04:47:57+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "Vietnam, Bulgaria push agricultural research, training",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGFqQW1WeGNtcUFVMGt4RU5RMTI5WDIzWnd4U1dRYlhZcVRHeUN3TmJBckJpTm5oR1JMNlgtU0dBbkRIQ0JRYUlmVDVzRUwyU0RkZUYzYVYtTmZtYW5KQUt6MTl0OHJoNUVxNzQtM0ItRV85TmVKdC1VcWRiSC1rMU5WaTYyRWlHQTdrQ0R2cWhoY1J5eUtzbQ?oc=5",
-   "source": "Vietnam+ (VietnamPlus)",
-   "snippet": "",
-   "date": "2026-10-15T04:40:10+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Malaysia-China ties to go beyond technology transfer, says DPM",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtKc0JkMlVTUXJRNTJTOHh1emlseXNfLTE3cnhXWXU3eHJ5MlBsQ2Q2ZlZERTZjRHN2WGE5X2xZMi1pb2dFbDNCcGpSNm5fOG5hQ05xd1hPczBhcHJBSFIxeC1Fb2M0aWxTdHdfeGhEVmMteWdFb1FpbnF4TmRYT2t6XzI3M09PWUFPRlJBMnNTeG8tV0M3VTQ1R1RGdDNmWUVJeHU0OUNVLVRraTBaTg?oc=5",
-   "source": "The Star",
-   "snippet": "",
-   "date": "2026-10-15T04:39:00+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "2026 German AI Award: Prof. Frank Hutter (TabPFN) and Robert Bosch GmbH Honored for Innovation and Technology Transfer",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYVhlUTZwUHhxSG5qUFJPb0ZBazg4WmdFVXI5NDNMdUlhcWN0bkZjTmtlR0dJZHUwUzN3UVhEc3I0TFp4bE16XzBrNEZvUFJhWnNtbV9QZUtRUjZjekhnNTVDQzlOdl80WG9mWmJaZXZ3b3h1S1pNbEx5TEJNN19HZ0tBN1FDLUVjWGd1YnBJSHZzWFkwbGp1SzBHMTV5Mi1zWkx3ZFlqWno2Y3d0Vi1XNV84WU1uZlB6aU82Ymlua2ZjVlROU2VweTZFRUt5MlBWeUdpY0NLTmFRM25jN28zYzVMcVlkOGpBNjhOZWpIU1NCcmNFLUE?oc=5",
-   "source": "Axel Springer SE",
-   "snippet": "",
-   "date": "2026-10-15T00:58:41+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "Live, official, royaldutchshellplc.com website domain name as authorised by WIPO",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzl1RnZaQ0pJRXEtUVNmRnNyM1cySUpBV0hERWs1ZVM1V0JvUGdJZ2dub3Fnbmx3dS0xN3RFTWZwWFkyZXRJSzZfZWRlYkdfd0VLTFNIZWFZX0IzLUFOcTBpR1EzOU5lQzJWWEswTTBzZmQtZWVzcFRrd3RfRE5rNm0zd2RfWnR3LWNKRkp6SUh4OE1RRkx6TnY0bnk3Vks1NmlNMnYxSjhiZ2E0QVNKd1owQUlUN1VUellicHdB?oc=5",
-   "source": "Royal Dutch Shell Plc .com",
-   "snippet": "",
-   "date": "2026-10-14T22:01:50+00:00",
-   "tags": [
-    "Patents",
-    "Policy"
    ]
   }
  ]
