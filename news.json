@@ -1,7 +1,7 @@
 {
  "title": "IP & Tech Transfer Pulse",
  "tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
- "updated": "2026-10-31T12:38:17.280502+00:00",
+ "updated": "2026-10-31T21:38:59.078512+00:00",
  "tags": [
   "Patents",
   "Licensing",
@@ -11,6 +11,37 @@
   "Trademarks & Copyright"
  ],
  "items": [
+  {
+   "title": "Datavault AI Seeks 19.9% Stake in DataMEDS Through Licensing Deal",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXkzbWdCNWs1WUUxUUxERjAwYWJUWDFxekIxUllPWWkwYjZEUUZYZUp4RjNkUnkyRms4M1ZROXBoN0JPTGh6eWJBOHBxMGJzUFJtaWV6UzQ0TW1aNzNRQkpoSnFqU0FtNEE5QkEtdExuREtqdHpYWlZlRFBVQ2hRMWdTMmdJc01LWklkVE1RLXozX0VDeV9IQVIybXlVa05JaGFmYi1NMXd4dw?oc=5",
+   "source": "MyChesCo",
+   "snippet": "",
+   "date": "2026-10-31T17:14:11+00:00",
+   "tags": [
+    "Licensing"
+   ]
+  },
+  {
+   "title": "Atal Innovation Mission promotes innovation and entrepreneurship across India under NITI Aayog",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkliRi1yTktybWZvVmlmWmRwZXZEQWRuQm56TXNRX1hSVGIyb3JRZHphYjRoZnFucVpjOXZ3T0lqY2I4a19YSm05MUFyWlFUTWJiQ2xOZXk5eWRsdFVtWC0xT0NZZTNtdHR5QmlTeWVxejlldC0zQjVTdTFCcnFsaXM2ZHdYRFpBbHNlSXJ5bjZhcmRpYWxmS0tCazNFazU1RWN0MjZCeWYxZkEwdHF6M2lXQV8ta0hOWFhPZw?oc=5",
+   "source": "News On AIR",
+   "snippet": "",
+   "date": "2026-10-31T16:39:49+00:00",
+   "tags": [
+    "Policy",
+    "India"
+   ]
+  },
+  {
+   "title": "Kerrigan in the DC Journal: America’s Innovation Economy Runs on Small Business",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFhFMS05Q2oxZ2hwN3hXbWhqcjFOY0w4bFM3ZzdXMHZNOWw3ckpRSkVLNWEzc1IwekNUYWJZa0lqc1dmMW1VRUYxNGFDUklfclZ5YnA0NlJxcnFBdW9JNG1xNWxCeGFueFVyR0h3LXRLdnBiMjZvUTFzR1hMSWk3RnhoM0JJMEhaWGhCNTdud25HVkR2ZFhKcjFfaGFtQnpxRmo2NFJvVTVVWlFPaVJsSThhZGtQdDlfanlrbmhON1FYYmRweXFYYWdtNmljY3JlWDVISEhhT3ZQMU9kS1E?oc=5",
+   "source": "Small Business & Entrepreneurship Council",
+   "snippet": "",
+   "date": "2026-10-31T13:07:23+00:00",
+   "tags": [
+    "General"
+   ]
+  },
   {
    "title": "IT Ministry Unveils Handbook for Secure AI Data Sharing, Boosting Innovation",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnN1NmlGbmpnMmV2SmhmUmJXY3BHS0lkdFVlOXNNM3BERnNQOVV0RDNKc000Q1Vnb0dvTDU1ZS1VRGlQa3o5Z1RVU1pZN29DRXkwcmtSWl9QbEhHN1BUa1dZRVNaYTB1Y2lSbUxqdmZMMkN3UWxtWFdqZ2NMN09PUjdUaGw3WXFzN1pVckIxV1pWUmNFNVVPMkZob1pVc0c1LUxLQV9mZlowRUk2b180d3RRdUZmcDlsT0pXcU10emY1NlpM0gHEAUFVX3lxTE1Gc3U2aUZuamcyZXZKaGZSYldjcEdLSWR0VWU5c00zcERGc1A5VXREM0pzTTRDVWdvR29MNTVlLVVEaVBrejlnVFVTWlk3b0NFeTBya1JaX1BsSEc3UFRrV1lFU1phMHVjaVJtTGp2ZkwyQ3dRbG1YV2pnY0w3T09SN1RobDdZcXM3WlVyQjFXWlZSY0U1VU8yRmhvWlVzRzUtTEtBX2ZmWjBFSTZvXzR3dFF1RmZwOWxPSldxTXR6ZjU2Wkw?oc=5",
@@ -42,16 +73,6 @@
    ]
   },
   {
-   "title": "Nomination Open: Tech Transfer Award for Robotics Technology Transfer - fundsforNGOs",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmttSDBzTmhyeDN0R29RdFVkdjhtamtlcmhFdWg0ZGlmdzhRbW0yQ0xGaW50S3VCTTFsMlFPT1RVOEs5X28zc3NuTHRWaF9DMkczenNvUmdUTTVYRjhFQVA3WkRuMXlUb0M1R0paWlR4cVFhTHQxbDlmQ2JmVU5keWJZRFkwLXVrZkdQVjBmOTFpSktHbnZuN3ZGOGhvS29VZVJNclA1WFktZl9EQjZiTFNR0gG3AUFVX3lxTE1MUVo1REZjb19UbFBJNEVPbWpWelRDYk05Uk5Qejd0S3pfNEtIcVJUWWN4WEF1T3U5d3Z0eUxvaFhNSWwzSVA2RDMzOWFvZURnOE9WQUJKRk4wZ0RMdW82aVdBWlFEQ0lSMUFGMi1Wb0dVUndyNkVQM3VabmJ6UkhwQzJIZy1JT0JTS2lXenFVMU14cDJENlJCUS1rZTIzM09veV9mVDNBNjFhTEJOLUowd0tKblZPaw?oc=5",
-   "source": "fundsforNGOs - Grants and Resources for Sustainability",
-   "snippet": "",
-   "date": "2026-10-31T05:49:21+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
    "title": "Building the Internet We Want: Law for a Connected World",
    "link": "https://patentlyo.com/patent/2026/10/building-the-internet-we-want-law-for-a-connected-world.html",
    "source": "Patently-O",
@@ -64,10 +85,10 @@
   },
   {
    "title": "Nick Ryan faces EPO charge after Derby Day stable raid",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTgtWGJQUm9kM1RfdWtyeUJUN1lzcElfalYtRE1xc1Z5NjdoUlM2TTJFZC1XYVo1UEVCQ3I4RzlGM1JuVERGYUtTb2QzUmdpV1g5N2hDMUhZblV1V2hPYTZGdmRlVWVxd01IanRHVHpkLVZHMEZhMVgxbi1xcEZ3Q05YenBZakNOc0tDV1VUTVQ5c0FQcC1fU0loYw?oc=5",
-   "source": "racenet.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdkw3SjEzM0l5aUcxRlNoNG9xTVh2ZFAwZFlXQ2hvTDBTcHl6RllURVRmc3JXd2Vhb3hFcjlKcXg3dUphQllaMzE5WTRIS2ZxdDdJVG5iNTBvamhVLUtSUTlIazRjckFjQjVDVkFQaUNIazA1N1I3THBhRk1tWDV1cXFYUU9WeU9Cb0NQTGlWRW5YNjFoVUo2TmV2Sm1QUkVGUXM2R2ZvLWFjOE5UYkVidGRHaEd1UTJ1SEt5YWVnWFlVQkhRaXZyRmVuNkZiM3gxQjN6djNtQTA?oc=5",
+   "source": "CODE Sports",
    "snippet": "",
-   "date": "2026-10-31T03:27:19+00:00",
+   "date": "2026-10-31T03:45:34+00:00",
    "tags": [
     "Patents"
    ]
@@ -121,6 +142,16 @@
    "tags": [
     "Patents",
     "Policy"
+   ]
+  },
+  {
+   "title": "Nearly 6,000 cross-border R&D and high-tech projects announced in 2025: The US, India and the United Arab Emirates attract the most",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakJOY1V6MHdIQ3lHTzFrLWE5MGthX0x4MkluQ0Fzc2lYNmFUdWxDYm1vVmpQLW01aTV0eUJ4OE1PTFI4NFlHRWlOcmpUakZWVFR0OXh3SnNwaVNuM2NtTXlra0x2ZjhFdG1uZ2Z1SE0ydmFSUG1Rd2trS0xnTnF6aFhIdUVUSzBnbC1HMG02SzhTY2VYVGtNdEV6ZGhBVzBKSTZDZWQweV9GQ1l0YzRmcU5veGN6WGtJNnBpOEt0M3dvaUdaQUlQWE5kQmh0b1E?oc=5",
+   "source": "WIPO",
+   "snippet": "",
+   "date": "2026-10-30T16:26:09+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -417,7 +448,7 @@
   },
   {
    "title": "Business News | Legistify's IP Module Takes on the Trademark Renewal Problem, with WIPO Search Built In",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanpBM21RcTQ0cmpMRmRNT21mSzh2M1JOZE8zdThGTF83Y0hrZUZaelB2ZTM5enpzc0NxVkFFU3A1YXQyODZUTUZuTllLNnVsYzE4anpqdERJdHhPYjRDZXQyUFdWQ1p3c1RkQ1ZzZmF0blNwVHFQTmgyZl9CVlJGc01lOVJCY3prWlVFcnB5ZEVGQlJhOGx1X2w4aWNMSUY0MTk4Mi1LMk9tdWppWlZ6SjRXOW8wOTRCNlNGX29RdWY5T2lzeVFDX0stUUh1OUJ3MUg2Q2QxU3pnVDM1anVCdzdpSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanpBM21RcTQ0cmpMRmRNT21mSzh2M1JOZE8zdThGTF83Y0hrZUZaelB2ZTM5enpzc0NxVkFFU3A1YXQyODZUTUZuTllLNnVsYzE4anpqdERJdHhPYjRDZXQyUFdWQ1p3c1RkQ1ZzZmF0blNwVHFQTmgyZl9CVlJGc01lOVJCY3prWlVFcnB5ZEVGQlJhOGx1X2w4aWNMSUY0MTk4Mi1LMk9tdWppWlZ6SjRXOW8wOTRCNlNGX29RdWY5T2lzeVFDX0stUUh1OUJ3MUg2Q2QxU3pnVDM1anVCdzdpSdIB6AFBVV95cUxPWUllZ1laUVk3ajJKaVVZVXczM1ZFV09wcExLck1qdHNxYU83dTZ2YkdaQmFzMW5fUDh4dmxfU1ZzNHJEQklleG9ScTVGQU1uUVpmTko3YUNqQUdvNHRCWHZ0VVNIZTIySGl2alZvV0MzYjRMWUdPdjgxZ3JULW9sUnRld0dLTEp5SldjVC14SnB3eEVtZXU2ZUlHMUc5LXhOYThiZEJ0b0lKQXpJTzAtS01kd0F0dEdTOUxGQng5U1NYVXhpd2xoaEowWUd4dnFoVUtIZXlDalRGNF8ydjF3TlVfck4zY1dZ?oc=5",
    "source": "LatestLY",
    "snippet": "",
    "date": "2026-10-30T06:06:23+00:00",
@@ -688,7 +719,7 @@
   },
   {
    "title": "Ayush Ministry launches National Innovation Challenge to encourage use of AI in Ayurveda",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOclRiVlNqcEpFNTVDemFZVVpyU2dUVHBFWUkzREZyT3ZSR1dKeVEwbzJweXpTSWZvSHBEbF9KSTNlMndpdkZXWHgzdy1FbWl4MGVHTEQ4MkRlenFiUGFtN2tWOUJfcjFkN3BFOUJ0Yy1yQ20wSzFSc2RvTHJsS1dkcldLM21teHlxTl96b1BKSjNOZE5IRVZGUGttMmJEeE0zX1NwMXFGS2k2b0ZyQ2xKcXp0ZDQ0YzJPWkFfX1B4b2lBWnRtdnlKNnpiTEh0UUxTSGhLY292QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd1JJMjVjTldnTUlDWUtsMWtBNElmYy1MeEYyNm8xM3A2ZFduSTg0QzNmbmJ0QV9LSnNRZGRYWG56UVRUTGFOUnV6NjNkLU9ubUtlN0xSSFZhSE5TLTJMRUF5Z0tQZG1OWXVtNG1sQzczRFFPOVBOUmFMcENIZWJsTXV6WkJpVE9sa0swWmNmY203c1ZKLVgyQkZaLVJWMU1JUGNSVVF6R21Da0Q3cXhmcWpjejh0SGxTNzVMd3dVeUk4TkhIX1VYUFRCWEZmNU1tc1E?oc=5",
    "source": "BioSpectrum India",
    "snippet": "",
    "date": "2026-10-29T16:09:06+00:00",
@@ -739,8 +770,8 @@
   },
   {
    "title": "Supporting Research, Advancing Knowledge A Journey Of Academic Achievement",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nNFQ5QjFHcDNfak84MUgzSXlwRkpsYWhJS1ZoS1ZpR0xCSXBIWXRwZFNaWGt3Z0wwWnFGWDh1eXhTWnJ1T3E3STJKSVc2Yl9XdW1pS0tvcWFUVEdWODR5cnVwcFlEcFlP?oc=5",
-   "source": "Press Information Bureau",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHX2F2SzM1eHFmMXNsc2JCY1l0SC1HZHFUT2hMRll0VHQ3a2J2QVByeXNFMFA4cmdYdUs1ejhIZV9XYUlPZzN0LTFwOW9LRmYwdE1OMkRiM3Qwbk9jYWM3QmhpR1pzOVNhalplNHB0azk4UEhUajMtNHo5bVE?oc=5",
+   "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-10-29T12:18:00+00:00",
    "tags": [
@@ -885,6 +916,16 @@
    ]
   },
   {
+   "title": "Nomination Open: Tech Transfer Award for Robotics Technology Transfer - fundsforNGOs",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFFaNURGY29fVGxQSTRFT21qVnpUQ2JNOVJOUHo3dEt6XzRLSHFSVFljeFhBdU91OXd2dHlMb2hYTUlsM0lQNkQzMzlhb2VEZzhPVkFCSkZOMGdETHVvNmlXQVpRRENJUjFBRjItVm9HVVJ3cjZFUDN1Wm5ielJIcEMySGctSU9CU0tpV3pxVTFNeHAyRDZSQlEta2UyMzNPb3lfZlQzQTYxYUxCTi1KMHdLSm5WT2vSAbcBQVVfeXFMTUxRWjVERmNvX1RsUEk0RU9talZ6VENiTTlSTlB6N3RLel80S0hxUlRZY3hYQXVPdTl3dnR5TG9oWE1JbDNJUDZEMzM5YW9lRGc4T1ZBQkpGTjBnREx1bzZpV0FaUURDSVIxQUYyLVZvR1VSd3I2RVAzdVpuYnpSSHBDMkhnLUlPQlNLaVd6cVUxTXhwMkQ2UkJRLWtlMjMzT295X2ZUM0E2MWFMQk4tSjB3S0puVk9r?oc=5",
+   "source": "fundsforNGOs - Grants and Resources for Sustainability",
+   "snippet": "",
+   "date": "2026-10-29T08:10:42+00:00",
+   "tags": [
+    "Tech Transfer"
+   ]
+  },
+  {
    "title": "Chinese Robotics Company Explores Technology Transfer to Indonesia",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDdqQUM2M3RlTzBsRm80QTdYUjkzOE1wNFhJNTJQb1RpYnVrR0FtdTZXR2Y1am1ZZUFkNWlicl9FLW1oQW9HT2tFNGRFangyMmQ3THdUZWl3aUhUY1NVcFdqZ1A0bEdZcGs2d2pvZU9CTHJaTVhRTUdvdnlCXzJtUlN4SUdzZE44UHlBX3BSeW90aXIwTG42STMzWnM4TDdXWHIw?oc=5",
    "source": "Aktualita.co",
@@ -947,16 +988,6 @@
   },
   {
    "title": "Bangladesh seeks easier financing, technology transfer for biodive",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEdBbUttZmw0Tkp6UlNGOEpuOUdKajcyUF95QjNGWTBqMnVvYmNUNG00QUNqY01wcnE5NTVLT0JSbW00dThyd040b3ppcHJ0c1NfMzBNbmdmYk51VUh2UGFTazU4NjNmcHNzMXNzYmhzX2pTV3kzYWw1NzZ1Y1BWRmZUSktDZUYycHU0NHhnb3pJUkxyanpoWF9aUFh0djJIQUsycEpPRVJRb0RnbUlV?oc=5",
-   "source": "Views Bangladesh",
-   "snippet": "",
-   "date": "2026-10-29T04:26:21+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "Bangladesh seeks easier financing, technology transfer for biodiversity protection",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEdBbUttZmw0Tkp6UlNGOEpuOUdKajcyUF95QjNGWTBqMnVvYmNUNG00QUNqY01wcnE5NTVLT0JSbW00dThyd040b3ppcHJ0c1NfMzBNbmdmYk51VUh2UGFTazU4NjNmcHNzMXNzYmhzX2pTV3kzYWw1NzZ1Y1BWRmZUSktDZUYycHU0NHhnb3pJUkxyanpoWF9aUFh0djJIQUsycEpPRVJRb0RnbUlV?oc=5",
    "source": "Views Bangladesh",
    "snippet": "",
@@ -1087,6 +1118,16 @@
    "date": "2026-10-28T19:17:15+00:00",
    "tags": [
     "Patents"
+   ]
+  },
+  {
+   "title": "Bangladesh seeks easier financing, technology transfer for biodiversity protection",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9keG1BTy03eEdXUGhBSE8xRUkxNi1VcXNoVXFQekpXdi1CTzlUZzBMdEVOZ05SSlBaQnFpSWhVclZSRmx3NEVsVGVBS290QQ?oc=5",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "snippet": "",
+   "date": "2026-10-28T18:44:37+00:00",
+   "tags": [
+    "Tech Transfer"
    ]
   },
   {
@@ -1573,9 +1614,9 @@
   },
   {
    "title": "Revived and Forgotten: Should This Patent Issue?",
-   "link": "https://patentlyo.com/patent/2026/10/revived-and-forgotten-should-this-patent-issue.html",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZDhNbmZjcUhxNDhnZzFjbFRTbmxqOXpQUHEzZllaenVPZG52WC1WWXRqWFQ2ajcySGwyd09vQkJhWlo5UGwzbWE1QnVQMjdmM0tDS0djVVEtX1g5Wlk1WS1sNHVjV1VlSXFKUHQzSEE3ZEtpc29zaDgtcWhfTVZuUWxnbXljTFRMZUs0Z0NXZnU3UQ?oc=5",
    "source": "Patently-O",
-   "snippet": "The USPTO revived IBM's allowed application in 2015 and never printed it. Should it now issue with 11 years of added term, or is the delay on Lenovo? Continue reading this post on Patently-O.",
+   "snippet": "",
    "date": "2026-10-27T19:49:28+00:00",
    "tags": [
     "Patents"
@@ -2144,7 +2185,7 @@
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUEVEcW1tNjJrdXdhYmw0XzNLQVFZSTlJUDhsTE85Z3R6Ti1vOU10M3lWMTFOR0Nncl9sVjJHYWJxSV9vd3E1LWpEZXFhY2J4YTZ4NHJ1Q1FkVXctYmFrVkFaMXlQd2tKalZEeERPZmtYTkd4OF9NYlFNLWRJTFJESWZrd3czYkI0OHNvVlptaHBOOHZFQWdFYlRHNi1UODhVS016YzF5WXNQYTI1aG1WYmdBWmdBQ01mY3BSMVV5cVJpRVVMS0ZTUzBEb0V3VzdTRDhPSGpfSTdjME9kVTVKTENtQWIzekNo?oc=5",
    "source": "TradingView",
    "snippet": "",
-   "date": "2026-10-27T06:03:00+00:00",
+   "date": "2026-10-27T06:03:37+00:00",
    "tags": [
     "Patents"
    ]
@@ -2832,6 +2873,17 @@
    ]
   },
   {
+   "title": "Lawmakers push to tie FDI incentives to technology transfer, output",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGs2QTNpYjQ4TWVEaHVUb2tyR0RHcDZIRUpEazUwbGc1M2J5NHVoX1UwcWYwa25nY1JNLWR5RDJyQ3J0Mk0tSUFEOThwM2NidFRPOHMyc0pxUmRrNkM4RFFubzNWUS1mQkNwaUJvdEhDeWZ0N003dVQzNDBmSFFFQy1TSmhmSjRSSVhSWlRLMnRWNC0wb2lNNU45LTBsUE5YS3VFZ1Vubw?oc=5",
+   "source": "Báo VietNamNet",
+   "snippet": "",
+   "date": "2026-10-25T17:19:00+00:00",
+   "tags": [
+    "Tech Transfer",
+    "Policy"
+   ]
+  },
+  {
    "title": "Does a generative AI ‘remix’ infringe Canadian copyright law?",
    "link": "http://ipkitten.blogspot.com/2026/10/does-generative-ai-remix-infringe.html",
    "source": "IPKat",
@@ -2912,17 +2964,6 @@
    "date": "2026-10-25T02:55:00+00:00",
    "tags": [
     "Tech Transfer"
-   ]
-  },
-  {
-   "title": "Lawmakers push to tie FDI incentives to technology transfer, output",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVF1ZEJYRVpjYk5KMWdESmZxNXpfVjBVQVc2bGFtUkJ2MWx2MjZfcFBpTXQ4X1hYcnpCTjhaNl83VDg2VWpNb0hwcW9nMEtvbjl0R1NPR3lFanl1WnFkV3RHaXFSVDE3TERMWlJRSmFzSHNzaFBNX3lRRklvQzNNWGJsSVBZV3BvTkE2YWdvUW1pY3ZFSzNMR1Z6V05oeEFZQzBxRDFaajh0dTc5TEE?oc=5",
-   "source": "Báo Cần Thơ",
-   "snippet": "",
-   "date": "2026-10-25T01:01:00+00:00",
-   "tags": [
-    "Tech Transfer",
-    "Policy"
    ]
   },
   {
@@ -5115,49 +5156,6 @@
    "date": "2026-10-19T23:47:00+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "CAFC Agrees Google Failed to Show Unpatentability of Claims for Merging Search Engine Results",
-   "link": "https://ipwatchdog.com/2026/10/19/cafc-agrees-google-failed-show-unpatentability-claims-merging-search-engine-results/",
-   "source": "IPWatchdog",
-   "snippet": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in Google LLC v. Valtrus Innovations Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that…",
-   "date": "2026-10-19T20:15:53+00:00",
-   "tags": [
-    "Patents",
-    "Policy"
-   ]
-  },
-  {
-   "title": "CPI | US Supreme Court Rejects Google Appeal Over Patent Review Rules",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0phVlczRlQxMUczVDdEWGt4OVl2RGw3OHpXWXVrdDVkMmxqWVJCSGpsN2J3YjBUaWJTTG93dkNWcUg4V1ljN0FFTUVWemJYRzB0eWY1SU43U3V0bXh4QW1xQjJjQVg4UWt5YWJockNDVUswNXNOOF9ueDFqWGRNWGdpOUF5U0NQVF9TOGRSSEpWX3dISHoxa0hhZExfZw?oc=5",
-   "source": "PYMNTS.com",
-   "snippet": "",
-   "date": "2026-10-19T18:30:26+00:00",
-   "tags": [
-    "Patents",
-    "Policy"
-   ]
-  },
-  {
-   "title": "Huawei announces cross-licensing patent agreement with HP",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTMxYUZUamEtdVg1cUwwbFVPUk51dzNyalRBT3NBVGtIN2laNTdNXzd6aWt6V2FIZ3dNUlhUWHdiY3BEZ3NUVHI4RjlTUS1ScGk2YWtqcXFHRlRJRm9XMDFhQW00ZHI1SEhnMEI1RUVUR01vdnp6OWJqV0lLVVZURUszR2h2OHI3eC00bWJmT1hMZUVaMldR?oc=5",
-   "source": "EFE Comunica",
-   "snippet": "",
-   "date": "2026-10-19T18:27:27+00:00",
-   "tags": [
-    "Patents",
-    "Licensing"
-   ]
-  },
-  {
-   "title": "New copyright rules to force bars, telecoms to pay artists for music use",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXpDV3hkZGNlXy0wbmN3RGJ5Rm5SeHdubEhTN0dfby00aW1vLVJ2ZmU0SWVVdGZFUVRLSFZQLUxWcXhvM0pmM0djWE15aHhyNUlicmV0Q0RpY3VoRk8xQkJCOTZqbElFWFBTcDRJNjh5bU53S0NKMmMySnJVVE9jM1dvY0hwcGhaQzRMb0FLVFV4Mkw3NjdJa0VaZFNRbkR0NnN3VkoydUloZFdxNmJPVkN3b2lhc3o4aWpmWWV5VWxVVC1F?oc=5",
-   "source": "Daily Monitor",
-   "snippet": "",
-   "date": "2026-10-19T16:32:14+00:00",
-   "tags": [
-    "Trademarks & Copyright"
    ]
   }
  ]

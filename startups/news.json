@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-10-31T12:38:22.370429+00:00",
+ "updated": "2026-10-31T21:39:04.749051+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,6 +12,57 @@
  ],
  "items": [
   {
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "source": "TechCrunch Startups",
+   "snippet": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup.…",
+   "date": "2026-10-31T21:36:07+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam",
+   "link": "https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/",
+   "source": "Inc42",
+   "snippet": "The Enforcement Directorate (ED) has arrested Armstrong Exchange founder Sagar Dash in connection with an alleged online gaming and betting…",
+   "date": "2026-10-31T20:22:27+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "EPFO eyes startup, AIF investments: How does it currently invest your PF money and why is it done? | Explained",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcnlNc3RlM2laV1pGemRvdDRLS3dabVItNHdsUTF6M19uWGpmY2pMT0N1RDdKUGR5RU95b3NwWVdpdERHbnU4SGN0alN1akRGZzc2bVJoTXpNcTBxZmhiZTJjWWJnV055RURqYVdIZFRScjhOMjkzWkQzcmpzR2dxQUJZNnhSSHRYRk1fdmZLbWx0ejA0UWhENWRaRnYzcm9Wcmx3WnJoZEFZRlljblNhVC01YzN3Z1liV0F2WnFXSW90WnhPRW9hbUZ1MVpQc191TkM3R1BJbFVnbFk4S3FpSk1CSGVKQUdGaUk2UjEtbEVicjJVdEh2aEY2NTFmVTR3Y0hN0gGIAkFVX3lxTE5YQkJkM2E0QWg1ZWh1VWlCU0U1cS1ZcUJDOTdKbTdlYXhJRklIdS0teUhJRkVJM2swdzROblJUN3VDeTdDakJjNmE4QjVHdkdqSm5LaTBnYUh6NzNUVXd1WEFlVGJyVmh0RGdOTUt3aUtOWTZ0RlpEeF96TW1NOGk5YnFCYktxSWhmdUxndHp4MThfcllqMGFxdS1rc0VIZGQ4X3FMTmhpTHU5N3N1QzZDSFl4OXNPTmJJcHZmRzRQLWVucTdKT19pNUpwOVIzRTU0cVNOTW1HNS1CM0FwTWFiRXBYSTMyUUp6bmRweUM1N2JINy1MbTB1LWlTM2lLM1cwbktKTVJGRA?oc=5",
+   "source": "Livemint",
+   "snippet": "",
+   "date": "2026-10-31T15:54:44+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Uttar Pradesh looks beyond Lucknow, Noida to expand startup ecosystem",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTc2c3lFenR6Z08wQ2gzZDVPUnVnSHFNYWVJekVZbERKdF93U0tnMmlDS3hFcDBYUlEzOXdlbXNMT0dIRW8tVlplMHBwNm9hZjJsdHFhYVFla29pcE00eHRmX21hdm1JNFliYnAxRktuenBPdllLTFJRTm9lTEdzQVJOckYxOGFrb1FfdXE3Ny1hZFhpY2VHeHNQRE4yWWxZTm5pN1NraGVyXzJfM3hCelBFdWdzOXFCcjl6a096Wk9Jak1EeU9lU092cU8xSWdrX3hVQW1n0gHaAUFVX3lxTE9kMi1qN3p3Mk14dmI5RjNBSFJqWlNCTVZUYmROWmZYT3VDeVc4Q2tORUFzaHZ5b0NPaWxBUzNoZUxIQ3ZEdmxUWFl3VDhWTlhvMVhpY3FlYVktM3puV19PZWY2TTJVSW96QzNaUklxS2pDaFAxa3ZqdXgyRWx0bWVjLXljc0RyUkxFLW1IbWtZdjhPVkFhYURuZ3A4MGJMamdiQU5UVzdaVXlibGwwTVlISWdtYXVqX2NhQjdzYTI1Q290NFdqVndxV1NDWXc1cFBQdW12akpkM2hR?oc=5",
+   "source": "ET Government",
+   "snippet": "",
+   "date": "2026-10-31T14:26:07+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play",
+   "link": "https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play/",
+   "source": "Inc42",
+   "snippet": "Delhi NCR-based B2B manufacturing startup CapGrid has raised ₹50 Cr (about $5.2 Mn) in a Pre-Series B round to develop…",
+   "date": "2026-10-31T13:46:37+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
    "title": "Hung Yen: 52 ideas and projects compete in the Final Round of the 2026 Startup Competition.",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHZlYmkwaFFSTVByZGVMNU82T3Y5RnZHc1dFVDhiREFkYW1WZ0dDbWVhZ0hRTGo5TDhpUXBqZGtNSjNRSHNrbHNNX0dZbWRoSzh6eHhQNWtQWXRqUDBQRUU0amRTQjNBdHBWaUd5dm0tZ1F6MTJvNExZa3R6LUpjc2pMN2RILWREbUlVZ3hQU1NOMUIwdFA2eThySmp0VTVEdjU2YkNrVGppVGlGZ1U0?oc=5",
    "source": "Vietnam.vn",
@@ -19,6 +70,16 @@
    "date": "2026-10-31T12:08:12+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "link": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
+   "source": "Inc42",
+   "snippet": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…",
+   "date": "2026-10-31T12:02:59+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -172,7 +233,7 @@
   },
   {
    "title": "IIT and IIM graduates shun startups as AI jobs gain appeal amid rising startup activity in India",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQemdibHBFSXJQTGhsU1VZbXZOTlhkcjRUQkhjaHU0SFVoVUxJdjMzSUNWREUxM3REUVJrZVpaVXRldTFQQnEyc0ExekxzWndWendmc1pxdGtRTDFTSzl0bzlyNTB4UlVleF85bDZfSUFuN1pKRjA5b1AwRzhqVWNsWllHOGZPVDBkYmJEcE1LYjk0WFZWVndmaVplVGJaYkZ5aHRJVV93OHZlRHd6bkZUbW9GWDRWTXA4QnEyalJnRkNmbnRZcGJpa0Q0MG9LVWZxUURSay1TVEs3ay12NW00cThjRXlHOWNWTnNvcUFaLTFDQzRfeW9EUjlnV0tOamhHQUHSAfsBQVVfeXFMT0t4c3M2SzBqOGY5QWVNMFpsQXk1OXRvRUhrbXRBS3RPX1k2djY4bGlzZnVPYUFPU0ZhY3JSaGU0OEhzZUpMUnVsNi1GTTN1M2JCRnk5bnd6cTlRUTNsbzV5eGpOX2xpX2t3d2YzLVJoekdTaHNvVU4tRkFuS3l5WUZDVTNYRzN5UmlqOWphOEVoT1FfaHFFOGl6c1I1Q0hDbko1VEVkaExSQjJJaHA5ZFV2NXRkS3Vndnd4em01SFR3YV9QMW1vV3I2SW0wZDZybVdDZGM5OW9mb3V5ODlGeThxaDB1UGk1YVloSjhHTW1meGlLd09pTUtudEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPNFlEc3JuRm05ck1kY0VYMXlBbV9iUVJlTEVZOWtjRm1vTUx6WkltVzNyRzI4bE1JOXp0WmRVS2tOQVk4MXZhc29oalR5RkJTZ2lkeHhhck5oWkRVaFE3a3pkaGprM2l6Y3VOZ0V0SnZzTjdWLTdTWlQ3RmFVVDJJRlg2V1U1d01RREQybE5ZZWJUdXFUMWJ1NjhDS1JteWlUMDNYYUVaUmg1M3dsV19ma2pZRjU5dS0wMTJJR2kzZU9oR3V6TWIySG9vRHNmaS1sVy0wTnRQQXdmenFqa0hzaHZkeDUtVXE5OUk4dlZfQVZ2dzYwZmlXbnZHdGlLWVM4ZHZqczB3aXRFaU9va01XZU9wcDVxMFFWemNIZl9Fb0EzNWVGeHJoSXEta29nbmdqd1RmVU5US3R2VkZpbXVqNzFTNUQtNWRIazI1OGd3U3Eyd290dTd5aFVBbXBzLXRONm4wN01BWU0wUG1sdnQwY0lwQdIBjwJBVV95cUxOdlplYkRlckZvRmJEWC1SMXFiOW5UdGRBUlZrSmY3UDlQNGhScXVOMVhRUThSaWkwc0h0LXlsVWZ0WlhEeW05bFJNRFJIcjBTYllLVUhEZlJMSVA0N1lzTDZEM05Kenk4bFF5NU9TNTRBVUZDU1luRk03Yl9ieGVTMjFFemVuM2VkQzFFRFZPeVdiZmdpNzRHd2ZPa1ZRT0tOU2M3RlVJek5VaGt1SVdiSGlfOXI2dG1MUFRoeThYS2ZTWnhwYzk2OUE5cldYZWNlNm5NckxBTEdfN0xYZVR2ZEJBUzh0RnlYaHM5ejdsRks2Zm1yQlhMaDd2SXRFNWJWQk16NkdFd09hUi1fLVQw?oc=5",
    "source": "The Economic Times",
    "snippet": "",
    "date": "2026-10-31T00:30:00+00:00",
@@ -575,10 +636,10 @@
   },
   {
    "title": "Latest One Planet Partners News | One Planet Partners News | One Planet Partners Funding | One Planet Partners Fund",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10QkZVN0hzSW56ZFJRYWQ3NDQxcklrbi0xQ1djRHJyMmJVa2dIZ3RscEVXM2hfcUZKNTUyNmtnMXlZUG9QN3dNQUxGNXhaOWJtZ0N0SWRUS1dUQzFn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QQWFldFFfRkY1MXNGeFFWTC0wcGxLZk5tdmx3d29SSHF3bmxlM0xTTzBoR3pRZnlNd2NWWWFMbWpXdTBvUlJvSFZwZ0ZsOWhYZ1pDaklPdlRVcTFFTWk3Rzk3VW0?oc=5",
    "source": "VCCircle",
    "snippet": "",
-   "date": "2026-10-29T17:21:12+00:00",
+   "date": "2026-10-29T17:21:13+00:00",
    "tags": [
     "Funding"
    ]
@@ -701,7 +762,7 @@
   },
   {
    "title": "Meet Manohar Paluri: IIIT Hyderabad alumnus quits Meta after 14 years to build $215 million AI startup",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQzV5aDZrM1JDT2QtSzNYLU9uUUxWdTAzdUpOejJoV2FWczRfUEFrV3RtbzRwSGRLYTN2SDlrRTVLSGh2NV94amwzclNhSHJoVnpnMTNNWmE1ZjVCXzM2TzVNTU1pQjQ4eHRMVXM5UU12cWJ4RjkydWhnOU9XMU1rZUcwOV9MZzhpUnlsTW5IMVJTRWljQkRqZzF5ekxfTDcyYTJ1NzBqUW9TVUZEQXFVUGVVZ2t3N0tsOUd2c2N3LWR0OGx6dm5INVhENGVjSnlfNkFUQVZYY1dFSU1KZmNBNEdNVk1nU1I3NmF2OHltT3VRYWfSAfgBQVVfeXFMTUNRTHI3RTFiOXlqMUpBcXBGandiaS1CMktaUk9yRWRpNVNqb1luLUVWWEZjTXh1bnlmYkpTRWZqYnpGZjZvTUl3NTR6cmJRSE1MNl9kSDFDYjVQbzRab1pTSW1ocmY2S3A1LTNUck9UeTVzRGo0cHBkVkZ5eDVZeEFoamx0M3pHS3FJcFpPUnhCVmtWakZxcHlxY3pHX0ZuRHp5ZnY1ME5FVGRlZ1ZsSWxMQXFaSXR1SVVHQlVLbmk0X2ZENmZ4ak5TTXZVSVN5aHh3Uy1YUS0wcUVWYmp4UkFwb2tUd3pzYmJPMjhEaTNLUFEzVUtoRno?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVmxVMkRMLXY5RU81N0Z1QVJscTd0S2RZS2FyRnZLUVBOODRyaVhTY1h5VjZxWnlicjlWdzBZLVM5Q3hsUDM5cEdkWWo5ekVSZGJiVlBJbVpBM3MySURoQ0h3Mm05cHRSMkhuZVFuYnN0MGs0ZDFCWWRyeGVDd1B0aGxscW41VHdMZTBia3lLZGJ6cVZwclBRQzBEYXprVWVNQWxXRy1MMmxYUngxQnBSVWtlb0czd0dfM1pnV3pRSWViZTdkZUYwU3poQ0pjX2lyRnp5MHhudUxOTUMtTjFJS3FHc0lCcG14QlVKa1JrY9IB-AFBVV95cUxNQ1FMcjdFMWI5eWoxSkFxcEZqd2JpLUIyS1pST3JFZGk1U2pvWW4tRVZYRmNNeHVueWZiSlNFZmpiekZmNm9NSXc1NHpyYlFITUw2X2RIMUNiNVBvNFpvWlNJbWhyZjZLcDUtM1RyT1R5NXNEajRwcGRWRnl4NVl4QWhqbHQzekdLcUlwWk9SeEJWa1ZqRnFweXFjekdfRm5EenlmdjUwTkVUZGVnVmxJbExBcVpJdHVJVUdCVUtuaTRfZkQ2ZnhqTlNNdlVJU3loeHdTLVhRLTBxRVZianhSQXBva1R3enNiYk8yOERpM0tQUTNVS2hGeg?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-10-29T12:32:49+00:00",
@@ -1120,16 +1181,6 @@
    "date": "2026-10-29T02:30:40+00:00",
    "tags": [
     "India"
-   ]
-  },
-  {
-   "title": "Before Perplexity, Aravind Srinivas built a Twitter search tool that changed his startup's direction",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOLWVFcHNkMmVwV3R1WnAtd1VTQUJ2R0JneWZWTHFPWEI0Qnp6bVNrZG13QWFQcEc1Q2Q5c0Zkb3FBSllBT21hNTFoNFlBOHlldmFJWC03M1NpNWM0WGJIVWJZLUxlOU5fNlBFNmpKQjhzQl8yUGJtMWNHWjVmcEhsU0VkX0JJazF3blQtVXo1eVVEYjBQd19CeXFPdGhoLWJnSnZfT3hoNXQwRjJQYy10ZTJjQS1lMGM4Zm9iRkhmVXA1dDRidy14ajVsU0cwdXI5V01paEdrUjZvcGl4NWl2dmpUQzN6WE0yZTk0ZENRRFY4bmpmSW1KVm02bXFWYUdta1dmc9IB_gFBVV95cUxQX2pZOE9yZWFyRGZveVptYlU5dHZjZG1hZHlpMTktMG9Kb19rWE4tQjBmcElZd1hrZjhURmpKdGNoSWFIWG9SVWJKVjYzcFpaRWVNSEpwcWJNWWZqckZoVXV4eklyeUE1emVPNzNUX3pfZ0o2VkRRd2pBLUF0YnZpN2F5b0V5TE4wWW5BdF9DUW9DMlR0UllNMmh0SzVETWROVi14Wk52dmpJSldmSjVsdXpDem5QNVlKdm1jQTFNRkQ5WXlPVF8yLUtqQklHcGdMUnBqSVJOWF9zQ3lNRzVfWnU0WWo0UGlkSGxHSUEtQll6SkRMakppZThEZllmUQ?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-29T01:47:07+00:00",
-   "tags": [
-    "General"
    ]
   },
   {
@@ -1622,6 +1673,16 @@
    ]
   },
   {
+   "title": "Before Perplexity, Aravind Srinivas built a Twitter search tool that changed his startup's direction",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOLWVFcHNkMmVwV3R1WnAtd1VTQUJ2R0JneWZWTHFPWEI0Qnp6bVNrZG13QWFQcEc1Q2Q5c0Zkb3FBSllBT21hNTFoNFlBOHlldmFJWC03M1NpNWM0WGJIVWJZLUxlOU5fNlBFNmpKQjhzQl8yUGJtMWNHWjVmcEhsU0VkX0JJazF3blQtVXo1eVVEYjBQd19CeXFPdGhoLWJnSnZfT3hoNXQwRjJQYy10ZTJjQS1lMGM4Zm9iRkhmVXA1dDRidy14ajVsU0cwdXI5V01paEdrUjZvcGl4NWl2dmpUQzN6WE0yZTk0ZENRRFY4bmpmSW1KVm02bXFWYUdta1dmc9IB_gFBVV95cUxQX2pZOE9yZWFyRGZveVptYlU5dHZjZG1hZHlpMTktMG9Kb19rWE4tQjBmcElZd1hrZjhURmpKdGNoSWFIWG9SVWJKVjYzcFpaRWVNSEpwcWJNWWZqckZoVXV4eklyeUE1emVPNzNUX3pfZ0o2VkRRd2pBLUF0YnZpN2F5b0V5TE4wWW5BdF9DUW9DMlR0UllNMmh0SzVETWROVi14Wk52dmpJSldmSjVsdXpDem5QNVlKdm1jQTFNRkQ5WXlPVF8yLUtqQklHcGdMUnBqSVJOWF9zQ3lNRzVfWnU0WWo0UGlkSGxHSUEtQll6SkRMakppZThEZllmUQ?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-10-28T07:00:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "70% of a Startup Bet Is the Founder: Inside Family Office Thinking",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUxPaklqMGZaM3d0MFBDTENCbHEtZEpZVDEtWTRGSWw5UThVd1V5TE5lN0VDS3JGcU5XZGJLSlhfNnRvTzFRbkFtTlhqV2tRY25FTHdYRXU0Mm1TMWJrSGg1Y0JZU2hzWVJGWVBwak9Udk9sRVZrejJucG9tWVVHNmdzeGVlZUpOOHo4aTVsOFFZdW10WjJ1aG5kQ0FFTUxZb3puRVJQWGE4YkhxWTQ3Z3Q5S3gxU0FJZkZaTNIBtgFBVV95cUxNLWJXbVo5ZFk0bFhybUNrQkRzMmVwZ3hyMkV6RnpxckxXLVQ4ZHFRVmItMnhRYlRpYkdlSmtMelhwRUxiT09fWEFVUEZIdDFPb2RaTDRyTDVETXFCbzRRMVllMy1Yb3ZuMHc2Q0l4d19ONmhkaFRBazI4anE2T0Fmb2p6LTRXR2N2VUtpT3BUNURnN1NiellGMllwcXlFVVh4X0x1R3NOaktUeldRSXFGWWRxVWg0QQ?oc=5",
    "source": "The Economic Times",
@@ -1660,6 +1721,16 @@
    "tags": [
     "Spin-offs",
     "Policy"
+   ]
+  },
+  {
+   "title": "Grapevine: Indira IVF, Cognizant, Akasa, Nexus Venture Partners, others in news",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc20xdnV5OTY1V184aHdaZ3E5LWFjVTd2UzdRMmdxUFRwU01KbTl1ZE1uZ1RZUGZjWGtPai1uMXlmZzRNaTBqSnE4d0c3RXZVd3Vlb0tiTk9FZVJuMVg1NnQwM0Flak4xZ1gxeEN0NzJtZEZQZjQ2LTNtTnJ5d2ZpNHB1Y1oycDZxcExjNDJGdnk3VmpZYVV6WGxvb3J4c3fSAacBQVVfeXFMT0puYWlPd3dMazB3ako5NW41djBtWWxyakpXZ0xlQ3RJc0JrUEpmSDQ4VVlMazk4SlNqRWc2X3Vkc3RNTDBzaFE2dVgwbC1IU0E4YklKYzMwQmVkeUZjc2lZVzF2RllIcmVCdDBGcy16SVZObU1sY1hoT0Jjem1nallrY0V6SGM2eTFYOVFZSUgwM1NTbkNmc2lPVmVNd0NNdDBMeEhULUk?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-10-28T06:12:50+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -1912,6 +1983,17 @@
     "Incubators & Programs",
     "Policy",
     "India"
+   ]
+  },
+  {
+   "title": "University of York signs LoI with Karnataka government to target bioeconomy, agri-tech and startup innovatio..",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObWFyaDRnRjhlYUJmb1llNEJCR3ZEbGMtdXlwOGlkZlVNaU01M2diTHFDTmhSc1o5eEFsLV9lQXhodTQ1NWhXRDJHVGRQZUxQRXZFSENMdW1lV0IzbTk3bEMzMkpUZm9QaThNNm1zOE80cFdOZFNUVy15QUJzajB5YVZ1UXg0SDdsOVNPTUMtdFlmbGtRLW1RTzZSYmFSUlpXT3haTG9vVnNrVlJma0NUT2pERUQ2ODliOU41QzNOcFVaWk16a1BZWW5aUi1wSGlfYk5CTjVYQ09rbVhGQ2JIdTlpQUs5NGdsYkg0OEVTa2R4cEhRNUN0c2VUN2xqRWVwbzNqcWdoaXBOSS1JNTFpcm00Q3BBdks5WUNqS09JRThVazFGUzVTUkJ30gGuAkFVX3lxTE1OSGlyc1RjT210akt3eldLNTVFcllOa0lqVmJHZUhJSUhXZnRyVDZabk93eERSR3ZxSjlLZC01bDNGMjFBN2VZY0tiZGZNb1pOdkpfSk9waDBJcDY5cklsNlVqSjRWNjZmdk5CTThBVDRIQlpOV24wTEtJSXlPUTQ4VnBWV2tXaU1mVWZTWnk1Q3pueC1GbnJVVXhDRGtLV1diNTVZdDNFSlhldzQyaHlGdjRRbER5Wml2ekhqR3VxWGdKUEgyODJ1ZU1nd3gzV0pyMGg0WDBqczhCclRYbDJlUkhQQzV5R281cnRaWXhrLVRlcnpHVy1BSl8yMnVTazBfTld0cTJzNlFwZnJLYUoxV29EdEttM3hlZGl0XzZyR3M0cXJ1WHZsdlRrS2VB?oc=5",
+   "source": "ET Education",
+   "snippet": "",
+   "date": "2026-10-27T15:31:57+00:00",
+   "tags": [
+    "Spin-offs",
+    "Policy"
    ]
   },
   {
@@ -2681,17 +2763,6 @@
    ]
   },
   {
-   "title": "University of York signs LoI with Karnataka government to target bioeconomy, agri-tech and startup innovatio..",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObWFyaDRnRjhlYUJmb1llNEJCR3ZEbGMtdXlwOGlkZlVNaU01M2diTHFDTmhSc1o5eEFsLV9lQXhodTQ1NWhXRDJHVGRQZUxQRXZFSENMdW1lV0IzbTk3bEMzMkpUZm9QaThNNm1zOE80cFdOZFNUVy15QUJzajB5YVZ1UXg0SDdsOVNPTUMtdFlmbGtRLW1RTzZSYmFSUlpXT3haTG9vVnNrVlJma0NUT2pERUQ2ODliOU41QzNOcFVaWk16a1BZWW5aUi1wSGlfYk5CTjVYQ09rbVhGQ2JIdTlpQUs5NGdsYkg0OEVTa2R4cEhRNUN0c2VUN2xqRWVwbzNqcWdoaXBOSS1JNTFpcm00Q3BBdks5WUNqS09JRThVazFGUzVTUkJ30gGuAkFVX3lxTE1OSGlyc1RjT210akt3eldLNTVFcllOa0lqVmJHZUhJSUhXZnRyVDZabk93eERSR3ZxSjlLZC01bDNGMjFBN2VZY0tiZGZNb1pOdkpfSk9waDBJcDY5cklsNlVqSjRWNjZmdk5CTThBVDRIQlpOV24wTEtJSXlPUTQ4VnBWV2tXaU1mVWZTWnk1Q3pueC1GbnJVVXhDRGtLV1diNTVZdDNFSlhldzQyaHlGdjRRbER5Wml2ekhqR3VxWGdKUEgyODJ1ZU1nd3gzV0pyMGg0WDBqczhCclRYbDJlUkhQQzV5R281cnRaWXhrLVRlcnpHVy1BSl8yMnVTazBfTld0cTJzNlFwZnJLYUoxV29EdEttM3hlZGl0XzZyR3M0cXJ1WHZsdlRrS2VB?oc=5",
-   "source": "ET Education",
-   "snippet": "",
-   "date": "2026-10-26T15:20:23+00:00",
-   "tags": [
-    "Spin-offs",
-    "Policy"
-   ]
-  },
-  {
    "title": "D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A round",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1BlaFJHV3p1cTBzUEw2b05yMjJPUVp1MXFfYmo5S3M2d05mbTZkNjY5N2tuTUMzM05mV3JxNnRQRjd0bjcyNnEyT1Ryd2Q2ZDBhOGRMaU4yS0NxMng4d2U0NmQzMGxWTUM5OGpkcU1QeXdINlVjQlozMVRpVDNTM1dIM1Ezd0xnd25yZS0wTHJ3Rk56VHJNcEJZZDBmTW4yUHloY3Fn0gGmAUFVX3lxTFA3UGVoUkdXenVxMHNQTDZvTnIyMk9RWnUxcV9iajlLczZ3TmZtNmQ2Njk3a25NQzMzTmZXcnE2dFBGN3RuNzI2cTJPVHJ3ZDZkMGE4ZExpTjJLQ3EyeDh3ZTQ2ZDMwbFZNQzk4amRxTVB5d0g2VWNCWjMxVGlUM1MzV0gzUTN3TGd3bnJlLTBMcndGTnpUck1wQllkMGZNbjJQeWhjcWc?oc=5",
    "source": "Entrackr",
@@ -3331,16 +3402,6 @@
    "date": "2026-10-24T12:28:23+00:00",
    "tags": [
     "Deep Tech"
-   ]
-  },
-  {
-   "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-   "link": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
-   "source": "Inc42",
-   "snippet": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…",
-   "date": "2026-10-24T11:12:59+00:00",
-   "tags": [
-    "India"
    ]
   },
   {
@@ -5129,66 +5190,6 @@
    "date": "2026-10-20T13:32:52+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Nvidia backs four German startups as European spending spree continues",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEYzMlFHclRCTlIwNmd4V19ETVV4blF0aTZPUm5TbUYzUU0tQ1U1S3pCSGE1TzJ0eXpaNFlSQzBIM0hCRDlkcFE0OGxtR0VsVG5vRHN3OW53RUljaGVQSFp4RGhRM1Y2V3ZyT1A3ZVFHa2ZfNzNJWldsclBpcEhta2dGWTdCQQ?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-20T13:30:48+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Textiles ministry lines up 4,000 startups for export push, ETTextile",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmU1WnlGZlVoZTZtQ09EOXJlUnJfOVRtT0tCSlJfaFJTUFF6bTNmMDNrQUtsekFXazh6MXpHZGpFWFgyTEpmTlFqMXpuSU5BaENwU1NDV2xsblVUOUI3cVBCVWNpTklILWVSQzRINTk1a0Vwc3NIc0Y0OFBxNWZVOHZMX3BGX3ZLN0FITFlVcU9RbFJ4UUxtSlNxbjNLUTAtZzl6dnZHdEN0WVRLeENsLTVQejVjc3pRZ3R0TjZWY1pTOVg0NHNUOHh3UXQ4TUE?oc=5",
-   "source": "textile.economictimes.indiatimes.com",
-   "snippet": "",
-   "date": "2026-10-20T13:25:55+00:00",
-   "tags": [
-    "Policy"
-   ]
-  },
-  {
-   "title": "CamaUP'26 - The breakthrough meeting point for startups in Ca Mau.",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnVTZmlBY1BrMDMwZDNnczZIM0xaTlEzMHl4emlHblZRaFkxVFNvYzlpbUlUZFk4ODhOTUQ2UG9XWkRKRk9yZkdianMxYmtqMU55a2phcjZkdzd5U1pqbGxnbm9fbWZWdTRfeE14R2htRkhYM0s4TnpxQ0xpWGpVWg?oc=5",
-   "source": "Vietnam.vn",
-   "snippet": "",
-   "date": "2026-10-20T12:26:25+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "How To Build A Billion-Dollar Company Without Venture Capital",
-   "link": "https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/",
-   "source": "Crunchbase News",
-   "snippet": "Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De…",
-   "date": "2026-10-20T11:00:46+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer",
-   "link": "https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/",
-   "source": "Crunchbase News",
-   "snippet": "All told, fintech startups raised $10.6 billion globally in the third quarter of 2026, down 28.4% from $14.9 billion in Q2 2026 and 21.4% from $13.5 billion in Q3 2025.",
-   "date": "2026-10-20T11:00:16+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Latest TFMs news and analysis from startup Europe",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5VQ1RQZTBGT1NSNHdWQUQ5UnJTTExqMEZ6WTAyVzNfR2FqcVpQdWpxMnh1WTZnTllaUDYyR3c5dw?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-20T10:15:39+00:00",
-   "tags": [
-    "General"
    ]
   }
  ]
