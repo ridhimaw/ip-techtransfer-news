@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-11-05T19:59:24.227653+00:00",
+ "updated": "2026-11-06T06:52:20.195586+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -11,6 +11,71 @@
   "India"
  ],
  "items": [
+  {
+   "title": "If it works in India, it can work anywhere: TDK Ventures’ Nicolas Sauvage on building deeptech for the world",
+   "link": "https://yourstory.com/2026/11/tdk-ventures-nicolas-sauvage-building-deeptech-world",
+   "source": "YourStory",
+   "snippet": "At TechSparks 2026, the Founder and President of TDK Ventures said Indian deeptech founders should plan for international markets from the start, and use the country’s tough operating conditions to develop…",
+   "date": "2026-11-06T06:30:00+00:00",
+   "tags": [
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
+   "title": "The 12 startups most in demand from Onstage's W26 cohort",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iSDJFcjh2OFNSQkwxaHRRdHFxZVV1Sjl5RmpQYkpJN2I5Sm9mRWJQZDU5YXhzemJ4YlFqYVd1TDd4YjgwRURjZFdPeUo2QWpOeHdmNFVlS0c?oc=5",
+   "source": "Sifted",
+   "snippet": "",
+   "date": "2026-11-06T05:01:56+00:00",
+   "tags": [
+    "Incubators & Programs"
+   ]
+  },
+  {
+   "title": "Why operational excellence will define the next phase of India’s startup growth",
+   "link": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
+   "source": "YourStory",
+   "snippet": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance are essential to…",
+   "date": "2026-11-06T02:30:00+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
+   "title": "How Satin Group’s Sankalp plans to empower India’s next wave of founders",
+   "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+   "source": "YourStory",
+   "snippet": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and preparing it for the market.",
+   "date": "2026-11-06T02:20:00+00:00",
+   "tags": [
+    "Spin-offs",
+    "Incubators & Programs",
+    "India"
+   ]
+  },
+  {
+   "title": "Aina launches Rs 47,000 ring to bring AI agents to your fingertips",
+   "link": "https://yourstory.com/2026/11/aina-ai-smart-ring-price-features-launch-india",
+   "source": "YourStory",
+   "snippet": "Aina AI ring launches at Rs 47,000, with AI agents, voice commands and gesture controls. The Bengaluru startup offers an early-bird price of Rs 37,700.",
+   "date": "2026-11-05T20:31:57+00:00",
+   "tags": [
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
+   "title": "CEO Harsh Jain Teases A Revamped Dream11 By 2026-End",
+   "link": "https://inc42.com/buzz/ceo-harsh-jain-teases-a-revamped-dream11-by-2026-end/",
+   "source": "Inc42",
+   "snippet": "Erstwhile real money gaming (RMG) giant Dream11’s cofounder and CEO Harsh Jain has hinted at plans to launch a revamped…",
+   "date": "2026-11-05T20:12:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
   {
    "title": "Harbinger raises $240M after expanding into defense",
    "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
@@ -420,6 +485,16 @@
    ]
   },
   {
+   "title": "Piyush Goyal Chairs Roundtable to Strengthen India’s Biopharma Startup Ecosystem",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnhBN1QzS0c5T1h1MkhlNTFoSE1IYjQ2ejRyMmJWLVI1dzQ5Q2xsUVN3QU1GdFZTcENBTnVlYW04dml1akZmdFBQcE4wS2FTT0FCQnVOdHJsb2w2T0RPaWFJRFI5QVVKMVRGTWhoZUszQ29aazdUMHB6TFdjNl9hUE9sRnpDR2U3emduVV9YRFU5MjJZMDFoaGd3U1JEZ05fRTBsWWV3NEo?oc=5",
+   "source": "DD News",
+   "snippet": "",
+   "date": "2026-11-04T19:29:11+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks",
    "link": "https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/",
    "source": "Inc42",
@@ -442,7 +517,7 @@
   },
   {
    "title": "SEBI sets up panel to revive dormant startup listing platform",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2hicWgydFdCMUFSd0NuaGVodDlIWGdrM3FpVmdmZnJtZllCOGtHdjRJNG1Fc2t4MHZmdk81Qzd2VG1WSXRuR3lHei04Y0kxS1VqTEpIMEV1VGd1VEQ5SVBHc2NhdlN5ZzlHRTdsVDRpWnFpOS1yclN5dkJ2Ni03T3FpT0lFOW1hZXNFSXY2YzluTXAxZ0FDMHRWc2x5Vi05SnJXVnVxRVV4VHJIQjlmd0pzQ0tGaHJGUmIzLW5PSdIBxAFBVV95cUxQa1dINlAzX0p4dnptUFl0d3psUFlJdzhfQndrbk1ZQlA2dm9ISUZsX3EtdFZrZDVUTDFXMWZHYkNrak9TZGFsclUzeXJCUVlZaXZ2RlBMRkQ0UEpfU2Q1QVVEeVhmbDUzRVJIZERrLUk2c3g3amdhMXRwMDJtU0Nxc1FpTUc4bzJOaDRDVkpSQm1CdHdQYnNFQk1QcjNJanJKR2laVGxrQ1pPMXlqLWI5RTF6U0xNVUpKd0g2SHNHS1dRWGo2?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1dINlAzX0p4dnptUFl0d3psUFlJdzhfQndrbk1ZQlA2dm9ISUZsX3EtdFZrZDVUTDFXMWZHYkNrak9TZGFsclUzeXJCUVlZaXZ2RlBMRkQ0UEpfU2Q1QVVEeVhmbDUzRVJIZERrLUk2c3g3amdhMXRwMDJtU0Nxc1FpTUc4bzJOaDRDVkpSQm1CdHdQYnNFQk1QcjNJanJKR2laVGxrQ1pPMXlqLWI5RTF6U0xNVUpKd0g2SHNHS1dRWGo20gHEAUFVX3lxTFBrV0g2UDNfSnh2em1QWXR3emxQWUl3OF9Cd2tuTVlCUDZ2b0hJRmxfcS10VmtkNVRMMVcxZkdiQ2tqT1NkYWxyVTN5ckJRWVlpdnZGUExGRDRQSl9TZDVBVUR5WGZsNTNFUkhkRGstSTZzeDdqZ2ExdHAwMm1TQ3FzUWlNRzhvMk5oNENWSlJCbUJ0d1Bic0VCTVByM0lqckpHaVpUbGtDWk8xeWotYjlFMXpTTE1VSkp3SDZIc0dLV1FYajY?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-04T15:03:17+00:00",
@@ -1000,7 +1075,7 @@
   },
   {
    "title": "Jewellery startup Giva raises $100 mn in funding round led by Multiples PE, others",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmN1Qy1Vdy1feV9sZVJKRmdqUFlSekNWY0lzV2dab19mUkdGR1djQlA0U2Z6MHBMWl9kV2JVVE0wamRUaFZHcWJwZVY3VVJfZ1dTd3BoWlUyT3hBdFl1dFA2T0NTRkcxM0dsWjVVTkV0TVB3QjRwMzdkNUhiNXBpM3g0UFFzaWtqal9oeHUwMTJSTmcyak9pZWJVWEtjZXZsOWRaR2wxd2x6Ny0xNjRRdlowcjNEVU5EZ0MydE04enVXUjNEQmIxQkNBeU3SAcwBQVVfeXFMUEpjdUMtVXctX3lfbGVSSkZnalBZUnpDVmNJc1dnWm9fZlJHRkdXY0JQNFNmejBwTFpfZFdiVVRNMGpkVGhWR3FicGVWN1VSX2dXU3dwaFpVMk94QXRZdXRQNk9DU0ZHMTNHbFo1VU5FdE1Qd0I0cDM3ZDVIYjVwaTN4NFBRc2lrampfaHh1MDEyUk5nMmpPaWViVVhLY2V2bDlkWkdsMXdsejctMTY0UXZaMHIzRFVORGdDMnRNOHp1V1IzREJiMUJDQXlN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjRuSEw0Nk9GOHY5aWlBYUNpVDZJQXBLYlNHMllBZkdOT18zX2NGVzZPSnYtbjBiNkZZNXA1U3ctWW5RbWp5QTBaTlBDYWxZLXNpTEZydC1adjZsTmZzLTJBb0VEMXROTEhEbmVKcUhXMl81eFJTOEZRYnJMNDBSYlNLZVBRRFk4ZDdOZFFuYTlyYkpiRXpJMnZyc1ZRYXZKNjNJZWp6bDhGcnRtcElFUmFZakR6WHlwMVp6SzBEd2xrbk9SMW4w0gHMAUFVX3lxTFBKY3VDLVV3LV95X2xlUkpGZ2pQWVJ6Q1ZjSXNXZ1pvX2ZSR0ZHV2NCUDRTZnowcExaX2RXYlVUTTBqZFRoVkdxYnBlVjdVUl9nV1N3cGhaVTJPeEF0WXV0UDZPQ1NGRzEzR2xaNVVORXRNUHdCNHAzN2Q1SGI1cGkzeDRQUXNpa2pqX2h4dTAxMlJOZzJqT2llYlVYS2Nldmw5ZFpHbDF3bHo3LTE2NFF2WjByM0RVTkRnQzJ0TTh6dVdSM0RCYjFCQ0F5TQ?oc=5",
    "source": "Livemint",
    "snippet": "",
    "date": "2026-11-03T11:10:07+00:00",
@@ -1083,7 +1158,7 @@
   },
   {
    "title": "Startup vs MNC: Woman shares why working directly with a founder transformed her career",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb1dDZTIwb2gtVEJqY19UWnp0clM4ZjZPRDFfVURMV1RydWJWQ0dLUlMxQ0duQUFuaXNTc3BSb3FZUktCdlYxZUIxN3FlN2RJazZUbkxlUnhKNHQwVkFHQ2FyVExhNW5SS1I2LUdjd2huS3dpeFRlZGVZNXR6Y3hWM0Uza0NHdjluU29JQzNBcTNGZU9YWl96em00eTdxQmppa09TeElvNWc4WGd1aGpEUVRDRng2ZlNBbHhacXRzMnJEMnhFOVdUM3ZHM1d3bEs1ak0wLUxpcHXSAd4BQVVfeXFMTUhWTC1lT0FFb2huX1NxOEdJdkRkajJRZjA5Yk1IdmxOQjhDc0o3ekJEWDB4bmpSajZSVGZGY3dOcHQwQmdWTURveHRXcEdDZXZObVN0M2ZjSEMwMVFlQlRWclRiajZIMXB0MDJfRXdRcjZ3RVBxTlBoTVVPbEJmcmNYeFBwQnJ6SVNhanFndGk4QnRXM3BDenhfb181bnVLTF9teXFjWG1rTEhhNWN2ZUwtbW9jRC1DdEZoVlR6Yl9jZy04bHhSSmVhS1F5OExiLUFkX3B1SENJUFllSjRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFZMLWVPQUVvaG5fU3E4R0l2RGRqMlFmMDliTUh2bE5COENzSjd6QkRYMHhualJqNlJUZkZjd05wdDBCZ1ZNRG94dFdwR0Nldk5tU3QzZmNIQzAxUWVCVFZyVGJqNkgxcHQwMl9Fd1FyNndFUHFOUGhNVU9sQmZyY1h4UHBCcnpJU2FqcWd0aThCdFczcEN6eF9vXzVudUtMX215cWNYbWtMSGE1Y3ZlTC1tb2NELUN0RmhWVHpiX2NnLThseFJKZWFLUXk4TGItQWRfcHVIQ0lQWWVKNGfSAd4BQVVfeXFMTUhWTC1lT0FFb2huX1NxOEdJdkRkajJRZjA5Yk1IdmxOQjhDc0o3ekJEWDB4bmpSajZSVGZGY3dOcHQwQmdWTURveHRXcEdDZXZObVN0M2ZjSEMwMVFlQlRWclRiajZIMXB0MDJfRXdRcjZ3RVBxTlBoTVVPbEJmcmNYeFBwQnJ6SVNhanFndGk4QnRXM3BDenhfb181bnVLTF9teXFjWG1rTEhhNWN2ZUwtbW9jRC1DdEZoVlR6Yl9jZy04bHhSSmVhS1F5OExiLUFkX3B1SENJUFllSjRn?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-03T09:28:28+00:00",
@@ -1368,16 +1443,6 @@
    "tags": [
     "Funding",
     "Deep Tech"
-   ]
-  },
-  {
-   "title": "Piyush Goyal Chairs Roundtable to Strengthen India’s Biopharma Startup Ecosystem",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnhBN1QzS0c5T1h1MkhlNTFoSE1IYjQ2ejRyMmJWLVI1dzQ5Q2xsUVN3QU1GdFZTcENBTnVlYW04dml1akZmdFBQcE4wS2FTT0FCQnVOdHJsb2w2T0RPaWFJRFI5QVVKMVRGTWhoZUszQ29aazdUMHB6TFdjNl9hUE9sRnpDR2U3emduVV9YRFU5MjJZMDFoaGd3U1JEZ05fRTBsWWV3NEo?oc=5",
-   "source": "DD News",
-   "snippet": "",
-   "date": "2026-11-02T19:18:49+00:00",
-   "tags": [
-    "India"
    ]
   },
   {
@@ -5155,67 +5220,6 @@
    "date": "2026-10-26T10:26:01+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "Pronto founder Anjali Sardana launches US-based physical AI startup Provision Labs",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2xRZ0NsTWFhUkxUMEZXVGFWUGM0WGxscEpSd3VDSzFMaU9XRUtSdjc0U0xiN2d6SEhkLVJyM19LcXZCYWk3Vk0xRV80MUtTUkRlT0hVM2hfRXk2WmlnMFE1REczanhuZUZ3VGpsUHN1elhRYzNBUWl2TnJqZG1xRC1xVURmeERQU09xZ2dZcVpXbXdqeE85Tk1hT2NFb3lDTm96T2F2SG5aM3pLZzdObnpERFlaNXJiZUpZQVdZV2lIUHNIQ21LWW1pejNLUWV2UnNVa0lHNnBwcUM0UGh4Y9IB5gFBVV95cUxNcEJQMkVQVWtOZkNtWHJIeUlWM2pRUHFZaFNjd2Y1RU8xTnN6a3BFVHZmMUpYNTgxTUdrYWFlQ1RhMnU5SDZza0x1RURqcjRxMk9mVWVfSFNHUHZKeVVtODNwS2JpOUZkRlVrcUpIN3BTSTJ1V1dfZHFjaGhQV2pMM3hvbUNJby1mSW1FWlROaVNxLU50ZUJzSjh3WlFzd3ZKVHhnNkszb1NxUE82RFBRU1hxRmhqZmowa2pVSUxwazVWbmNWdy15LWpnbUxFOTFWY3NDNFB2RmNrNWxMVVB6TzJ2MWV4QQ?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-26T10:11:03+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Tech reporter’s remarks on Indian VCs set off debate on India’s deeptech startup scene",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSGhJeTgtaXJITUYza01hb0pTbjF6NmJELVVQS1hGR3BqSk9QY1I1UDV6VkFEbTRfZTc3RXAtMk5weHh2RHg1S1Jpak5WTHRpZ0plbDl3MFJ4eFJOa3VnQ0JKMklVZTZNS1I5QW9FWjZMSHZIVVl1b2h1U01oWUtXZzl3cDZTWFdLM0hNblZPVUNHN2NxQjFZZUdwbWpJSHdqQ3gwMEx4U3pyN0M0Unp2c2pCSFBKUGlUX1BCMkNLM3ZqallWSVFNc0dYeUtwdmx0LU1rejdpeWZtRmhFQTk5cWZIVUVzR1J5Z2Vvb1d1a042TknSAewBQVVfeXFMT0lhSUFZbXctODNZMlZmV3ZCOWhiUVVZeGo2bFh5eVh5VUU1SlJ4M2FlUGFjMmlkY2RtdnpzRlBhNGxhMGZhZ0ZFY3NVNW5ENVVVS0xUWTVlMlc2Qzl3UHJYZnZwZEdhcmlLOGVLTjhSRkY4NGN4cVAzd2Q5Z2R2aWxWQkNUVVdjUktuV0lGVE9kYV9fQTQ3VFBrdElrdU5OWWNxVTVTWDBuUG40cVRJOTVzclYxNU9jU1NTdTQ3bXh6V0ZFbHhNSllWdkhnb0MzdVhFdDl0OC1kZkpaQ21BTXFESHRpblNVYjZHblU?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-26T09:50:12+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Pronto founder Anjali Sardana sets up physical AI venture Provision Labs in US",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejZ1clU0aTNCNnhsZ0F4cHVLbGVKTzJBR3B0NHRnT0lvckZLbGV2elJJR2VIb2VvTUxxSnI0WXJwZzJXbi1DVDltclhGVHlwUTZCOGZweHNYMWxNYkJQZF9oQjBXRHItQWVCY21jT1ZHUVd1LVl2VG9mVWNFVFdISVNkZEY0dXR0NFJxWDJYb0pIcmRveXpQRThidjNLTmI0UU9mM0ZfMHc3bXk1OWk5dWloQdIBswFBVV95cUxOejZ1clU0aTNCNnhsZ0F4cHVLbGVKTzJBR3B0NHRnT0lvckZLbGV2elJJR2VIb2VvTUxxSnI0WXJwZzJXbi1DVDltclhGVHlwUTZCOGZweHNYMWxNYkJQZF9oQjBXRHItQWVCY21jT1ZHUVd1LVl2VG9mVWNFVFdISVNkZEY0dXR0NFJxWDJYb0pIcmRveXpQRThidjNLTmI0UU9mM0ZfMHc3bXk1OWk5dWloQQ?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-26T08:56:55+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Same AI, different outcomes: what 25 lean AI startups got right",
-   "link": "https://yourstory.com/2026/10/lean-ai-startup-scaling-framework-seven-growth-drivers",
-   "source": "YourStory",
-   "snippet": "Why do lean AI startups scale while others stall? A Suvan Ventures report identifies seven growth drivers across 25 companies.",
-   "date": "2026-10-26T08:47:41+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "YC-backed healthtech startup BioStack raises $9.5 million from Peak XV, DCVC, others",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONjc2ZUNLb3VvcUFqb01BeXozNXhpNmR6Y3Fuam9CSWJfWXd2TVMxbzZBUEJwUEhxc3hXVkNDZmR2YXo3c29XQ3pWVUltZFFtYjZiUXc5SGdjelhiX2hRd0pndGhyOUpqdzBiTGNtTWdSbWU3cUxPRU5zM0xyMTZLLXhWOUZNUHdWWWZ0WUJCR1U1WndTNmZ5RTlQWlJ2bHZGQWJtMWRBRExic1gzbWRTTGhQbThJc1hjRkl3bC1Ud3VpQm1ZeVFOWV96cWt3ZlJOQjlwZGJrWFFwem5yOVVPekVlMi1QOWE5Q3dGRi02VdIB6AFBVV95cUxNYmJnelk4ZXpjOFFMdXNNdnN2WTJKRkktRTNTOW9wRm91U1ZJXzdmc09qbGp0bHZvM3YwbDZBZENVUzJ4T0VmVmFROU9HRVJKMnplRFZHZEtaN1BrSl9ud0lSbFlha0tFSnJTMVNRc2J6emVsWGJaaWtmLV9FM0cxV0pjOHRWcW5rR0p6RVdQUWpSMmEzTHVrd0F5aGFxLVQxSlRJak8tOWVXeE1MRGpQX3ZkOFpOZURWX2FVdkZkUy00X21VaEtRS2kzUGVxdHBmYUlZdXctUU1FaDlKRmp2bERBMDkxVnZr?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-26T08:32:15+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Unacademy's Gaurav Munjal, Roman Saini plan ₹700-crore fund focused on AI, deeptech startups: Report",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTm1IRWN2TEZ5Y0JCNVJKOEdPc3RzblR0TDF4VU9GVG14V1pWUEp1R05zZjdYTGdBa1FxVDJiWU11SDZtWllUd3JlenJUYU1YNHBFRnVjLWxCM2tsSnNuTjBCdTlBbE1IbEdsZWFaeHZxMUdJalBQNy1aUDBobmU4Z1VQUWZjckwyS2RHdnJtWEN0eUROZFBrb0UxOHBjamhLcFFCN3dQdk5iQ0hPMmxzZlM5VTZwVGFiTlNJUWFMeC1yVWFJUFZvZzRTY0RRY1dIVGNIRGpDMkVlZHBGck5vb3Y5YV9UWF9k0gHuAUFVX3lxTFB6ZEZTcnVtdmVfajFXbzdQRkRTNWhrcldVWFpYZ1VYbTQ0MXpMNkE1RnZKMTFrSW0xOGF5MlZ1MTVpYXpybXdVNDRiOVFEQjBfUUZmZHFMUXM0WVZyalprUWFOSDgxblloSTgtNXNYNFhLLWpzQmpWSUZiOWxjWVY5NTNzZC05YWhuYVVPd2RQbFg1STBVLXJ2Z3NId2tGWXdjX3o0N09KdjJ2WjVvSnVWV3RCclhyclZFQ1FQQ1I0WEdSbjNRcE1XVzFvOTZjV0lMb1BuM0g2Z2xTbUc3X3hlTnlCZWdyQTRqSUVTSVE?oc=5",
-   "source": "Livemint",
-   "snippet": "",
-   "date": "2026-10-26T08:29:40+00:00",
-   "tags": [
-    "Deep Tech"
    ]
   }
  ]
