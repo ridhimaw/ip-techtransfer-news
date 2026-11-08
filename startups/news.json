@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-11-08T06:07:02.830499+00:00",
+ "updated": "2026-11-08T13:29:21.679506+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -11,6 +11,27 @@
   "India"
  ],
  "items": [
+  {
+   "title": "Angel One becomes India's second-largest broker by active clients",
+   "link": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients",
+   "source": "YourStory",
+   "snippet": "The active client base of Angel One for October was 69.98 lakh which was an addition of 2.43 lakh for the month. Zerodha now is in the third spot.",
+   "date": "2026-11-08T13:06:32+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
+   "title": "Meta’s Dave Wehner to join AI startup Fireworks as CFO",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbEU2c1R4YWFsTnRtYXdrSGdZb0ZFTkZhSzN3YkhLMlBXYzlJdUhVUnlielJjZkplX3h4azZZVlR3MGU1c01NbGVKQ2NSSjdTY2RqLUhLcUJ3Z0o2em9Qd3N2MUFZRXp3NHFjYmU4TUlYSF9mcTlYeHlxMWJ4TmVsNmxIbFJNOURjZXBMT1RwUnU2ZHdhLTVER2dDMHZQS0hlWWVIOEVMWDJGNGktQV9NUHRvQnpwdVdfQUN6ZmcyOEhLYWlkNGfSAcsBQVVfeXFMT2FKZWVfUGV0RGhTdXBWMWRXRFY5ZHpEQmY5a0VJSU1VR29VYm05QTZxaFMycGFLQTlvV2ZxQXF1c1paMzg0VjhnZng4cWJaMjVQOEFKc3Q4bGFheTFldVVtTC1NdWZQb2w2WjR1TmwySmE1VnFucEN0ZWNzelVCVmZueEsydW5uMGtMbXpMQXkwQ01RSTB2eVlpd1BCR1NNeEZERUxlYzJBX0VkY01oay11Z1NTdEJPUmxwQ092amVYVFg3YUpOcEFSX1E?oc=5",
+   "source": "ET Enterprise AI",
+   "snippet": "",
+   "date": "2026-11-08T09:08:18+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
   {
    "title": "L&T Finance Pitch Point 2.0: Where an AI startup’s big idea meets enterprise scale",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DbVBiMzNJc3FMSTV3NU14WjJua3ZuZUZCNGlVU003Z2VsRHBTZ3ZVV01KY2JYRkhCQVJKWVJOYWdQZ1JoYmtCMzZlcEp4T2pFLVNnZVFxSE0zdVBGQlRjeTFqUl9yVDFyc0tycDNxZW8zRWR5dEFv?oc=5",
@@ -806,17 +827,6 @@
    ]
   },
   {
-   "title": "AI sales startup Nooks secures $500 million in funding for expansion",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXJnQ2FKamlTMnFpeUZSVHJXMkVGS1hjOE1YY0h2U3V4b0VHZmhpWEFRX2N4YlRqS1VHU3NtbTNHeTlVaENrdDVmUjV5amRwcDhPbzBSRU1CUkt5WVcwangxYjlRODJzTnVtWE9wTER2dUJoVGIyTXZhTjk3QmJWVWJkVzIzQ095VV90RXBxUkZYX19qMVhNZFRGcm8wZThNdlpmRmN6V0xwbjBPXzRBeVVWb3dJOHZLNzZiRVJDelVCSGM2bjJONzBNdUFybVJJd2pNWmJ0WdIB3AFBVV95cUxPeU1RTFV4MDQ3UDBTcDhMalk1dDg5U3RSdmt1a2pxMlFzVUJCN2RlU09EcU1UUHZ0UFJfaW1qQjBvR2k3emNpOXZzUGhYdGFBWEF6OEROTl82b2R0UzhNZ2llR2VPTHNnTzZvY2JCSWd3T18zZE1XZmFEZTNFVE5zR0djVnJ5QXdIMVJmMEpHTnBQeFFPQ1NxdldMbUlfTlpIcW9RX0w5Y1ZlaGVGUHhLZWZuaVVnSjZlZTMzdkhzb3Z2R1R0ZVBzMnRMSEVmcTNsdlI0dWxHMDBIZDAt?oc=5",
-   "source": "ET Entrepreneur",
-   "snippet": "",
-   "date": "2026-11-04T14:15:33+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
    "title": "Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5leFRyQ3pfeWJWaUpSTDlSQjNFbzlac19JSUNmcUZmbWdjNmp1TFE5Z0FqY2VsSlRPRW15ZEVXQmZQZ0VNZzZpTnZHOWlqeVViTHp2elpUV1JUOWd3cmttWjVwWQ?oc=5",
    "source": "YourStory.com",
@@ -895,6 +905,17 @@
    "date": "2026-11-04T11:50:15+00:00",
    "tags": [
     "Funding"
+   ]
+  },
+  {
+   "title": "AI sales startup Nooks secures $500 million in funding for expansion",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ0RyQU50VjFWZTZhUGtPdTdMb3RSRF9SaXRFN1E5Q0NCYmVXa1R2ZGw2UmFJY1ZyRGJjZTY1a0xGSXVzLUZlRUt1cXV2S3VnOThXYVVXWUdsaS1XZ3ZrNTJrSkdSVGpiR2l5ZTZ0R0RLbDl1NDg2V3dFcHlnUDJFT3UwcW9QMjFxdi1ubkR5UXBMV0M0R0VYZVkwZEpmVl9rajFYRjhMTDBXeURMdGtvWU8yeGQ4QUhQYlhhdUxUd2stTWxnLWZsY3RybXJoSTBBamdnOUhFcU5yM1NGZnd5WGpFamotY0VKY1VVU01Ca2jSAeoBQVVfeXFMUEhaMGpMTkJGNUpLRVUtaGNfZExYaXc2X3BNM1lsbWIzdEwydE04b3hReWIwTTc2b0dud1Zsb2tpUFhtYlBGUk10Vi00Y280VFFkRGk0X2ZqVlNSOHNCT1RxNWdUY3E4VnR2WEdfQkxVampfRDNFTUR5MTlhcmhTT1A3RWE4MkJYbjZHTlVfRFVxamFES1hrQ0I5R0V2TkFRQzE1alQ4RGpDd1J1OUFlWXRLVm5UOGJrUmxLUzFudkFjQVNGMURJYUFWMzAzZDZKMWM1MURhVzlGcmljbGJOdWJ0eVNwcXVyZTdn?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-11-04T11:36:40+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
    ]
   },
   {
@@ -5213,26 +5234,6 @@
    "date": "2026-10-27T00:30:00+00:00",
    "tags": [
     "Incubators & Programs"
-   ]
-  },
-  {
-   "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-   "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-   "source": "TechCrunch Startups",
-   "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
-   "date": "2026-10-26T22:00:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-   "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-   "source": "TechCrunch Startups",
-   "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-   "date": "2026-10-26T22:00:00+00:00",
-   "tags": [
-    "General"
    ]
   }
  ]
