@@ -1,7 +1,7 @@
 {
  "title": "Pharma & Biotech Pulse",
  "tagline": "Auto-updated news on drug patents, licensing deals, biosimilars, regulation and biotech innovation",
- "updated": "2026-11-08T13:29:19.746619+00:00",
+ "updated": "2026-11-08T22:09:47.960669+00:00",
  "tags": [
   "Patents",
   "Licensing & Deals",
@@ -12,8 +12,28 @@
  ],
  "items": [
   {
+   "title": "Neuromodulation Device: Types and FDA Class",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqRWtPQ2R1bXBndC0tX28td25yTzItaDlLa3picVJfN3VZdXNibkZSYlpYbndacWNzWG9LQUdGWGM1SzFRN2lOODNQZGU2VUc4c2pGdl9RY2U1Wmp0?oc=5",
+   "source": "CASRAI",
+   "snippet": "",
+   "date": "2026-11-08T16:41:29+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Grants Accelerated Approval to New Treatment for Head and Neck Squamous Cell Carcinoma",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMU01Q0lCYTVON1RRNmk4Nmh2SjVHd1pILTROSkw2VG5GbDJuc2tSWGhFMVozRElqOUo3S1ZmOUZwMGt4OUJRX0pKaXZDMFprMHkySnMwdDJnNjRlSl9GRkJTdUpZb0JjN0h6OWhvNjhiOHFCUmpnYUo1OWlRRjlhM1l1bFpzRkJzaGdrTVc2TGx3RTI0VDB1Qm9sZjlSS1ktRUtyWTNjUUVMdUJWcElQdjlnbkxUcjhYM25VNERNX3dzaFZObzBLWWx3SzNSV2FVVzhYMjZ30gHbAUFVX3lxTE1GRHJndlkzTDFHeElMbE5MeWIwemFYcjhqOHU5aDU0SHRvenFodDRVTVdBa3dKWXBuZXpfU2RvUWJwR0JjTXN6NG1kUWdyeG1tUVNsaUNnOWpqbkJzVlk3QnJxNTFZTlNhZkZmZnhZUG9HMXlOdzRGRUdyakdMaUU2a3F0bDBsVHlPUVNvVTZLZF9QbVBVWU51N0dvc240VW1aZzNTYkowb2ZmWHBXbUh1cHR3YldVZkZnYWptLUdiekhERG1IUFlGWDV4N1hjQU1STU9rN3ItT1BYYw?oc=5",
+   "source": "Medical Dialogues",
+   "snippet": "",
+   "date": "2026-11-08T14:45:52+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
    "title": "Pharma Industry Seeks CDSCO Clarity on Batch-Wise Solvent Clearance, Flags Risk of Medicine Supply...",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV2kzbjFkS1lQb0ViSk1rQXRhbUVXeXdJM2RPRUFaUFJrLURTUDZIQXlac1h4TDVqRU1XQUZGWmJSeFJIZWN4Vl9JUzVrY1VxSFRXTFFhNmdCdVM5MnlZbGRHRk54UUtXWlJjWjZZSEc2aDc0QmhBalRTMnY4R3ZoWWZKS0Exd0JtN2IzLWx1WjE0ck91NWFDNDExbDJDQlJLbGN2aUJVZElrU3ZwbDNfWWFVVlhrWjY1RVJjTnlMOXVVQUlRSjhDVVNGLVVZQmVoRy0xWFlBTkVaMEZ1UDY4eHRMczR0VnZQR25XV2RfWEZHa3ZfWWtCVlZBbkFGeUxZUzVENUMyWl9uSWpIenpLZtIBkAJBVV95cUxOV2kzbjFkS1lQb0ViSk1rQXRhbUVXeXdJM2RPRUFaUFJrLURTUDZIQXlac1h4TDVqRU1XQUZGWmJSeFJIZWN4Vl9JUzVrY1VxSFRXTFFhNmdCdVM5MnlZbGRHRk54UUtXWlJjWjZZSEc2aDc0QmhBalRTMnY4R3ZoWWZKS0Exd0JtN2IzLWx1WjE0ck91NWFDNDExbDJDQlJLbGN2aUJVZElrU3ZwbDNfWWFVVlhrWjY1RVJjTnlMOXVVQUlRSjhDVVNGLVVZQmVoRy0xWFlBTkVaMEZ1UDY4eHRMczR0VnZQR25XV2RfWEZHa3ZfWWtCVlZBbkFGeUxZUzVENUMyWl9uSWpIenpLZg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSnhDV21ZSzJYdlFHZ1hQTkc2RmtfNEdTT0FBdmNkMlg0bVhMV2ROcnpvYlFRWGtrSmV4YU94d0ZOUWFnalNnZDY4ZXVybWl2clZNWnVHdU83bS0tSEU1OURtOHJkcDJqZGpDQmQwUXZpYTRlRXIycTYwR1hBNVdpVGExUUJSQ1ZZZi1XTjlIdnQ0M2Z5Y3pHYzlYODdMd0IyaXd1QWZvTmR5YmE1cHV3d21FdTVmSTlDMHpOUDB6a3dUWlRtUF9Tem1lOGNIMWpIZHJrcExWTFR6Vm1pamxERXN5S09yOUJYOEkyYUQyamU1bWkweVFTME1DQWY0aXJodXJFMnpqU254clXSAZACQVVfeXFMTldpM24xZEtZUG9FYkpNa0F0YW1FV3l3STNkT0VBWlBSay1EU1A2SEF5WnNYeEw1akVNV0FGRlpiUnhSSGVjeFZfSVM1a2NVcUhUV0xRYTZnQnVTOTJ5WWxkR0ZOeFFLV1pSY1o2WUhHNmg3NEJoQWpUUzJ2OEd2aFlmSktBMXdCbTdiMy1sdVoxNHJPdTVhQzQxMWwyQ0JSS2xjdmlCVWRJa1N2cGwzX1lhVVZYa1o2NUVSY055TDl1VUFJUUo4Q1VTRi1VWUJlaEctMVhZQU5FWjBGdVA2OHh0THM0dFZ2UEduV1dkX1hGR2t2X1lrQlZWQW5BRnlMWVM1RDVDMlpfbklqSHp6S2Y?oc=5",
    "source": "Medical Dialogues",
    "snippet": "",
    "date": "2026-11-08T11:28:29+00:00",
@@ -23,13 +43,23 @@
    ]
   },
   {
-   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
+   "title": "Shaily Engineering Plastics secures USFDA, Canada nod for ShailyPen Neo",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc0Z2M0dmck9adml2RVFDdmJ1end0eEpScUhKeHJKSkIwNHRJVzBHekE0bG5QSkJzY2RGWEdjNERXNWNOR1ROLS1SX0VPT1VfTG04X3pueGkzZ2s4ZHdlN0hXLXhPeTY3LVBGUldtUlhLMTA0RHFWRllsRlE1MTZPWjdSVnAtNFdTQ001YjZrQVNIOTJlNWNjTjMwNzR6NXpXaG1PaHFzak9WUjRkSjJKVUVkSW5lWVhQdVd4cDdQMktFUkVIcDR1eWRmbGNYOGVNS2k5WVpwSFZtZWJRb2ZPZGFMUzRyckpz?oc=5",
+   "source": "scanx.trade",
    "snippet": "",
-   "date": "2026-11-08T10:54:20+00:00",
+   "date": "2026-11-08T04:39:59+00:00",
    "tags": [
     "Regulatory"
+   ]
+  },
+  {
+   "title": "- Pharmabiz.com",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRUtuQlZWQ2kyX1o3UFk5d1lNX0xaRlVORWg4X2VadlV0dElhcFpiazdiVkR2Ym1sYndnMzVsdHFRb1RURjJJTlNYNWNMZlpOeGNDMWNXVzZFMmNIZHpJVHh3?oc=5",
+   "source": "Google News: Indian pharma press",
+   "snippet": "",
+   "date": "2026-11-08T00:03:47+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -58,6 +88,16 @@
    "source": "Yahoo Finance",
    "snippet": "",
    "date": "2026-11-07T20:12:39+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "snippet": "",
+   "date": "2026-11-07T18:43:16+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -95,7 +135,7 @@
   },
   {
    "title": "Zydus' Pembrolizumab Trial: CDSCO Panel Seeks Protocol Changes",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0ZRX3FNbUN5UlMxUm95enpjMVhoYnhhNjhiZGMxazY1N3c0ZnJoN0dJYU9lcE9WZWpHYXBrbmx4UExpRjV3bjk4MDM1WnF0amNYU3BhNDMxbk1rYXc4Qzltc1Q3bWVPNi1kS2haOGs5eFZ3NkI4dUFwWU9JOW1VZkdLMWNQcDhrejdsSHJid1R3MjZ1OG90NTVfQkdkM1pUSGs3U19CMEtqaXZPY1hYaG9JQ0xUMGPSAbwBQVVfeXFMTXlXb1p0QjhEQUtEMlZmZXhIUUpjcm5BMWlUVEhpUkJIMWhfTlMtSVBjX1hIUHFXc2JUWmxtbU9oVFJPM0Q4OE4tRmlGUDQ5STJxb21ma0pHeDJ1eDhmaU9CbThfeHNiZ0ZBQW96TVVWWTR5SkZNX3NzeHNtYzZrZjFaQjFPdGhLNkNLR21mbGU0dTJzTGJtX2dld2hKUUx0U0I4RWJnWHE1RWR1WUM5Z1hUVHVoTUg4U1VRNHY?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVdvWnRCOERBS0QyVmZleEhRSmNybkExaVRUSGlSQkgxaF9OUy1JUGNfWEhQcVdzYlRabG1tT2hUUk8zRDg4Ti1GaUZQNDlJMnFvbWZrSkd4MnV4OGZpT0JtOF94c2JnRkFBb3pNVVZZNHlKRk1fc3N4c21jNmtmMVpCMU90aEs2Q0tHbWZsZTR1MnNMYm1fZ2V3aEpRTHRTQjhFYmdYcTVFZHVZQzlnWFRUdWhNSDhTVVE0dtIBvAFBVV95cUxNeVdvWnRCOERBS0QyVmZleEhRSmNybkExaVRUSGlSQkgxaF9OUy1JUGNfWEhQcVdzYlRabG1tT2hUUk8zRDg4Ti1GaUZQNDlJMnFvbWZrSkd4MnV4OGZpT0JtOF94c2JnRkFBb3pNVVZZNHlKRk1fc3N4c21jNmtmMVpCMU90aEs2Q0tHbWZsZTR1MnNMYm1fZ2V3aEpRTHRTQjhFYmdYcTVFZHVZQzlnWFRUdWhNSDhTVVE0dg?oc=5",
    "source": "Medical Dialogues",
    "snippet": "",
    "date": "2026-11-07T13:00:57+00:00",
@@ -753,6 +793,16 @@
    ]
   },
   {
+   "title": "India needs to shape future of pharmacy through competence, ethics & purposeful practice: Dr BG Nagavi",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1STVZZVFFHYkhqZWViaDUwemF4dUxTQ2hzUzBGbFBPVEJFNVUwT0xQbWFUbEREeTBPU0RJVDV1ckc2RkVjVDdSdHVlYk03QjBZWmhpTktnZ3VLTk85UVFObkdmYUZQS0JwbmRmcTlRSQ?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-11-06T09:14:27+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "Glenmark Pharma Q2 PAT stood at Rs. 2,638 million",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuTnA0OC1KeU5UWkxoVUFCSTRoRWkwUDVSTHdUVGhBMzU5dVlXRlQtem01VGhrZUxiNExGakJTMkVqRVFLR0xVYnRjUktKNVFaUXVydjkxYWtXcXB2cmhZRVk2aWQtbWZvcWhB?oc=5",
    "source": "Pharmabiz.com",
@@ -830,16 +880,6 @@
    "date": "2026-11-06T05:16:40+00:00",
    "tags": [
     "Regulatory"
-   ]
-  },
-  {
-   "title": "India needs to shape future of pharmacy through competence, ethics & purposeful practice: Dr BG Nagavi",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XMGZKZDlqOGh4S2FwLXY4WVlGOE83TUJEc2VIZUVTQnU2WGl2QW1SZEExOThUN3IwTUwxa0NMTml1R2w1eGF6eURFbE81Y0pLQXVtVUNPRGt1b1ZlMUZid1NGRUU1aExkcmlz?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-11-06T04:56:59+00:00",
-   "tags": [
-    "India"
    ]
   },
   {
@@ -1412,6 +1452,16 @@
    ]
   },
   {
+   "title": "Venomics AI raises $2.7 M to advance venom-based drug discovery",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1lYZklnRlQyaU1aanlNVDdxMndhQkRObzlGdno1UVMzY0JjdFJ3TEVibDRzeGVpTFhicklWaHdoSlFtaG5oWlNJMXNWYnRYRnBLNWlDcE1hQXA1aXMzcXdRcy1BOVVyZnF2cXpZVjU0QzFuVzdXNWtGT1lnOWtBd3JlM0NPckd5V2lISlFFUGgyN0FJVUNVb0RPUVlLaE5vSDhkelUyLWxUUmZNWUZGaTVFSEY?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-11-05T11:55:34+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Centre proposes immediate licence suspension for drug makers whose medicines fail critical quality tests",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUxiT0hENDJ6N1lKZmgwVkZqR3U1VGN0N0FidVpZMG1sMmpraG5Ba0NKSDBvQmhEWGY2VjFNMTE0aUN2bXhaRHc5czNXRVRiRFdOazNKNWF3cWxVV0dqcEhfdWNMR1Z4cXdmYjMwRmVObFNEZEtKY1hUb3AtT19UTE9lSDU1TW45eDROWllfS2RkR3hJNnRiVTBqMXFPQlRna2hna2c2R3RrMjItY3lmUEV0dm5vU2RxLUpKUGRLemRnRE4yc3FHenZkd1FrTGNWcmtPMQ?oc=5",
    "source": "The South First",
@@ -1643,16 +1693,6 @@
    ]
   },
   {
-   "title": "Venomics AI raises $2.7 M to advance venom-based drug discovery",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1lYZklnRlQyaU1aanlNVDdxMndhQkRObzlGdno1UVMzY0JjdFJ3TEVibDRzeGVpTFhicklWaHdoSlFtaG5oWlNJMXNWYnRYRnBLNWlDcE1hQXA1aXMzcXdRcy1BOVVyZnF2cXpZVjU0QzFuVzdXNWtGT1lnOWtBd3JlM0NPckd5V2lISlFFUGgyN0FJVUNVb0RPUVlLaE5vSDhkelUyLWxUUmZNWUZGaTVFSEY?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-11-05T06:32:43+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
    "title": "FDA Clears PearlBone for Bone Fracture Repair",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3VyUG9CMHhwNkZGMU1lMTZlWXVNYlVXYzBPN0Y1aEcwdTJpdFNUdFUzVno5RzFLRTNKXzlUUHlpYnR0RG1aa014UEZ3ZnJSQVBmUWhBZWRPdmE5SkxUV0hGeENWWHU2OTk1THE2VW0zV01DMlMtbHZ3Mk9oTVVraTlzalQzcm9n?oc=5",
    "source": "Mirage News",
@@ -1690,16 +1730,6 @@
    "date": "2026-11-05T06:00:00+00:00",
    "tags": [
     "Regulatory"
-   ]
-  },
-  {
-   "title": "Delhi HC issues notice on plea seeking time-bound safety review of acidity drug Ranitidine",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcEtkZFlJOFJmZ0J2NE1TdjNzeDN4akgwWHFRZzRrMjJtaEFZZk42WHV1bkoyNXNSQjA4TXpHQmVLVGR2QXdQT1VXY09sNnI4clBjcjc4cU1ydWI1WFFxSFFMU3FDdHZhNXUyN3V6c0RUOTFQaUpmbkt0enUwakFKWW5ySDdRcGdGYkpFWnJjQjNYXzhlMjhrTVlNV0x6Y0x6SlhOMm9BdEpBNTVCbFJ2WGFwUDloUVJnWUNqbklCd3FoajkwVGc?oc=5",
-   "source": "Bilkul Online",
-   "snippet": "",
-   "date": "2026-11-05T05:28:58+00:00",
-   "tags": [
-    "General"
    ]
   },
   {
@@ -2017,6 +2047,16 @@
    ]
   },
   {
+   "title": "Delhi HC Issues Notice On Plea Seeking Time-Bound Safety Review Of Acidity Drug Ranitidine",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaHdDbHdxUkFvcmlwb2VRNGo4bEU4NUpFZHIybTVYSGFhLVFWcGhpZFYyQmxIRWdjWnMwWkQ4cS1hZERBVWk3Qy0wUWtTcG1OWGJDcUtYLXNOc0tWQ2k2d3lQb2t2RmJIRFBYTUc3RGFjYTh3QWVHeG1ieUo1OWE2cGpQTGg4Zl90WUoxMlVRdXRyaEh5bTY4bWpkZ3l0RHhIbG1XbldlNnZCejZZRFRnUHNTakNiX3VxUVBhcW51TnA4Y2htdmQ0bDR4SnhzSDl5TmNUaVpSYm9PTnlYWFlrdHNwMkJTZTFCUlo1N1pYcDlEM01RMzR3RVlnNHdXaTR5dng5NTM1VWdHSXA4M3h4cmFNSQ?oc=5",
+   "source": "NDTV",
+   "snippet": "",
+   "date": "2026-11-04T18:28:18+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Charles River teams up with Ipsen to use virtual control groups in toxicology studies",
    "link": "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies",
    "source": "Fierce Biotech",
@@ -2024,6 +2064,16 @@
    "date": "2026-11-04T18:14:00+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "India proposes instant manufacturing licence suspension for drugs failing quality tests",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObHhQM3NpeW1MOFVBS2pjRzNZV2ZlbHVlemVyb00yMGhHcEZxUmw1UFYyNG04akpvbHFRelQydDhrb3JmWEppbXZtTzJ4TmltbmZxNXNqSEJYeDhmZzJwZUdSS1ZCb3ZzSzdDMHNoeVlMNzNuYU8tUUUzMFVSVG1XcXJFT0FOTnhaU3RhbXEtVEJVdnJsdGJIb01CMTFRajlhLWJyeEpOeFJDdmxaaTdSR2pEUGlHYURwZmVsRGJseFJlZHluMzc2YXlB?oc=5",
+   "source": "Reuters",
+   "snippet": "",
+   "date": "2026-11-04T17:29:44+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -3891,8 +3941,8 @@
   },
   {
    "title": "FDA approves generic version of HIV-prevention drug to be sold in low-income countries",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalFJRTBZQklldGNZaXFWMk14RXdRb1FyYnlGS0VjdnlrT2wyNXptTnF5bnJoR29nUG1VWThwbFdoMENjNjlreFBNU015c0cwQ21CRXFRU1lrbHRJNnpUTl9ic2NyYnVWOTlkdUYydXFJd1BHSllQTHZKeUs5ZnlBcWtOQ1JJQ00?oc=5",
-   "source": "WBAL-TV",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDZsTF9ZWjZQd3ctVnZfTFBBaFVNd2JpaldTQzdLaGxkbVJaUmx5UElFOTRLdmxENlV5UVNpRjFZM1JCeVQyS3dHVWRQU2pLRkhRbWtNYldtYjVVRHR5eHFZOHVmYlVuejdWOFdKclE3Q0owUk9hbkNzTkpQRjRWYS15WWE?oc=5",
+   "source": "KCRA",
    "snippet": "",
    "date": "2026-11-02T15:37:00+00:00",
    "tags": [
@@ -4330,6 +4380,16 @@
    "source": "Investing.com India",
    "snippet": "",
    "date": "2026-11-02T12:28:27+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Pace Life Sciences completes successful EMA GMP inspection at New Jersey facility",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qemtlT3psX2E3TXhfZ1p1RTBxRUdvMjg5bk5ZMWJJTXF4dzJVdmx6WmNnNXBpS0k0ZkVUWTBNTEVtcVdkczYxZ0tNaWFoai14OVk2bnREWHRHaTFsWnMwMnNOcTVlNERvaVhJ?oc=5",
+   "source": "Pharmabiz.com",
+   "snippet": "",
+   "date": "2026-11-02T12:11:33+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -5078,69 +5138,6 @@
    "tags": [
     "Regulatory",
     "Biotech"
-   ]
-  },
-  {
-   "title": "CDSCO orders Sun Pharma stop Assam plant eye drop operations",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTJMV3BISU8wQzRUZ0JTdm1Nb3prMThETHJRV2h6eUNfT25PclAySTRnRXlwQ0pxRkhONnBZNGFfNnpid25OQlQ2OTNjUWhPbmoyY2cwSmFCdm14NEVCUk0tQ0EwcUhNUllrcFUwbXNNYWpEVnpNblp5RlVZbmhyeUZPNEJ2UmNpai0yb0hxa3BqZUJ4MlBaQUoxUlNtV0pNS0lfYXVlclA?oc=5",
-   "source": "NewsBytes",
-   "snippet": "",
-   "date": "2026-10-31T16:59:13+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
-   "title": "Mestastop takes CDSCO-approved anti-metastasis candidate to US FDA, launching Phase 2 IND application",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaVJ4VEkxZU96VHphai1IME5NSVloR0pSZHRYZ3FSRHR0d2pscXFEeF9YX25rcHJaMzZ0WU1IV3RVMDhONV9HTzI3aG9faE40Ry1xUFRhRzZMaExJYlI2UU5CS2lvam5BcGtDM0NrWEVVWFhSNENkd1Y2WUNvM1ptaTIwQ1J1RlZPTWVPd2JwdUxqNFJoSktORVhMYzhFX2RydFhfcG5zaTBxRXFfX3F2Rzhpams1b3paWVYzdEZZeEhZNGZuaVYxTHFOR2FuN2tMN2toclZlZWZIRVVDU3VKOXQ3eDQ5Y2ha?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-31T13:41:46+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
-   "title": "Inovio Pharmaceuticals Surges After VOCERYQ Wins FDA Approval",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNG9QNXBETDJZTEtHYTM4Z3plaXB1U1d2Q2s4YXYyak54V1QyeFZCVjd4ZWUtMjNqTXVNMUpvNFpaWno5T3hUdFZtWS1GMjBIcm1BSXZ3V3dmSTVCaXZORFZEMDlNUVkwNTgxZjN6Uzd2cm1maDJydEc3Vk1zTWhTR2V3?oc=5",
-   "source": "StocksToTrade",
-   "snippet": "",
-   "date": "2026-10-31T13:38:00+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "CDSCO Orders Sun Pharma to Stop Production of Ophthalmic Drugs Including Lotepred, Nepalact",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWZZaTkxWEdaSkJVeDlJaTZQakdBZHVOd01QN0xhUWxsX3RzLTVhaUpTWE04R2JWdmp1QjhNYTBlNDZERERES2VvbW5Qd2RfVDl1YjZWQnVObTZjclQ0MVg0bEJSYlp1WUFZNEpfVUxqLUNpMzRhTkdjbjU1WEQtR1gtdlhCc0hSc2R2X3R4ZXhaMWJaTXdYdG5yXzNVUTRJc1ZWQVpUamJ6WWxkdGFFQUJSRjRicEZ4UTBXQm95Rm1HeERfWkVSVmVLWjFmWWFDRXZXODcwSnV6RXdzaEpZ0gHkAUFVX3lxTE1Cb1A0UmJVcm4xQ0E3ZFZiMHJzQXZDN1hSUDZtYTY2a2ZIa0tCNVNUOUpNaHl2ZGpyOHNObjZWQVZXemlpMy1KQ0pxVF96TFp2YlNkUm1fRGpZYVBYSUY2X0I3X2NqbUNxMlZhcHJSX3JIYlQ2eGtKVDVIOW1lVzNmRnhqcFdBbkwwZk1RYVFIZUpxbTZyR2tCU0x6MW00MXFSejRHVFEtbDMyMTM1U29MdldjdlRRR3ljUl9aYzNKUG5UWHdGQW1XY19kV0tweXRjcFlqU0xDdzU0Vy05V0RDVWdMYQ?oc=5",
-   "source": "Medical Dialogues",
-   "snippet": "",
-   "date": "2026-10-31T12:38:28+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
-   "title": "US FDA approves Instylla’s Embrace Hydrogel Embolic System for peripheral arterial bleeds",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xRlBTNk9TcG5VSnVEbkY2UUFDX3N4Wkt1elpzY0VxVGFzSHpXeXZJam8tZHEtSGhfRkx6Y3l5dmRYeTNHVTRrcHgyV1dTSzdwXzlWYXpTWDd3U1ZlTDJHVkRPZzVfLUZOTWZn?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-10-31T12:30:47+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Pretzel Therapeutics receives UK MHRA authorization to advance PX578 into clinical development in patients to treat POLG-mediated primary mitochondrial disorders",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54NFJaYkJfVm9LVlJZNGc4cEZCMWFJamNaR29MN05URFRzZDVSbWlLT3RWODVKYmJxR2JmVkpVekg3U2pKS2hzQmlreGRWOVJONml4aUQ3QVp6ZUNXQUVYNmptM1dLc1Rnb3lV?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-10-31T11:30:47+00:00",
-   "tags": [
-    "General"
    ]
   }
  ]
