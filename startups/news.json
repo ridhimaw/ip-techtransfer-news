@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-11-09T06:40:12.388695+00:00",
+ "updated": "2026-11-09T22:24:49.555642+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,11 +12,93 @@
  ],
  "items": [
   {
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "source": "TechCrunch Startups",
+   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+   "date": "2026-11-09T19:21:46+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "DOST chief cites biz support via Startup Grant Fund Program By Cristina Arayata MANILA – Department of Science and Technology (DOST) Secretary Renato Solidum Jr. on Monday touted the agency's support to Filipino startups via the Startup Grant Fund (S",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGlydHFXaUk3R3lJQ0hibEQydUljTDA5UFNmNWw3VGIwbmpEOXZ2am13SXpDRHYweHpWZnN0ZjNjVFNRRGtUajVZb2hVMVRRNnI2eVh6VXlrOUpQTGhaaTJERFRjUXRKTVZoVGFwMndXc1hYRDJ6ZW1oVVdvYjBQQk1henNhRUpnRktxbmt2bXFDWVUxYk5iSmRhZkpJUkJncm91TXlicndicG5vVjU3cmd2WlViXzRicDcta0ZWSmYtM20xZVhvYTVoOExuWkM1ZGNZNQ?oc=5",
+   "source": "Facebook",
+   "snippet": "",
+   "date": "2026-11-09T14:30:42+00:00",
+   "tags": [
+    "Incubators & Programs"
+   ]
+  },
+  {
+   "title": "Who is Harris Ahmed? Meet the Pakistani AI startup founder whose RLabs won an award in Silicon Valley",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcXpVVDVFNGZsRDRqS1piV3M3dlVaWHFpV1RpZGVieExjZzcyeXdWM0ZqbjdTZXU4MnQ3RHRXZFFyWWwwQkVKNUEwNE5BOWphQnprTHlzb25BbzQ3YTFsTzZ1VE9Sc1NsMk5qTW5qb0pHZFJCcDJDVC0xb3JmMVhxdXRrTmVpNTlUZk1mY2xjcS1kdjlMZ1dLSThpeXE0ZjM1eFY1VkRfZWhXRE5pVnAtZElQeEFfX2JjYkZ6LUkwdUVsLVN3eGZKaTNDLU9teUVxSVRwZDBxeFN1QnlzNzFtNTJ1dTJEcEV2eG9YM1dXWHdHdw?oc=5",
+   "source": "Livemint",
+   "snippet": "",
+   "date": "2026-11-09T12:38:52+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
+   "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+   "source": "Crunchbase News",
+   "snippet": "More money is pouring into Series A rounds, but it isn’t opening the door to more startups. U.S. companies have raised $42 billion at that stage this year through October, up roughly 60% year over year, while deal…",
+   "date": "2026-11-09T12:00:51+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
+   "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+   "source": "Crunchbase News",
+   "snippet": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather…",
+   "date": "2026-11-09T12:00:32+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Dulo Raises $130M Seed Round to Develop AI Models for Engineering, Hardware Design",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGd4QTZ5NWc2ZU5EUElETTNKOVdFWDA3V3RvcmtpT1MwSmE3QzBiYVFkWVNzdkVMU3Rxc3UxMVdrWmxHUlpUTUYyNmZkWmUzbG93OUJObHZYc0FIY09LRTltcFBoUW41eldRZ3l5R21yT0pQalVTU3FWOXRrWWV4UDEwWkxRRUptbWh0c2VNWmRrV1NNeXlUNE8takxObk1ZdjdUZ0RaZURFajdaU0F0RFdEREUxY3RjOHhZ?oc=5",
+   "source": "citybiz",
+   "snippet": "",
+   "date": "2026-11-09T11:13:55+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Korea+ai+startup+rebellions",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0JQUU5SYlBlZmprbHg4RzVqYzNpSFBzY0RkRVZoWGIzMHgyMlg0ZTJSOHhFQXZDR1ZzVDBoX1FUYmw0LUZPR0xCN3V6Y1ZieXloVFh1cnZOTlhUeHNveUhtbFpaNjNGZXhpZklSSF82SW5vRXg0YWlwS0YxTzJzRUxCZ2pwQVk?oc=5",
+   "source": "electronics.economictimes.indiatimes.com",
+   "snippet": "",
+   "date": "2026-11-09T06:55:12+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Philippine Startup Week 2026 Opens In Quezon City",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkYteVgxWlBWS3pPOXUyQmM4djg3Qng5ejctSHNmNWUwWGJrV3d3S0dNZ2R3cmE3aGVEY044SndpSmlFNTJkRXJTNEhDOGwySV93U3RtMGJtVzhhMkNabG1vMFVtYmJiM05pM0JwdnZQVndMZjZ0NzBfZEREYWlLVU1NSllzWEVuOERZcXlQckktUXBsQjhDMlU1SVJTelJSRmRLT3ZjRQ?oc=5",
+   "source": "Passionate In Marketing",
+   "snippet": "",
+   "date": "2026-11-09T05:46:14+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "UCL spinouts looking to raise",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WZ3pWczhyaXVxSmdFWHlVLTJpTUxHZ0x1TUw1ZEJaVzlSZE1wX2dSM1ROVDVDYXBCMlBERVdXTHJ4UnNZYmdpd3M2NUdSbWRUMElURE5scW4tVjBfZ2JjYV9oZTFKNlE?oc=5",
    "source": "Sifted",
    "snippet": "",
-   "date": "2026-11-09T05:00:48+00:00",
+   "date": "2026-11-09T05:01:22+00:00",
    "tags": [
     "Spin-offs"
    ]
@@ -228,7 +310,7 @@
   },
   {
    "title": "Office of the Principal Scientific Adviser and DPIIT Launches API Integration between Startup India and I-STEM Portals to Strengthen Access to National Research Infrastructure",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfYjJuYzRRa0ZmNjNqaGlyM2tlajliRUdlb2dXTUZVR2ZpbnZKbnlJX1lqY1ZzOEpxMHNwWS0xLVp4bnNVV01ORnViWDRpb1E4V3dVRUFObW1xbXg1TUprWEZkZ05sUm10OUtrWG9SeUlrWGVhMURLd1EwZ0s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YUHdCanpST2cyMGtGY3NqR1kxeUFrVXB2alI0NHBvS3JDQS14S0ZLT3FSZ0hhTWVXRWFfQTlfUDExblQtaVhSVnZ0dUhQeFRXNGFfM2NZS0lidzVNT0xwd3hzYTBnZ0pkV3MtaHJEY2NoVENVX1o0NnNR?oc=5",
    "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-06T13:09:00+00:00",
@@ -366,6 +448,16 @@
    ]
   },
   {
+   "title": "Latest CR8 AI news and analysis from startup Europe",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DVXZVaTBTMkJzRFhjZmlUUWxBdzRwX2JXdmtIT1R4QW8zUkdobTJFamd3R1NDX3dpZ2hVbHRQUmJtQQ?oc=5",
+   "source": "Sifted",
+   "snippet": "",
+   "date": "2026-11-06T06:00:55+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
    "title": "The 12 startups most in demand from Onstage's W26 cohort",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQXk2NnRVaVo2RnV2NDlZRnRMbE5ULXduOXo1dU5BS3paazZPRmlBV3V3SlZ0c0hJVEMteVNTRjZwd180TmZNenFpTXBJUDRlZ1VVR29ncDFSZw?oc=5",
    "source": "Sifted",
@@ -417,6 +509,16 @@
    "date": "2026-11-05T20:12:00+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "Tech News | Startup News | Funding | IT | Crypto",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEl2dDhjblFwV2JEN24yNkxXN29WSGQwRjVSUHVHVlZoR3ZNUUFDQzRhNXloMkVrbWZYajM5WlFaX3FxZ2xjS3ZsZmp1SFA0QUtSRmtXdVdHSXFmdWRNZHlYd2JaMm5FY05JVFk5cmpRaFhidDAzRGtlSnlGUkRIcTJsTDIxUXk2dGY0Zm95RmNPekpUWmp4djFkeWtKRHpoQXdYSHkyM1otc1ZmbGxndncyM0U3QQ?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-11-05T19:03:39+00:00",
+   "tags": [
+    "Funding"
    ]
   },
   {
@@ -1159,16 +1261,6 @@
    "date": "2026-11-04T01:59:00+00:00",
    "tags": [
     "Deep Tech"
-   ]
-  },
-  {
-   "title": "Tech News | Startup News | Funding | IT | Crypto",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnl0aTEwWFY0Z3g4UDNGTnVIZVZYdFpxWDdNLS1aV3htNWI5VjVXbU05clVNTTJTTV96UERxSk5jYmY2MlZZN0d6UDdDa241WkI1dXJPc1RsRUVZc29Fb3FjUVlhOWZvZFFVN1pJRDRRT2pLaTdLWXdMQ2h0bmxoUTdYUW1SMzV6cTc4Nk1EcDUxWk04bF9odQ?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-11-04T01:46:02+00:00",
-   "tags": [
-    "Funding"
    ]
   },
   {
@@ -5140,101 +5232,6 @@
    "tags": [
     "Funding",
     "Deep Tech"
-   ]
-  },
-  {
-   "title": "Physical AI vision company Nova Spectral AI raises Rs 21.15 Cr led by Shastra VC",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0RHbmZBZGRzcW9KMWJaOVFfdzRkcEpyVUg4T3ZlQU9QdDExSDRaZFFPNWVOS0t5REQ5Z0UwNWxESEhnMkZvMVBBZG15dFo2anI1MFZEWjM5S0pDWHVDUVE0OUhvTHZxOVQ1SzdxY3FuTHhYZHBHWjdvb2NjWG43dVluTVFjSjByWnBtek1ILTR3cHhHc2VKX3hCZ1pIamk1NEYydzdFNnlnQjFmekgwQUc2UFpGN2VST1HSAboBQVVfeXFMT3dER25mQWRkc3FvSjFiWjlRX3c0ZHBKclVIOE92ZUFPUHQxMUg0WmRRTzVlTktLeUREOWdFMDVsREhIZzJGbzFQQWRteXRaNmpyNTBWRFozOUtKQ1h1Q1FRNDlIb0x2cTlUNUs3cWNxbkx4WGRwR1o3b29jY1huN3VZbk1RY0owclpwbXpNSC00d3B4R3NlSl94QmdaSGppNTRGMnc3RTZ5Z0IxZnpIMEFHNlBaRjdlUk9R?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-27T06:10:44+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Practo founder’s Cent raises $15 million from Blume Ventures, South Park Commons",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSmFxOXZybDdwWFR4a2VwakctOHg0T25Oc3MzR2NUb3FVZTNmYzVpejZXX05jeVZFOWdjRTF1ZUkzZUxwNnVZR2FuRnNpRVJaVEZqY3hqRDV2NGYteEFFWGl6cjczV1U2dFlXOFZBT2VFR1lDczBwTS1kdnh3V2lGSGpPcFJDWlMycW1qbXNGRjdfSlpVejlwRjE4ejFEbzVHWVlnbzJYUVBtZmt4dTVVYjBUVU9uN1ZtM3FzdVRCVXItckJMb084UEYzV3dWN1ZqczhMWFhoeTVSVnJFakowTk5kLWliVnl40gHiAUFVX3lxTE5IOTRBUE1FVG15cGxjUlFtMk9rOV9iMTNNLWFLYmJINC1aS0I3OTBlWDhLbnRrMHdVY0w3aE5XQXEyTmgzR05aRUI0QV8xTHJiZVptQTJJeDRWSHdiQy1WMHV1T185QmdyRFdjQXI0ZTQzZUhCUTVnVWtqSWV3UllHc2Z5TjRXVlRXY01vNExmbDRQYkxxcng5eFl1RmF4eHl0OGFTbFpRZ3FWLUpXdlNxeGoyWkxNMFhTLUQxUmtUeldENGtheWhJVTgwMjBrUkZ3X0pLM3hyOHk4OEZoVGZtM1E?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-27T05:41:45+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Anthropic IPO could set valuation benchmark for Indian AI startups and unlock global capital, VCs say",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeVZRdnNOZ3Y2LV9ZaXJDeTA4TnlYMGtYY3VzMXZmbVZQc3dqS21DR0JCRFJSVmJBSWd2VGRBekpXN0ZyaVpxWGdkbHVjS0pGakxJanM3eC1WQXQ2dDJSVnpiTC1weGxlZUJoMERLZUViZzB5a2dVWmFDYzVPbFFISXZhS1k3anZ2TmxvaFdYYTFqc29KdFRnWHp2azFicTk1VkoxVjJxR1g3OWxDbHFsN3NncFJkV1pNUUdJWk12UXh2bzBSVHNXdzJWSHZybnJ4WEFMZzNDd2hPWmFSS3pYRHIyd0xWX1FQZW1BdHRYNTZJdW5adkpTVNIB_gFBVV95cUxONVdmVktKLTRjR1JzeHNHekVob2wxdldqdTliTUZ0VFZaWnM0MVNtNGIyOTNfOUU1NFgyUWkycjh1b1p5bFJjLXBSZ3RTLTh0cy1SOTBxS3ZSMkpwVDVDN2ZZRHN2cUhYXzVYWFBjc3JmeERGUk5qUkJQZU5rSlN1eTQ5ZHNOLXp0NnBieklpSW1TZFE3ZTlrRmpuazJCcjFDOWRCQkNtbFpZQmViN2hSNy1Cc3MzaHRhcHh6MEJxWDFockhsblV2RmJyRUpBNGRwVXlva2pOUDI1bHp1SEpySjNiZWhXcmtLOEEyREh5MjVUYXFyNjBGek1iMGRHUQ?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-27T05:37:40+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Physical AI needs strict safety boundaries and interpretability: TorqueAGI founder Ashutosh Saxena",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNc0Jtb3RRUmhzdndhLVdKSkplVFJHWEw4U1ZTMVBER1FfdEFyS3kzMHAwMlpBVUtVZDRSTUdKXzlzTmk4WllUUldOQnVhMHRGMjVleHYwQjBFOGpUZ1FNREtwMi1nQWNRMUF0cldXNVR0TTlDbE8yczBHdnZCcjBlM21Bc0hLbmVyMFVOV1FvQ210elJqc0R1RFhpTVF1cU9iWUtvZWZKLTZtQU9aQVFibTBWQ1Z2TWtVaUVWYVVfTzE3WnN1c2VpTndYYTFKNnI5eVhlRWhwSHZ5V3NLdjJzNkZGRjkwM0ZvT1BMRHYyRFBvSHZXYVh2WjNEMUp5Y015SGJlTkFFb29oSWlOUWtMMVkwY0R2R1pi0gGSAkFVX3lxTE02Y2NvMVhOVEdVc1c5ZUhTajNnSUVlWUpaaUY5X1lIaDk2cEFnUEZUcXhDcGJLNll3d2JuN1NRT3ZwWlRLRUNucjZ5UTE0a3RYMUNPRHJMdEtOTlJMVEZiUGEtaTYzblRVc3B2WEtiNUhXMzJ2V1dkUXVEWXF5YzU3c204M1VTeEQyTWZFQ1pjQk5TU0kxbWdmaG9SUGRZSm0xeXpQWUZ3SjRTLXJwWDZzdUZ5aGR6dS1GOHlEbjJFdFNOX3RCbVRHTGFEMkxoS242aXgxYVJpRDNqRjVJc0RJOGZ0NEpOcy03aDB4b0V2ZktWWjF5ZllacEVfNm95M2dpeTF0MDFGbmVhQ3lidHlsbUE?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-27T05:04:26+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Indian startups can redefine how we fly, says aviation minister Rammohan Naidu after meeting indigenous eV",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNEs4VHAwbFd2cDFlNEVVVlBKR2tOSk9UN0dKM3lGZUtvX3Z1Z2FGbEZXa3d1TmZmZHRKMzBuZTdTeV84bWFDaEVacVI4R1pzVVpnTjEweVRQUVZNYWdQdnFiSkIzN0FwMUJJZVA2dEZsRnZib3BjSGIxT2dYa1pBWTZyUjI2UUYzTnlLQjB6bXlMRmRoM1FmWGcxRXowWE1maVlqdUJlYm1CQzhVQklILU1PTHJXejdRUjlXeWo1TFVUYnhLYTJxRGpCWGQxbU4xUVNBX01yYm5YVkN4SXlVSXAwUDB4NjJqZ29vSWsyY3RoVEdzR3JFOTM2bld2NnJqUnNzaFloM1dmbXpSOWlWbEVKYi10Vzg3bXZ1ZFJGQU5YT0tuVTVlQlF1b0xXaTDSAagCQVVfeXFMTXJuWl9CU09CSDR2WHdYd2tyaVNHZW93Y3R0SHNnV2JyQzFMWjQzTnhzYmF3VEs5dFltTXM4SVYxck11VlRTM2ZUQTVyNVdkRkxuXzllakZuOHRtaGw1UlBvODJoYUstQ0p6U1FLeWxidGMtaUhYbWJWaEdxdDV6cUx5UFlkbmlfSDc3bnQtY3YxeU1MR2JGd1ZwYmVKZVczaS1MaEtQRVJ5M3BQZ1dFUmJLNWNsZ2IzbW9NN3Q1ZnRodFdEaVhHaHZpbTFoUkNVUTJiY3B3ZW5UMFpCQTlrR2lSWEhNMlFmeWd5UjhyQ3o4QU9ocmduZWVTZ2E2ZVpZWmQ3Z2V2QlJWZ1UtMFI5NUdRNkZ0RTRRd2hFNlNqdW9oYlJZNHRXWEY?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-27T04:34:36+00:00",
-   "tags": [
-    "Deep Tech",
-    "India"
-   ]
-  },
-  {
-   "title": "Is the AI boom real or a bubble? Nikhil Kamath asks Silicon Valley founders",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTV2LTdzdGFYYjFTUENmSDhSellldkRWNUxscHVsRFkwbG5sRDdVMzlZb0JoVG45d05SdFpXQWQ2ZWxWc005UTZKRXlCQTF1cFgwMlNFV29TbE54VVg2c3ZFZVVNeXJsT3R2RVY1VEdHdkFDUWhtejZ3bk5Nc1dMV1VMNF9rY1ZRSmhiOVNVbkFSLVN4dDU5N2ZrVTBPa1NGbXhQYWNZV3lJZFN0UXRFbWVfa2VGMC1mWWZKRG1LQmJQUFVkWUFtWndSc2ZFRTdGR2hPdXVCSXBnZnFHdlM1R3V2NExqUjJMN1HSAeMBQVVfeXFMTlcxd1RiRlV1ZUVSYVVYbFBUY2R3RU5jUV96Y2tidEpEUzB3RVhsV1VNN1V0NnBNMUpYZXhId3hyZFBZWmxWMDFWblF6ZzYyMFNkRnk1X3N2aFNUXzdSNXJETHVQYXU5aXNtVi1vZFZuRTRUQ1NRVXhFOXlSekxvMGlWcl9hTWdPajVYc1VzVkVkOTh0NER5UTc0M05GMU5YaXIzV3c5dVYzQ0lmT3RnM0Jrek9ZRjdLS1ZZc1BXSlBaZm8tUDZKWl9wUDk3NkNybzF0c3JhdTBvSEM2cWd0VkdZejQ?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-27T04:24:35+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Trading platform Mochatrade raises $5.5 Mn in seed round led by CoinFund",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelVETDBqOFU2ejR2WTdaMVVEM1JIaHFvZGxHd2MwdGpSVEROWjgtNFNLaTREckhodTFaVFJPU2RWOHNldm1kS1FrbXB5SkpNS1BsbVFEZTRLejdxN3IxYm9KYTVaNnB0akV6WnNrUmRCRy1hek5iY29QRllCMVpnMklsV2JVVGpMNUg3UWNhLTNETXhyWjRkNFVJbm5pc09VSnVhTkdNRXBDNkJYUFHSAa4BQVVfeXFMTnpVREwwajhVNno0dlk3WjFVRDNSSGhxb2RsR3djMHRqUlRETlo4LTRTS2k0RHJIaHUxWlRST1NkVjhzZXZtZEtRa21weUpKTUtQbG1RRGU0S3o3cTdyMWJvSmE1WjZwdGpFelpza1JkQkctYXpOYmNvUEZZQjFaZzJJbFdiVVRqTDVIN1FjYS0zRE14clo0ZDRVSW5uaXNPVUp1YU5HTUVwQzZCWFBR?oc=5",
-   "source": "Entrackr",
-   "snippet": "",
-   "date": "2026-10-27T04:20:01+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Intel to acquire startup Classiq in quantum computing push",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDRhby1rUmNScXY4LWJDREMxUzBOQWdkQXMwZmxxTFNDalY1em1zRDVMN2xxd0FfbTFfbVoyU3pCMDNZX1c4cUJiSy1EQndLdjBhNXlPa2Fsc09KSXJJbFJtLXZ3RlU0djR1eUE0QkhBU0hLcXJ3MmY4QWViSWM2YnBSR3hJcUhLVzVsOUZGS2tUUFpaT1dKcXRla1FDSlVmUUNPVWZSdl9wMlVHQlY0dGN3Tk52Z9IBuwFBVV95cUxQaFZ5eUxHN1ZCZmFyNTZOazBESDBfU3B6cUc1Zng3NUREYW8yXzJSd2tpbEYwZkx0dGZNMUhDSnVUTXk5NjNkWEpPelRTM01JZnNmRGNGaHg0dFVlZkZORlZrb3AyeHpJTmk4RFBFS2RXcWhVSmZnOC1QOENPREg2U1k4NHVtOVFfbU9WekxTZkl5TXp1S3BNZFp0TWRELTRGT2RiMWNkV2lvVnZCU3RNLVA5TGVreWpvdXNF?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-27T02:25:17+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield",
-   "link": "https://inc42.com/buzz/protectt-ai-to-acquire-controlling-stake-in-boschs-aishield/",
-   "source": "Inc42",
-   "snippet": "AI-native cybersecurity startup Protectt.ai plans to acquire a controlling stake in AIShield, an AI security platform incubated within Bosch Global…",
-   "date": "2026-10-27T00:30:38+00:00",
-   "tags": [
-    "Deep Tech",
-    "Incubators & Programs"
    ]
   }
  ]
