@@ -1,7 +1,7 @@
 {
  "title": "IP & Tech Transfer Pulse",
  "tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
- "updated": "2026-11-08T22:09:45.601094+00:00",
+ "updated": "2026-11-09T06:40:07.412142+00:00",
  "tags": [
   "Patents",
   "Licensing",
@@ -12,11 +12,22 @@
  ],
  "items": [
   {
+   "title": "Australian Federal Court finds biosimilar etanercept manufacturing processes do not infringe Pfizer's ENBREL process patent",
+   "link": "http://ipkitten.blogspot.com/2026/11/australian-federal-court-finds.html",
+   "source": "IPKat",
+   "snippet": "The Federal Court of Australia recently found that a patent relating to the manufacturing process for Pfizer's ENBREL (etanercept) product was not infringed by the Respondents' involvement in manufacturing the…",
+   "date": "2026-11-09T03:20:56.450000+00:00",
+   "tags": [
+    "Patents",
+    "Policy"
+   ]
+  },
+  {
    "title": "PIER Pressure: What Applicants Need to Know About the USPTO’s PIER Pilot Program",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjc1M3ZZUXU4amgwMHN0SzAzZEpubjg2dDVBTTk1VmI5dmt3cy1jM1haSmpOVlN1NmRSekhaVjN6RzNlNUNBQWJud3NuRmJsSldmci0yajVjdjhVdWY5OHJZWW5RRzYtWVItckFyUENhY3l5RG5WYkRkcjlqSFRxRjNFajdNcTE2X2RIY1NqbkFfWVBIcWtPOEpBLWVSNDZtcmFzOUFaeHg5MjFXNkIxR2kxMA?oc=5",
    "source": "IPWatchdog",
    "snippet": "",
-   "date": "2026-11-08T17:15:29+00:00",
+   "date": "2026-11-08T17:31:52+00:00",
    "tags": [
     "Patents"
    ]
@@ -220,8 +231,8 @@
   },
   {
    "title": "WaveX Invites Startups to Participate in WAVES Bazaar at IFFI Goa 2026",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwdnJ1dC1KWkRRd2dRTUdVTm5vTXdLUmkwN0tMcHktSU52VGVHYmNyaHNSZlFlYzlUWGd3bVFUMTAxdHpheUE2cDZlcDRjbWNYWkRfUDJjcFJDSl9rZExPUkRUeGVHSWRxaWNF?oc=5",
-   "source": "pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RXcySFdnWTJkY01yVzBnUlNwTXUtWHcxTGhsa0ZkTXBob0FVRGEtNjNkek5jSnhJdzd1WjItTEV2QXNKS0phb1VPTWx5RldkSGo5aXc4RDNGcXBXS0pNSUtPQklIOVBI?oc=5",
+   "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-07T06:23:00+00:00",
    "tags": [
@@ -435,8 +446,8 @@
   },
   {
    "title": "Office of the Principal Scientific Adviser and DPIIT Launches API Integration between Startup India and I-STEM Portals to Strengthen Access to National Research Infrastructure",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zVC1tY2Z1Vi1IdDFtY25SRWs5RWdwMUo3RmNsUlZKQWpoZlBaa2NmX0ZsM3lpdTBIcVZPZmxRSHZ2bVdFU2otUG1sRjU5a1gwcFpmRjYwTGFpQlhrd0FhQ3dHc0NyZktzQVcxNkZ6YmRxcDBaOVAxSTlMMVJZdw?oc=5",
-   "source": "pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WR0hNRjluNi1jNzJ0X013b2NZWl85Yk5hYURRSDdzczJjQ3NEWDlQY1pfN1k2azFLaDVIdmFYTk9BYnVpWDQ5M0Q0bTVlTF9FTU52bjdPTnZ6aFNkZVE4QlQyNW9zeFd4?oc=5",
+   "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-06T13:09:00+00:00",
    "tags": [
@@ -476,8 +487,8 @@
   },
   {
    "title": "Department of Scientific and Industrial Research achieved 100% targets under Special Campaign 6",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZnlNR0RNOEhkREdGOWt2NUZJeHVIOE5SWFdDUXhfVlN1al9DclNxTHFPOEpQcTRWNjc4bGxHMzd5RHNZeDdNbWVDUTFGLUJ5X0dETUZwVDhCZ25ubUhpbExkMzhpVXkyNGF3?oc=5",
-   "source": "pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lMHFzSFlxVF9abzJGQjBkZ0doV1VlOWw3QUN3d01iWTVHX1VRcDRWdE9KcVpNb0xwb2hNMjRhWENCUkxiNXdvUWJ6VXEyZDgtUE1nRWNodVZCRVkzVEFJd0MwLXFPZE1YMDZn?oc=5",
+   "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-06T09:18:00+00:00",
    "tags": [
@@ -703,7 +714,7 @@
   },
   {
    "title": "International Prosthetist and Orthotist Day 2026 Celebrated in New Delhi; Focus on Innovation, Accessibility and Global Opportunities",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1YkhMU0hvc1JBbzhOUVVoTFh0a0tXMnY4SlRVLUtEOUE2N0o1eUQ2RjVsMkNHSDVnM3JFOTFKVENidnkzazFkaFZLeWl5MXA0NnQyWXVKWFVpczdudWgyUlpDRnBDMjJTMjQw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVoMzgwT2FDeFdwTm5HNFI4cnlObHJ3RkxKLVRyUVZEY2FNY2ZwMEsyY2kxRTB6WVVydG5jTllNT3o3OWFmcHJiTFRmcDJEZ0Qtc09ZZkNJWDhkcWFYTHpBaHAzMlFINm56MmJpMGx5eTNSWVl4YnE5QmZ0RWl1dUg5OA?oc=5",
    "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-05T16:47:00+00:00",
@@ -815,8 +826,8 @@
   },
   {
    "title": "TwinStrand Biosciences Announces USPTO Confirmation of Patentability of Core Duplex Sequencing Patent",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYXgzdWZyc0poUk12M0w2RHdlYlZISG9Vd2laMU9JMUtINng3dXExMjZudWU0MlZlTW9BbmYyemplOXN1ZURsR05oZGFvWS1NNHVmb0M4Y2NRemdLYWluU243ZkJHd3Z5Mmhrb3NJb2hEZXRINkJFSXd0bTJsS1JDYWVqZTQzT29ZUGtfdmJzbHdkTWJpdk8ybkNUdUU5Vnc2X0sxN0Nja1owSnFyY3JhbHR4dzRYZEVhbHNSYTVOamNjRXNWdGFoTDE1eXZ1N0NEdmdydzBoT3F4dC16U2k3dTFVcV8yaXdLTl9wWThaOA?oc=5",
-   "source": "Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnlnYzZlNkE3V1pVUnNEQjk0cVNSdHNGMUZqQVZtNkpCWmh6dy1JakRtMU5hNC1xZU43dE9KZk10TEx3Ukx0ZUdXWF9EanN0M2t6S24yRDdOeEhmUDY5d2c5Y3RGSWRCVlAyU1JWRmltQlZvQmdjd1BoeVM1R1hYWF9INlhadHY2YUlEcnVJcFdzNTZ3M2JLRGIwUTdHWDNremlHd05fbjZWd1RpRmhYRnFn?oc=5",
+   "source": "Yahoo Finance",
    "snippet": "",
    "date": "2026-11-05T12:30:00+00:00",
    "tags": [
@@ -1399,8 +1410,8 @@
   },
   {
    "title": "China and WIPO sign memorandum to boost cooperation on AI, copyright, and cultural heritage protection",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDVNSnY1WDV0cUhhOGdncTBQWmlzWTNZWUE5NG9IZi1tOVA2N0NPX09abnc3NkFpWG1XNlVWUnRmMVJIcFhRVW5tRWoyVE9DQWIxRU94bjZnS1NORjBFdzRLQXA1RmxkNFdqaE5Ba29pNlp0ZWEyYTZUTzhvOXRXcnBB?oc=5",
-   "source": "China Daily Global Edition",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSLVM0cGJkeFhEMXNUempEMDA5cTNENXgzTGtkamY4Y0FFVVQyS3pVaHN6ME1rYXo4YXFGVHBhSU15aHI4aFpqUmxHZllpd3VlMkZ1RWRkeWZVckRpY2FyZmQ3R080eFdhSXRwNjVSVGZxVUZoT1FKY2xjSXBsQQ?oc=5",
+   "source": "China Daily",
    "snippet": "",
    "date": "2026-11-04T09:13:02+00:00",
    "tags": [
@@ -1474,8 +1485,8 @@
   },
   {
    "title": "CSIR and DAKSHIN-RIS join hands to advance Science, Technology and Innovation for the Global South",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfMS1WYnFJRGtLaWRmVThpSDRyUERYMEdzOERkTkpXY0pMVkU0NHhxb0JncVdBaHc1ZS1oM2VCMVBYTFFoVU1JcjZVVEtBX2l5SFZyRkJBNEE0MVdISTZKYndPenRFOXhoNHJCN19NNlRnMkpkRWhCYlh3MA?oc=5",
-   "source": "pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUm9GcFU0RTJWSlZDQ3ItVkVaMEFrUHl2Tl95ckJkdGdja0I4UnhaZ0hmWW5KQVl0YUlFc3ExWkxsUEhHaGZaci1NcnprVEF5TzRXSEpsTEM5TGpLNzJFd1d6WFVydFpu?oc=5",
+   "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-04T06:37:00+00:00",
    "tags": [
@@ -1532,6 +1543,16 @@
    "source": "Kalkine",
    "snippet": "",
    "date": "2026-11-03T23:15:02+00:00",
+   "tags": [
+    "Tech Transfer"
+   ]
+  },
+  {
+   "title": "Viet Nam, China step up cooperation in human resources training, technology transfer",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnd0U0l2QzdLdjh1YTZ2QXpCRzh2dHVOcG5XSnpaSGtDc2doM0g0WEJPWXozZF92RmdXbF9vNWFIQTYxRGw3bWdVdExBTVNQVHlZSjktZXFSVUVBX3RiSHUwdllQNDUxREFHaWd6bWlnYkswWUZDNXJtdWdndTRjZkotM1ZhVW16WVo4Ql9WN0o1dTBaZkZtY2JqZW8zU0hWOWRFbDdKclJzaG9LNmNCMGZ5ZFdLMzFXTWRHNg?oc=5",
+   "source": "Nhan Dan Online",
+   "snippet": "",
+   "date": "2026-11-03T23:08:00+00:00",
    "tags": [
     "Tech Transfer"
    ]
@@ -1740,6 +1761,16 @@
   {
    "title": "Global Innovation Index 2026 - GII 2026 Ranking of World’s Top 100 Innovation Clusters",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTVDM3VJWDhHakpSSVZMMnhMNDc2aHhzY3BoWUpBOFBsRVpGOWk3UGFVcWVWYkl6Y19ycnVpV09ZQ1ItZklnWDdZb2lXekJVWGlBU0xzN0J6U1ZXa05yUEFDNjRWcVkwSkIybG9zRFhGUDNtQXVqaVd3bXdfczVvb29nX1kxZHZENzBvWW9VWVVVSTR5aWg4al9ab2cwQWZRbklDZXIzc0hTVDJvWktsb0dIUXVfY2ZWVy1HV2NsMkZYc3ZPNGNqN0d3?oc=5",
+   "source": "WIPO",
+   "snippet": "",
+   "date": "2026-11-03T14:15:38+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Appendix I – Conceptual and measurement framework of the Global Innovation Index",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlNlbmgwMjJGRC00V3lBeFRfdnVMek1aYjFHaDdyVVlOYS1aa21LRU9QNXdkel96SFNBdUNpUHNUUy1SaFNrTnpxOGdsYVNUdXI2OW5zR09Xb2UxdFZaQW1qYjlybnpKT1EtcEZnSzJ5M2FyS2ZpTWVXVGZQWGQtN1p2Q2tkamtISm1CMkxVZ2NJbFNmMDZmeFEtekJudUw2RThZaDd4cFZqZUFtMDREbTRCNnZZRzlqNEpXMXd6LWlTRVk1LWJIYTBFa1lFVE1lVDJYb1M0TUg2LTc2NEQteU5QOXY1UUVl?oc=5",
    "source": "WIPO",
    "snippet": "",
    "date": "2026-11-03T14:15:38+00:00",
@@ -2022,16 +2053,6 @@
    ]
   },
   {
-   "title": "Vietnam, China step up cooperation in human resources training, technology transfer",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlNJMl9YSnhvdjRRTGpMYUlKYmYtSU93M0VncDJsbGxpWHhtVTNxY0twTkJGVlQzUVlYaDV4Ml9NS2cxUlpEcHhEVjItQnMzYXNicWRwN1M2ODlzM3BTc2V6eEN6U2JZcXpOeUFxRDBMNTV1WDFaakFmSURObWdpU09jNU9GN3NPZjlpTUJFUFFMbGFCamJZdEhYYjlvVTFRYi0ycjl4d3pVMzJRWTgyT043M3h5bEdaUmMwMGE0bw?oc=5",
-   "source": "Vietnam+ (VietnamPlus)",
-   "snippet": "",
-   "date": "2026-11-03T08:36:34+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
    "title": "Ghana's industrial technology: CSIR proposes $20m fund to boost local technological innovation",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lRGlqa1lmSlNobFdkZUtESXBrbWFoM2lSY3JuVkpMZFhVcXNJY3dtR2dONThscEVwUHBYSDQwRk8wWlFJQkU4cThFenpYN2pQbXNGTGFPeUV6czd5bkxHa0kzZ0TSAVxBVV95cUxOS1dBZTNNbGxkWFR5d0lCN0ZLTVhlVWxaT3JRSUcwSm91RDZ1VXZsUnlFVGx3Xy1WMG5UWnpnaDZ5YlZvdDZQVEdQLXB1XzFUbXVmOGVOd3lHU2ptdg?oc=5",
    "source": "Modern Ghana",
@@ -2157,8 +2178,8 @@
   },
   {
    "title": "Commerce and Industry Minister Shri Piyush Goyal Chairs Roundtable on Strengthening India’s Biopharma Startup Ecosystem and Accelerating Bioeconomy Growth",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4MFdndS1rYmF3Nktia0lpNGhOZW9HUmVNc0tQSWNYSFZVRDBKRnJPUzgzbnlKeWFTamRyZTNFZFluQno4YmdYZVJ1QzRmU0JPVlBaaV9fb3RMTzdBNW5MM0JJTUtRYnRvaXhj?oc=5",
-   "source": "pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SXzgydUdOZy0zaXA2TXd1dU1ZZkw4eFpjS3V5eXVYWHVVWDB6d2RfVmNRNnk2c2N1VFo4VGZxdVB1Zk1ndTlzMTFQc181U3NWU01JUmoySXFjT3pBaFhXX2EzU3drRXlIVjNGbkd1RU5qaFFKbWJsc2dn?oc=5",
+   "source": "www.pib.gov.in",
    "snippet": "",
    "date": "2026-11-03T05:36:00+00:00",
    "tags": [
@@ -5177,27 +5198,6 @@
    "date": "2026-10-27T06:00:00+00:00",
    "tags": [
     "Patents"
-   ]
-  },
-  {
-   "title": "India’s Intellectual Property Policy Needs Evidence, Not Faith",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMl9mNUlVbzlfdGNVQm4wVjlpZ2c4X1dqTFo4Nnhxa18xNUZJUDE5MnY5RTF3d1p3eVFDZVA4RjRYQnJqdEplNm9VTmx3RW1tYnZ3b1NHQXRycHJuMl9CUno1LVhlVXhVbmxBTGJmemo5TjdFUEd5NjJ5Rm9sX2Vrcm1QMFJYSzJzellLWF9YR3JxcFN5eVNVNg?oc=5",
-   "source": "The India Forum",
-   "snippet": "",
-   "date": "2026-10-27T05:27:42+00:00",
-   "tags": [
-    "Policy",
-    "India"
-   ]
-  },
-  {
-   "title": "C-CAMP supported startup Tranalab joins Wellcome Leapâ s Focused Antibiotics Programme",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rRFFmajFZN2RYeTZpRFo5Vmp5UkZiQTVYYmN5SnhOS1gwdDM2WVMxVG9nNUk3a1lsVUhaY25mZHFVNHcyYVJmQ21FN0xmN01yWXVtWlM0Tm9QUQ?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-27T01:33:20+00:00",
-   "tags": [
-    "General"
    ]
   }
  ]
