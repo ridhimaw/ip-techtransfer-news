@@ -1,7 +1,7 @@
 {
  "title": "IP & Tech Transfer Pulse",
  "tagline": "Auto-updated news on patents, licensing, innovation policy and technology transfer",
- "updated": "2026-11-10T07:23:31.080479+00:00",
+ "updated": "2026-11-10T19:47:00.079838+00:00",
  "tags": [
   "Patents",
   "Licensing",
@@ -11,6 +11,192 @@
   "Trademarks & Copyright"
  ],
  "items": [
+  {
+   "title": "The Art of Patent Litigation: How to Make Your Case Compelling | IPWatchdog Unleashed",
+   "link": "https://ipwatchdog.com/2026/11/10/the-art-of-patent-litigation-case/",
+   "source": "IPWatchdog",
+   "snippet": "This week on IPWatchdog Unleashed, we discuss how a credible trial preparation supports settlement leverage. From the in-house vantage point, a litigation team’s ability to articulate a persuasive case matters even…",
+   "date": "2026-11-10T17:15:49+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "EPO joins discussions on the future of the PCT",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MTUVxd3c5bl9tUmNBOUtQRHZ1XzZTQ3pMaVptdkRCQzF3azdja3hET256cF9kOE1jdGpqbmNHYU0xNzdHT3ZMUTV4QkZ4eGMtZm1vVkl5ZXFWcmx5ZWFWYkhmeW1MNFZ6d2RrbENiSkM2VlBRM2NFNXJQUEg?oc=5",
+   "source": "epo.org",
+   "snippet": "",
+   "date": "2026-11-10T16:34:32+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "National Startup Awards 2026: DPIIT opens applications with Rs 25 lakh prize",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRWUyRVpOazBKdUxDdGZZbHBHcHJWOW5ITFppVGZXZUJGVEtEMm5lblJ3cllraVNNNHVvVmZiWTNlSzR2RlNwQm1CbnFwTE1jcW93SXVueVN1NmtRZmtncVJ4UGM0d3FDNW1Pb1pJOERESU9LNkNtbnFSMThid0hLV001UXk5WGRNcS1WSHd0MXZTMHhHYW84dGNnUm5aaWQ4Y2YyT3NnVUg2M0s5NWZJNUJvb2RFTWl1dHcxUllCV3RUVGs3RGxGWVEzd09FYWM5N3pYaTNpLVNvMVN2NFhuOEYtaXBabVNyUkx6SFJVMkPSAfABQVVfeXFMT0VlMkVaTmswSnVMQ3RmWWxwR3ByVjluSExaaVRmV2VCRlRLRDJuZW5Sd3JZa2lTTTR1b1ZmYlkzZUs0dkZTcEJtQm5xcExNY3Fvd0l1bnlTdTZrUWZrZ3FSeFBjNHdxQzVtT29aSThERElPSzZDbW5xUjE4YndIS1dNNVF5OVhkTXEtVkh3dDF2UzB4R2FvOHRjZ1JuWmlkOGNmMk9zZ1VINjNLOTVmSTVCb29kRU1pdXR3MVJZQld0VFRrN0RsRllRM3dPRWFjOTd6WGkzaS1TbzFTdjRYbjhGLWlwWm1TclJMekhSVTJD?oc=5",
+   "source": "BusinessLine",
+   "snippet": "",
+   "date": "2026-11-10T14:51:50+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "FSM Opens National Workshop on Intellectual Property with WIPO",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm04U0ZhYWNzT21xRmMyaXU4TmphRkFfeUdmRjh4TTFjc1N1Nkg3UEIzZ281dHFtdUcwZVpTaVdOd2NvYXdIRUdRcjZGbzlseGlSSzd3QmxWWlJpcmhYUk5xVVZRMkJNUzJLLTNIaHUxTUMtNDduMGhzRDIxX256dFFVbmo?oc=5",
+   "source": "FSM Government",
+   "snippet": "",
+   "date": "2026-11-10T14:23:47+00:00",
+   "tags": [
+    "Patents",
+    "Policy"
+   ]
+  },
+  {
+   "title": "Courts Should Employ a Simpler Fair Use Analysis for Noncompeting Criticism",
+   "link": "https://ipwatchdog.com/2026/11/10/courts-should-employ-a-simpler-fair-use-analysis-for-noncompeting-criticism/",
+   "source": "IPWatchdog",
+   "snippet": "Copyright and trademark rights act in tension with the First Amendment. Indeed, “unlike other property rights, [these] are a form of content-based, government-imposed speech restriction.” (Mark Lemley and Eugene…",
+   "date": "2026-11-10T14:15:42+00:00",
+   "tags": [
+    "Policy",
+    "Trademarks & Copyright"
+   ]
+  },
+  {
+   "title": "CMA publishes final guidance on technology transfer agreements under the new block exemption order",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGhuSGxwQy1hdFZJZXgxcUNjLUhjWFNTTEFNZlVWbGJZN1JPcFZNUFl5Z0lrZER0eVVxeFprcnhIY0pDNzJ1U3ZpY1RsdTRlMUEtUDNURUF4SkJTUHQyV0oxRlNGZmVMLThZaklxQjBUVnhLbjNlRnI3M1QzVXRfYU5xSVd6Y1l1UlRjX19CUEx5RUVNQVJyRFRWMi01dDl4NGZGd0pYX0VJdHhaNjc1aVZEemk?oc=5",
+   "source": "www.lawnews.co.uk",
+   "snippet": "",
+   "date": "2026-11-10T14:15:01+00:00",
+   "tags": [
+    "Licensing",
+    "Tech Transfer"
+   ]
+  },
+  {
+   "title": "Mali seeks technology transfer in defense cooperation with Türkiye, eyes wider economic ties",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFpEWmxFTjlKZkF4cHZVV2gxREtWTF9Ja25WREc3ekV2UmwtenlWbS02em1oMWtvRFNXVzRUX0FHTU0weWEtOEtrMWZlbHVBeU1RZHQ2d2dpWkM0X2R3WWVnU2M0VEswV1M5WXJ1NkFzd1RwMk9VR3JIdS1nLVY2V3pMQXpZU1dDOXJIdzBNN2tmVEZuWE92MlhwdVVuQW1IT0o3XzlXRGMzeDFpUHJKZDk0bUIzRmlHWjZFeGNaQmNaQktKb3JSS1J1bw?oc=5",
+   "source": "Anadolu Ajansı",
+   "snippet": "",
+   "date": "2026-11-10T13:52:13+00:00",
+   "tags": [
+    "Tech Transfer"
+   ]
+  },
+  {
+   "title": "Jumptuit Granted Artificial Intelligence (AI) Health Patent by the U.S. Patent and Trademark Office (USPTO)",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdlFsUWthRU5OeTJYT2F0c2RZYUNRcWdfMDMxeTlpNlVJOTVHR2hLaW5PRTlsNjlFczJFS3BKQkNvczNuOTNDU1hEN2gzTWtrbjhiS3pqOVFZZ2lya2p6RmNfM2hVZnNaWEhLVVliS29ra25EWFhUQUl5cWs2LVd4WlNpNFlFWnRwdXRNZjFLTHZLQlBldGpvdWR6UVEyQmlzRWhOaHAyRzdLZzZKWGRRWW1qb09tMlB3NmRDVWM1YjM2emVHNVNzcUoxMjhkdFdlQU1ONXdjRzc5eXdEOVhPdnF1Y1c2TEw3OFZDRTZ5SjR5OUxIZUpYVjlZZzJ5MUk?oc=5",
+   "source": "StreetInsider",
+   "snippet": "",
+   "date": "2026-11-10T12:48:53+00:00",
+   "tags": [
+    "Patents",
+    "Trademarks & Copyright"
+   ]
+  },
+  {
+   "title": "National Startup Awards 6.0: DPIIT Invites Applications, Rs. 25 Lakh Prize for Winners in 20 Sectors",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclREQl9XNHFUYnl2ODUtMWNyQTBnZ2FMb21RQjA3eVJtamltYmhQV1lQQllEUWlkc2ppckxhNDNfcEFScDR2WlJNN0E3Wi1Nd0tLQ01NS2RObmx5U201eUZxV1AtZUtCSk8tMnJvZ1VfT2NDWUs3MHI3eW5senJ3M0VJc1ptOVcxajY2QjludGxES0k?oc=5",
+   "source": "Hindusthan Samachar English",
+   "snippet": "",
+   "date": "2026-11-10T11:45:58+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Google.org backs Pune-based healthtech startup Froncort.AI with $2.3 M to triple TB screening efficiency",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXktZ2pIdVF2cmZyVFhfcHlPNG84OElFNF9YLUJRbFR0MGMtbUdFenlZTmRoWnVaRnF2UjF4WGE0SVFWblNfUFBpRXFQaFRSWXh2WWlXbHpVa1pJcEM3Y3o3MkhPcEhHVXdtU29FVjlJbElzdG1iZ3Y0MWlybHVQVjJZdzBTa2d6ZXVHTVR0Qm5UanlxREZTelpDLVY1Rl9ZOFZpclRxakRycnBLWmsyRnd4WVBrRHRSLVNITndaUTJNcjJyck5jRUJXOW5ZRU43cTVvdmhaUk42QjY5aE9hcFVjSTlCUQ?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-11-10T11:00:37+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Research Unit",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTkFlNlpGcmU4MXpKY2t0YXBNS0twOTMzdFp3OWJNWVJLQTNQMExIOUc4LW1vRG9VZTZPTzRGczIwMXV3RWZET1FxcG1jNG1aRmVwWVVEbHQ1VnV3Z1k3U2xHTUNtYXdyWl9hVlhtNVlIRkhveFBqODdMa0o3c1ZlNWdOLW9OQQ?oc=5",
+   "source": "pib.gov.in",
+   "snippet": "",
+   "date": "2026-11-10T10:56:05+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "National Startup Awards 6.0 Open: Rs 25 Lakh Prize for Innovators",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3NDT25lSnVkT25NSVBkNkRJcU1FS2Rzem1iY3luR01RNXdQZlRCQU95X1ZZSmZIS0ZIc1dQbVNUaU83bDNMQkJNN2EzMGdYaFdObW02WDdIRWhObXN0dmxweUxfZVNFSVFCUnZ5cVV6TmNtdjVMYXpBRkZlOTVnLUNURFJrTVV3TFlodVFheDc5UXZQenRFb2hLVFl0QkdVWHR4eGZnZG04MUdQSjZMNXNlclBPQnUtazZLbtIBvAFBVV95cUxNR3NDT25lSnVkT25NSVBkNkRJcU1FS2Rzem1iY3luR01RNXdQZlRCQU95X1ZZSmZIS0ZIc1dQbVNUaU83bDNMQkJNN2EzMGdYaFdObW02WDdIRWhObXN0dmxweUxfZVNFSVFCUnZ5cVV6TmNtdjVMYXpBRkZlOTVnLUNURFJrTVV3TFlodVFheDc5UXZQenRFb2hLVFl0QkdVWHR4eGZnZG04MUdQSjZMNXNlclBPQnUtazZLbg?oc=5",
+   "source": "Rediff MoneyWiz",
+   "snippet": "",
+   "date": "2026-11-10T10:50:27+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Ministry of Ayush Reports Significant Progress under Special Campaign 6.0",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FZTMyMXY1WURlMTBoNlJNbURwcTBibmo5bnJBY012Y2pOUTJUaHZvUEVHcVRBejFoY25ydGZQYUsxUEZhY1lRaklXRVc4N1VtN1VfUGtkekxPcWNhaWV1Q3lhSlNZNWVDQ1RV?oc=5",
+   "source": "www.pib.gov.in",
+   "snippet": "",
+   "date": "2026-11-10T09:37:00+00:00",
+   "tags": [
+    "Patents",
+    "Policy"
+   ]
+  },
+  {
+   "title": "TwinStrand secures another USPTO win in $245M Guardant Health patent dispute",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFRHZ2xUcjk4Wk1ISnV3U3ZjVDRLa0luNDNBWDBJRnZiVGRWYlUxRWE4Z0FTanF4XzhkaXh3d2o0cVhISjNMeVl0MzNnWmkzdlRlTC1MdUEyTnEzVFFlQU1XTV81d3l0b2RzT1VtYnJQc0otcFdKRm0zcFUyaDdhRVNpTDBOMjh6cml5c2hBaWVMWGNaQXUwYmhvcXI1WlBCNktmQ3NiZlVBWi1oS2NZSnpBQjlrOHZXbEE?oc=5",
+   "source": "The Pharma Letter",
+   "snippet": "",
+   "date": "2026-11-10T09:14:35+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "US extends Section 301 probe of Vietnam's intellectual property enforcement to February 2027",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHBDSFZoSnhRTEdTYUNmRE4zNjBYdWFadUYySTU4Zl9HRmE3bTlMUXk4bm1iNlotN3ZSdWpfc3ZldXo4QXdJZWphTl9VLWhvaEJaR1NaUTNmMlUwZDVfd2cwY0hZQVdkbWY5VzE0V2dyaVZJZTJjejBqTnBUajZUbDlCQjFCdWJlTkh6TE1NSEp2R192WnJGVVUtdlplaWVfZVNwalVPNGxhSHBZY3FqZHRSejRqYjRLSEdNY294MG1TbTZteUE?oc=5",
+   "source": "TNGlobal",
+   "snippet": "",
+   "date": "2026-11-10T09:01:18+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Egypt proposes 350-bed joint hospital with China, seeks medical technology transfer - Health - Egypt",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXg0SmwwMmh3MTZ5MXdaSlZUdzM0V2RiSlI1d1NnMHdmZkt3aXlyanFKUXItWTUxZlpmRVg3LTh1YVdlTDNLekxWUUNJSzhlTWdXNFppdGtBVFI0YVd0bW50Z081WVhFTVFaa2I3ZHp0QnJoWURsQTRwemt6eURpalYxWExtanEtQlc5UHF5bDFyU09ia0xhXzFDT1FNdDN0YW84ZzU1Ni1LLXBOUkpOLWRR?oc=5",
+   "source": "Ahram Online",
+   "snippet": "",
+   "date": "2026-11-10T08:38:51+00:00",
+   "tags": [
+    "Tech Transfer"
+   ]
+  },
+  {
+   "title": "Noctua Science Ventures: Pre-Seed Fund for Austrian University Spin-Offs Launches With €15 Million",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM0J2UkFER3pfNVd3UkNiTFllSmxDNEo2YWtuZ1JnakRmdG1ES3RnNk1KTzZKMzVkY2JEZDhOQlZ0bHpldFdzenEydVE4bFpjYl93LUx5bmhBOVBJOEZKOUJILVd2bkFfZUNmT2VRVEdrRnRmemU1SVlENTQ1WlB6OUE0MFV5dkZJOTdTOTNyclA0M2taMWpvbGFRd1RidngxSzRyRHhRbnIxWFRKYzJrZ244TFU?oc=5",
+   "source": "www.trendingtopics.eu",
+   "snippet": "",
+   "date": "2026-11-10T08:30:00+00:00",
+   "tags": [
+    "Tech Transfer"
+   ]
+  },
+  {
+   "title": "Vivo’s First Gimbal Camera May Be Called the ‘Pocket’ as Company Files Trademark at USPTO",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2d6TFpoZVdGM0lRekJPMEFtQmVvcVJ1UHN3WHNRMVZSWXdub0JOZmV6QzVxOTJMUnphWkltX3Ytd0M3S1A0Rm8zOGxOMDNEY0xGemZWSHhzNFpFY3hYRVlsbVhHeS1wMGdkUnVyMEhhRnZtZXhkR3M2RGpmNnQyMXlVc0xrR3NtRHl0Slk5akJ1WHRkbXJhb0s3LUjSAaIBQVVfeXFMTjlSNDJpdllZSmFlX2FFaGt2ZEE1dm14T2g0VzZzSEg4alczdWtCeTJxVUlOWUh2dVE4LXZEOEU5eEhBNFNGTjJlWjVMQzFNTnRvQjVyT1JLenlKOWV3ZUdiSkp5WDFaUVVBZzJmbHd5bjl3dlpVa3hDWDNLTzJmV1FEVzhQWjUyckxRRnVRYl9fUkpJbmpZRGlLN1lzeGVrX2JR?oc=5",
+   "source": "Gadgets 360",
+   "snippet": "",
+   "date": "2026-11-10T07:32:56+00:00",
+   "tags": [
+    "Patents",
+    "Trademarks & Copyright"
+   ]
+  },
   {
    "title": "The start-up challenge in Europe",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RkhTZ0NVWDhSVGY0SVp2aXdDajduMkVaOFlhMWFIWW5MTkd4dV8zalE2ZUFzZkQxbzJLWktjTkFLTElqN0pvUjE5b1BmRC1YVGNyclNzSzMyTUtuc242b1gtTEhRM1l0emNUeUFlbFhtS0s4TnZzYnZ5bUxXNlk?oc=5",
@@ -32,6 +218,16 @@
    ]
   },
   {
+   "title": "Upcoming ESTIC-2026 (Emerging Science, Technology & Innovation Conclave) to be held from 27–29 October 2026 at Bharat Mandapam Delhi with inauguration by PM Shri Narendra Modi; faculty to include three Nobel Laureates and several international a",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BS0dONUZtSllFNHptcEgwLVdzUlg1eTYtWGIwM0lNb3RJdVhCZU5fMU1zQklNQktEemMwZjREeGlacGZuOXNOR2NjN19rdXNiV2EtWkEwSksyMzZfSlIxbGRkNVJyRmdHNHg2VzloVXdaQ1dwX05lTW40bzNTZw?oc=5",
+   "source": "www.pib.gov.in",
+   "snippet": "",
+   "date": "2026-11-10T05:52:00+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "US extends Vietnam trade probe on intellectual property by three months",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkhCV2UzX0d1YkVIUEx3ekNrdzJBdE5SZy1FODZIemw4eUFfMlBrV1hXZy1VblpzMGIzSm5TakVvRll3OUZNbkVNa3dyY2hNMHBMLXdCWTZUbmloRnJnQ2d5RUlEaVNlRFRtZHZBZWhFbl9ZajFoNDljLVBPN1JLVHp1WHlXNDZmeXRadVh0NnRZR3A2TGMwTm9BelpPbENfcGFqbnptOW1XdHd4TGU1Q19XMi1QWW91aUtUajAzY0FIdw?oc=5",
    "source": "Bangkok Post",
@@ -42,21 +238,21 @@
    ]
   },
   {
-   "title": "US extends Vietnam trade probe on intellectual property to end of February",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnd4Tld2Yk05T3hKcE03dFkyb2gtanViMDVhd3V2TFhJRWtDMklBSUlReTRCd1pCcWk2cDdGa3RvMXVFR0s1WWw2SUxiWFlfU1JHTGNxUUpEMzY4bGxRTm9ENzM5WTZlM1ZkX2J3LUJqUjFPOFdyZTFiYUpvNmlzX2h6LTN0VDNjeUhOVGpnSW9Yb0ZNQVh6SGZvMA?oc=5",
-   "source": "Yahoo Finance",
-   "snippet": "",
-   "date": "2026-11-10T04:22:09+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
    "title": "Central American and Dominican Republic Ministers Agree on IP Priorities to Drive Innovation and Growth",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZzEtRHY0cEp0dUh0a2toT0JMbmFKMDcxMWE4THNEM0JnMzdpRmRGRk9VN3kzaFdzQ1hTallQbHFkU3JwVmJ6bkNLTnM1MGxHWllUUjFuYmN6X1pLOEdtdzdNdDlqUTF0THBOMFBSTTNPcDNmdnVWOG1PRElXRWY0elJDNDFPUFBMZnBUc2RLTU9HU0ZGSHVtQm5Ucm0waDRWYXQ4Wmd6UVB1VTh1SWRzdW96TTh3eS1Tc2NNeVVBV1d4dUszNkZieWRlRmZveVlVUVdXc1lNUmdrTF9hdkZ1Ng?oc=5",
    "source": "Periódico Digital Centroamericano y del Caribe",
    "snippet": "",
    "date": "2026-11-10T04:19:08+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "US extends Vietnam trade probe on intellectual property to end of February",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnd4Tld2Yk05T3hKcE03dFkyb2gtanViMDVhd3V2TFhJRWtDMklBSUlReTRCd1pCcWk2cDdGa3RvMXVFR0s1WWw2SUxiWFlfU1JHTGNxUUpEMzY4bGxRTm9ENzM5WTZlM1ZkX2J3LUJqUjFPOFdyZTFiYUpvNmlzX2h6LTN0VDNjeUhOVGpnSW9Yb0ZNQVh6SGZvMA?oc=5",
+   "source": "Yahoo Finance",
+   "snippet": "",
+   "date": "2026-11-10T04:11:00+00:00",
    "tags": [
     "General"
    ]
@@ -89,6 +285,16 @@
    "date": "2026-11-10T03:00:00+00:00",
    "tags": [
     "Tech Transfer"
+   ]
+  },
+  {
+   "title": "Jitendra Singh reviews progress of cannabis medicinal research project at CSIR-IIIM Jammu",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2lyeEduWnVWUmNnSUZTdGM4Qzc3LVR3OXU5bFFpOTJIX01zMkUyazQzYkFDMFkzMXJMSWJIbFpkZ0dlZEVtNkU2a3hucG93X2lyU1VXSl9LMGJsLTdrc1FlSnZPYUp0OGlnVGlTRXNUMTdqd3hfQ21xZFpuYzdWS1E4XzRYQmFENlpiR0liSWpzb1N4UTNxdy1fWkdKYlVNUGYzTDdDT1NLeC01SjVNbHdFQmt1Q0ZvUk9obVVoc3R6LTlhb1g3bldDbEtLUk5LX3JBZnRB0gHWAUFVX3lxTE4zaXJ4R25adVZSY2dJRlN0YzhDNzctVHc5dTlsUWk5MkhfTXMyRTJrNDNiQUMwWTMxckxJYkhsWmRnR2VkRW02RTZreG5wb3dfaXJTVVdKX0swYmwtN2tzUWVKdk9hSnQ4aWdUaVNFc1QxN2p3eF9DbXFkWm5jN1ZLUThfNFhCYUQ2WmJHSWJJanNvU3hRM3F3LV9aR0piVU1QZjNMN0NPU0t4LTVKNU1sd0VCa3VDRm9ST2htVWhzdHotOWFvWDduV0NsS0tSTktfckFmdEE?oc=5",
+   "source": "Greater Kashmir",
+   "snippet": "",
+   "date": "2026-11-10T01:33:50+00:00",
+   "tags": [
+    "India"
    ]
   },
   {
@@ -235,6 +441,16 @@
    ]
   },
   {
+   "title": "The National Hospital for Tropical Diseases is stepping up technology transfer and improving the capacity of healthcare facilities at the grassroots level.",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZC1lOXJ1YmRqaE13LTZ2SEpUb1F1TlctVlI5VkU1cy1zMnNSdGpHa3ZVMXpEVkVkMzdOd0VHcHRzYlRYVnl1dHdGNFFhTUYxTmw4Y1pEd1EwZXlfM3V4enN4QmNkeV9HOUtDbjNVZ2ZNQmxSdW9MYllmWkVmSUl1TWtRVGZvZ1kwWUZWYjdYREw1VDlQb2RHQ2RSUFZoSW04QjFJY2gxelJVNzVZS1ZoOTVRYVQ4cGZzeWNfNFEwYVpzTTg?oc=5",
+   "source": "Vietnam.vn",
+   "snippet": "",
+   "date": "2026-11-09T08:32:20+00:00",
+   "tags": [
+    "Tech Transfer"
+   ]
+  },
+  {
    "title": "AprilBio, deploys 430 billion won in cash for R&D… Aiming to license out 3 assets by next year",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMa25XQ1VVU1N0TWtQRl9hUUpPSEFtSXl2Sm1SUzVOazBXb0dfUnNSWU81RDhZZ2h1UU9TNXh4QkdUNm9sVnFWamVMMnFjRVE1cHRJUjBCNnBpWGc2LU5UTWNBNkZJOU9fRTRaNHdn?oc=5",
    "source": "머니투데이",
@@ -356,17 +572,6 @@
    "date": "2026-11-08T03:48:48+00:00",
    "tags": [
     "Tech Transfer"
-   ]
-  },
-  {
-   "title": "Government launches API integration between Startup India and I-STEM portals",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrempyZkNZd1RtTUFYYjF0bVZUNUlFOEFTbmREUm5OMGJoeHVibG1NUWQ0Um45bThyZE1Yd3dablk0YjY0bV9Bb1BlaEZMdllMeklqbk9IR0VBcXVYVEJN?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-11-07T17:29:55+00:00",
-   "tags": [
-    "Policy",
-    "India"
    ]
   },
   {
@@ -492,6 +697,27 @@
    ]
   },
   {
+   "title": "Government launches API integration between Startup India and I-STEM portals",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQkN3NS1ybUZIVUZWenluWm9MNzd4c0lYcFp0eUlRQnFqaWd0SzNsaVdBU09DRUhyZC1UZDVYeGk0S3pxQktJUzBWcGpZWDh1UnpUcE1CREk3aXNsZlptTTVKbkVDM0huM1puV3UzZHdKNXo5dXB6TllKbDdTT29YcWFDbFlfamxFd2ZBeUJpWnVXcUlmMnV5Z29RMUpKUmxaNnR5VEZ5YU9xSDFHaFZNcW5BWDlRWm16b2NnSmR5QXBjcU1vQ040?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-11-07T07:56:53+00:00",
+   "tags": [
+    "Policy",
+    "India"
+   ]
+  },
+  {
+   "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EZmRrM01PVEZXUzUzLUl0cmNWR3gzLTEyRHNnYVJsNEwtY0VBZFBoSXlrXzltMkVadjlzS1VZa2NqNHRUM1paTXVXNmZ0VjVTU1pDUjlCVmNhODRnRmNRYVNLMlFwQVZJUDQ3bDZJc3BsZTd6dzJWUjRMc2g?oc=5",
+   "source": "pib.gov.in",
+   "snippet": "",
+   "date": "2026-11-07T07:48:00+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "India achieves indigenous GaN Radar chips after France rejects technology transfer in 2016 Rafale deal",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY19IcjF4dHdzeEFRNnBqLWZ5MC0wd0lPLWVsMDY1akZmUFFkRTlRbjd3X2tpUnJaMURUOXR4QWd5STZEb1VvSVBNVFZEREJuYmdOYzlCYjZJOFl4SXRyelVUVFFsVmRfZ0VwWXVZNVZmc052WGNYV011LXVwQWgzOE1JUXJYc2QwSXBPcFd4S0xBNTJsLTNVRGNaUmg3YWVUcXlxZC1objl5dmNvNVJ4eFlzSk5FWXpSeU9odlJQS1pqdm01VEc4M0NHbklaWnVEVkRweGRFWG1rY3NYeERlRTZKRdIB6AFBVV95cUxQcmVraU9LWGY3OEFFTXZPWmstNUt0cUFOMi1sYmdNV25RdlNwX2VTRFY4NjZJTGhBWnZBdEs3RXFJMWRHOWZIU29ycEdJOE1xbE1kZHpsZjNBeXZZYzNrMHpkXzdueVc2ZUpaYUI3MmJmZDJFQmdFQjdXNEpnOF8zcjBRQ25nbUluYkpvdDdQaWZGZFR2cGlIWE9JOG9pZ3NzT0F6ODY2MnRUUmkzUFpOMXFZREd3b21lZlY5LWliaU4zVmRYem9JS1V5c0RNQV9wUzFITVNqZHY4UDRraENhRDdwem1JaDN6?oc=5",
    "source": "Organiser",
@@ -505,7 +731,7 @@
   },
   {
    "title": "WaveX Invites Startups to Participate in WAVES Bazaar at IFFI Goa 2026",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwdnJ1dC1KWkRRd2dRTUdVTm5vTXdLUmkwN0tMcHktSU52VGVHYmNyaHNSZlFlYzlUWGd3bVFUMTAxdHpheUE2cDZlcDRjbWNYWkRfUDJjcFJDSl9rZExPUkRUeGVHSWRxaWNF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAweEhPVzhodUFNd3dCS29nOHMybUl5QXJkODJxQlFnMGR4dEx1VFpxVjdHb2Q4bTdJZXpndzA4dVh4S3gtTl9XYk9JV3JvWU9RR2RhajY1X3I5U0tmR3liUEpCWkp1dlM1YjZZ?oc=5",
    "source": "pib.gov.in",
    "snippet": "",
    "date": "2026-11-07T06:23:00+00:00",
@@ -989,8 +1215,8 @@
   },
   {
    "title": "International Prosthetist and Orthotist Day 2026 Celebrated in New Delhi; Focus on Innovation, Accessibility and Global Opportunities",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVoMzgwT2FDeFdwTm5HNFI4cnlObHJ3RkxKLVRyUVZEY2FNY2ZwMEsyY2kxRTB6WVVydG5jTllNT3o3OWFmcHJiTFRmcDJEZ0Qtc09ZZkNJWDhkcWFYTHpBaHAzMlFINm56MmJpMGx5eTNSWVl4YnE5QmZ0RWl1dUg5OA?oc=5",
-   "source": "www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WNmFwNUhRQlZScTRQVTA0a0N4OU5xMVplY1NEcnV1Y3VoWC1DUjV6cV9mRmx3Q3VtdzE5dy1LY2ZBODNxbWpOcXR0T2VQQTg5MnZrUjdxbWRQMkM2aWdTYXBmQ2YzUU1QVWpr?oc=5",
+   "source": "pib.gov.in",
    "snippet": "",
    "date": "2026-11-05T16:47:00+00:00",
    "tags": [
@@ -1391,6 +1617,16 @@
    ]
   },
   {
+   "title": "Ministry of Culture to Hold 10th Overseas Intellectual Property Protection Council to Discuss IP Protection Measures Abroad",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14Vi1BNjJtakN4MlJEOWRxSV9GUXVhTTJ0bjNCOUhWVHNiQkw3djRlc1hseVhWTlBfdnc0TGFYTnREa25IMjZ0dHUxalhBNXNNMmtFbVdXS25NU08xSFUtN25Ja0w?oc=5",
+   "source": "아시아경제",
+   "snippet": "",
+   "date": "2026-11-04T23:00:00+00:00",
+   "tags": [
+    "Policy"
+   ]
+  },
+  {
    "title": "China Dominates WIPO's 2026 Global Innovation Cluster Rankings",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1dJX0RpNTBOTUhtRDZUbTFIc2ZDQ3RCalEwcjBiemJRdDhwbE1QeU1nTUhSYktpN0NPc25hWGtBRmdPYnNFZm1ydmlWR0gxNGpRcmZlbG54X3RTY1FaYlNpeVE2cVlnWXdiZ2xGdktidTVJQU5lbm52S0NiQld5VjRnbVJYOERsdGcta2dSNXNabEVl?oc=5",
    "source": "Alwihda Info",
@@ -1592,16 +1828,6 @@
    ]
   },
   {
-   "title": "CSIR and DAKSHIN-RIS Partner for Global South Innovation",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTG44VVdaQU1aMkVHMEJXM2hiLXh4MDE3V2plVk5HWi1PMnVHLTRiekFIUzBKNEdzU3dKSUpkdGo4dnJOTHpiZkpMaHFKcXp5TWN3TmltU0dHS1JYUDZvQWdxNWRzR0tCMFNaTG4yZXZ6NXZtbl9fRVdjcHdIUHdVeGlseWtLYmctN0kwUHlqVmYzZTNMdU51Y0lCTDBIRmpJUjRzM0ZyeHpmc3NuMXVHeVRuUXpSVmdiT3dVVU54Y2tLN3VvUFE?oc=5",
-   "source": "Utkarsh Classes",
-   "snippet": "",
-   "date": "2026-11-04T12:35:49+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
    "title": "India Aiming for Global Competitiveness Through Indigenous Capabilities and International Cooperation: Dr. Jitendra Singh at IPRD 2026",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NMmhZNEVuVHVla0FjSzZaYnhkX0hTTXRDNEw4S2wwSXBBdlFHVGdieUVXT2VuSzhSNXNUd0Z3UHF0Qlk1ZmJTWDVMN3oxMHdIcXZtZ2xlRXV6aXVhWWE3MXhsVmJSNXJMX2xV?oc=5",
    "source": "pib.gov.in",
@@ -1632,6 +1858,16 @@
    ]
   },
   {
+   "title": "CSIR and DAKSHIN-RIS Partner for Global South Innovation",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3hrUDVaaTB3elhiM3d0aktUelZjUWkwR3NWdk9zUGNHSTZKYjgyUXJ1WGZzUUJYbXlaWjQ3MTdVS3h5RmtjNERxSDhjS1U5Q1FnSkxBX2xpTWJPd0I4ZEtVUmhnYk1rLV9tRW9yZDNLQzBNUjlnVXJGS2wzR09DeUxPMWV0WFdJMElXTUhEam1yVE1nUmVUQ2NwNVVIYWtyM3hHeXlxLVZTSE5xY2Y3dXVYVHBBcFdET1BEVUlUWHgwQ202cVJ5V1l3?oc=5",
+   "source": "Utkarsh Classes",
+   "snippet": "",
+   "date": "2026-11-04T10:37:02+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "Technology transfer at universities in Hanoi:",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjEzbmNnVmlKa1pjTDVJenZQdmpQRmNXb3phd1F0NUFBUmVFS2RvMndNRnNPV1BGWW5QX1VPdHViWWtVUUJtam5MeWhvYkJIa1ZLM2FGNFRhZ25mNW5fdlNlbkNzbEhLdTQ5QUpNbU5vMHRLdjYyOHlNa0hnTnZxaThMNA?oc=5",
    "source": "Vietnam.vn",
@@ -1654,10 +1890,10 @@
   },
   {
    "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KR3BSbzVWZ2NYcENCZTNYdjFNQmZWZVlkY1F6TF9fQV9XLV9MWGtxS0RBYkRVeFB2STVMN0t4cnl6NXIweTl3VmpiWEp6VVd1VnlUYnBfWi1BN3Y3bzhLQ3Z2ZVZ5TS1p?oc=5",
-   "source": "www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yLUpiWG1wVWRrSGFMYUdudE53ZkpMTXdJQUZEWUJmVWgzN2NpdWpXMmRfVzE2X1c4NTREWmNIa1gtRU9lSnc4UTBEbzc3OWRLb1V2cXFhcVR3TUVlbnNJa1o1RlFQYm40TzdWODdwR2gtbkQ0cWZOdEJVank?oc=5",
+   "source": "pib.gov.in",
    "snippet": "",
-   "date": "2026-11-04T10:13:00+00:00",
+   "date": "2026-11-04T10:01:00+00:00",
    "tags": [
     "General"
    ]
@@ -1892,16 +2128,6 @@
    "date": "2026-11-03T18:20:35+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55UDJHZDJkNnRudDB1VndSZXVqQlJqTzVLbFlkZWVIanJfYVJHZUo4VzlyNVdsNllPSFlBRlFiY254WTBTT0Y3UTU0TTRKZWFqRjZwMkRtc3BWNXRwanNJQXZ1SWNVdG9U?oc=5",
-   "source": "www.pib.gov.in",
-   "snippet": "",
-   "date": "2026-11-03T16:32:00+00:00",
-   "tags": [
-    "India"
    ]
   },
   {
@@ -4014,17 +4240,6 @@
    ]
   },
   {
-   "title": "India needs to skill 1.25 M healthcare professionals annually in digital health and AI: FICCI-KPMG report",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRWpMNUV6S0N2em9pUHZGWk5COFlHc1hpbjZ1dWZnME1MT19Pa1psay1hLWZ6MEo4SUtieWlOZkRNNi1GQ0swWklvc3BueDJudVFLQS1rN2FEbnN3dUtOcWl1NEhVZEVYYUFBdGpUbkpJaUpxWlBjdkhXRGhhc3ZzVkNFYjRPZkp6cmVJVzE5VE80c3c2R19sMTJNV1ZEZGR1NDJTMVVySF8xR0ViRDEzeThuaWN3WUhHX0JPTl9oOGlLcTNybWs0NkJ2T0RxUkoySklRUUVpNi0wNmw1TnIzRkp1TEJiQThrTV9Cc2wxem9BRHdtcFE?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-10-29T09:22:59+00:00",
-   "tags": [
-    "Patents",
-    "India"
-   ]
-  },
-  {
    "title": "JUVE to present accolades to two winners for patent law in Germany",
    "link": "https://www.juve-patent.com/people-and-business/juve-to-present-accolades-to-two-winners-for-patent-law-in-germany-2/",
    "source": "JUVE Patent",
@@ -4085,6 +4300,17 @@
    "date": "2026-10-29T07:04:36+00:00",
    "tags": [
     "Tech Transfer"
+   ]
+  },
+  {
+   "title": "India needs to skill 1.25 M healthcare professionals annually in digital health and AI: FICCI-KPMG report",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VVDFIRHQxUEhaOGxqcXNtNEVOWkQ5bk9xTDNTWmI5UGUwUXZ5cEVOZGhJMjNIZnJhT0dEaDJzQ0dNTXJUY0JLNEN4dS1zVGdxUVl2REpHU1hJdw?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-10-29T07:00:00+00:00",
+   "tags": [
+    "Patents",
+    "India"
    ]
   },
   {
@@ -4828,16 +5054,6 @@
    ]
   },
   {
-   "title": "Research Unit",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGY1WDZsOUVJNjhRcWFpVVFRVlNIM0lmdE9xRmduVDVrQ2lXRXRhRVJYU0Y3UVFvNk5CaDZqYmk0MUppRjhtM1NOZUJPY1JGdnludnc3c00wZGRub1ZNVHNfemozODRnVk5raTctekxrVGFQWGdQTVFoc1NsQlFTNm56aDBidw?oc=5",
-   "source": "Press Information Bureau",
-   "snippet": "",
-   "date": "2026-10-27T23:09:10+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
    "title": "NEX-I seeks IPO as Korea biotech bets on aggressive 2030 profit forecast",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTlOTC15OHFVUFA1elAta0x6c2RDNFd3S3M3NzFrTFl2TDFDaEwtUVIxRmZVblJhVDlNbkFibmY2ZUp6aGF5MlNYUWlhQk1QQzR0WC03Nm1POTBxUzRfcVpfeGxCd2ljS2J2anJKaklqMGdQRWZtbzRMNWZoX213a9IBlAFBVV95cUxQMWM5dnJYUmlZZ1N5bU43X2UxbnBLQl94ek9CTDVBWWlCc29nbnJJbWdvcVZkcXlSM3NnY1lFUjRwZ25Id21PWlBzdVlxbnJQTnVlZXZGVmtDR2lVWERYN2MxQ1kxVThXLU4wc2pDQVkwUVg2YVlUZ212cXRyN2RVSXNCN3g5aXV3cEtFWU94cWxnSzZR?oc=5",
    "source": "Chosunbiz",
@@ -4978,222 +5194,6 @@
    "date": "2026-10-27T16:44:10+00:00",
    "tags": [
     "Patents"
-   ]
-  },
-  {
-   "title": "Hybrid Research Models Bridge Science and Market Value",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWtETWdlblQ5SS1RUFdXNjFtRENGY1RKOVdIVFkyTkdkUFJfanpwR2gzaTdDUW44M2JHaHhQcTI1X2lOQ3VldTluaWN6YzFudTZtNDM5Qnd0ckRBRjdHQzZrSXBodjgtOGlWR19EdXhidlAtcUZiTXFFTmJnS0ZVSUQycVBvY0FBdDk4NDh5dWN6ek9NZ3RHVnliT3lHNzZET00wRA?oc=5",
-   "source": "Mexico Business News",
-   "snippet": "",
-   "date": "2026-10-27T16:28:19+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "29th Energy Technology Meet Inaugurated in Goa, Highlights Innovation and India’s Energy Security Priorities",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzV1ZrSDBabXp4MnRUOHFHNXpJZGtXTEhfeEJTTTQzbzVuQ2VlakJMaEh2dzRBdlJSYmNBZEg1UmZWSFNldERiOHhLUmpfT01yQWxMRFg2cDdNeUNsTXA1Mlpkb2k0RWJiSzVkMzJ6ckJYNGdDTUZOQlFB?oc=5",
-   "source": "www.pib.gov.in",
-   "snippet": "",
-   "date": "2026-10-27T16:03:00+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "USPTO 101: The Risks of Subject Matter Eligibility Declarations",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFhiOFpUVjJRRmRTVTdkMjA3YkpRemtvTC13UV91R2prMC00OVVqZ2Fpd2VDbUY4TDZjeENqanEzcEROTTJQRW1iSTFSc1U2MmEyd0RiQW1nUzRmY0pWbzlPM3hGOTdPZ2xLaVY1SjlGY2xfS0h6empaVG0tcS0zOEdTRkpPWVhEWDB6SXpadXN3dkdY?oc=5",
-   "source": "IPWatchdog",
-   "snippet": "",
-   "date": "2026-10-27T15:53:34+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "Government finalises 15 funds for Startup India scheme, earmarks ₹270 crore for SIDBI",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjZGc0ZuZndha3JoUUlvNUdDUWZfTHlJeXpHNUk2cENqaU5ra0Y0V3k2Vld5cUw3Mk5JYjl5LWtyNVBGVThtM3hzbWVWcjFMWENFS3N6TlJ0N01TdzV0S1FlaS13c2xVSmpMNGh2dFd6QlBkZ0Q5T3dJM0dqa0Z0UmlMNmNjeWVvMnJXRnZoV19lVGRWb3B4Y1c4X0hLSUk0UWNfVm9qVW5RN0RqX1lmSjdxTWpnMk5vVTFJWTdQMVZHd0FCWldtc0k4Sk9SRE5lVGZBQ9IB2gFBVV95cUxNTTM2ZnlfLWpGMWZhcTdTcDkxN09WM0xFRmNSd0JHRk5FZnA2YTlOOFdha05VOWtKRjVXYldmVGF3Q3RfMVFKQ3c0aUFnaWRMVFVKWllzN1ZRVTMyMTNIN3R6VjBsYkRZb3YwYl95RDJuS0JZZU1HWDJJMlN5RUhabzlMU2I0X2NYNl9GczJRRHdocjZQQUI1dEdZMTB2eTFHbV9NZENISVRveG55SFdKc3BXdHg1M3prTzZkdlNRRENfNEpDZmFqSnZnT0pmQ1pNN3poSHpJZ3lsZw?oc=5",
-   "source": "CNBC TV18",
-   "snippet": "",
-   "date": "2026-10-27T15:45:54+00:00",
-   "tags": [
-    "Tech Transfer",
-    "Policy",
-    "India"
-   ]
-  },
-  {
-   "title": "6th National Startup Awards launched; three special categories for women, students and NE region",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHpjUnF6NFlERUVGc2w3Qy1ieldXRFVhQXhja0ZRRTc3WEtYNFFTcTRvLU5nRTZZenBnYzRab0JTZUpmTUYzeW55SUhBUmp2Z1dhUlp3Z0NWcDBneVVfSUplWUhlTzF2Y2psS3QyNUd5VTVQZDZIc3NXQVFyckFtdjJsZWRnNzZ2LW1QbG9XOGtaaU1CTmV6cGhkc1h3bTVya3MxaXNsNEwyZGhMUUJUZ3RIdHBGSlZLZnFteA?oc=5",
-   "source": "News On AIR",
-   "snippet": "",
-   "date": "2026-10-27T15:31:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "DPIIT launches National Startup Awards 6.0, applications open till November 20",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmhqc1lzTDQ3R2NEVHQ2UWJRVW9rR3lxNkdGNjZVNTdtWUFBRFJLOW9YaHVPUDh4RnVkR1MwNFZzRWM1eTlwUlpua1NXb2xLVVJwbEVDVUpWcU9sZzJNQ0NNRjFJMDE1djZLbnNSb1BVbk9LdXBLcUR0aDdQUktESmpQbjZCZlY4Ulg3LTRESDlhdHhvMWlGdGRDd2VOeFBsZVlSRmczcXA3S3VKbmNlcW10Z1R2SnpXRTdBeGk0akFfdVc5NEZXMmZwUDVzc2dNeWMwQnhn?oc=5",
-   "source": "Zee Business",
-   "snippet": "",
-   "date": "2026-10-27T14:54:52+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Nigeria Launches Africa's First Defence Exhibition to Foster Technology Transfer and Regional Security",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblh2b1VQN2ZrcHN1dnFfU19YbDdoZ1A5UWstS1hGYkZvdzJyVGtkQXhpTDFfdUFhQTdCUE16eWJYaFMzRGRXX3kxcVkwUXBOX2NJdWhIcmpHcExlNjVOT2Q1YkYycElFbTBkVE5BR3NoV1M1Q1pyRWFzcFhtNjdxTC1pNW9WbnpiZ2tZMkhlNFlBWHdYVnVUYw?oc=5",
-   "source": "Head Topics",
-   "snippet": "",
-   "date": "2026-10-27T14:31:00+00:00",
-   "tags": [
-    "Tech Transfer"
-   ]
-  },
-  {
-   "title": "DPIIT Reports 2.5 Lakh Recognised Startups as Online Business Approvals Expand",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0NSWmJvQ0dGZkhKTVlBSV91MEd2Qlc4SGF2dExmdmFlYmNJcHdTWmoyVW4tcTFnYzFHcWVBeUVTUWtQdUIxWWJFU1lsTHMxZm1HQzJhVTVqaEVuX2ZtdEZlSV9WN3hMMjJWblV2QXJLeDdmT1BjVTlmT2cyZHBBY1hPaXp3NERjUlh3MFo3ei1JV1RzaFdPbUpzbHJEMFozdndOZWJEYWN6enFHcHZiVWppSkVTOGJuc29B?oc=5",
-   "source": "Indian Startup Times",
-   "snippet": "",
-   "date": "2026-10-27T14:07:51+00:00",
-   "tags": [
-    "Patents",
-    "India"
-   ]
-  },
-  {
-   "title": "Hilco Global Retained to Market PicoBrew Intellectual Property and Related Assets",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdEtfVUgtdE9WY0hWYk1RdExIQ3ZoaFB3Rk5zWnNTWGM4bFhmUDVsZS1zdDZFdXNxcDJLN3VIUGIwT3huNWl3YmVJTnJYc2ZpY1ZwLTZWNDV1LXU1OEYxd1NLa3pVci1vTXN3S3l1Zjc0MEN4UGs5NGs1MHhjZjN6NFhrSzduZTdMXzF2U2xCTUh1dktNSWItdTNJUHg4dVRiQ2R5ZVl2RW9GOTBPbVdkZUxqMlpPZFE0UXEtNUdtVDF6V1doZHg1MXQ3ZHN1dHNoN1lJ?oc=5",
-   "source": "PR Newswire",
-   "snippet": "",
-   "date": "2026-10-27T14:07:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "English rendering of PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54bUFXcWoydmtCMlduWko2MmhocGx6RWRGdnN3UG45cy1sLUo5WGVqcXZDbkwzdlM3Q0tJbFVlU2E0OXBhQjV5OFhWdTZ0RC0yQWpzVmJvOFFIX0Y3ZkJZOUYtTzFfbFNF?oc=5",
-   "source": "www.pib.gov.in",
-   "snippet": "",
-   "date": "2026-10-27T14:03:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "ExchangeRight's Essential Income REIT Acquires Dow Texas Innovation Center",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekc2ODBIR3UxVW9uT1hsSEJDNVp3MkJHc0FvcGUxaGttak5NaFhhbjBqSTNvdXFEcFY5SVB1ejY3X1E2X3FZTnBKUTFRYkd5OFpUVVQ4b083RXVudy1aS3R2N0JaTVROZk5Ya2hLcDYtc0pRZ1RTaWhwOXZLeEQzNmtkS1FFdWdaLUM3OHhQTGE0NkxHWjRxbmhoakEtbkcxTnQtdmFwTHZpN0E?oc=5",
-   "source": "Yahoo Finance",
-   "snippet": "",
-   "date": "2026-10-27T14:02:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "NITI Aayog member calls science, innovation pillars of India’s growth",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanlZMjVNd2ozNXpHemFHUzNmb1BDOW1UcnRhcklNd3ViN2YyOXJLdU1IOXBJMmU4ZDR0VDVTMEpReVA1Q3JJUUpKUnBwc1RKdFVzOTdVNDZuVm5LMnROd00wN2dkUGhaWWFxTm4tQ2V2OUhOcERILWY3d1lKWUc4bTJ4LVVnRG4zNXRBQlU4RWIxR2tobmNzb296bXQzbVY3LWFrdXF1ZlAyMDDSAasBQVVfeXFMUGp5WTI1TXdqMzV6R3phR1MzZm9QQzltVHJ0YXJJTXd1YjdmMjlyS3VNSDlwSTJlOGQ0dFQ1UzBKUXlQNUNySVFKSlJwcHNUSnRVczk3VTQ2blZuSzJ0TndNMDdnZFBoWllhcU5uLUNldjlITnBESC1mN3dZSllHOG0yeC1VZ0RuMzV0QUJVOEViMUdraG5jc29vem10M21WNy1ha3VxdWZQMjAw?oc=5",
-   "source": "EdexLive",
-   "snippet": "",
-   "date": "2026-10-27T13:55:12+00:00",
-   "tags": [
-    "Policy",
-    "India"
-   ]
-  },
-  {
-   "title": "TUM tops the list for patent applications",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SUl8yQjVKNVBqRDF5V2NnbnR4aDZpSWlMSXhZN0FUal84R09MaU9BdGQ2ZW0zUkNhbVFOd2NoWGdqUVdZckJFdVNxRQ?oc=5",
-   "source": "Informationsdienst Wissenschaft",
-   "snippet": "",
-   "date": "2026-10-27T13:51:00+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "CNRS and Max Planck join up with patent office on innovation",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3pULVlXVmJobWNfRTZHelpvUjVUVHNGYTlKUzVYOHdqQTZ2WVV1anF5M1AyaDFtVTZhTHpldUJ3ZXpsN0tKanlsNmRFclpfWEZEeXNsdGNwR0kxZkdCallIMmtHeEhrMVA2WXdXQ2t3dXhwNVByWGgtRzJFR2tLZGNOa0VxWWNJaWltS1M3aTlpdjFMQ3NyajJjYU03VWpLcmNvU3hjT3dMd3hSQXlhaHpmMVNHbngwQnNNTWV0cDA1cHdmdjJBWktteG5WQm5IdlE?oc=5",
-   "source": "Research Professional News",
-   "snippet": "",
-   "date": "2026-10-27T13:28:14+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "Agfa loses most of leather decoration patent on appeal against Gucci",
-   "link": "https://www.juve-patent.com/cases/agfa-loses-most-of-leather-decoration-patent-on-appeal-against-gucci/",
-   "source": "JUVE Patent",
-   "snippet": "In a recent decision, the UPC Court of Appeal set aside in part the first-instance ruling of the Hamburg local division. The appeal panel under court president Klaus Grabinski revoked large parts of Agfa’s EP 3 388…",
-   "date": "2026-10-27T13:14:24+00:00",
-   "tags": [
-    "Patents",
-    "Policy"
-   ]
-  },
-  {
-   "title": "DPIIT reports 25.42 lakh jobs created across 56 sectors through 2.5 lakh recognised startups",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcUlQVGJZNFYwN0xuWktpOURfY193bjQ4ZXE2aUg4eXFfM0hQVDlUQzNscHpSb2FHa0FkREp2emdpRkZJRXoxUUNkdUpVb1hidGRHaE5YbVBkRkRhZ1B0VnN1ajVvSHVfN1JaU2txQ0JqTnVaVkdTMkxaeTVEYXRQZWtYVHB1SC1PMzZlVE1qazlfNzBuMnhCNlYyZGNvU2lCcFRfZHB5U2ZHcGJtbHlyY1VGWDdUMnc4RTF0NmlaYjFrdUlzOThjTXhR0gHKAUFVX3lxTFBxSVBUYlk0VjA3TG5aS2k5RF9jX3duNDhlcTZpSDh5cV8zSFBUOVRDM2xwelJvYUdrQWRESnZ6Z2lGRklFejFRQ2R1SlVvWGJ0ZEdoTlhtUGRGRGFnUHRWc3VqNW9IdV83UlpTa3FDQmpOdVpWR1MyTFp5NURhdFBla1hUcHVILU8zNmVUTWprOV83MG4yeEI2VjJkY29TaUJwVF9kcHlTZkdwYm1seXJjVUZYN1QydzhFMXQ2aVpiMWt1SXM5OGNNeFE?oc=5",
-   "source": "EdexLive",
-   "snippet": "",
-   "date": "2026-10-27T12:36:37+00:00",
-   "tags": [
-    "Patents",
-    "India"
-   ]
-  },
-  {
-   "title": "Patent Litigation Europe 2027 with IPKat readers’ discount and new speakers announced",
-   "link": "http://ipkitten.blogspot.com/2026/10/patent-litigation-europe-2027-with.html",
-   "source": "IPKat",
-   "snippet": "Kat in AmsterdamThe Katfriends at Kisaco Research are back with an update for IPKat readers on Patent Litigation Europe 2027, which returns to the Beurs van Berlage in Amsterdam on 18-20 January 2027. The full agenda…",
-   "date": "2026-10-27T12:14:59.992000+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "Peres Jepchirchir Suspended Over EPO Finding: What It Means",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWlIUHVwb3ZJTHMxRmNFZm92eDFqbXgtNlJFTzhTeHVidVl6YXVlbjZmdVJZb0hOMFEtRnl6VWRVbEIwNUZ2ME5qZTRFZzRWQXR3UXJZdHVjdDBZcmdTZHhRRExpejNHbkJqUFZoc195TXA4ck1pSzFxUTZRVzBaNlRsbFcyeFZJM2I5dTlMZGlsakE?oc=5",
-   "source": "Business Today Kenya",
-   "snippet": "",
-   "date": "2026-10-27T11:57:46+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "TUM Tops List For Patent Applications",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OQXc4ZUZuam9ydHY4Z0VkQmlUZUJVbmdzbVVzTlkwSzdLYW12RjRYUU1Tb3p1azdvSHY0Vnk3RkI3cGstS1BiQ3hpdUtqakFEdl9wNl8wNTBHLUlLNFRyaEhueXFONHZld016QmtmUTJkclpsNzA1MDhnMjFmdw?oc=5",
-   "source": "Mirage News",
-   "snippet": "",
-   "date": "2026-10-27T11:52:00+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "New Book 'From Lab to Launch' Gives Scientists a Road Map for Turning Research Into Real-World Innovation",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUElJbnVPbmxBZThBczl3c050RU1FektJV0ZqdnpXalBtdWJhS2ppUW5ra0czV2xRTXdGeFQ0c3VNNTVwd3AzZElnUHRfTGhnQVc1SFBOS0lRMEhCQzdidDBzOEVZbWt1bTR1RjkybjhFOF9fZmh3YTlCS1VRazIyc255OW11MVRiV1c0UEdkLURDZTZKeW9rTDZ3X0NDc2EtbWZsNGpPbERnOThxU3VHcl9uMHhFYV9KLVJweTJvMHZpV3M0QzFiT0JmRXNrNjdnU2pTTTdxYVB1dVF0X2c5VngtOGp0SnFoVTNzVFBsVGE4TEhTZnhXdzlCQ0Q?oc=5",
-   "source": "Democrat and Chronicle",
-   "snippet": "",
-   "date": "2026-10-27T11:49:17+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "India’s Genetic Diversity Could Make It a Global Destination for Gene Research: Dr. Jitendra Singh",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNXQxV2NoX21ZUXN6bE9RZWlnY2szWHJOcnR1RFJVekpGaE5rSkVIOHBFZFJzUHpMbXRoTlVna0JtSXgweHhLYU5Jb05DbDNWeldJeHkxZWZuNnlQbWdNamR6MXRRVFMwM2E4?oc=5",
-   "source": "pib.gov.in",
-   "snippet": "",
-   "date": "2026-10-27T11:29:00+00:00",
-   "tags": [
-    "India"
    ]
   }
  ]
