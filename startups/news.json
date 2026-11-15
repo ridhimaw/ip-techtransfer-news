@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-11-15T06:39:24.092734+00:00",
+ "updated": "2026-11-15T18:53:43.383408+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,11 +12,42 @@
  ],
  "items": [
   {
+   "title": "Starling founder Anne Boden plots new AI-powered bank",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOW5zUXdRTmJ2V1lpZVVnMDBMR3p5Zm5IUk85anFPU2ZrXzVsM2FVZ1YwVGZ3dHVybUxoX1phcWptSnhiOExiRjlSa3JlSk9XbFRCU0FjUUdlS2tIMnQySi1oWFM4UktRV0hKVUZZZG9IRUpPQ05PTDJENnp3R0JGUXpFZDRHWjg?oc=5",
+   "source": "Sifted",
+   "snippet": "",
+   "date": "2026-11-15T16:35:07+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
+   "link": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026",
+   "source": "YourStory",
+   "snippet": "The second week of November saw venture capital funding into Indian startups drop to its lowest level for the year till now due to weak deal activity.",
+   "date": "2026-11-15T14:28:16+00:00",
+   "tags": [
+    "Funding",
+    "India"
+   ]
+  },
+  {
    "title": "TechBiz 2.0 Innovation Conclave 2026 in Kolkata Highlights Sustainable Innovation, Startup Growth and Industry Collaboration",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVRMOGYyRTBFUVFiTGJKc29SSXQxcVhGLVgwblEzOUFUdU1wSW1SeEN0bVI2bkY1YnloYU5raTVDUFpKaElMRzFVaDExSW50cWNXZjhobVJ5YlZieE9FVGY4QVV3YlN6TFpQLWNaT1piOXpxdFZRbDlfVzlXV3FkbmNkVFJReTRzV09haGNUQy1jSEFEWWZSbXUyZHJ2NHZSaENocHBJR1BNWUZ0VU1ZVXNwTDg0MGZSWXh5eXJjTmRweW1MWnREVWI1Yk5rZDU4UGY2b29jM2hTeEFpMmNNVXRBOElEMGRIX2ZN?oc=5",
    "source": "IBG News",
    "snippet": "",
    "date": "2026-11-15T06:30:49+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1IxRkdVSmlEVXBKSjdIdmVleFhtOVktZHhnOUJEblVYeHFiMFUxc2xhWFNFc0t2OS1fRlNFV21JczlvdTVEVTF6QTFuMGxMbmhkVWYwcEVJcFNzTUxteExSZVFkQVQ3aWt3VUFBSFNpTF83WVBfVmdENVpiMXlZUFNnREdIZjduZEk4aHo4MEFWTTFjMjZPb0E1YTdHdTdJUDVwbzFEOUlWU0E0U09TNjhoRQ?oc=5",
+   "source": "YourStory.com",
+   "snippet": "",
+   "date": "2026-11-14T17:05:50+00:00",
    "tags": [
     "General"
    ]
@@ -119,16 +150,6 @@
    "date": "2026-11-14T10:26:59+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1IxRkdVSmlEVXBKSjdIdmVleFhtOVktZHhnOUJEblVYeHFiMFUxc2xhWFNFc0t2OS1fRlNFV21JczlvdTVEVTF6QTFuMGxMbmhkVWYwcEVJcFNzTUxteExSZVFkQVQ3aWt3VUFBSFNpTF83WVBfVmdENVpiMXlZUFNnREdIZjduZEk4aHo4MEFWTTFjMjZPb0E1YTdHdTdJUDVwbzFEOUlWU0E0U09TNjhoRQ?oc=5",
-   "source": "YourStory.com",
-   "snippet": "",
-   "date": "2026-11-14T08:27:47+00:00",
-   "tags": [
-    "General"
    ]
   },
   {
@@ -407,6 +428,16 @@
    ]
   },
   {
+   "title": "Morsa raises $1.5 mn pre-seed funding led by Jackson Square Ventures",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEtuTjVUY1htV040b2t3REJtRS1HRmtFQlgyX25yeGh4QjFMemJHazNFUFZqVUdSMGFDR3hybXFsbjhYcUtVbkNERXNJM0tDZlVrMjZ1UlFfQUYzdVFoTURQYkM5VTdvRjhvR2tCWTZYNkctLTN2UFIyT1VLYUhDTUNwYkd6bXB3MEtOT1JMZGNaMk9ORmdoRG5ZTlo1QVhvd0lJM1NieVZwNWlTZHZ4c0FkRC0tX29HZW5mUlIzWGRUWHIwTXN3Qldsc2dEM2FVOXo5UUljY9IB3AFBVV95cUxPRnEwUTYtaWNUTnR0d25JeXluSXlvM2JMTjBRNkdHRDZCV0FiS0tsS3BWN3VVdFNtcTRjVi1sYmFFZFRQS0IwVUR6WDhULWFSX2RfNVU1LXVjOWVTRl9fSmo4V2d0RWpJRGx3cmNvb1hhRTNtVDlvczRvMHJRQklSNi1wbzlYSXNaalJHdHAyeHRQVGluR3BiVDAwa0psalBmdkJZaVRxSnQ4REZSMGVPS21nNUN5Y3E1WnU5TUFGYmlxUURqVVI0cjIwWkRrUkVfVV9XSHlRYzR2Uldi?oc=5",
+   "source": "ET Entrepreneur",
+   "snippet": "",
+   "date": "2026-11-13T09:47:56+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
    "title": "Healthcare startups turn to integrated care models",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjlNSDY2QXpMR2syV1NCWllGOFF2Tm9oUU1SMjJTNXdXbTZYcGdSNU1vVmtNYkhnTzVUN1FiZk5NVEd3MEl3LXQtYjFDUmk1RVlDZUoxcV9mNmN2Q1FfV1NydnZZUHVVSWdEVFNSd0NKdFVIQ01vVVRJbF95VVdfSnA1NDVuMVVyR0YwdmJIa0NuWGhuLW5FQ3B0eVlqc01OTkNMU2duZmNsWTRTNVBESVFZQ0dGQ01USE10bUFuYzhPbzlFRHlTX3Jn0gHKAUFVX3lxTE5iOU1INjZBekxHazJXU0JaWUY4UXZOb2hRTVIyMlM1d1dtNlhwZ1I1TW9Wa01iSGdPNVQ3UWJmTk1UR3cwSXctdC1iMUNSaTVFWUNlSjFxX2Y2Y3ZDUV9XU3J2dllQdVVJZ0RUU1J3Q0p0VUhDTW9VVElsX3lVV19KcDU0NW4xVXJHRjB2YkhrQ25YaG4tbkVDcHR5WWpzTU5OQ0xTZ25mY2xZNFM1UERJUVlDR0ZDTVRITXRtQW5jOE9vOUVEeVNfcmc?oc=5",
    "source": "ET Entrepreneur",
@@ -433,6 +464,17 @@
    "snippet": "A decade after its founder left a 16-year IT career to build a training company, StarAgile has trained professionals across 100+ countries and is now preparing learners for the AI era. Every journey has a starting…",
    "date": "2026-11-13T09:13:21+00:00",
    "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Spacetech startup Inbound Aerospace raises $1 million in funding from Speciale Invest",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeTRuWjRIUlg1YlhxcGRkU2I5UDV0R0dzQ21IS1lFeDctRVdYbFEtNzR0dGk0TlFlQVh2M01jRGFXZTVKWHZ1YjZ6VVE5eTk3Mm5GcWZwQU12Yl9Zb2I0ZHFiZmFvQXh2OFFKa3F0WHpLX3p6NWllVW05REZNYlJLcGdmN1BqYlpsSzNqcTNhLXVpYXVnSnl1OEd1d0lzek1jaTBuU1VKeGdoM1ZSTWtXX2Vsc0xHcjBSS0ZGaVFleWVUVERvbTUtLW9KWVNMSHJhZGZxRWhGOElTU1pmU3h2WWR1WlRZbWpVREFQbHo1TVk1YjVmbFJsT3loa1BEUmFnUjVjMjd30gGAAkFVX3lxTE0xWERuZVU4bmdWbWFPQ01VeG1Yc1JBZDBqSTVVdGlJdmFLNGdXbXltOGt2MzVFU0dVODZ0Sk1tWmd4ZF9mRDV5NnlncjZJYVFQRWplVUNhZENWUUFqTDBleU5ZSTg0bTdpallSUUVVWDQ0THZkTy14eGxoS1BqN2M2TElQTVFmM3NsSGM5UkU0MDNwQUdGYWdHTVFWV21aN1Bzck90eG1LZ2pwb2h6blNHaU9tcF96ZkRYcTBjeTFWNVM0cEFHSV8ybGdTcERzT1QwOHNGa2VZU0djR3Z6azlsaXVicFhsSjZ2aVM1T3k0LXRSeHlIa0JkQ0Q0WE1yYVg?oc=5",
+   "source": "ET Manufacturing",
+   "snippet": "",
+   "date": "2026-11-13T08:00:00+00:00",
+   "tags": [
+    "Funding",
     "Deep Tech"
    ]
   },
@@ -684,6 +726,16 @@
    ]
   },
   {
+   "title": "Space Tech Startup Astrome Bags ₹64 Cr RDI Fund for AI Satellite Network",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWRrSkJhQlc3eHdDSUJMdUNrNjZ3Q0JPaTNYb1dTY3ZibFZ3YklVbUdjTTRBbmlyWERkU21ocGZCbGtqZ2tnVkdMbzVjY2FVQks0TUhENGFDbWQ4OEZhUXFhckFmQ1ZMV3QzS3o3bUVOUm9URTNzVHJ3QUF5aS1FRlNxTWJsMWs1Ymo2RHZZUDJ2U3RZTGo2NDV4YVBqRUxYN1JnVFdldnUtQUFFd3c?oc=5",
+   "source": "Analytics India Magazine",
+   "snippet": "",
+   "date": "2026-11-12T12:23:04+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
    "title": "Desible.ai raises Rs 32 crore in round led by Prime Venture Partners",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVlhmNUwyUDh4cmdsdV9LbjJzTWJzZkdjdmt3NUxzSGZhek81RmtmVXFzX0k5UjEzRW80ZHVMV3g3RGhUa3FwQWg3RmFpaExqNWI2ZUViblUwNzFHY0FPVjZZRXhhYWJ1STZBMl95cWpIdUhwYzEwVjZyZEljUkZNc0ZhU1VGajlvODRIOVR6aXY4cUI3emotRGphYVM4a3NXeFBnQVFDclVQa1RYTHVtSlYzUDJpMTFKZWVhQkNqOFVFekFFaFdLYmJhamdROW82eXRqSjJkWUNOQXpM0gHWAUFVX3lxTE1SeHl1Q204ampBc2UxdnhLUXVfM1FGRXJ0Y25xN3luR19odXJGQWJTVDdyajFjV1R2MGZpUDgwcVNmR1UyZUlSaFQ5eE5mWWxlcHpISmFxMGFqZFh4Qm9tM3ZVOTVlOG9QYy1CNlZ5aVRLcUFZbk1QaVBMNnBaRTBtc1V2R0lmV0VXMUwxR0lPYWVVNEhJcnFGZTkweUdaZTExWFNGMjRHZk1uU3lpUzlwT0ZRLUNwMHBfdTE1anZRcFEwWmY0S2NUem9SMXo2Wk9sOFNRVlE?oc=5",
    "source": "The Economic Times",
@@ -923,7 +975,7 @@
   },
   {
    "title": "Suniel Shetty says backing founders a bigger opportunity than building businesses",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTXBTWm5IamR1dDZWdjNzNGdWQ3QybDdCQUdVWUV0LVNvczFMeHhNNzI1YjQ1SVRNYmt4aEdNZndBMlBNOHZ5ZkV1a09hUURoa0lUWTcwSmZtbnFWYnFhWHcwX1V0MGlXNE51aXRFakgzbkFKQ1NrX3lfYlBUMmlPazhMOE5GdExrOW5oV1V2Uy1OVFZfVlI5akNKdURpdWdaY3NxUFZ3Smo4Mjc3LXNpaDV1WTNScUFBQ1Rrck45MUkwbnhVNThEMnoydFRISzQ0TG5IaHVEc1hxLUxKdDdvUGtGYnHSAeQBQVVfeXFMT01wU1puSGpkdXQ2VnYzczRnVkN0Mmw3QkFHVVlFdC1Tb3MxTHh4TTcyNWI0NUlUTWJreGhHTWZ3QTJQTTh2eWZFdWtPYVFEaGtJVFk3MEpmbW5xVmJxYVh3MF9VdDBpVzROdWl0RWpIM25BSkNTa195X2JQVDJpT2s4TDhORnRMazluaFdVdlMtTlRWX1ZSOWpDSnVEaXVnWmNzcVBWd0pqODI3Ny1zaWg1dVkzUnFBQUNUa3JOOTFJMG54VTU4RDJ6MnRUSEs0NExuSGh1RHNYcS1MSnQ3b1BrRmJx?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOUZQSEN0NW0tTEdTc2JMcG1yUmR5U2VzRUFtQnBQRjRrbG5PSGJ0OUxNQ0xEWTl0WEo0cDQycWZrSERjSk45UkZQMXRwVUM2dzNPLWVGdFIwS1dWTVlhMWxQOFhXRGx0eUw4bk5UTzhGNHJTYVItZzRPWjhiVE1FaE0wWGk3eUUwaWxycEQyM08wU1NrOVRlYmtyZXhtMnJhcGJOT1RKNXlRUkZ6YWZJY1RLTzNIc0VKTllQT2pfTzJpbmk0dk93d29SMXdzTVJ4SU1FQ0JIUEZuNmJ2emd30gHkAUFVX3lxTE9NcFNabkhqZHV0NlZ2M3M0Z1ZDdDJsN0JBR1VZRXQtU29zMUx4eE03MjViNDVJVE1ia3hoR01md0EyUE04dnlmRXVrT2FRRGhrSVRZNzBKZm1ucVZicWFYdzBfVXQwaVc0TnVpdEVqSDNuQUpDU2tfeV9iUFQyaU9rOEw4TkZ0TGs5bmhXVXZTLU5UVl9WUjlqQ0p1RGl1Z1pjc3FQVndKajgyNzctc2loNXVZM1JxQUFDVGtyTjkxSTBueFU1OEQyejJ0VEhLNDRMbkhodURzWHEtTEp0N29Qa0ZicQ?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-12T06:01:34+00:00",
@@ -1555,6 +1607,16 @@
    ]
   },
   {
+   "title": "National Startup Awards 2026 Are Open: Categories, Eligibility And How To Apply For Rs 25 Lakh Prize",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeG9fUGsyZ0dVUVZsbEhpRjQtQzM1UHo1T0J0QnhMeGk4blZOWndxSzRzeTIwWnBSQmtielNEWERpelMzQlRjMzFlRWZhdzZpWlprUlVRUTVEaUVaR0hYNWdMY1R6QlBqc1Q5OWU1N1hDRzduUDl2V3FXenFRbEVybjAybkJqLXhDZFVXXzN1R29mQW5KZkFXaGhueGtuSFdVMU9EbkVYQ3BwYUVrbEFGRy1XUGdyVjBUQTUyc0VxMlZjaEJPRDlmTXR6SDdNcWo0SHFCSDRJZVRwVWRJMjlCLTlUblVNWDjSAe4BQVVfeXFMTVhLci1LbmNrQVFjTC0wRzc2SjZvRDdISHdWQXJKd25OZHd6bk9Ca1kxblIzZERhbWRsWjFNWDdWZjBFUS1Fby1Gbm1tWlpVRU9VT3ZhSlZlVS01ZWRjZDRiREt3Um11amRzU09tZGxIN1NYNlpLTXJDYXRJdlo1aFB2SkdyV0l3YzJEUzRaWk1JdGxpM0tqeUJnYVR5d3kzSVFOc0pFUkhBbGM2eGtIaVA3OUZ3NXQ0NEJRdl9BWDh0aExLUHRVTXlab2RyeEFPQnprSjhJNlUxejhESjFVa0kySnVyWjNVVEprSWVNUQ?oc=5",
+   "source": "The Daily Jagran",
+   "snippet": "",
+   "date": "2026-11-10T11:16:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "National Startup Awards 2026: DPIIT opens applications with Rs 25 lakh prize",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaWt5Umd0SDgzMWQ1aDFycjVJbnlxMnpvMEE3TEd4dzB6cU80UHZvRHk1ZER6R0tFdDRwT2ZsVDNaeDlCeHJGZUc1YlpGVEtWc29JUHRnckl4QVlGcGFEUTV4VnBqZl9aX0FKb2ltWlNHOEJJanpNdDRIZndZcFlHRmZSbUk4N1F6X0RxbmVqOVVZY2ZFVmdCOHFLTXRZYVlYX3gybmFodzB0RTVzRG5TS1NRdDl3NjRuOVBhcXNxYktOUlBtZ0wtVVVjc0RwVEdTbXJEUGZGVFVSN0Y5X0Z2TWJtakpMSVQxS3fSAfABQVVfeXFMT0VlMkVaTmswSnVMQ3RmWWxwR3ByVjluSExaaVRmV2VCRlRLRDJuZW5Sd3JZa2lTTTR1b1ZmYlkzZUs0dkZTcEJtQm5xcExNY3Fvd0l1bnlTdTZrUWZrZ3FSeFBjNHdxQzVtT29aSThERElPSzZDbW5xUjE4YndIS1dNNVF5OVhkTXEtVkh3dDF2UzB4R2FvOHRjZ1JuWmlkOGNmMk9zZ1VINjNLOTVmSTVCb29kRU1pdXR3MVJZQld0VFRrN0RsRllRM3dPRWFjOTd6WGkzaS1TbzFTdjRYbjhGLWlwWm1TclJMekhSVTJD?oc=5",
    "source": "BusinessLine",
@@ -1630,7 +1692,7 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDRuaGE1ODNHMUcyQXByRk1Zc3V6OUhrTzJvbUYtR3ZVZS1uOTBFLU4yUmZxaTNSMmhmTm1lZGlYSnVnQ3RzMFpqSUl5ZDNMaFo2Y0t5V1J2OW03NExDZ0h6R1dzQm00X1VnLTR6Q3lJdkdEbjhKTDQ3ZXYtejRSX3ZaYWJaUTduX0xKcFpsbjNVMUw0?oc=5",
    "source": "Philippine News Agency",
    "snippet": "",
-   "date": "2026-11-10T07:31:53+00:00",
+   "date": "2026-11-10T07:31:30+00:00",
    "tags": [
     "Incubators & Programs"
    ]
@@ -1688,8 +1750,18 @@
    ]
   },
   {
+   "title": "UCL spinouts looking to raise",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WZ3pWczhyaXVxSmdFWHlVLTJpTUxHZ0x1TUw1ZEJaVzlSZE1wX2dSM1ROVDVDYXBCMlBERVdXTHJ4UnNZYmdpd3M2NUdSbWRUMElURE5scW4tVjBfZ2JjYV9oZTFKNlE?oc=5",
+   "source": "Sifted",
+   "snippet": "",
+   "date": "2026-11-10T06:01:39+00:00",
+   "tags": [
+    "Spin-offs"
+   ]
+  },
+  {
    "title": "2 job exits, failed startup and multiple promotions: Techie's salary journey from Rs 37k to Rs 2.2 crore",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQlFoUGdzOFJIcVp1X0dKMS1YUElTalBweVo0WFZLX2dvN0JEaEFOWHhuVlk1ZWhMN0NKbS1sNWhRdkhGLW83YnlpRzhkMVZmSUk2Qksxam1sM1VkTTRNSlhBNHpyMnJGNTNpLXdEelc0a2VaWDdrMFZVU3pUVHUwQ1dIZlR2dF94SHFVLVBBdlNmRzVHdnJEX0dudk9wazFIZmR4anJBWEIzMUVZakdWSVVhZHZfVGVZdzFWMjVsdkdZUWpYb0tXZDdZUGpUS3V5b3Q3WG1qVVhDLXJZVDdvWmRuX3F0eXNzOEU2M3ZRbzBhT1HSAfMBQVVfeXFMTUJRaFBnczhSSHFadV9HSjEtWFBJU2pQcHlaNFhWS19nbzdCRGhBTlh4blZZNWVoTDdDSm0tbDVoUXZIRi1vN2J5aUc4ZDFWZklJNkJLMWptbDNVZE00TUpYQTR6cjJyRjUzaS13RHpXNGtlWlg3azBWVVN6VFR1MENXSGZUdnRfeEhxVS1QQXZTZkc1R3ZyRF9HbnZPcGsxSGZkeGpyQVhCMzFFWWpHVklVYWR2X1RlWXcxVjI1bHZHWVFqWG9LV2Q3WVBqVEt1eW90N1htalVYQy1yWVQ3b1pkbl9xdHlzczhFNjN2UW8wYU9R?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUWpZTDh4dEJyV3hwZjZ6QTAzdUFiQThWZ1dXZGNMY1pkNi1GVXgxSS1KWGdvd3pyY29NQ2k5clFwNEVjWk02LWZlcGZWN3ZmUkNxcVBkN1FnUHhtR3ZqUXU3WElHQTYzREk4MDdkbHlXTlFXYlQtcVdGdnhFX2JNM0ZTWmNCa0oxV0QzYlBaZ2RiXzZWa3VDYU1iekV4WGFSbGlmYm5XcXdUd214SEhhTDRDbDZOLXYwSlVRSGxjSVFiWEdZUHEyeERCWWJ6dmJNV0UwNDB6TV9fNVNTc0h0cHVDdS16RVhuaWdYdjhR0gHzAUFVX3lxTE1CUWhQZ3M4UkhxWnVfR0oxLVhQSVNqUHB5WjRYVktfZ283QkRoQU5YeG5WWTVlaEw3Q0ptLWw1aFF2SEYtbzdieWlHOGQxVmZJSTZCSzFqbWwzVWRNNE1KWEE0enIyckY1M2ktd0R6VzRrZVpYN2swVlVTelRUdTBDV0hmVHZ0X3hIcVUtUEF2U2ZHNUd2ckRfR252T3BrMUhmZHhqckFYQjMxRVlqR1ZJVWFkdl9UZVl3MVYyNWx2R1lRalhvS1dkN1lQalRLdXlvdDdYbWpVWEMtcllUN29aZG5fcXR5c3M4RTYzdlFvMGFPUQ?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-10T05:52:24+00:00",
@@ -1898,16 +1970,6 @@
    "date": "2026-11-09T05:46:14+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "UCL spinouts looking to raise",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WZ3pWczhyaXVxSmdFWHlVLTJpTUxHZ0x1TUw1ZEJaVzlSZE1wX2dSM1ROVDVDYXBCMlBERVdXTHJ4UnNZYmdpd3M2NUdSbWRUMElURE5scW4tVjBfZ2JjYV9oZTFKNlE?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-11-09T05:01:22+00:00",
-   "tags": [
-    "Spin-offs"
    ]
   },
   {
@@ -5140,69 +5202,6 @@
    "date": "2026-10-29T15:56:03+00:00",
    "tags": [
     "Funding"
-   ]
-  },
-  {
-   "title": "Startup Bihar Holds Statewide \"Startup Bank Connect\" Across All 38 Districts",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1d1d2VpeTRYZnM3dTZQbjlkYXlqdkE4bEdwd3pmMVFuRENoSHJFQkJWZlA5ODlvbmVER1VQcWJNT2NWd1VFTVNpQ2lhWUI1dEtWRWZTUGg5LUdQbnV0MHY4Mk56ZVEwOTV3NnNfSjZlXzNIQ2F0NHZaNHdlb2ZMbzZINzdjQnMzMVBlQVVLNmZSQ1Nhb0hLd2poXzRoSl9XMmhucF9yR1BQdWFjZlBTanhzem01NWh4SHVwbWs3dDZuRDlTNUtJ0gHHAUFVX3lxTFBrV3V3ZWl5NFhmczd1NlBuOWRheWp2QThsR3B3emYxUW5EQ2hIckVCQlZmUDk4OW9uZURHVVBxYk1PY1Z3VUVNU2lDaWFZQjV0S1ZFZlNQaDktR1BudXQwdjgyTnplUTA5NXc2c19KNmVfM0hDYXQ0dlo0d2VvZkxvNkg3N2NCczMxUGVBVUs2ZlJDU2FvSEt3amhfNGhKX1cyaG5wX3JHUFB1YWNmUFNqeHN6bTU1aHhIdXBtazd0Nm5EOVM1S0k?oc=5",
-   "source": "illustrated Daily News",
-   "snippet": "",
-   "date": "2026-10-29T15:08:29+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-   "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-   "source": "TechCrunch Startups",
-   "snippet": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-   "date": "2026-10-29T15:00:00+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Mobile connectivity startup Braid raises $38 million from Octopus Ventures; here's how it plans to use the funding",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT1ZYVzVIQmFuS0Ywb3VnbzJabk1SN2c1OTMyRVg3WFB3UDRYMndqN0JlUTFoUWVqMk45d0RQdTFZMEpYcDFjaVZIZzJ5SUdzRWlhMkRGR3ptaHhpSUZBazJHb3FuVW84LUQ0dExVZ1lkRmxmMlJmZDF0dnpaYU4xLVFOaFQ2WjBmdUwweTlyTDVtdTFZNjFaRE1Gb3VwaEowbHBmM2hNMGZsemYtMnVOQ3F2TVJvTlhJUlpqYk9LRjMzdzVUWEtCQWEtYVJpaVEycnRRY0FMRjB5MHdkYzBqMlY4OGJ5clp4ZXhUdm1ZSUlid0w0akQ2eGswTFgzQXRp0gGGAkFVX3lxTE5PR3RCVFd4Y2t1d2EwTGc2S1RWMFJ0aGY5Q0dHWTgwZTc3a2MzRDBha053N1Jab1FsdjY2M0hEbHVwRFg0U0JFaUN5bmEzTmdHQ3ZTSTFqMjg2U2tzbEJEU3luc0ozZGVrYkNTbTh6SmU1NDdJS0VwM00tTE13a2RsMmY5RC1IaGdvQm1RbXN3MGFpaVVsV3Rhdl9rNjIybGUzZDV1b3pFZ3pjTU9DYm9rYWJlQVQyeko3Q2V5cnVXMEhYMWkwalN3ZE55THU0V3kwUDg5SUV2TGRSci0taTBoV2lkYUN3SkVLalYyMUpvdEE3SnE0RFAtVEpiNmh5M0tNamxsTVE?oc=5",
-   "source": "Livemint",
-   "snippet": "",
-   "date": "2026-10-29T14:41:30+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Meet Lukas Biewald, who lost his CEO role at his first startup; how an unpaid internship at OpenAI helped",
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQUzFKREQ0ZFZrWmFITmVsbm10eEtSUzZ6SnhleGVNaGxQX3psNVR1aGZGVjFTNXJTdVJmZlRuV1BFV3o0QmxDalk5UXloNkNSV1F1UHVkTDlPWWNwbk1UbnR0LTcyc2ZIeUdDU2NRZTZKd1NOeXdCV3pnbnVUQXo3LUlfYmZZMC02TXdqTnc1cExXVU1fVlhLUWo5NV9rcTRMckZRXzhVQVFJMU1LRC1yNTNZVFN5c3VVQlhSOEhKOVNVT3ZUQjV2RHRHV1VHeloxMzMwSFVoQTIxcjJBWW03V0NPd0ludjhVYUJkbmMzbWRFTjdGSkI5YjRrWS1oOGtKd1BtVHFNZFljTVdseG43SS1NbjdCeVRIeW1Sd09weDZ4amV3cXJEVG92Zm10aDdWUWRQeFFqWHRsSFgyUXM3bWpvZUQ2WnB2TjZhMkZGdDV6aUdyOV8yWlBXYnZveEhXcWZGTHVKNXpKblBhdnhr0gHoAkFVX3lxTFBuZXI3aG9tb2pNZDFvaGxYcF9Palk0TnE0XzByVUR6NVJrenVBNVZDelEtZjl1RS12RDZSb0c1WFdvSUg5WC1DSnd0LUd3M3ZZSDI4VlFkWk9lNjNCeENsZFdyb1p6UFhnMTZyZ0pZNzc1Z2w0T0N2b05CQm1tSW85c3Rkdkg5aFBoVFo1UURqM3JJSWpHaWlSeWdOZ0NxODRsSGdCRWpoM2plWmxqR1lySXZYMGRaYV9OR3Azc1pYNjFiUGtZR2dwRFBWRkZyWXdFMTlUWTMzbEJaT19IdG1WX0MxX0loYzljMzQ3dndFZUx0eDY2VkhQZlRCUGh2NWJoUG80YkpnUEF2aGdLVjhsUENsY1hrUUFwU255NThhVXkwOEd6R293VmxwWlQxdlJfb1RVeW54ajNWbEJpelNua0RDc0RDRmtKR0xZaDUtQkF5THhsLTU0clBWa2JGNnNLSHhPRkdSVQ?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-29T14:39:22+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Tech3 | Roti, kapda, makaan: Consumer deals surge amid VC interest; How Ather stole a march over Ola; and more",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWXJlcThGQXZFRHZESlJDZVh2Unc2cnctNmVXZGNWQ3VzOUJnbU9MR3JYYnBDZ0d6WUhWbDFhX0FZUXhTYWxkVnh3a3JDd0hnUW8wLVJJT3M4NHNpdlhyNXNnajdqY2N2c1JmMF85R2VpV1UzMDlhWmxDMG9XeWJGWHFISEJhdktyU0kwUDhRZGVfeDNidnVOVERXaklpWTF4OFplUHR4UUxYdXl0V0MwSDF3OTB1bnZSTXVrNW5iMnBsR0pJd3UzMTQ5amtwczhmMkhvWnJNSkp2Q3Jnb1VNcDNCWVUyUzV1S0taekU4QTltX3c2ckMyQnZBU2dUT2Iwb0N3dGhMYzk?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-10-29T14:34:20+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Venttup Raises $3 Mn To Bridge India’s Precision Manufacturing Gap",
-   "link": "https://inc42.com/buzz/venttup-raises-3-mn-to-bridge-indias-precision-manufacturing-gap/",
-   "source": "Inc42",
-   "snippet": "For hardware and deeptech startups, the challenge does not end with a working prototype. Moving to commercial production requires manufacturing…",
-   "date": "2026-10-29T13:14:22+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech",
-    "India"
    ]
   }
  ]
