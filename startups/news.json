@@ -1,7 +1,7 @@
 {
  "title": "Startups Pulse",
  "tagline": "Auto-updated news on deep-tech startups, university spin-offs, incubators and innovation funding",
- "updated": "2026-11-15T18:53:43.383408+00:00",
+ "updated": "2026-11-16T06:35:43.423704+00:00",
  "tags": [
   "Funding",
   "Deep Tech",
@@ -12,13 +12,206 @@
  ],
  "items": [
   {
+   "title": "Exclusive: Xpressbees raises Rs 100 Cr debt from BlackSoil",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQW9EcnlIYzVUdTRfanV3ZTU1aVpEOTA0UGduMWFHVXZmVjNwSkNRWkxwbW5Wa3FDZndxVXpEaTNIcFN5WjZJX3haenZPaUZ6OEZGemNCYWdSV2Z0M1pHUEc5MkdBS3ZkZm15NFcxZThZWlhFT2hoYXNZcEhYY2ZrZGUzc3VyLVpvcW9UOUxrQnRKVFhhQ2lXTVFIaVdCZ9IBngFBVV95cUxPQW9EcnlIYzVUdTRfanV3ZTU1aVpEOTA0UGduMWFHVXZmVjNwSkNRWkxwbW5Wa3FDZndxVXpEaTNIcFN5WjZJX3haenZPaUZ6OEZGemNCYWdSV2Z0M1pHUEc5MkdBS3ZkZm15NFcxZThZWlhFT2hoYXNZcEhYY2ZrZGUzc3VyLVpvcW9UOUxrQnRKVFhhQ2lXTVFIaVdCZw?oc=5",
+   "source": "Entrackr",
+   "snippet": "",
+   "date": "2026-11-16T06:18:18+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "upGrad broadens its business with new workforce advisory venture",
+   "link": "https://yourstory.com/2026/11/upgrad-broadens-its-business-with-new-workforce-advisory-venture",
+   "source": "YourStory",
+   "snippet": "upGrad launches workforce advisory business as it expands beyond skilling, aiming to help organisations navigate AI-led transformation through integrated workforce strategy and implementation.",
+   "date": "2026-11-16T06:18:04+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI",
+   "link": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/",
+   "source": "Inc42",
+   "snippet": "Bengaluru-based semiconductor startup Bharat Semi has raised $24 Mn (around ₹215 Cr) in a seed funding round to develop programmable…",
+   "date": "2026-11-16T05:54:07+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
+   "title": "Bharat Semi raises $24M to develop AI-enabled sensors",
+   "link": "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors",
+   "source": "YourStory",
+   "snippet": "Bharat Semi has raised seed funding to develop programmable AI-powered sensors, targeting the growing demand for intelligent, energy-efficient hardware for robotics, vehicles and other machines.",
+   "date": "2026-11-16T05:37:52+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "AI startup Zelmier.com cuts discovery & bidding of government tenders to minutes",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNek9iblNqY2dST3BPYmtNa3hZZHVGakpETXNFWUFPS3djQ1RJVW80amRBalAwWGozOFhXUjhkWHczQWtpMklCRGQyOERTT0h1UktId1hJNkRGbGNtc0FUUlo2UFBWTEc1YTNFZE1vZjJ2ZVpoNlZqOS1rTmkzWHVOaTlQVWhKWVBJV096ZEVpOUFIS1d3aW10ZGd1dm9NZV9qTGN1VWczMDBjd0plbnE3SEFwbUx4em5NMzhYODBMalVybUJTLS1Vd1B2VjliWkJULWFMdUVQallEN1HSAeABQVVfeXFMUDB3VFRvTERrU0lJeWFkcEpCclVwUlpWS0pwb0cwSS00MkJpTzFUWjlLTlV3RlhTekdCUVlGWUkwQkVheGxKSmdwMFUyU3dibXBPMjJEbkNkNUhUNGVMU05BRnY4ei1qQmxPZXNvMzA1LVdVaXFqYnFrVi1vMFRtaWhtaDB5ZUlDVGdQMmN4NVEtTmFZZVpnUHlSTVMwNHZUWDZ4SVRiNWFYbVhTeE1mMFRJV0wwbXo0RVpZRjlNbzI0OUFjVDZHMVk3MEl4M1UtaUd6S2kwcHFxSDZ2ZUpES2M?oc=5",
+   "source": "Livemint",
+   "snippet": "",
+   "date": "2026-11-16T05:10:39+00:00",
+   "tags": [
+    "Deep Tech",
+    "Policy"
+   ]
+  },
+  {
+   "title": "Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xWDdmeC1RV2tQN3VDU0cxSXJQRG93aXAtQnJjNm9VUDFFbkNrUlhpNmlzR0YyS0xYdmJlc1JfenAwaTJfM2VZZnptZ3lOX2g2c1A4WXp5OXRMVkxFOVNqSkM0bXI2RmxoVjdYOFZITDhuZXZBV3dJZA?oc=5",
+   "source": "Sifted",
+   "snippet": "",
+   "date": "2026-11-16T05:03:02+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Z9IBswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Zw?oc=5",
+   "source": "Entrackr",
+   "snippet": "",
+   "date": "2026-11-16T04:48:32+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Oister Global unveils fund to bet on deep-tech startups",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnRPMVd5THdvU21CZnRpdzMybkJMU1NvOFZjMktMRnoyWHo4WnBLQUQ4MnRENElDSlFGQkpBTXcwd2FxUF82WldrR04tQ3JwV21uNEkxbUpKb2w0bk9vM21GeXJSTFpidEo0ZHBmelBlN3B3RVdfME5vZkJqbnVpWm9RcmNQZ9IBjgFBVV95cUxNSTM5elBneWdKNEpnVlNJaWtDNXhhRDRPN1pMdmprSlQ4dE9lOTZMcU9vdnkzamhVbGxWMm41RzZRNWJPZXVyRUMxRlhiU3Y2WEprZENPU2Q1U2lucVluc1RlYVN3X0NxMWk2RDh2SWJudzJkSWV4VlplRldtQ2p4VFpfLWdseXM3SUxZcy1R?oc=5",
+   "source": "VCCircle",
+   "snippet": "",
+   "date": "2026-11-16T04:37:05+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Oister Global launches Rs 600 Cr deeptech fund",
+   "link": "https://yourstory.com/2026/11/oister-global-launches-rs-600-crore-deeptech-fund",
+   "source": "YourStory",
+   "snippet": "Oister Global aims to invest in about 8-10 deeptech startups with a proven business model & technology and its capital will assist in rapid scaling.",
+   "date": "2026-11-16T04:15:11+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "The NVIDIA Fallout, Weekly Funding Rundown & More",
+   "link": "https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/",
+   "source": "Inc42",
+   "snippet": "NVIDIA’s Hold On Indian AI Jensen Huang’s exit from NVIDIA has thrown the global chipmaking ecosystem into disarray. But for…",
+   "date": "2026-11-16T02:30:41+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
+   "title": "How Tej Chingtham built Northeast’s first incubator; The pilot-turned-entrepreneur who is building a wellness brand",
+   "link": "https://yourstory.com/2026/11/tej-chingtham-northeast-incubator-pilot-turned-entrepreneur-wellness-brand",
+   "source": "YourStory",
+   "snippet": "In a conversation with Shradha Sharma, Founder and CEO of YourStory and The Bharat Project, Prof Tej Chingtham, CEO of Atal Incubation Centre - Sikkim Manipal University Technology Business Incubation Foundation,…",
+   "date": "2026-11-16T02:00:00+00:00",
+   "tags": [
+    "Spin-offs",
+    "Incubators & Programs",
+    "India"
+   ]
+  },
+  {
+   "title": "Oister Global launches Rs 600 crore deep tech fund to back growth-stage startups",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN01KOHR5Ml96WHdhLXZ1S2NZYVBkWkFac3Y4dnJtQzVxX0ZKeVV6QU42eDFJRThHNFNlQWhDaXdHZFBCaVZlY0RtdHk3N2tOZjVrUjBWMi1Fa3YycVBiaGhnTkp0QURiamdoYnNnWDRsZDR0TDA1LXdDSmNtYXBQZWpTbHFvU2cyblp4T1pydHJhcm1Oc3ZqbFVCbldJWGFBeHJvazFpeGpicExSZFl0N2Y0cUJEbnp5YnFGREYxQjhCcFBiNzVNczA4cEN6Qm81Tmg3VW1URW9NTFVTcEHSAeMBQVVfeXFMT1Uxa2dSR1lXV3dCMFF6QWczVTR4ckZDdzhtdFNoakhpeDZycHFMekdfdTJYVEtGSUxmbHlwS3ZocWJSS0RYVU9KVXp0d251V09YY21xaFNEcUNKVmFpV01pUGtOZjlDbUNuZi1xdXJaNWtsWUZjUGl4Umthc3NPTERwbWFJRnpGd1RMX1p6NWo4SGRJRnJyOXE1VkRWbE1jUlBLdnpYc2prVEhVMjI0VTBHeWRvZWktRVdfVDVBWnB2VHhzV2pFUEg2d21ybk5LUmVsU3QtaDVjMXF5SjJWUWluckE?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-11-16T01:47:03+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW1MMEZVX0l6Nm05VmhVQXgxU2YwSXY0MHRXN21icVpRNW9pSlU4c2Z4akJQX0ZjRWhLcm82OWw5Ynd3RnBnbF9pX2Q3cGN1Yl9pc28yNjJsRHpBRjdiTXNCSmVuWm80LURYTDRTc1o4Q1FRbWFLaWhQMkl0T1lCamdJSE5lZmt4QW9TRDRfUVpMYy1CdXhCT1pkMklpQ2xNdEM4NFdRanQ3bmxJZG5vM2U2eFV5MDdyLTE3dEd3Z19rUU5HUmplSV91Wkk4UW_SAdQBQVVfeXFMTWV3QTlLY19mOERxN3AtSkJJeEo0dnRoZDg5NXBpVENMcU8zSHgzS1llSllNR2M5Y2owaU9Ca3JCM0tiZXJDeUZSeU9MU2pILXFEUl9ubGFkYjk4N2dDUEt4UDFzVWh3QUg1RXdzYTFoR3htbGM5clJvY2tacUNzZlEyZGdxU2ZKcmVwTHdod2E0OUl2RW42UkhLVDlzOHo0dHZvZ0FVdGVfa0kwZVg5NnJ4RU9JdGRpalRrWFc1dVF0RVFScFg0SHRBYThfaUJHWXJiOFk?oc=5",
+   "source": "Livemint",
+   "snippet": "",
+   "date": "2026-11-16T00:30:46+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
+   "title": "Oister Global launches Rs 600 crore fund to back growth-stage deeptech startups",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNXFRVzNxQ3VJUl9DXzJ4aWhmcU1qV000Y0pMWWxjV1ZtWnpMTF9tMjAyWTJqWVNORVZ5bkRjd2JsTnh5R3lfNkp4bVE0MFhhOEROVUNjUHFpUVJPanpkVFh5MmNPenQ4VERBeGFnOTl1Z25hQkxyTG9VQk9fVXV2QVNDY2daM3RuRmxhNmhybWc3MXoxWUxwd0oxUXpZWlpZd3Rta3BzZ2NhbE5xZDUzTGdyQzYwNVlMMkE4YWN1Snd1RmxsaVF4RHhaOFpmZmdla2dldmZ6cXR1NEF2bHRZU0lCVWdkLVVxZktWctIB5gFBVV95cUxQM2VQbXBPOTQtY3VnN0RLOUQ4VnNtRWdpOFM3OG40ZVpIUU1KcUg3cTFUNDg1dV81anNxem55bExWcWppaUtzMkhoc3FaTG01VXdzbEdaUmJQVWZOTEpnLTIwMS0tT1RNbzRBZ3NuZ0U1b3ZOcEZEX2hJOTJqaXc2UnRnNTBxcHZtRGxsTE5LdXdMcm1rMG5MZnFPUmZlNW5HeS1Mc294Y3ZlTUZHYnhzY3JHYXJFUGdvMTBQWXY0clUzTWxZbDdYLU5XRjRRZWtRN0s1aE9uM05oVE9aZXpnZGFFVEk4QQ?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-11-16T00:30:00+00:00",
+   "tags": [
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Bharat Semi raises $24 million seed round to build AI-powered smart sensors",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSFA5OHJjaENNOUpxWHgwanZiRlowbUtwZ0dScWhwRU1KajdYVW5nLXlRSi1tak8wblVPVUxmMDZqLWZUT091ZVU2ZHdNV1dIQWJCTVUwU2tySE1pX29ZVUFWQkVJTjl1dzBIU2VKY2NXdUk4cjVlcmRKeFlsMXlLS210b2tGNC1hUUV2NEoyUVFVYmVzdmVFb1ZPSE51VmhaV0g1WTdNVWl6NUdSRDB5cENHcjVqT1YwTlF0NGp5UmdXeGpTR3lLdXhUODRMWnp2UXdheW95R29fOVBJdkFvTS11VmUwQdIB3wFBVV95cUxPWlV0aTh6dUd5cXZwUzNFSFlyMlJPM0JDYTBHMzViUWl5TUg5TXp0T3p6YnhLQkxudTIxTm1WRThiR1kyenAxNlB3aDhwOFU0Sjh3MHozdjhNYkdGTHlsSFNJeDl5dHBiWncwX0RFcWtOR3NTQnFlSHN5aXF5cTBmdkVmVVhCUjdwM1VidW9TU1FISi1xVXVCcVYwbDFVSXdrUzZLTWZ2emttQjJBMjRZdkdkNy10OURQWVhlYWx5aDYxVWd6aTlzYV90N05Kd1hycC1Kc2YtZm83c2c4cTkw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-11-16T00:30:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch Startups",
+   "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "date": "2026-11-15T23:30:00+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
+   "title": "VCs scout campuses for the next big startup",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQODlxYWhaU05iTWdJVW5QS3Jka1gxNGNpZFhYOWZ3Q1RNR085eHRXN2FmeGlfMzBxdFdqU29MdE9MeHR1LU9Rc2EzSUc3aGoxS2puTjg4YkZ0ZnlKZmpBeFhkSmtTSkNEWTdndEJzMF9SaUdGb2NoV3pzeFEyQllvQ3g2NjBQXzQ2dnNzUE4tNzlMSFhadmNGT0JiSVNhS09q0gGnAUFVX3lxTE1SSkJ0a0JCcDR0SGNOaUZKYldZOWtYUkU4OTV2UGI1Mjg3cC1SdzFDN05waHdxT1BrVm5lbUtYbXBoaV9CTTJ1aXJBTlBrcUt1UWhuZVJULUZLSUdXM0pPWWhkNmFfMktBWnRBa2NaTG9FakVXOTJ2WkpyVWhzSEd1N2dCVnNReFZIVThoZE1tX2tIbG5uZjJnNkxfMGpQc0tSTFZ5OV9B?oc=5",
+   "source": "The Financial Express",
+   "snippet": "",
+   "date": "2026-11-15T18:51:12+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Starling founder Anne Boden plots new AI-powered bank",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOW5zUXdRTmJ2V1lpZVVnMDBMR3p5Zm5IUk85anFPU2ZrXzVsM2FVZ1YwVGZ3dHVybUxoX1phcWptSnhiOExiRjlSa3JlSk9XbFRCU0FjUUdlS2tIMnQySi1oWFM4UktRV0hKVUZZZG9IRUpPQ05PTDJENnp3R0JGUXpFZDRHWjg?oc=5",
    "source": "Sifted",
    "snippet": "",
-   "date": "2026-11-15T16:35:07+00:00",
+   "date": "2026-11-15T17:04:55+00:00",
    "tags": [
     "Deep Tech"
+   ]
+  },
+  {
+   "title": "Decart+ai+startup",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pMDFYLTZYdGNpMU1ab2lsVGZKbHVDaUFVNFRwS1l6dW9PTXl5OW1yZm04a2QybVhBRGg5TlY1SFVzZnBPNDI3eng4eVZLdzF1ZEZPcFp2S1VtRVdTSXFINTEyUElqcE9qMzRxcWQ2dVg5OGtHUExoVTBDeVI?oc=5",
+   "source": "ET Manufacturing",
+   "snippet": "",
+   "date": "2026-11-15T14:31:04+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -38,16 +231,6 @@
    "source": "IBG News",
    "snippet": "",
    "date": "2026-11-15T06:30:49+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1IxRkdVSmlEVXBKSjdIdmVleFhtOVktZHhnOUJEblVYeHFiMFUxc2xhWFNFc0t2OS1fRlNFV21JczlvdTVEVTF6QTFuMGxMbmhkVWYwcEVJcFNzTUxteExSZVFkQVQ3aWt3VUFBSFNpTF83WVBfVmdENVpiMXlZUFNnREdIZjduZEk4aHo4MEFWTTFjMjZPb0E1YTdHdTdJUDVwbzFEOUlWU0E0U09TNjhoRQ?oc=5",
-   "source": "YourStory.com",
-   "snippet": "",
-   "date": "2026-11-14T17:05:50+00:00",
    "tags": [
     "General"
    ]
@@ -124,7 +307,7 @@
   },
   {
    "title": "Weekly Funding Roundup: The startup deals you may have missed this week",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa3F2aHZRWXBuakYzNGsyYTlVcUE3UV9jQzJVZW9iaEdzQkc0RFVCbHNQZTdXR0E2M01SUEFXdVlSbXFua0VUdjNXSlpKUGdyTWg1QUdLSFFYUTZvSGtUcVJVa0U2dVRyREhOZC1WLWxKdXUzN214OExsNU84RGpiTXFvUGJoTHVxTm9SbkcyT1dEcmRlb3dMY2FOTzQ5RnNJUldyaU5aM0w1c0FuLVBvaDFEME9sRTk5ck5HSlhKM1AtLUtMLXZvbF9RakV5MkoxdE1CYnJGcUtpdFkycDRKeHp30gHnAUFVX3lxTE13RlpVSFJISlRWQU5aYVlqZDFxaUxFOFl4NS0wX0VGVHF4Sm1VcUg4dzNQZjFtcHpKVTJsQkdnQ01DbC1JNGpEMzRjZ2ZrVmNwbUx2aVViSGhibTJxRXN5NGhiTDcyeTFxOGU3TW0xcWtneWtmcWdvVWNMUzlkZy1taTdYb2tqcUtYUy1kTTNRSzVyUmlnTC1lUm04bERTQXVGVHE1ZFpXNWxZRUpiME1zbFZ0UzZfQ1luVVl6UUVSX1JvV3NVOGxwbkZ4SXoxazVMek5EbVZFd0hGYlVpamR1UkROczgtRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd0ZaVUhSSEpUVkFOWmFZamQxcWlMRThZeDUtMF9FRlRxeEptVXFIOHczUGYxbXB6SlUybEJHZ0NNQ2wtSTRqRDM0Y2dma1ZjcG1MdmlVYkhoYm0ycUVzeTRoYkw3MnkxcThlN01tMXFrZ3lrZnFnb1VjTFM5ZGctbWk3WG9ranFLWFMtZE0zUUs1clJpZ0wtZVJtOGxEU0F1RlRxNWRaVzVsWUVKYjBNc2xWdFM2X0NZblVZelFFUl9Sb1dzVThscG5GeEl6MWs1THpORG1WRXdIRmJVaWpkdVJETnM4LUXSAecBQVVfeXFMTXdGWlVIUkhKVFZBTlphWWpkMXFpTEU4WXg1LTBfRUZUcXhKbVVxSDh3M1BmMW1wekpVMmxCR2dDTUNsLUk0akQzNGNnZmtWY3BtTHZpVWJIaGJtMnFFc3k0aGJMNzJ5MXE4ZTdNbTFxa2d5a2ZxZ29VY0xTOWRnLW1pN1hva2pxS1hTLWRNM1FLNXJSaWdMLWVSbThsRFNBdUZUcTVkWlc1bFlFSmIwTXNsVnRTNl9DWW5VWXpRRVJfUm9Xc1U4bHBuRnhJejFrNUx6TkRtVkV3SEZiVWlqZHVSRE5zOC1F?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-14T12:03:50+00:00",
@@ -158,6 +341,16 @@
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-14T08:21:58+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
+   "link": "https://yourstory.com/2026/11/babycue-wins-rs-5-lakh-at-tribal-business-conclave-for-diacue-healthtech-innovation",
+   "source": "YourStory",
+   "snippet": "Odisha-based BabyCue wins first prize at the Tribal Business Conclave Open Grand Challenge for DiaCue, its rapid test for childhood diarrhoea.",
+   "date": "2026-11-14T08:03:59+00:00",
    "tags": [
     "General"
    ]
@@ -335,8 +528,18 @@
    ]
   },
   {
+   "title": "Opening space sector unlocked new avenues for private players, startups: PM Modi",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWDZad0RKcXk2T2t6Q3RQZHZBZlhxME43OHoxZENORERjUWRtZVNWOGdrUjc2TG52dXZlbjQ4elkzUmRiUEt2WDR2WjhETFhJNUFLdkl6Q2lnSGRjZGhMYUJkcGJjanh6X0J6eWJrOVdtX2QwVkgxSEpfclBNTVN1ZkcyNjdUX29tMTdoRmFWSWs3QU5xbkxYM1BienhXZGpNejc5LVVONTFKX3hMUmowb25VZGUzTVJEQTJTb1BZR2dFcEJiSFBxVFptZzVjeGN2WTdUYkMzbDJzNklJNnVZTEZpdw?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-11-13T17:09:02+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Nvidia minus Jensen Huang, Sachin Bansal’s new AI startup and more",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3RvMVVLcDVNQXc3clFkcS1qZnBIVE83bVNFMHF6QnFVcnBOb1I0UVU5NjFMNW1LLTFfbEsyNy1ZQVRhX3AwVWZuQXVFaVFYRS1kamQ2eFVnTXlNcWtEZVNtVV9ZYzgwSHBNRWxtNHo1WklTUUsyVl95YzJpZk53TDNWREU4c29mSzQ4SmNoc3hoclZHY2IyMm9tMFdoMmZLTXZCMzFHOWw3aDgyNmM1ZmtSNVdPbUJ4YjhZQ3BYQ1NCOGvSAcMBQVVfeXFMT190bzFVS3A1TUF3N3JRZHEtamZwSFRPN21TRTBxekJxVXJwTm9SNFFVOTYxTDVtSy0xX2xLMjctWUFUYV9wMFVmbkF1RWlRWEUtZGpkNnhVZ015TXFrRGVTbVVfWWM4MEhwTUVsbTR6NVpJU1FLMlZfeWMyaWZOd0wzVkRFOHNvZks0OEpjaHN4aHJWR2NiMjJvbTBXaDJmS012QjMxRzlsN2g4MjZjNWZrUjVXT21CeGI4WUNwWENTQjhr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXVrVVVpQUxNcUt5NVNHb1A1Z0lwZnhjX0dMZXc5TE9jbHZkSU9XOUMwbkV1Ukg2elRnTF9uTGV3Z1hzb2hJUUdmVEU0U0UyZ1hyZzJFdjgzZ0xzc082S09fbXFfdVhPMkNDQ3lNNHAzdm9VTmUwTFczbFZFTFBQUVFpMDhneEhWWWZzUjZRXzNjeHBXUlMxUDBJZ0FPNGxiM2xiMXBqbVFVc3JnR2lDQmJQcThDUG5yT1BpRUZR0gHDAUFVX3lxTE9fdG8xVUtwNU1BdzdyUWRxLWpmcEhUTzdtU0UwcXpCcVVycE5vUjRRVTk2MUw1bUstMV9sSzI3LVlBVGFfcDBVZm5BdUVpUVhFLWRqZDZ4VWdNeU1xa0RlU21VX1ljODBIcE1FbG00ejVaSVNRSzJWX3ljMmlmTndMM1ZERThzb2ZLNDhKY2hzeGhyVkdjYjIyb20wV2gyZktNdkIzMUc5bDdoODI2YzVma1I1V09tQnhiOFlDcFhDU0I4aw?oc=5",
    "source": "Moneycontrol.com",
    "snippet": "",
    "date": "2026-11-13T14:33:40+00:00",
@@ -439,7 +642,7 @@
   },
   {
    "title": "Healthcare startups turn to integrated care models",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjlNSDY2QXpMR2syV1NCWllGOFF2Tm9oUU1SMjJTNXdXbTZYcGdSNU1vVmtNYkhnTzVUN1FiZk5NVEd3MEl3LXQtYjFDUmk1RVlDZUoxcV9mNmN2Q1FfV1NydnZZUHVVSWdEVFNSd0NKdFVIQ01vVVRJbF95VVdfSnA1NDVuMVVyR0YwdmJIa0NuWGhuLW5FQ3B0eVlqc01OTkNMU2duZmNsWTRTNVBESVFZQ0dGQ01USE10bUFuYzhPbzlFRHlTX3Jn0gHKAUFVX3lxTE5iOU1INjZBekxHazJXU0JaWUY4UXZOb2hRTVIyMlM1d1dtNlhwZ1I1TW9Wa01iSGdPNVQ3UWJmTk1UR3cwSXctdC1iMUNSaTVFWUNlSjFxX2Y2Y3ZDUV9XU3J2dllQdVVJZ0RUU1J3Q0p0VUhDTW9VVElsX3lVV19KcDU0NW4xVXJHRjB2YkhrQ25YaG4tbkVDcHR5WWpzTU5OQ0xTZ25mY2xZNFM1UERJUVlDR0ZDTVRITXRtQW5jOE9vOUVEeVNfcmc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0haYVhYUnNLcFBfbkdOYk1FZ1luSHk5NVFpckE1ZkVjTU80ZVFCaWxjUDZoYktTcm5HWUpCMDNMcVI5LTZ0cHBOM0RsVlFKb1RZZEEtLS16U0twQ0xzLWxiOUpGOUpWQ2tqLWdOZ3JsWE9WYklfVWoxMXdpcTlJdUJ2dmxWTTVOSUF6T0V2SGFWWGMycXNZa3FzQ0tFQ1Z2LWtjMF9QLUdnMEFJUFNtTHpTUmRJQ09tVnlTSGlWbUs4Q1E20gHKAUFVX3lxTE5iOU1INjZBekxHazJXU0JaWUY4UXZOb2hRTVIyMlM1d1dtNlhwZ1I1TW9Wa01iSGdPNVQ3UWJmTk1UR3cwSXctdC1iMUNSaTVFWUNlSjFxX2Y2Y3ZDUV9XU3J2dllQdVVJZ0RUU1J3Q0p0VUhDTW9VVElsX3lVV19KcDU0NW4xVXJHRjB2YkhrQ25YaG4tbkVDcHR5WWpzTU5OQ0xTZ25mY2xZNFM1UERJUVlDR0ZDTVRITXRtQW5jOE9vOUVEeVNfcmc?oc=5",
    "source": "ET Entrepreneur",
    "snippet": "",
    "date": "2026-11-13T09:30:06+00:00",
@@ -964,6 +1167,17 @@
    ]
   },
   {
+   "title": "Spacetech Startup Inbound Aerospace Successfully Conducts Initial Trials of India's First Precision Aerial Delivery System",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTd0aC1QS2lHZVhrNXg4RjMzeDY2WEl2M2ZuVnZiNG5JMUtZaVQ5T0Y4c3ZTSHBtRWFCLTdjLU1DRFctbkdJcmpqajBVdFhRZk5XUXliN09BbTE1SGZfa3lKYTVPZWRwaDUzUE1OSmRHQmlUVVRHYk5IR0JOYTJ1TA?oc=5",
+   "source": "Indianweb2.com",
+   "snippet": "",
+   "date": "2026-11-12T06:51:00+00:00",
+   "tags": [
+    "Deep Tech",
+    "India"
+   ]
+  },
+  {
    "title": "Gaja Capital raises target for maiden secondaries fund",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0VQZ2UzUWx1UDhZWkVFaE5wZFkyenFaeHdkbXFZNnJhUDJfY1pnZlZOMGVrS3NfenNpajFsZWVkX0RMYUpici1RV0I2QWltZDRNdGQxeUxQcUp5bGRLZTdfQ3ZoYS1jUWp2RmloaEphT0lQVnFiYXFkTEFWQ0RMWG1EcEPSAYwBQVVfeXFMT0dQTkt6aWpBVU5Tc2tfSE83VXVMc0wwTnVFTEVOcEItX3kzVE54bmNmTGJQeVUzY1pGdWtCWGNzZVVSQVE2TGtWeVk2MkFkOVRmclpSdmI5WkxlR1pZMjJFWUptQjRBdHJ0ZFdULThXWFVucExuRkRrLUhzX2lUUTE1U2V0ZFFHUlp6NDE?oc=5",
    "source": "VCCircle",
@@ -1090,6 +1304,17 @@
    ]
   },
   {
+   "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5",
+   "source": "Reuters",
+   "snippet": "",
+   "date": "2026-11-11T17:12:38+00:00",
+   "tags": [
+    "Funding",
+    "Deep Tech"
+   ]
+  },
+  {
    "title": "IIT Bombay targets India's semiconductor ambitions with new startup acceleration programme",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNkRjVGs2V1B4aFlFUE9GT192YUJXYVU0NERLV3pBRDh0Q3JiczFwTzZ6Rzc1cU4yZGlGendqbHZsWW05QUVvb3F0R1RHMFYzX1VlZ3JxUFBET253eTJVY3FmVkk2ME1ubXYwVUpDYWRhby0zb0Nmd01zajFqVlNSRWNvYVVOWHZzMmRheGl6NU4zS0pTREU5SGtFWGVOcjRaY3M1QXBVZUVlX1I3VU1iZVBzNXFCYnR2aHlVSEU4cjkzZFJ2Wi1qTUFDeXQtUDBwY1Vtc2xJald2MDg0b2NrR18zUWp3LUdFekJBQWFwdjJPUdIB9gFBVV95cUxNUHhiRWlXc0FZVEJSQjdLZm5QV2RoQWxLb2ZvR19oQ3g5a0RQaFVrOWw4ZDREUVJYYW9NbkxnSmFPQkdkYy1tczF2VTNpRlBfNUZhTk80VERCbHJrVE9BblMwb0dfMlNiSXFWWkdvaFZ2TEhkbS1kaVNLaEhReTNCQUF4dzhOcW10azdXUktyXzlBbURqWUdBdTNHbmw0ZmtnVjJxWmlyZnVmTG1Rd1lJbzkyR25JeVdlZ0VYMXNETDN0a0l1VkVWR0RFUFdfREdMV2NXWnptRlRFY0VyM0ppRUJhTk9mN19ZTDJpVjBJNWc3SC05UHc?oc=5",
    "source": "ET Education",
@@ -1100,17 +1325,6 @@
     "Spin-offs",
     "Incubators & Programs",
     "India"
-   ]
-  },
-  {
-   "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3N5SjRQcVE0cHNjalUxT2dYdEtnVVlFS1RXU3RRTy1jNnpXcXFfQXpwYklHckFJZzFJSnRnV0FLOVl4RUlWWGxOaFhNZkJCNldjd21hbFE4bkJ0bFJ0UjQ1NUxWU1MtM1NodHV0V0YwUm00dWFjNGFOam5HTE42eUtMUnpNcHhnSW5xRUE1T09YNU0tR1doa0kzN0xWTDZfcTNzRHBud0dkWkU?oc=5",
-   "source": "WTVB",
-   "snippet": "",
-   "date": "2026-11-11T16:12:28+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
    ]
   },
   {
@@ -1913,6 +2127,16 @@
    ]
   },
   {
+   "title": "Tech News | Startup News | Funding | IT | Crypto",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXQxSFlISlJFdFJBQUVEMklrd3ZXZVFqSzM1dmE1Y1R5ZzBvZlp6b01fSmdZZlREUWZWOVJoZW0yejEya29fVi1OQVB0N2Vsa28yZTJ5bkdiT3ZBTUwtamI5MHQwd1I0Wk9GTGU0Y0NZeG9XaEJ1dWJ2ODU0akFFcUxZNFM5bEhBNGkzUTJSRkppVDNfdGZ3RjRVeEVIX2VqQ2NLMFdsUkUxR3lQWWtGZVNlLWhuX2M5RE8zTmNsRzIxRGRBRGdR?oc=5",
+   "source": "Moneycontrol.com",
+   "snippet": "",
+   "date": "2026-11-09T11:13:48+00:00",
+   "tags": [
+    "Funding"
+   ]
+  },
+  {
    "title": "Onodrim raises $300m as European defence rollups heat up",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5veVhuajJJZjFJUEhGbUFIWU1kSE4yS3ZicmlpNmFxdkdqdmpMek0za3hadElpakFKUjRCY2VweTFiMjAyTkJfaFJKS3Y5SWlzWGVoSlJ6NGRRem9xX3ZnaGxyaVQ4Vmx5bWtCUTFydw?oc=5",
    "source": "Sifted",
@@ -1970,16 +2194,6 @@
    "date": "2026-11-09T05:46:14+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "Tech News | Startup News | Funding | IT | Crypto",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CNXdWelBUSUgtelB0Uk1lQ3VGSmdibjJBUnlxWmpvak1QTGhIRUNZYzR1eHpqY3hGeC1la0tDOUxKbFZfUVRNR3ZrVDVFWnFKUjNPREpkWTZjMVdoaTBwdmRDT2ExeUVXOTBoSHhidllrcG5NZVZOcQ?oc=5",
-   "source": "Moneycontrol.com",
-   "snippet": "",
-   "date": "2026-11-09T03:36:14+00:00",
-   "tags": [
-    "Funding"
    ]
   },
   {
@@ -4996,212 +5210,6 @@
    "date": "2026-10-30T06:49:36+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "CloudSEK launches 12-week incubator, targets 10 cybersecurity startups",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSVBlZWUyM2xicFVvOE5hMWlYdUF0S0lNaXpMSWlyaU1WUzNKaEI3ckZhblFhTWFLZnZKbksyRi1rcnhVc0VUcXcxc3hBdERGTkhlYzVrTUFFeEVHZVZoOHU3TVp0bHg5ZTdsZUFwMzJOXzZlYVh3Z2I5VjY4OHV4SVlnWDFOSnEwN0xySFlMMVpDQWs4ZE1TeldKa2ZZV2oydFVfWVExMFFyRDh3Nklib2hkOFRIbTctOXJ5VEsyZGNGdjRVUzdNYkhFcExFZnfSAdQBQVVfeXFMUGY4WW9HOUw1c204TFpwRHo3eG1PTlItMVdrM3ExbXJUYWlhWnZSMXhKaE4yUVNpbGk4Q09KVzNzZHNleWVNQUhPQ0p5OW1pU3VYV3V1NnJETWRZNUpuTy01S1YwTWNZaHZIQ251cUZHNDFFZnRZMWl1OGVQc1hVbjFzMklPckVTQjQ0SGtNUFZ2NHJvbkZaSVZROVJpclplMjZKVDlUczBwdFVpb0RHdWpuVzlaRWMyMmxUUm5FdmxDTGRyZkZQWGYtVzlnZDFlc0JFWjU?oc=5",
-   "source": "ET Entrepreneur",
-   "snippet": "",
-   "date": "2026-10-30T06:31:29+00:00",
-   "tags": [
-    "Incubators & Programs"
-   ]
-  },
-  {
-   "title": "How Stelcore helps brands go global without building everything from scratch",
-   "link": "https://yourstory.com/2026/10/how-stelcore-helps-brands-go-global-techsparks-2026",
-   "source": "YourStory",
-   "snippet": "Taking a brand global means navigating more than just new markets. At TechSparks 2026, Stelcore Group founder Bharat Mandot explained how the company connects importing, payments, logistics and compliance.",
-   "date": "2026-10-30T05:48:43+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Davao Startup Week wants Mindanao startups to raise money beyond the region",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGxnak5rUllFS1g5ZmVtRHhkRkR1QmRTdXRZOXgwczRON1Q5Uk5SWThxZFIyajIwU3puRklIVjVFdXlxY0UxRURYRng0dUp1VlRPSmxWRDluY0hwTHQySFY4ME5VR0VCWV9rc0lBV3NraUFjSWJWNUxZQ2RFV0xmRnNPMFBEdVhxSUoyWGEtSDcwVEg1dlBhSS1CRi0xajFPRjR3NGlkQ2E2RVl6Ync?oc=5",
-   "source": "Mindanao Times",
-   "snippet": "",
-   "date": "2026-10-30T05:26:40+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Is France’s startup nation falling out of love with Macron?",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW0zaV9Gd3VHenFwWDd0UE9nQ2hxVUhDaWhoNHRmdDdWTkYzOXVMZHNfbTItdXNfNjZ4c0ZucHFHNzRhdllCaW9iOW9zYnktc3lDUkN5VmplXzlFdkUtcEdJV0dfM3R2bUx5eGE2SVA2bkFQbURlbVhLdGlTdGY2OXlXVzNZSkxHSk5FNw?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-30T05:06:12+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Bots bouncers: the startups deciding what AI agents can do",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4elJEeHdEVG96aGlUQzZQOE56UDZoOWgyMTRHOWNYcThoMFV3dzl0MTlJYllQTlhLbW1DNXZid042cEViNjRCSVlYaWFQZG4wX05xYTd3T1ZhU05UZWJuUV9ESUtwVnNFc3B0Sk9fWnlVOEoyQ09LeA?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-30T05:01:14+00:00",
-   "tags": [
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Why Creandum and USV co-led a $40m seed into Machenta, a robotics lab with no product",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3lZZ2E0anlrYzhDNTdTc3diLVZobC1uUzlRbTgtMU9CVHlyYlpNR3FEeEVRVGE4R25vZTdIQ1RPRGR2djdjbkJtU2VfU3gwc1FJMVpYN1F4V1kzOWpHUG5wVFBMakJraUpVU0k5Uk12ZFZsMnZPdWt4ZHNhZEtqVg?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-30T05:01:12+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Startup India supports more than 2.5 lakh startups, generating over 25.42 lakh jobs: Govt",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ0ZWcUQyTkNUenk5eFRWeE5ZR0hNT25ucmI4SFB6UlA0cUVNMEJnLWdIRmVjdnpGME1GaGg1TnExUFdRNVUwWWdpT0pwWWxSNzNDbDNReTNkY3gwRkJDZjVrMnNscDdLWW9pcVBnNndOcDZpQlZ5emwxT0g4Tm1sZHFQLXdIOWdjUW52RDRnV2ZYTUJIMHJIWVZYSFctNjMtaXV6WEYwMm91bVNEV3l1bkFmZzVZQ1JINXFJQmwzN2dhemRtWFRNMXZ0UWNNSDRHY1JnWkNBdFN0eDJYRDFsMGxtYWI1R0ZmeFozQW5XTEtFTlBtSHfSAfsBQVVfeXFMTXRnZmlTVVNfRkpEWnBTdGx5dWNFcUsxc3JzVE01cnJiSlJ2eWFfY2pUci1lTFJ2cENrVkdLTWlKRHlTVjNpME0ydXBDM2Z6LXJPMVp1dHlJaks2bVJMbFhNV3RuTXYyVUpFLXA4SS1JdllzR2pMc2xYU2l2ZU01ZlJKYjhYbk9RMDF6VThWWm16dk8wN0ZFQkx4VzVrMGM3Vy0wTnZtWEtNY3pVckdDNHNiZDdPbEliUHQ1V2hlZjFWdFNicDFLTVpKUFgweGhpd1pKY1lOaGRpUmtoNF9Sc1FOZmJWLWRPY3JScVJMckloekZPTVV2X0gwVkU?oc=5",
-   "source": "cfo.economictimes.indiatimes.com",
-   "snippet": "",
-   "date": "2026-10-30T04:07:25+00:00",
-   "tags": [
-    "Incubators & Programs",
-    "India"
-   ]
-  },
-  {
-   "title": "Exclusive: Smylo In Talks To Raise ₹30 Cr To Expand Cat Food Portfolio",
-   "link": "https://inc42.com/buzz/exclusive-smylo-in-talks-to-raise-%e2%82%b930-cr-to-expand-cat-food-portfolio/",
-   "source": "Inc42",
-   "snippet": "D2C cat food startup Smylo is in advanced talks to raise around ₹30 Cr (about $3.2 Mn) in a mix…",
-   "date": "2026-10-30T02:30:12+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Lab Rats series: A Bengaluru startup’s bid to drug the undruggable",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNkJ0THUtOHcwNjJKLVFILUlNZzFuX1RuN2dfcTdGb3JEdklLY0h2dTBQTjV2RHJmZUowQVRLbEUxejg3bi1nX2pvOWZ3NWUwNGdScEdGNGtkYzQ2bFR5Y3l0azgxeDZsQ2ZHcVlxREVjRjJOYXZza2JQMHlnNzEtaW5rSG9FejR1MlhVRmRoVzRsdkdxd3RWeXFLc0Z0N1h1aWZTeXNfNTIxcXFhVWE3N3A5OG4tb2ZqblJSY1NKeU8wdXpuTndyRk9Bb0XSAdIBQVVfeXFMTzZrWnB2YUJiME5TQ044SUVkOGxKam1odVNBRXNxaTROSGFkZVlpQjczTUtrSTc4Z0lPVXhKcEY3OWZsQmpDdVg2Ym0zWmQ2TWdPdDl2RVN3RzhOYVBXM3ZKSzdoU0RoZHZjYVNvUzhqMUJhTnhSTDNybnA1LWV6U1ZxdXRRYmR5MUU2QlVhaXlRNTNlN083S2hsUHljODFSZXhQZUVEazRQbHdaalMySzRDckVXNzRVMHEtN3NucmExY3UyZ25xNUg0cXpLdTFYMWZR?oc=5",
-   "source": "Livemint",
-   "snippet": "",
-   "date": "2026-10-30T00:30:25+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "MoS IT Rajeev Chandrasekhar inaugurates Digital India Startup Hub at STPI, Davanagere in Karnataka",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb2FuV2RIR3FVai1zSzAxZzRIVm5MdEJoWG9NOTRSSzk5N0xrZVZoWVJmYzJNWXUyNGtUdmExVzBnQVZfNmRSakFXa2Q1NVV0dlZPcEVGUzd0bmJMNnZSY2pXMWROZ1JYZjdiLVlfd3N0eURUeXI3VWdkUlNmSlhUNTlHbERTVWU1U1ZCOXA3V3duTXIwUnFzTk4zbGJlRWFFdzZQd0UtNjF0MUZwN0ppcU5OQ1ppQkdxYW1BZW1PS21MVjVIMEU2VUZId1I5WXROaHR4dklacUIzV0FybnhmT2pUYUhjQ0xlbWtGQnpfNUJLME8tNDc4MDYtZllld083ZGg4NUdkTjHSAYMCQVVfeXFMUFRxaGN3SUViSFIwNEZWcnhuOVlhRTVGTEo3NjdYZXpvZWZ5c2pKU2ZKSDBRSmE2M3A1MDJ0VkNkMDV5bjdlUzQ0MXd1Vk1mYmRYSFdoUWZQVV9NN1VsVmhtQmt2d09CU0xMejF3SnNRemM0QkRTT0s5UC02VHk1bUt0UkxKeHl0MWxqcy1JV09iVFhpUVp6TmZUb2d4dmluVHdYQnJibXdJVHJZY05zXzd3cEV6X193LUlDU1BqTHd5OGVfTUhncUpoRWJQbnFuVUx5MjFIOTlmdk51S0NjVHNaRUFVa25rMmp4aXVHSGR5dUNmZ2RLSGxRTjhVaDNBUkZNcw?oc=5",
-   "source": "ET Government",
-   "snippet": "",
-   "date": "2026-10-29T21:16:10+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Meet Austin Hickman and Reet Chaudhuri, who raised $4 million for Soctera; how their semiconductor startup",
-   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVkszTEdqUXNtZTJGZ1RUeGFnQmJQdEZGaWhxcERtVUxUQ3NlTGUxaTdTLVR6WFduTmh1YUtURjEyTVBueVVRSGZ4RUtVaEF4UHFWaDNZZXpWaVpveUVFMHU4b3Yyb1F5X3F6Y0xQeVI3clZlOUlDVDBTTXRva19XRXdySXFXWUFKQnFkdWlabktJSDNyOUw1TlNIMVpIbWpNSHNDS3ZGX1V4NllrTEFKNnlsQW1nRkF5TDNISE9ZN3JXV1VTRjllUUZ1ajhDaFN1Vm1NZTdPTUV3Z2haVFYxLUhIU1Nad19sSTBQd2EwcmdYNHdXanlhVEE4STJrZ0RPWm9GMGRCS1EybXRuNEZVTW1wUTBkZWo2THEtYkJqWHNMY2RmeWt4MDg4a0dUd3lpUDRsZEJZS1_SAbICQVVfeXFMUEU3UTYwWjFWMG52a3lFVmUtaEZ3NWY1M0Voam5wQVFRa3dBYXhfX2J2MW5uelFvdU0zQ3N6WEhFRGdqWl9OVlNWWENYeUV4UGpqZEl3XzdyZEJySE9ETVVVaEM5dWVSejlaSmJaSW9PSjRNV255ZHhBTUtmZFlBa3RBZE5iUGk5UExTcGRLWUVHcVJxRUZUckhkY1IxMFNZNnItbzV3cDUya25aUUJwSGZCQjlINE1MVTY3STV4WGM0NjJsSjhwQnJEbU1UVkxOOUZwdzYtbEJQejlNb1JJS1pocDNRazZhY3g1UFlPV0lZUmVjTnJsSmtqMkFmeUE4VEMzOHVGaTFreDJXVXNGT2hVajdGOG9ocC1oRUR1Qzl6NHFzdTRZV2U2bGRkQVRjNXFR?oc=5",
-   "source": "The Economic Times",
-   "snippet": "",
-   "date": "2026-10-29T21:05:42+00:00",
-   "tags": [
-    "Funding",
-    "Deep Tech"
-   ]
-  },
-  {
-   "title": "Klassroom H1: Profit Jumps 24% YoY To ₹4 Cr, Revenue Up 21%",
-   "link": "https://inc42.com/buzz/klassroom-h1-profit-jumps-24-yoy-to-%e2%82%b94-cr-revenue-up-21/",
-   "source": "Inc42",
-   "snippet": "BSE SME-listed edtech startup Klassroom reported a net profit of ₹4.8 Cr in the first half (H1) of the fiscal…",
-   "date": "2026-10-29T19:29:43+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Government signs MoUs with industry leaders to strengthen support for startups",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0hfQzlTbXZNYjJ2YXdvNnNCY3VDbExXQ1oybW5NSmZrdDMzWVRuTllGMXJXMTY1cDZiQ3lXY2laemN4UThUZHFYaDRVakVsVGlLaGk1YXhUN3pLTkY3R0ZZODNKMnB2YmhTZHFfeGJVbkVsYWtCWXFNOU5TTDRKa3pEXzhoZGx0Qk1KTHFHekMycW1aUUpMSTNzdGo1aFdKRVM3cVdBNA?oc=5",
-   "source": "DD News",
-   "snippet": "",
-   "date": "2026-10-29T19:00:55+00:00",
-   "tags": [
-    "Policy"
-   ]
-  },
-  {
-   "title": "Latest One Planet Partners News | One Planet Partners News | One Planet Partners Funding | One Planet Partners Fund",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QQWFldFFfRkY1MXNGeFFWTC0wcGxLZk5tdmx3d29SSHF3bmxlM0xTTzBoR3pRZnlNd2NWWWFMbWpXdTBvUlJvSFZwZ0ZsOWhYZ1pDaklPdlRVcTFFTWk3Rzk3VW0?oc=5",
-   "source": "VCCircle",
-   "snippet": "",
-   "date": "2026-10-29T17:21:13+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "EPFO Plans Investment in Startups and Alternative Investment Funds",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObG5Db1BZd0QyMVFYcmhCdGotbTdwYW1rVGxrTjU5d0FFeXY3SVBBdlhMeXdQbmxTTkFVb3Z6MHVxRzRZc0ZvTWQ1ZlBITUFwak1TWEZlS0tILVpJNTA0Zm5CY0JOd2YxUlViSmhkU1hxTXcwV0RsWk5aX0VmN181N2J4WUNRZEhLU0RtRkhwWWRjRmZWV0xMYmJlYkRZWmw2b2c?oc=5",
-   "source": "Observer Voice",
-   "snippet": "",
-   "date": "2026-10-29T17:11:57+00:00",
-   "tags": [
-    "Funding"
-   ]
-  },
-  {
-   "title": "Bijnis Rebrands As Zorit, Raises ₹27 Cr For B2B Quick Commerce",
-   "link": "https://inc42.com/buzz/bijnis-rebrands-as-zorit-raises-%e2%82%b927-cr-for-b2b-quick-commerce/",
-   "source": "Inc42",
-   "snippet": "Delhi-based B2B ecommerce startup Bijnis has rebranded as Zorit and raised ₹27 Cr in a funding round led by Sparrow…",
-   "date": "2026-10-29T16:36:22+00:00",
-   "tags": [
-    "Funding",
-    "India"
-   ]
-  },
-  {
-   "title": "PhysicsWallah ties up with Startup India to take seed capital and incubation to small-town founders",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1ZEbGY3YkY5d0FfUEktZ3BKZHZoN3NLeFlSbnFQaFJYdXNkSV8tekNhQzBsR211dS1LOEllelRGR1kyaFF4bVA5S01HLWZIYXhLS0FocUNIdHFGZHpqM3ZCSVFmY1FFbnJNVHMxYndrZWpoMnMxTE1FMVNkY05zaE9ZRUgyb0xpbGdNOUFVZXREZFNURlppRE9OWjFKMkZyV1lzNUZyNjhkZng0Yzl6VnBTRmQzU0pDV1MyM0h0ejF1Z29fV2ZRSkpVeWZlWFltM2M4Vk10U2Y0ZnfSAdsBQVVfeXFMTTNWRGxmN2JGOXdBX1BJLWdwSmR2aDdzS3hZUm5xUGhSWHVzZElfLXpDYUMwbEdtdXUtSzhJZXpURkdZMmhReG1QOUtNRy1mSGF4S0tBaHFDSHRxRmR6ajN2QklRZmNRRW5yTVRzMWJ3a2VqaDJzMUxNRTFTZGNOc2hPWUVIMm9MaWxnTTlBVWV0RGRTVEZaaURPTloxSjJGcldZczVGcjY4ZGZ4NGM5elZwU0ZkM1NKQ1dTMjNIdHoxdWdvX1dmUUpKVXlmZVhZbTNjOFZNdFNmNGZ3?oc=5",
-   "source": "Indian Startup News",
-   "snippet": "",
-   "date": "2026-10-29T16:26:39+00:00",
-   "tags": [
-    "Funding",
-    "Incubators & Programs",
-    "India"
-   ]
-  },
-  {
-   "title": "Latest Treasury news and analysis from startup Europe",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45el9zeUNhclUtMUxoZjdWUklIRjFEeXppTlhKeE4wOVBLaXNQZk9pYUkwSVV4ejd0NUxhM3MyeGEyYzJz?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-29T16:12:26+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Latest OBR news and analysis from startup Europe",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9XREVCNjY5OWN3QS1Vc1d1aGpiTUJ0S2o2a2NFYnJ4NktNS3N0a3VSb09xdk5yMUY3bGpOdThPNA?oc=5",
-   "source": "Sifted",
-   "snippet": "",
-   "date": "2026-10-29T16:12:23+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "EPFO plans to invest 3% of fresh inflows in startups and AIFs, five years after approval: What you need to know",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPV1pEVVVhTlVoQ19vaG1FOVFwdVdfZkpnSmNQeHZ3dHh2RURjeEwzWFBqMDdITTZkQkhtdVhSX2FfLVBfU1lNSll3UXBseXZSVi0ySEJRU2VRYVdpcFFCQm1zcWNHZWJiaEM4NGI3ZzZUa1g2WmZfZE5Mb3YtZF95UjhOT1czRkcxRnh3ZDgwNS04ZkJDZVlIZ2tRX2RxVnJEX3pFZVVBYmJKOTRJZE9GMzFjMUF0NUNUbl9yc0RjOG5RUDVXbTdsb3lJSGxnNVFsRjRNTXE3ZzRBZ3R4aDc4MHBIMGs5emdWRmxFeGNFZ1JMR3hGLS15VTV4VjM2bUd1bWFodlZ0MNIBjAJBVV95cUxNd0pGM1VoZHFzb2JaT3VOQy1hR005MDZlZGl6bWIwNkc2c3NCd05SeW5HVEF4cEVFSm1FNDUtUlZuY21xWHpGYmpjaG9VN3VKc0pTakxXZmpVREYyeU12NWxoT29IeWNXYVBJUEw0eVlpUWVyMGhPUXpqeWE4bHVxX0lsbGZ0Q1MtbU5SbUVLeWRZbDAybzNXYUctZGJnYVAxM3NUczJINGtJZ1pJeFRCLTJXbW91ZGxpR3RwTm9MQlVoRUg5V2JkcGZxZnBEd1poZngzck9aMjBjVHlUSWJjOHQ0Skp5N0NnWGJyUjJ1MU1SclhZMjhNc2tXNTRxam9BdlRMSU15eDNKQ2I3?oc=5",
-   "source": "Livemint",
-   "snippet": "",
-   "date": "2026-10-29T15:56:03+00:00",
-   "tags": [
-    "Funding"
    ]
   }
  ]
