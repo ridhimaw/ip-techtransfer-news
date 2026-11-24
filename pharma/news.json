@@ -1,7 +1,7 @@
 {
  "title": "Pharma & Biotech Pulse",
  "tagline": "Auto-updated news on drug patents, licensing deals, biosimilars, regulation and biotech innovation",
- "updated": "2026-11-24T09:57:58.779266+00:00",
+ "updated": "2026-11-24T22:29:38.815146+00:00",
  "tags": [
   "Patents",
   "Licensing & Deals",
@@ -12,11 +12,659 @@
  ],
  "items": [
   {
+   "title": "FDA Okays 2 New Drugs for Myasthenia Gravis: Klygefa and Livsayis",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ppWTRYZGx5RkppczlqT1R5SjhOSGtPSTZ0MFlDY3lsekxCY1czTTVQckNiQ0Q2empEMFhHM3V3N0kxd3RPUlRjNFM2dEZXMDVSTEtHLUFieEtCaDhzR0NwNVlKMUJJb2pVSXVDZUs0Qk1uRV9hekRrcmJhdlFMOERJMHNUa3l0ZWNCY1VjNUROMXo0bnFweFZWb0hjbnpxV3MzSzJ6YXFCdW00X1hueQ?oc=5",
+   "source": "Everyday Health",
+   "snippet": "",
+   "date": "2026-11-24T22:00:50+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bacfenssi to Reduce Colorectal Surgical Site Infections",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZnQ4YUI2aTdrcmhnV3BBYlpLY3VNRW9UT05DY05idkliNGRRaUQyYVBfM3FPYTdxMms0X2hMeGZ2WGRkNGVnNzBlazBBeUs0V0tZb0hNcTBsVjdwcWU2eW9wSnRyMEJrMmtEVnhtVDZiS0gxaEFTVFdpdmVnOGxXVThULW5wZElKU25VVmEwX0Z0eXJMcl9vb2d2TTc0ZnkzUnc?oc=5",
+   "source": "Contagion Live",
+   "snippet": "",
+   "date": "2026-11-24T21:40:07+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Why Genomics Won’t Converge on One Technology",
+   "link": "https://www.genengnews.com/topics/bioprocessing/why-genomics-wont-converge-on-one-technology/",
+   "source": "GEN",
+   "snippet": "Genomics relies on both short-read and long-read sequencing, and keeping both is essential. The post Why Genomics Won’t Converge on One Technology appeared first on GEN - Genetic Engineering and Biotechnology News .",
+   "date": "2026-11-24T21:36:40+00:00",
+   "tags": [
+    "Biotech"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib Plus Sunitinib, Expanding Options for GIST",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eHNscng5WDdjUDRISHMyOVNGOEwzcWJJRDZNVlU3bDlia2RyeGFaU2pDWFBndzhrZmZkS3NscUdpOHZPZWxwbUlNbnlYaFBoZkxsNnZEalBqVDBabXg2bFZHS1VicEl0MGR3RmwxdnB5TVd4bW16UjlPWWkwcjA?oc=5",
+   "source": "Targeted Onc",
+   "snippet": "",
+   "date": "2026-11-24T21:36:35+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bacfenssi to Reduce Infections After Colorectal Surgery",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQURwUWs1aVdmUUE0NDhjU0t6YkJhX1FsQlNCOGJzaXE3Z1haNE9rcWVTcVBqZndVN3lqZVJtTjlCUUxmeGtSbm1WZzh2UHJCelI1NHctY0xzT3h3UldJTy1uVTd6cjVNUV8tOUxfU0UzdUNGMzllR3RTU3dSRnZZNnFEMEszblpva0RDbkF5MmNHY2VFazNtWHZPNHllMms0ZGc?oc=5",
+   "source": "Drug Topics",
+   "snippet": "",
+   "date": "2026-11-24T21:26:23+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves First Systemic Therapy for Vitiligo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnNrdkhJVDNTR2FmVGpkZWg5RUdvcS0xWC1vYVhMVHo3VC1wREluTDEzTDdYQmxSSmhfUzlKLU1lcXJ3YVBfVUh3Q1QtRWdzZjBBRVI2bjZIeTBOb2p5UGs3WC1XRHlEbVh5eXJBWTVMQ25vNFNFeGRDaTVuMTMwcW5pQmhBaFlQRHdXZU9YU1NJU1JjMDBEN1VR?oc=5",
+   "source": "Medscape",
+   "snippet": "",
+   "date": "2026-11-24T21:24:29+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Q&A: What Does the FDA Approval of Upadacitinib Mean for Vitiligo Patients?",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHU2UHdKZmdwRDdBYnYydVNuelJsSUtHYko4Q3c3OE5IS3d5a2FobFU3VWdWNm5TTG50clRxNjg4TVBwTG1CcFo5Yk1aaTRrZlJFNFlzSklmVXRjc2lzazNZOUxIYlM3ODVUZmFPSHNJR1NTdy0zQXRNSWRyQVpaTVBwY1RzaDdETDl1U25uX0tGM0ZLUFFKajNUOTZteWRpY01N?oc=5",
+   "source": "Dermatology Times",
+   "snippet": "",
+   "date": "2026-11-24T21:02:16+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Amgen (AMGN) Sets ABP 206 U.S. Launch for October 1, 2028, Subject to FDA Approval",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUNOcndHREl4Q3A1Yi1YRjMwMUtDOW1YeHBjOC1JOEpvMF9TYUU1aDdTV0lLekFsRVdqdENkRGMxUzBIMlRVRmFmbzRMZzhSWFF3dGc0NGpxTnNSd0xyMUR5aF9UTDQ3VkRqdW5qcW5ETm1ZSXhqakp5YjVXNGtpdDU0SU43VmNvY185WFN5NEtqS0o0bXd2RXAwRm9kb2wxRXdSUGVoQlpWUndqSDRyZENCU3VmN2IwSXdLQ2lacGo1elV6eTg0Mk8yUFBnczJCZDJpZHRR?oc=5",
+   "source": "TradingView",
+   "snippet": "",
+   "date": "2026-11-24T21:01:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "The FDA is expected to act by year-end on Amgen's application for an Opdivo-like medicine.",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0t2R2EycFlvcm1ZT0ktOFhySTYtTlk4X3g1VDczN1hYeDFWNlh5YjdtMWFCVHFhbFV0RzJEQ3g4Z1RQM2lNVmF5aHN3blFSdlZlX3h3U2NsOGtBTjV1S2Y3aVNYNk45NFpGYUwtOXlhMXJhS2UzaXR3SXRBb2VDd3FlWGpMQTAtT3FMT0ljeTh5dEszRlZncG83bzV1V0ZFUVZBRzJJOEJZcEJLUEFiN3ZORXJHZw?oc=5",
+   "source": "Stock Titan",
+   "snippet": "",
+   "date": "2026-11-24T21:01:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "US FDA approves PolyPid's treatment to reduce infections after colorectal surgery",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcS1UZlhnazc0SmNYb2gzdTBIOGpUZVVwUG5nWFZtalB3bGprdktDTWZJejBHOGFFSWUtMklqb0dsZmtiTlBndm8zVWFSUGQ0bE45eXRUV3RsYTZlVkhjSV91TTltdmlhdDRNMXJoZmduenhqRHFYZjh1M2t3a3h3RXFzRGVmVHBPazljWFE4UlBmbTNmNXpaLWM2Qi1nd0V2LTFOMnUzX3ZiSThBN09OeFBhWi1MTlEtYVlXbEhwRDlaNl94N3JPc2psUFYxTlloSGFTck9MSGFUeE1zNUlVN2JpWU1Vdw?oc=5",
+   "source": "TradingView",
+   "snippet": "",
+   "date": "2026-11-24T20:32:53+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA approves Cogent’s Ekitna with sunitinib for imatinib-treated advanced GIST",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmNyNTc0Y1BrYkVpeFZrb3NiXzFRb3FjQVRFMEdMOFRyZWZRT2lvck9HOTRIb2ROaUl6cGdIYnQxcUpfUW9GaDNoMWt4bnFRSUJqMXlQemdYcVVUYTFaZnI2VFFwNXlLZFY5d09PMVp1M1hsbTJleENPUXlnYkg4bVBvb3NxRlZmRENCYg?oc=5",
+   "source": "CASRAI",
+   "snippet": "",
+   "date": "2026-11-24T20:25:42+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Drug Developers Should Treat AI as an Operating Model, From Target to Trial",
+   "link": "https://www.genengnews.com/topics/artificial-intelligence/drug-developers-should-treat-ai-as-an-operating-model-from-target-to-trial/",
+   "source": "GEN",
+   "snippet": "When the evidence is ambiguous, programs often advance anyway and stop once human data confirms what earlier results suggested. AI that evaluates preclinical results as a whole, and compares them with outcomes for…",
+   "date": "2026-11-24T19:28:57+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "FDA Approves Upadacitinib as First Systemic Therapy for Nonsegmental Vitiligo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2hCeTNZaEZlaDhGMS1XOGhUMlktNG9lSXZHc1ktWFZzaXlKU0NkbnhVRjVGcF9Xd09mSHRtOTM1Yi1ITmZOQWZzWGlVWlc3c1VyMXdldjdQd2tXeHo5VUF3M2hEdHpqLWdiZV9zRFdUZUZ2QlgwVGVDUGFJZDhIR2dJOTNJRHV3bnlNLU5MM3lLXzFscTRUWTQ5X0tzZU9oUEw2eUJXUFJnZUVHcHpnUU93?oc=5",
+   "source": "Pharmacy Times",
+   "snippet": "",
+   "date": "2026-11-24T19:08:37+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Welgemda for LGMD2i/R9 is now 1st FDA-approved therapy for any LGMD",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzNDNUZKMXlseDBzTWZpaTlKdnYzbnk1V19yRUx4N0pJcHlxdk5YaV96czhBTjRJMVNoUHUxdGxVcl9maUVYWFdMbERNbmFEQUZIbnFJYXZqQVFLMXplYjkydzBfYW5CQTFrYW1fSzVjWldfXzcycHlsc3VmMnNJeW9JSV9ZX0E4VXlQVjF6d2lRYzQ?oc=5",
+   "source": "Muscular Dystrophy News",
+   "snippet": "",
+   "date": "2026-11-24T19:07:30+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "With Planned $41B Insmed Acquisition, Sanofi Inks Year’s Biggest M&A Deal",
+   "link": "https://www.genengnews.com/topics/translational-medicine/with-planned-41b-insmed-acquisition-sanofi-inks-years-biggest-ma-deal/",
+   "source": "GEN",
+   "snippet": "In announcing the deal overnight, Sanofi declared that the transaction was intended to broaden its presence in respiratory diseases—a key therapeutic area of Insmed along with immunology and inflammation, neuro, and…",
+   "date": "2026-11-24T18:58:29+00:00",
+   "tags": [
+    "Licensing & Deals"
+   ]
+  },
+  {
+   "title": "PMEC India 2026 opens, puts spotlight on the next phase of pharma manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmE0MldCMm5iemNoNURxX3hodzJWT0RLUDU2bDRVckpMZGd3NEZwYnVfZFRVZVVNcVlocHdJdnVqNTBBUG1uLWx6bTdRWW9lS2YtUjdSU3g1R1pZeVowZHpWNmVEWVFBLTJzSDRDNmZ2ZDBLUVpvZVBYSGgwMzk0R3lyRnpUd25PbUxnaVZVSkNUYVNhd3RJOHhCUC1oQzdaUmRSbmk5cWw3SUs3NUJ0bWNR?oc=5",
+   "source": "Express Pharma",
+   "snippet": "",
+   "date": "2026-11-24T18:46:51+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Sanofi’s $41 Billion Insmed Deal Shows Cost of a Patent Cliff",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFEzUk51QzE5VlkxbjZsdENybzRPaGVBUndiUVN0TWpqZTVocmNwU0h3Zmg3dXdaV2RLbHlyQmFKS2FZWTZMSEJmeHhWeFp5WkJCa2FxbTM2TFM5eDY3LUsxSHFvQTlCVndRU0pBX0xpRUFCYlpXenZRSGZKTXVsUW5md2tNUXRIakZNSjVCaGppU2ZoRW9hR2lBVTdJbXRmMVpLUlV3VW9TUU9NVWVuejZUQ3PSAboBQVVfeXFMT3M5LWNhc3gyWmlmX1h5Skczc2w1UUx4b2w5RzVfTWE5dllHdE5QMTdYcHlvd205bE02b2JFV0JUZXcyODJULWxJanF0SzNuczBhdE03SkUyQVlsemdJQ1VQX3FDaEtGaHp4dkJhQXFZNERhLXRUS1FKVTB2Q3U0WTdLNUQzSXBGeExZOE84R0Vjbkp4WnR6c0JsWnlPM29zbkUwYjhhd2ZrOEFfaVU0NVhBXzlEN19iUk53?oc=5",
+   "source": "Livemint",
+   "snippet": "",
+   "date": "2026-11-24T18:37:04+00:00",
+   "tags": [
+    "Patents",
+    "Licensing & Deals"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib Plus Sunitinib for Advanced GIST",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUM4RGhRV1JaelJLNzU4RGFCN3JwTHpOQXIyY0g1d1czSzBxSTlCQVJfQ0ctM2ZiSXhhd0hPcGwydDd4TktPYzREMUFMOE9aakJkVUJNSmQwRV92QmlsRmdMeDRfR01xWnh1ZnFCX1NJMDU1bEplNUFrRWs2XzJXU1RQLUlIV1JGNFk5YUhoMEYzSkxFQW85Y2RaSTdqUQ?oc=5",
+   "source": "Oncology News Central",
+   "snippet": "",
+   "date": "2026-11-24T18:26:36+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "US FDA approves Cogent's combination treatment for advanced stomach cancer",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3VwcDBiRHhiU2pwbmR4NHpHUlRUM2xvVE1sZ3htS1FpajZ5S3VVM2ZHQVRTdkhZOVU2eHpHRHVLVnZxbzlIT1NnYlMzUG5LY2pqVDBCV3FKcHU0Y2NnaDkxY3cycVdhMnhWRmFjQUJ6bHI3SXlra2VpcVFLbWw1SXl3VVNPUDRLdHFNTUlNV2R3VmlSTVpoZHJmMjZLbWt6QWw2SmpoQWowMnprSzU2SjdYVUVWcVhfSVVlcnViZw?oc=5",
+   "source": "Reuters",
+   "snippet": "",
+   "date": "2026-11-24T17:58:07+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWF5QzBWSTlEbjduV3ctTFFpMHUwcWI5Nzl2bWFtbkFrYTctdUxYeUV3VTlyWGFfTDFxUUd3SnBxV3VRQlRSUGZwNlRJRXNPQUhGOGtKM2ZUXzE4aUJNdkZDVEQweTQ5MVItSFVmNmpEbzdoZWF5QTQwU0JwRlJKUXlFTVZJd2hadlZzUXI1MnBIQ05XQWUzMVo2ajRDZw?oc=5",
+   "source": "BioPharma Dive",
+   "snippet": "",
+   "date": "2026-11-24T17:30:42+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Orca deploys undisclosed number of layoffs amid focus on Tregzi launch",
+   "link": "https://www.fiercepharma.com/pharma/orca-deploys-layoffs-prioritize-tregzi-launch",
+   "source": "Fierce Pharma",
+   "snippet": "Orca Bio is making cuts to its workforce just months after launching its first FDA-approved therapy, Tregzi.",
+   "date": "2026-11-24T17:21:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "COGT: EKITNA wins FDA approval for post-imatinib GIST after PEAK doubled median PFS",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX2pqTzNMVlVzWUdzcm14NkNMdi04MTZZZXlqZkVkVDNTSDNsemJzRTQ3VjF6YXRJRnFsTXFBSEJUUzk5T2YwZGZncGNwZjA1U0xlZ1FMV3NmakZVT3ZNX2dDWklYQnlQclBZcDdmcl9ra3lCVHpwLXpXWkFYREh6U3F0eFRiRk0yT3lUQ1BrTE1BYkdwUEV0QnNQdHNHMjVtRVQzS0ZGVklYdC1YemswNUdnQjQzd01CLXpORkJudTNEZXpVV3hBWmJhYS1zSGNuX1N1Tmc2UndPMFo4VmJWMDBLMTBhZVdVQ0JKdnlVT2RpN2tiRFFMWExTV29fQQ?oc=5",
+   "source": "TradingView",
+   "snippet": "",
+   "date": "2026-11-24T17:19:03+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Recon: Sanofi to buy Insmed for $41B; FDA approves treatments for advanced stomach cancer, muscular dystrophy",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMnJJMm5hX05mUmVldjd0MW80eXBENlFRa1JJUEdMY3p2aWdjTWFHb0YyN1h4czloUW1mR29PaG5fLVRxbVAxa1ZEQkNkX0hrZVAyYkpUbUNIdmZxb0tJNElENDZQN0lWMnRIMC1nLWUyNUZDYnB0emxMNjMzTmlzdG81WkdQVzJEbTlVMWRiSms3NUxEYjJQQ2x5QjU2N0tDYUE1ZlFrc1dySk5QSXBHRS1aTEVfN0ZZVmxaWXpYbnRRSk9FT0lfWHFmUjhDeWhsamhvQkUzdw?oc=5",
+   "source": "RAPS",
+   "snippet": "",
+   "date": "2026-11-24T17:17:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA approves BridgeBio muscular dystrophy drug",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzFIRXZSMmktMWxmYUQ2ektJenlzQWd1ZkFMdFdJblIyMXVPYzNxbS1nVUVKbDFXTUxrVjNzSG0xT0tjVk9RTi1Fa2xHS29EYWZmUU1TVHN2X01tOXVCSFdneThNRl9nUEFxX1E1dnIxRzNuOXB4RDBtRXBsUmdDQ3o2WEh3RFY3dVplc0NwbFhMUnFoaG5seVg5MWRHdE1kWVZEcQ?oc=5",
+   "source": "BioPharma Dive",
+   "snippet": "",
+   "date": "2026-11-24T17:00:34+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib Combo for Advanced GIST",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0wyS3pCSzdsWjRnY1ZCVmF3OXdnT3NCdnZHU0p5bXFjVXlqMWJySVh0SGxMNnZnb2lpd2JfeXFnVGNoY2c0TkJlYW16ZTRKdzk3M0tsVGpDRlFyMGpobUNmbHdORHlZRWZ6MWRGek9Ha0ZfN2NrazNxWUhBdVNrN21GMEFRX0poUWUwUXRKQkFUVnhMQkd5MGsybnM?oc=5",
+   "source": "Medscape",
+   "snippet": "",
+   "date": "2026-11-24T16:54:41+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Cogent Biosciences Announces FDA Approval and Launch of EKITNA for the Treatment of Patients with Gastrointestinal Stromal Tumors Who Have Received Prior Treatment with Imatinib",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNbkFNQl8zS0NpdFV2LXA5VWRhRlRTNktyS3E1T05HSFA5YzllS3FhRHdmczVLNlh5SUdyNXhtdi1XaE9lcmxWam5xQ3BwT3NOV1lOenI2OThwSWpRSF9ZMWJYNHhINUdyY080dVBSRnU4REdzN3dpZjhlZEZUMWFZQ1FxakktOVdrYm5WT3I2VGlTbHlXRnBOLVJtTElsd3BuSGtJY2tmS2Rla3d4LTNlczBiQkJCanYydzd4bWNBMC1LLTdqck5jaDlLeGpWb1RZUUFsZml4QVljanY3MFM0c0VwTWVIUkdkVC10UE85c3N4VHRnaFQtcUVSN2RLWVlvTlpvYXhEVXZCZXNHNlBrakxlYjd5eWFqVkNSTDFhcTYtSFJHaWZxd05KWGo?oc=5",
+   "source": "Investing News Network",
+   "snippet": "",
+   "date": "2026-11-24T16:46:22+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "First Systemic Therapy for Nonsegmental Vitiligo Gets FDA Green Light",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yTmN6R3l0QmgwMWEtN21fN2RxLUdyM3FTNHBOeTNDT3BIMVQ3MldTRzJYVW5pYVlrQTNFaGYtY1dTWWJqUjF2Mm1lRzQ1TnJIMnFFYWFKMnpYcDFUYV90QTBPVXJpaGw2c3p0ZkRxaEpQajIx?oc=5",
+   "source": "MedPage Today",
+   "snippet": "",
+   "date": "2026-11-24T16:30:13+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Requires Less Burdensome REMS for Lenalidomide and Other IMiDs",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcElocURmcFpqREI3dkRDSDFRMGVVenY5X2lKMjQ5MnpFU1ZaMnVQbVVVMzVNeHhkYk1jY0djOXpGbXRsbWxfTGhDVkhtQ2xZcUdMSlYxSUUtSTFwUTdzYjltNnhPM0tiMWg3bGVBbVdLd2lIN2d2MndYZkRuVjNackdNcVpNUG5GZjlqd2UxQVh4Z1dSSEpqTQ?oc=5",
+   "source": "Targeted Onc",
+   "snippet": "",
+   "date": "2026-11-24T16:06:36+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Maharashtra FDA cancels Pune firm's drug manufacturing licences over substandard, spurious medicines",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOOGlWblRGc21VbHFhSkIxS3ByWnJ5SHRrZFdheWRmemRBYVNKeTBObjNwVTNqQjd6QjRkV2M2THdSd3RlaFpWUkN4M2hzeC1rYTlBVGV4M2VmWFQwVElYc2V2MUdGd1Q5XzVvNmlpazVUcmJWUDhwaHJRRVhHcng2VF9pRHN4YktoUzVhYkQ4aTdiZXVKMnc2VmdnZy00N1JtcDJjVnBmcXFUT21LRkZtbVpyQ1d3U0pPamdidnNpV0V6eV9paUFOT3FlVkFfMXVtTnhKRWs2OUtBSUZQN2duQ0RmZnczU2U1bHVzUnF1RHdWaW9Va1lCQl9uaU9zTXl0TXFCWHNwdHB4MnRSNnEwV1R2em50a1lySTZz?oc=5",
+   "source": "The Economic Times",
+   "snippet": "",
+   "date": "2026-11-24T16:06:21+00:00",
+   "tags": [
+    "Biosimilars & Generics",
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Misses Deadline on Savara’s Rare Lung Disease Drug, Leaving Approval Timeline Open",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1JzbWFtSnBVOUlyLVdCMEQ0VFpTN09HYTVaLTRWbTV4M29tTV90Q0xvUmtzZTdyOXFoT1pRbEFBemlrVXFzSnZrTkctc3BxSTRETnBWMW9jWDI1UlJERUxObG1abVFSZEhvQjNJUU1RcGYxYXFFY1lLMzAtajdqRjg0M0VQSk1QNjRNY1pRMkxRTF8zVVNKeTBENXFFRnZxNGtnMmdzWnJTdVNxYkxrTA?oc=5",
+   "source": "Pharmaceutical Executive",
+   "snippet": "",
+   "date": "2026-11-24T15:58:12+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib and Sunitinib for Advanced GIST",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWNMOFNQdklDQWsxZXpUMDAxWlM2b0k4ZEFPRFNFN2xXX01TX0hVSWhrUnp4SlFOVXlKdTRuOWJyUG5DNHdoeXh1UHczVmpNckR2bU1OZjQwd2EyZ1R2N0ZZMXUxWndYVWtURzI3WWRkRWNrUjE0a1FvUzR6YmgzLU9naGJXZjh2S0x3ejg1OGtZYW1jRHZlSWpPVXg2ZTNpSGdGN0g2N3NGZw?oc=5",
+   "source": "The ASCO Post",
+   "snippet": "",
+   "date": "2026-11-24T15:46:25+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Cogent Biosciences’ Ekitna for Advanced GIST, Doubling Progression-Free Survival",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUF2VDBfdkRrNV9hZXQwb3QzX2lLTU9XZVllR3ZQSWxCTUYxU1dvUURPVFYtOGY4cUxZanBjZ21FRTRzNUxieDJqM01vU1RacEJDVW5VYXUtNnN4anplWFF5U25mdkxjSXZMVmVGb1pHZWFkV0lVT3NLOHFKX3lUNVp1cFFkbXJiZFRNRlhoRjdweDRzTGlfMExJZjlSLWZNWnFTOFpfcHJxZHdPN2M0TkpaLWpZMWdNVUE?oc=5",
+   "source": "Pharmaceutical Executive",
+   "snippet": "",
+   "date": "2026-11-24T15:33:12+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "GSK Launches CDSCO-Approved BLENREP in India for Treatment of Relapsed or Refractory Multiple Myeloma",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGJ5QUtCNXlkdE1ZeEJNTTRYWUZQckRMWXltbUpZOGEzaUxDT0RiUmFJRDlXZVFRODRoaTVwWHB4b3EzUjhHUG1IMTRaRi1zeEJZaEF6WkFZQmg5TFEwbmxRT05HTXRnUXNDb1UtTmdaa1B3V25YQ251cmwtbGFheHlZS0NiNWkyOUhDM3NVazBBQ1pYTWVGbnNzTkxUR3Zzd0VCTDREdmo4cVJoaHBDaVRiMVY3c2czTTg4QkFBaG5fdkFzSU9SSEdyTGVLaDZiZWQ4OFlOb2EyVXIyajlhQ25SclM?oc=5",
+   "source": "Telugu Times",
+   "snippet": "",
+   "date": "2026-11-24T15:23:04+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "NIH diagnostics accelerator enables first-ever FDA authorization for a point-of-care test for active syphilis",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOTBaSFRUNFdsckNWOGhXN1l6SEVyY05haGgzUElQWVJtRTBZY3ZfZmc5Z2xWTXpWNUdWV1UzNXVkekFCSW9Uc2RYTEV4RGdmOS1NeFUyeGM2dXV0Y0s1LUxlTnZEdG42SHFGQl9xbzZuY291MU9VbW1mcGRiRmlMaExzVk1uWmZfbTE5am1teXNZUFdpU1k3MTQ1U2lSbktPU0tvRW5KSVY4ekNrZW1zMUhJci1TNTN0aHU1NVpUaE1ZbHdqUEZOS1lmM2pmdVdxY0RjZ24xc3dhdw?oc=5",
+   "source": "National Institutes of Health (NIH) | (.gov)",
+   "snippet": "",
+   "date": "2026-11-24T15:17:57+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib Plus Sunitinib for Advanced GIST After Imatinib",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzV5QkpValpfdUNBZmZfMUxQYmdHX0Q2WEpiNDZHWVNhTkh2QXFBeHJZZjhIU2d6cmtXYVpEYUdrRE1odURVSnh0QXJVRnRETkszYjhDZTVMS09RRkJRZWhHeTNRcXN3YmdnckdyNFluSEc4QVpQSDJGX2RDemt2OXRsajI4MnpMZHFhWUd1OHdqUEZnWUVqWW4teC1OOWhQOFVPVzBiM0xDU181VFE?oc=5",
+   "source": "Pharmacy Times",
+   "snippet": "",
+   "date": "2026-11-24T15:16:06+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "COGT: FDA approves EKITNA plus sunitinib for post-imatinib advanced GIST",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYWdLTTZGbDZSSGo5djNjcDZkRGV3VVpfMXVNYjlnLUxJck9JU21OQTdaOXhoT3ZwU01VSm52Q01OU3lXNGRMdDdSSE9yUjNlMHl1SFl0bkxJalhrZWV0U0lWcjA2bjJMTkY0NHhoVmhaMTBtdmoyLTc3ajB4eUczZ2Zxc3NLQ1RQMHZEUU9rbHB2eWZTZkpnWC15bkRDb1FvU0NaaWJmVWNKRllwOFNoemp4d0UxLU5JSmM2czhKekFtREFYeVVrUWtLVnM1QlRNWmMzUjVBVkJrcUFGNHJLdzAtNDl6Z3lEU1E?oc=5",
+   "source": "TradingView",
+   "snippet": "",
+   "date": "2026-11-24T15:14:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "CMS touts nearly $10B in savings potential as latest round of Medicare negotiated prices unveiled",
+   "link": "https://www.fiercepharma.com/pharma/medicare-projects-92b-drug-cost-savings-latest-round-price-negotiations",
+   "source": "Fierce Pharma",
+   "snippet": "In its third round of negotiations, CMS achieved lower prices for 13 drugs under Medicare Part B and Part D. The price changes could have saved Medicare some $9.2 billion had they been in place in 2025, reflecting…",
+   "date": "2026-11-24T15:11:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Lupin gets U.S. FDA nod for Ferric Citrate tablets",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHljdkR0UXpDTTBCNjBWMWV5LVM5b1RwR0dWQ1ZTT3dhUG03ZUQ1LVMyeWlRd2puY2RnRWNSS3ZzLUFMVXAzd2dsdkxGYzFaSTlhTDRvdDd2UFVJZElJTzVsclV4VXhQdmctRVJTd1JqUHRLaFZfM0dCQnE1eXF6RDlMR19oT3hmcEtCeXVNTXRROTNGZmRWR0NlT0I2bkZIY0lKNVNqMjUtTThIWDdBNNIBtwFBVV95cUxOb0M1UU9XcnE5T0ZfMWkwOEpGdVVxSE9BOGx0YXhUckZZUUkyT2UyZk5xZlc0TkE5cnB6OXdEb1BpSHMtQ1ZLU3Vqc1dyaDNnLW5RcXhKMUM3RGZMMlo4dnVyLVJ3SUNkc0QwY2VuNDUzYUNoMC1xeU15NUVhLXJMUU5QbUI4UkZqOHNZaFVQTGVGQkhiQThvX1lkRlFjSk1RVE1DZW1EMHFzTE9HdHZNUjFWLTFZUFU?oc=5",
+   "source": "The Hindu",
+   "snippet": "",
+   "date": "2026-11-24T15:05:10+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "FDA Approves New generation hormone therapy Giredestrant for Early-Stage Breast Cancer",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0UyUnJnUVVqaGFJaTczLTIxMlhhZ3drU0RFRWZQbTRMMkRpcHlTcndvQnE4c3JxVE1qTkxUanVISjMtVFlCR2pQdlpxMXVhaWhrdGl4QktvRlhYTEdSUlZNanhkYVVsRU1vaXhWYzZtaFh2TUUzN0JiZHdJRjY1Z2Nha2RTeHIzSDlrUjIxakNyWlhETFRaS1JLUTgwUHNiT0FoQmN5cXZJMGVnRDZrYVlLbUd3aUtEQnpreUZ4LXlRZU9XNkJRekRuSzE4QkFM0gHWAUFVX3lxTE1uQTd5NUdvQTVqY1RVa3RkUVR1QkhieWpKRTF4RldTMEk3Rm11dGgzcWZHa3dWNUNQU1BzSWxlVHBSODFZcWx3Y0Uwd0lHdmx5eXNBWUxjUWlPUmxTdXJpbVpCNG1pcVJhLUJEbFhOeGdqN3l6Mm9VS2J2V1M5SlJwUGpjeWlJRGxsVkJ0d19DWTAxNDU5OXl5UTU5aFRfdjlrd3gxVDgyWXdZay1VTWs1NlZUZUI0eG44cXluQlktbmVNb1FoWkpVd29SemhPdGdELVZNdWc?oc=5",
+   "source": "Medical Dialogues",
+   "snippet": "",
+   "date": "2026-11-24T15:00:09+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Rinvoq secures FDA nod in vitiligo, portending market showdown with Incyte",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXh5LUVfSVBCNUFFZmtSNHoydlpvem9IaGxQbW81cjNoV1dFaVVpRmMzU0VLVV9tTkYwRzE1bGctZGZsR2FDanIwOTJ3bzZTYjlqZTY4UHFOSE5ZNjV1Rm53cTZEY0o2UHlhYjk4SU9fNS1iNWh5cm5oanlDOWstcWdwTXl6VjZWeDdEVGpQSnEtamdEQVRKZEdn?oc=5",
+   "source": "Fierce Pharma",
+   "snippet": "",
+   "date": "2026-11-24T15:00:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA approves bezuclastinib in combination with sunitinib as new second-line therapy for patients with GIST based on Dana-Farber-led PEAK study | Newswise",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVnBURGFONnI3cFJNeHplb08yZE5NVmF5clRfMlFqb2RpTXRSYk5wcGIycWRqdlZrRk1WdVZyYm9tLUszM2hIQmlDZUYyTUhQeVc2ZklhZlh4UzF1MUY5NEdEbk5rNFAzdndxTThzRTVIbXA4ZFg3WnZ5bHN1YWkxMEhIZHZPSTM1ZWdjREVCUEJPeGpLN1lYcEYzMmdRMGhwaFNVMmtnSF9rWEdtcExOZVBadVBGNnllNHdzTTJwOFhZeW9qcmNVTHdfWHZjY18zV3p6S3dOd3V4UkV3eTlwd0FIRm11RnhkTlR3UnI4cWdKVzdNMXVCeGhUQ0FGV0t0RUxEUk81VdIBhwJBVV95cUxPVnBURGFONnI3cFJNeHplb08yZE5NVmF5clRfMlFqb2RpTXRSYk5wcGIycWRqdlZrRk1WdVZyYm9tLUszM2hIQmlDZUYyTUhQeVc2ZklhZlh4UzF1MUY5NEdEbk5rNFAzdndxTThzRTVIbXA4ZFg3WnZ5bHN1YWkxMEhIZHZPSTM1ZWdjREVCUEJPeGpLN1lYcEYzMmdRMGhwaFNVMmtnSF9rWEdtcExOZVBadVBGNnllNHdzTTJwOFhZeW9qcmNVTHdfWHZjY18zV3p6S3dOd3V4UkV3eTlwd0FIRm11RnhkTlR3UnI4cWdKVzdNMXVCeGhUQ0FGV0t0RUxEUk81VQ?oc=5",
+   "source": "Newswise",
+   "snippet": "",
+   "date": "2026-11-24T15:00:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib Plus Sunitinib for Imatinib-Pretreated GIST",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYk1CZjhqTTZ3RHpWT1lYTVh2S19NVTJTSHRXWS1XSHVkNUpOZTV0Q1JXZ21velpmSFZ0Q1lIazRJRU9JaTRjcGh3OENDSkdYNGhLOV9leGxRbnJ1YTA1ZldYR2E3V05XODR5ZUNmaXV3eXZ0Y2xEZkM3RnhUMEVqRjVuWEpsWnkwUGdIRlBpUWEwcG8wLVRScmZQS3BVN1ZJQXdIZFYweWRRZw?oc=5",
+   "source": "Oncology Nursing News",
+   "snippet": "",
+   "date": "2026-11-24T14:50:03+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Bezuclastinib Plus Sunitinib for Previously Treated GIST",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkxWRVFOc1Vva3dpcEdZYVpUTTFTWEJiclcyWmt4MGpLNDNLdDJYQ3JUbzRBV19YOEpQQ2gtLUlmN1F6dVBhbHJ4RGJOeF9WbzRDVC15YnhzcDZXbDRUd0JoQ2ZkcXFLWWRINklBc3R4WHFlY05tVFhmTzBPX1MtU0hLSWY5d3JGZ1BGbUxpZEM0TjJEc1ROdFdVZUcyUHM?oc=5",
+   "source": "OncLive",
+   "snippet": "",
+   "date": "2026-11-24T14:46:33+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves First-Ever Treatment for Limb-Girdle Muscular Dystrophy",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUt4emVjOUZ2ZG5qRTgtYVJQV1BaUnhBNU1uWG1CVmdxemppOG11WFhyQ3R4ZWFHZTJhb3E2NmZ5dG5JRXJ1c3hncnNMYmZVZzhwWW5LUzhCd1JBSVM2Tm5FN2xWUUhfcnVyMEVyTHZCVTA4MGxRR3Q0VjloX3dPZFZ2Sll3RmhfNF9uNFBHM2ZyNTVGSDVsVWtjQV9LNnRLMXFwWFJRM2tndHFvVWNpS2lTODFIU0Ew0gG-AUFVX3lxTE1lV0dHdVF5bzF2MThnUjJQYU1DU2RPZmJYUVV2NUczcW9tWmg5QU42R2piZXo5amN2ekpkT0hvYW9YdllSMUJ0NFA1MzVRTXg3MkNCckUtZGE3NzQ5d2dMNFFhMmpfY3FOUFNkTkkxRm5ZWkhUN05ZelcycDdqVzlWcjVsaXE2dXJLZTAybURfUUlYM1hvVHk3WVFHdzR6UW1pUUJTZThERGJORjN3NThuamNzV2NXUXRkVzZFWkE?oc=5",
+   "source": "Medical Dialogues",
+   "snippet": "",
+   "date": "2026-11-24T14:45:08+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Ekitna Plus Sutent for Previously Treated Advanced GIST",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJxMzBxTllheVV0eHNmQkxZSm0zX2FGR3NPbzExc0RXSVFsbi1aVlRxNUtGRnhySXFVNEhqLTZES25nX3NvSDFkWmJPdjMzZGlENUlaY3c4UUNKRHRoVXBpNXlYNVVhT08wMnpvblBkS01Fbkd5dzB4UGZJZ2kxdnVRTm1qSTBvODFkX0tnenBreXRaZVAwam1ya0xwS3VE?oc=5",
+   "source": "Cure Today",
+   "snippet": "",
+   "date": "2026-11-24T14:41:07+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Lupin secures US FDA approval for ferric citrate tablets",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sX3RlZXlzUmJId2p6YkVBM1lyR255NmotMVJ3YkI3T0lWVmhHRkNoTkFfUDljc3lqUVQ0RjBxXzlLajZENDJKa2tkbGFNWHRVV0xsNmNJLW5oY2w2blJwR3JpaEFsTkRJemFaWXdDbWJmMWgzbUNWVXFB?oc=5",
+   "source": "Pharmacy Business",
+   "snippet": "",
+   "date": "2026-11-24T14:37:36+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+   "link": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
+   "source": "STAT",
+   "snippet": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
+   "date": "2026-11-24T14:15:03+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Drug approval timelines may fall further with 1,500 new regulatory posts: CDSCO",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeW1uSUV2SFhHYlRJcktzRHRIc1NyckhET19tVmd2YkhCZTdSYk9yc05OSXA2SjFZc2FYS1MtaEhIRDYzdXdrZjZpUnpRTktqa09hQWJTLWJDTjhZMFlzbzJFWTFhMGVUVWlMR2dhVlFXaWlTbndyZ3JPbjRkMGs2a2pFTWhGbkd5MW5CTERfcWFMZUVERURvZFZTQm9LNVg0RnpVckRpMHhuVXdmWHRNTnEtdzdQZjdUQUVnbXhVbURRYkJIcVkwakxodWdVRHVyNnRGNm4wTjhoZjdTZHZjNDRNMFVZTVVxekxXbk5R0gHzAUFVX3lxTFBSQWxFR29qcEh4NmVCaUZlR0x2N1RobGVYNHk3Slg3eUFpQlhrNjMxVlNnVkRyYkZVLWVIVE83S0poc0dIQ283TUlKTWVzWGdnZlluY2hYOFZUMkdqX2ZIblF0dDVDRVJDM09NYzVOcDVSMnV4dEY2Z2xpaWlNMk1feHN3ckQxTDRTVlZWUUlFUFNPbks1c3VhWnVVMnBRMkN6NkMzbjRxWGIwM1p4NTZhcXdSUmE2elV0Q1RhUDduZklmLUxDNFZlODFVVFpMbUMySTdVOWRDanlyYjQxNjhqTGdXWDM2RTlZcVFFQXVXU3lMMA?oc=5",
+   "source": "ET Manufacturing",
+   "snippet": "",
+   "date": "2026-11-24T14:12:35+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "- Pharmabiz.com",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82eFc4S0psWk9WVDcxMm1kNlFyVUVrR1pIT2dfc0xhblhTWWppUnlfNUJJSm5tMlJ1ZlNKTnRKdk9fVTlZOXg4NGFoaU81TEpBdWppVElEN2t4YmtlZTk3aDRR?oc=5",
+   "source": "Google News: Indian pharma press",
+   "snippet": "",
+   "date": "2026-11-24T14:10:35+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "CPHI India 2026 opens in Delhi, showcasing innovations across pharmaceutical ingredients and formulations",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa215RkZ0X0tiYzV3bHVZTHA4Mmdxc1h4LUdoQ2lSX1c2Tlgtd1UzUWdPQnFqbi1GSVV0S2xjWkF2LXJWOGpBVlVyQzVZSXd1MUl3QktLVDJjR0QtLUpzUmtPUHNoUldCSi1Tb2VPRXo3ZnlXRjlleFFfaDRMSHJRdXhjUVRHbk5FVHZWMUk2TjJ4T2VVeTZsRjVyQmJCaDNsaHpIV3l1dGxidnRCdV9XNmJxZXpwLUhIWnVNUTdsWm5jcnlIUG9xYl9GT3I3bkRkVnBrVms5MTZBS3RCY3I1dWZOUjhzWU41MXRIbw?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-11-24T13:36:01+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial",
+   "link": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
+   "source": "Fierce Biotech",
+   "snippet": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected.",
+   "date": "2026-11-24T13:34:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Drug Approval Timelines to Shorten with CDSCO Capacity Boost",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclZidjIyM09wTVlGamJFWXFLWW9SOTJpU25NUEdVemlmR2l1Ny1FNF82MU45Mkhrdmd5V21CcEY0VTJZWkFCVUplV2FOVWJRdFk4djd2czBGaVRWdnZIVUd1dmoxcFUtT1FRY1dqeXYyblllYWhvS19DdGxfMDZHVkExN202UDh3eGNlY1hxMnlrMFdJNldmS2hLY05wb0ZfN2hPckNSZUFVbEJWUWNGNTJLMzhBN2fSAbcBQVVfeXFMT3JWYnYyMjNPcE1ZRmpiRVlxS1lvUjkyaVNuTVBHVXppZkdpdTctRTRfNjFOOTJIa3ZneVdtQnBGNFUyWVpBQlVKZVdhTlViUXRZOHY3dnMwRmlUVnZ2SFVHdXZqMXBVLU9RUWNXanl2Mm5ZZWFob0tfQ3RsXzA2R1ZBMTdtNlA4d3hjZWNYcTJ5azBXSTZXZktoS2NOcG9GXzdoT3JDUmVBVWxCVlFjRjUySzM4QTdn?oc=5",
+   "source": "Rediff MoneyWiz",
+   "snippet": "",
+   "date": "2026-11-24T13:30:48+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "FDA approves AbbVie’s Rinvoq for nonsegmental vitiligo",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSzNNNllISXM1X1BNSnB4a3hLMWVTMjU3TlhyLVpRcUt2c0pRSUhCTmRKcm1tOFFGVHB6ZnhoOER2VWg4OWRnNThveDBTeC1KbmRoVC1HUE9hUTB3UDJGSVozSVVmSkg3clhoWmR3UVZmdGQ0Tmd1UWNzUkZqSm1SSmg2bDMtS2tPTGdqZ09JX1Bodw?oc=5",
+   "source": "Pharmaceutical Technology",
+   "snippet": "",
+   "date": "2026-11-24T12:30:22+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Platforms vs assets: More innovation bolsters pharma pipelines",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUk8yVXlHMjZBUlhYaDVld1g2bVYtcDhvcnp5OTJxeGloZFRyUm5UbGxDWF9TZGMxZVdoclp4RlEtdjBrX0NfSW92S0NrVUR6Y1pCZWx1anlGRlpqS21BckV3bFNNdXdPbERoM2VWSGp6cXdzalQzLWdHbWFsQjE5ODRUVXF1THcwdXlsNkhJckZSWDVrT01QYXAxbm5VMGxidjdFbFRieldpRmJkeVE?oc=5",
+   "source": "Pharmaceutical Technology",
+   "snippet": "",
+   "date": "2026-11-24T12:30:22+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "FDA approves first limb-girdle muscular dystrophy drug",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc2YWQ1S090NkpaQTdFa0FZclBPVnp4V3FOLVYtZGt3VV9BUVhyaEFUcUtZQjk5U2NTVk5ZNy01U19pVVJLLXBQeGhOVjhUMmw5R2RDWU1tSzBrMGc1Tk81UExTNGdaZ3JlNWJhOHBfVEJvZ3NBMzFQZVk1aXVFMVRfbDAtM1duVDNLSQ?oc=5",
+   "source": "pharmaphorum",
+   "snippet": "",
+   "date": "2026-11-24T12:11:44+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+   "link": "https://www.fiercepharma.com/manufacturing/marksans-pharma-flagged-six-observations-wake-fda-inspection",
+   "source": "Fierce Pharma",
+   "snippet": "Indian drugmaker Marksans Pharma was cited over six observations in a Form 483 from the FDA.",
+   "date": "2026-11-24T11:45:00+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "BofA raises BridgeBio Pharma stock price target on FDA approval By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOazdmc1MxeEMwT1dJVFdfOTZ3ZEFCTmg2cmZCUks4cFpOMHJsMG12SUZ1WWQ5S0o3N3NZVndxU3Zmd1FSM2JRWU5LWjFPOWZlZ3JfZEZaUlRCT3oxWUpCSjdfVGd1OUNYc1pGUkJ0cXJhVHNQdnlUVWE1cjFpQlF4ZEdRbkNoVnJLVXlXT1hzVzJWX0VONmdORzlOaXVMTlpsTi14WXJBWHY1dUlseWd1NnU0c3l4TFJBMXpaM3UxeHJMZw?oc=5",
+   "source": "Investing.com India",
+   "snippet": "",
+   "date": "2026-11-24T11:37:43+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Morgan Stanley raises BridgeBio Pharma stock price target on FDA approval By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObC12blFydzhBQjQ2YlVZVmVENUNobnFUMzd3NTVMdFFmRVJTc004WVVJdkQyZjFyRWdCUGxJRVNXaUNJemM4RFFuSGRXQ3NSemhhelJuN21rdzhxbWtsc3RaWGprblZpWURmT2g1MG1fQlI5aW1rNXNSSHB0LXhXd2c1OUdXaWZDNzBnazZBSk9GMjlvVWZMSHpVWW0tWGlNUjRvVXhQdEV1dEJsQVBLV0lFWU43OTFhWk9xTWxCUE5oUElrTHUtOHRCbDBuems?oc=5",
+   "source": "Investing.com India",
+   "snippet": "",
+   "date": "2026-11-24T11:27:43+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Sanofi to buy Insmed for $41B as efforts to navigate Dupixent patent cliff ramp up",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrc0FYUUY2LUVQQ09Lclp6a2tGUFNSREdUNUZha2lYVTM0aVF4d3RNT3dZTC11ak1SRVlKeXZYZ05UMkZZUXlIczlFUDJSRklWSGRZ?oc=5",
+   "source": "FirstWord Pharma",
+   "snippet": "",
+   "date": "2026-11-24T11:00:40+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "FDA approves AbbVie’s Rinvoq as first systemic therapy for nonsegmental vitiligo",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNU4yd21kY1JNYTNmZmpIYnBtUElCU19Pc3ZJNnVaZG4ydzNyNXFwQmRuOVNMVklLN1RQTHNlRFJjOHRXTFhseTFuT3ViVXR3cTFj?oc=5",
+   "source": "FirstWord Pharma",
+   "snippet": "",
+   "date": "2026-11-24T11:00:40+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Sanofi bets $41B on Insmed to brace for Dupixent patent cliff",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0YwZzRzeGFYcTVzMnc5aV91MGZOZW5Vby1rWTV6eVVLa2F3aTB2V1ZsZjhBand2WThnUVpYd190VWhYYmFZWnp1eEdwejl2UV92bndmbHQ4bklwYjdFVkFVX1JoRnZBYjQ1MGw3S1hyb0xYVjRUTkFiMXhEcFZkVmlpb1B3SnhiMEtncTI1YnFBTmJrZzZVckhB?oc=5",
+   "source": "Dealroom",
+   "snippet": "",
+   "date": "2026-11-24T10:43:56+00:00",
+   "tags": [
+    "Patents"
+   ]
+  },
+  {
+   "title": "FDA approves Roche’s Wilserdly for early-stage breast cancer By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWE3Q0cyQlFIeENXVkpWUm1sb0MyTkVmMU96WFcySnE5YnY4Tm9IUnRnWnVISFB3dUZUczRTWkxRUXhwaGFBbjBvUGJuSkdaYXFNU1BQaDE5ejNtaURZZU15QVFXc0FwcmlZM0JFenIxZHpoN2NhMWdMdk5QamxENVBGWFhtRmxKdTJYVVdHakoxdWYxUzh4ZHhkc1hrZ1MyZi1fdjlsSTlJa0NSckI5U2trdzBzdU4zdUNv?oc=5",
+   "source": "Investing.com India",
+   "snippet": "",
+   "date": "2026-11-24T10:04:38+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mSVdLNmxnYXl4a2VvR1BfV202ZXZBckFZWVI5WWtGNkFxQ3d0NDRLd0JNdjJUMWJQVzV4NVNGVWNhZ0I2Rml2NWZXTlNFcDhfaE9kUnVpZkxWWEh1RDk5YV9fTWhqcUZyUzVjLWo5ZnlKN0pkM3Rr0gF8QVVfeXFMT2ZKcnhlaEFlTUtDQ3NnYnlrd1g3d3dZTms3YnM4Yk40ZlJ1eG10N3MzSFZiVUFCQ3lkQUtSYzBNTUx0dks4SkF6azhjaVFpb3p2UTFxYnV4d1RNZFJDZ2hxV1hOTHlSMHNPeHNBQTEyVnBsRnpKRVdxTE1wZA?oc=5",
+   "source": "CNBC",
+   "snippet": "",
+   "date": "2026-11-24T09:59:10+00:00",
+   "tags": [
+    "Licensing & Deals"
+   ]
+  },
+  {
    "title": "FDA refuses to approve Capricor’s Duchenne muscular dystrophy drug deramiocel",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnhUamt1OHRLWjd2SlZFQWlKNTJ0VzFQeUlsSkdDN2lRc3lwQU5SS3p5WWFaOHVYbWFVa2oyenZpYnFpR2hGdXI1OWZreUdqS0pTV004Qi1TV0VnY1d5MFRFNjVkU1JHNW5oQTEydW55cVpTS1UwRDhHTzR6R1pfLUFid3d0THpJNk9xRk5sZUQ1eEgyT1hSRVRjQmUwWlVxRWhNdERZTERLU0cz0gGsAUFVX3lxTE9KeFRqa3U4dEtaN3ZKVkVBaUo1MnRXMVB5SWxKR0M3aVFzeXBBTlJLenlZYVo4dVhtYVVrajJ6dmlicWlHaEZ1cjU5Zmt5R2pLSlNXTThCLVNXRWdjV3kwVEU2NWRTUkc1bmhBMTJ1bnlxWlNLVTBEOEdPNHpHWl8tQWJ3d3RMekk2T3FGTmxlRDV4SDJPWFJFVGNCZTBaVXFFaE10RFlMREtTRzM?oc=5",
    "source": "Новости GxP",
    "snippet": "",
    "date": "2026-11-24T09:36:27+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test",
+   "link": "https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test",
+   "source": "Fierce Biotech",
+   "snippet": "The FDA has given de novo marketing authorization for Siemens Healthineers’ Atellica IM Neurofilament Light Chain (NfL) assay.",
+   "date": "2026-11-24T09:34:00+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -29,6 +677,16 @@
    "date": "2026-11-24T09:30:25+00:00",
    "tags": [
     "Licensing & Deals"
+   ]
+  },
+  {
+   "title": "GE HealthCare launches ViewPoint Ultra to simplify ultrasound workflows",
+   "link": "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows",
+   "source": "Fierce Biotech",
+   "snippet": "GE HealthCare has launched ViewPoint Ultra, an ultrasound workflow solution designed to help health systems standardize clinical documentation and reporting across sites and departments while supporting specialized…",
+   "date": "2026-11-24T09:25:00+00:00",
+   "tags": [
+    "Biosimilars & Generics"
    ]
   },
   {
@@ -63,17 +721,6 @@
    ]
   },
   {
-   "title": "GSK launches CDSCO-approved Blenrep for treatment of relapsed/refractory multiple myeloma",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zTC15VlFMZm5UVE1xZlhobENOeVJUcXprU3BTOVE1ZVBnQVI1dTBVZ19vT2haaE1HSFBIcUl6a2JYVUN2UmVGTVduZ2dVdzNIeXYxdzlaT0VDNXBucHE3Y284UHZkSnBlM2lJ?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-11-24T08:00:53+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
    "title": "Lupin receives US FDA approval for ferric citrate tablets",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81UWJYdmhXTGthMjJLNzluaE01QWk1emtMTjVwTTY2Y1BBa3R2R25iYkgwb25KekdWX3AwTVZycm81V0ppd2kxc0NGRzFpVXBpQW1LUFFwQ05jckJWaWlNRTZOdTM1UnRMLVJr?oc=5",
    "source": "Pharmabiz.com",
@@ -85,13 +732,36 @@
    ]
   },
   {
-   "title": "Sanofi to buy Insmed for $41B as efforts to navigate Dupixent patent cliff ramp up",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrc0FYUUY2LUVQQ09Lclp6a2tGUFNSREdUNUZha2lYVTM0aVF4d3RNT3dZTC11ak1SRVlKeXZYZ05UMkZZUXlIczlFUDJSRklWSGRZ?oc=5",
-   "source": "FirstWord Pharma",
+   "title": "GSK Launches CDSCO-Approved BLENREP for Treatment of Relapsed/Refractory Multiple Myeloma",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDU1amtQd2UtUXkwQmc3WW9uWjl2blJyZlJfVDhIbGNmQThkekloakJwOXlJeFBhVlRoOTZYX1doRDlWTERZbVJ4OVVWZGtyVXlZQXF3Tm41S2ZSamMxcWJYM2FDTVN2ZloybTAtNTJsdzFTT25FVFhkSFRWNTNmcUw4blZRaEg3MmU2dDBkVW91amxKU3BTYk5B?oc=5",
+   "source": "EquityBulls",
    "snippet": "",
-   "date": "2026-11-24T07:42:58+00:00",
+   "date": "2026-11-24T07:08:03+00:00",
    "tags": [
-    "Patents"
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
+   "title": "Sanofi strikes $41bn deal as patent cliff looms",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5",
+   "source": "Financial Times",
+   "snippet": "",
+   "date": "2026-11-24T07:05:18+00:00",
+   "tags": [
+    "Patents",
+    "Licensing & Deals"
+   ]
+  },
+  {
+   "title": "Lupin Gets US FDA Approval for Ferric Citrate Tablets Targeting Kidney Disease",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmE1S0ZkejF4Y3k1UjZPU24zX0xLbnB1MF80Wk9TdEk1djJ6SnpVdmxnZjJTUl9ELWh5UUgwYTd2Zjk3ajl0ejJxWTR1dENEcnZ6dG5BYUdfUEw1QVlEcEpnNnNneVlES3Rad1pQYVEycnNGOUlDclJqV185Sm8tR1VJNVJEdWZpUnA3OXEtWkJvaXRyb2ZUM3NLUTVyZXhnMXJ6d1dmaWowZ0hCdUx3NkNqVnQ4SHdFMkwwVUNB?oc=5",
+   "source": "Dalal Street Investment Journal",
+   "snippet": "",
+   "date": "2026-11-24T06:48:22+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
    ]
   },
   {
@@ -102,17 +772,6 @@
    "date": "2026-11-24T06:48:00+00:00",
    "tags": [
     "General"
-   ]
-  },
-  {
-   "title": "Lupin Gets US FDA Approval for Ferric Citrate Tablets Targeting Kidney Disease",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmE1S0ZkejF4Y3k1UjZPU24zX0xLbnB1MF80Wk9TdEk1djJ6SnpVdmxnZjJTUl9ELWh5UUgwYTd2Zjk3ajl0ejJxWTR1dENEcnZ6dG5BYUdfUEw1QVlEcEpnNnNneVlES3Rad1pQYVEycnNGOUlDclJqV185Sm8tR1VJNVJEdWZpUnA3OXEtWkJvaXRyb2ZUM3NLUTVyZXhnMXJ6d1dmaWowZ0hCdUx3NkNqVnQ4SHdFMkwwVUNB?oc=5",
-   "source": "Dalal Street Investment Journal",
-   "snippet": "",
-   "date": "2026-11-24T06:41:19+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
    ]
   },
   {
@@ -137,21 +796,11 @@
    ]
   },
   {
-   "title": "FDA approves AbbVie’s Rinvoq as first systemic therapy for nonsegmental vitiligo",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNU4yd21kY1JNYTNmZmpIYnBtUElCU19Pc3ZJNnVaZG4ydzNyNXFwQmRuOVNMVklLN1RQTHNlRFJjOHRXTFhseTFuT3ViVXR3cTFj?oc=5",
-   "source": "FirstWord Pharma",
-   "snippet": "",
-   "date": "2026-11-24T05:57:58+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
    "title": "WuXi Biologics’ US site in New Jersey completes commercial PPQ campaign",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FQ2xkaFVHbmo0c1JpTVRLY2s2WFlFUG4wVGxGdXNGNzV6UHVzNXlTczN6d0VjRUZvRzVJdFViLUZjdVZ1SmgyYXNvOElvcy1ZaFY3Q2Y2NWpzU2JyRnk3aFBNZm4zNlJyU1lZ?oc=5",
    "source": "Pharmabiz.com",
    "snippet": "",
-   "date": "2026-11-24T05:29:05+00:00",
+   "date": "2026-11-24T05:28:51+00:00",
    "tags": [
     "General"
    ]
@@ -164,6 +813,26 @@
    "date": "2026-11-24T05:15:59+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "FDA Drug Approval Decisions Expected in December 2026",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHc2SUdpdU96WkRuQkVrdHFxTFlXZEE2S2l0T2ExYURoTUl2UkZiRk9XcnBEc2lWcXpzU05HUHdaUlI0djdPVzBaUklJeHIzWm1lX3pPT040Q0Fnd3RVMlVlWFlhRGJyRHhseDY4MTFBaVJ4bGF0TjVUM0ZiQ3NOMWJmZkZ6RGh0dk4wMXVSczJEOGlXVlFn?oc=5",
+   "source": "Neurology Advisor",
+   "snippet": "",
+   "date": "2026-11-24T05:00:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves New Drug for Advanced Head and Neck Squamous Cell Carcinoma",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3pQTXl4eTBmWkNfaGJ6ZGRxOW1wY2xsVGhRRmFwNFJDeTZqUFU4anh2T1VURmFWdlAtMTNzS18zcGxzcFlQRWlUTWR0Y1M4RldfUDV5bXdaR3MyTmlQaEV1WjVUYzR1T2RPc0YxUmZrUzNqMkNlTW5UV2Y2Q0p0QmJzZzhKUXNpOTUxNEw4N0xMRjNYeG1RY0FzcUwzSkF0RzBoQUhiSVRuaVBrNHpSaQ?oc=5",
+   "source": "Optometry Advisor",
+   "snippet": "",
+   "date": "2026-11-24T05:00:00+00:00",
+   "tags": [
+    "Regulatory"
    ]
   },
   {
@@ -192,7 +861,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUt6X2xyWUZQSGRjSVJiV2w1MklrdVM0ZkpDbEFDRmowMGVjSHo0bUJRaEFJaFd4MWxSQW9VSE9ERUczYlMyTUtSTWdReldBaHFGeURmUm8yelZhcno3X0puOTVheGNmLURCYnl1THNLdjR2ajN4b2tfV2FyTk1lMjVxLWVobi1sVGNWNXpaUTU2MjN6eHJuNWJFTXNFVThVVndhMEdUZmhsSE0?oc=5",
    "source": "Dermatology Times",
    "snippet": "",
-   "date": "2026-11-24T04:18:45+00:00",
+   "date": "2026-11-24T04:20:46+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -403,7 +1072,7 @@
   {
    "title": "FDA Approves Oral Ribitol for LGMD2I/R9, a First in Limb-Girdle Muscular Dystrophy",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlhvRGNyWktFM3c0SGc0YTdHRzVhWEh6TWN4bldVb1NzeERSd2JVMlFYZkUwNElrZ3Z1WHhaOHRMclpFTWdhOXNPaUNFV0VSYjB1VkQwbnBzUldrYy1xWFZvekhRR3JRM2RfZGNrVzFnTXVHdWRiTjZ4NldCaFp3OUNFNGd5dWR2dDZBZlJuQng5Y3hSSVJJY1BhZzFLZmp3bVNYck1fSWdIVVE?oc=5",
-   "source": "The American Journal of Managed Care",
+   "source": "The American Journal of Managed Care® (AJMC®)",
    "snippet": "",
    "date": "2026-11-23T21:07:47+00:00",
    "tags": [
@@ -454,17 +1123,6 @@
    "title": "Lupin Limited (LUPIN) Receives FDA Approval for Ferric Citrate Tablets",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdFYkN2dHNKMGpKaXBIeVNHZG9DMUhIQ1VqN0NHTkFGSDVZc3BKN01KSmRlYjd1NlY5N01VbUFfWUtlSXR2ZVAzZnhuOHBYZ09ZV3VfVFFzZWVDTjNvc2Q0NEw5WUZLdFRoZEFzNGFqVGpKa3djQU15aHBEd1ZaRWJ1ZGxMY21vVGoyT3VKZVBEeG5ZQjVmOFVScW9UMndJMTRRemRDTk5DRHJWX2EwMHdqbE9lNGJtODhJU2Y1SXNKZ3J0YWludnVR?oc=5",
    "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-23T20:29:00+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
-   "title": "Lupin Receives Approval from U.S. FDA for Ferric Citrate Tablets",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzQyQl9XSUJ3NVh5Yl9qZDUzdGFVam15WDFjYVE1am5nRURwcWZPZm9Bc1FkMDdSdDhmNElBMWw0WEN2M0k3ZXlQNzdoSTh0MFlqcXhiT1hrYXJHWU95bWgwel9nN3RUM25MX3dUanFBX0dEZ1R5YWFvZXFZZFJIQkVzajhwNXNsQTcyTkdVTERRUjZZdDVoLXpGcFg2bkFIX0lvWUg1ZFpHU011MjZmTkMxMmJoZ3o1eXc?oc=5",
-   "source": "PR Newswire",
    "snippet": "",
    "date": "2026-11-23T20:29:00+00:00",
    "tags": [
@@ -555,7 +1213,7 @@
   {
    "title": "FDA Approves First New Early-Stage BC Hormone Therapy in Over 20 Years",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUh5Xy1DWEk1SEhvTm5fbDJyWTFGc0NNYTd3NnJyRF9sOUw5YVRkRkxUSkYzR3g0SzBCTFN0ZjNFb1dXSnhvSnlPMFRncTQ4TVkyckZDblRGSlEzdjNNTG52QXpBVjBVYmxCSE9TUmtldmRBcVZhMjhueV9BcXh4eENNMklONndzZWt4WUJIaXdzTzZiSmt5cC1Ncng?oc=5",
-   "source": "The American Journal of Managed Care",
+   "source": "The American Journal of Managed Care® (AJMC®)",
    "snippet": "",
    "date": "2026-11-23T19:07:46+00:00",
    "tags": [
@@ -567,7 +1225,7 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXM5eTZPdFVGREcyamtHRG12ZVhwNjgtLVA5MWpCZWdJRk9kM2tqZzBzempVMUFvVkppbEx4SndvQmtwMDg3RHpjQ1lIUjNDYW9lYTNsWGh2ZmtueUszSlhtMjBTek5LVG4xREpBQ1FWblI5WGQzSGVhbklUSXdyakQ3eDJBYzlUVE50QUJtcDc?oc=5",
    "source": "Targeted Onc",
    "snippet": "",
-   "date": "2026-11-23T19:06:25+00:00",
+   "date": "2026-11-23T19:05:01+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -613,6 +1271,16 @@
    ]
   },
   {
+   "title": "CPHI India opens in New Delhi, puts spotlight on India Pharma’s next phase of growth",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWdlNHBrRFgyYy1IM3h4VVNzOUdaemtjZ3dISUNqUi1RbVlHNVNUSmxDUEJTYXpIdG1SeVdZckVpdXoza0JWdmpZb1RjSlFaX2c4czV3MXJPcXhHTXdEZnBLZ1BxeDhKWUdYSUh3aS1pb1laSG9XallmZ0pwLXFOeF9idDh4cGdNWm9yaDJBanRYS1dnTzVHWG1UOWY3T01SR3pqR1FOU2ZNa3hJM010bzR0aFBhaW8?oc=5",
+   "source": "Express Pharma",
+   "snippet": "",
+   "date": "2026-11-23T18:35:42+00:00",
+   "tags": [
+    "India"
+   ]
+  },
+  {
    "title": "FDA Approves Adjuvant Giredestrant Monotherapy for Early-Stage Breast Cancer",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1JjUjYwQ3FWc3RFOTBYMEVxWXhIQ2pad3lPTDNtZDd3TFFiYk9VY1k5QTJ1SE8wNzBPUWVSUm5FeTJaNGN4TjQ2bWdKYUZmUlFpeG5EWHkwcEFvLWFDajF0OVBSLTZLTG5FZzV2LWpnUjdWUmR1TUlUR180MTktVkt4WnZKSk85ZXN0YURhdENYQkFWWTV1YjRrRHNBeGNVaTlEcWJGd0VDUVl1dGR4QlFmbGlPN3BoVXkxc1JhT3dRUQ?oc=5",
    "source": "The ASCO Post",
@@ -628,6 +1296,16 @@
    "source": "Cure Today",
    "snippet": "",
    "date": "2026-11-23T18:22:50+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "US FDA approves Roche's breast cancer pill for early-stage patients",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM09SZWl3cUxkSzVnd2xIWTJQS2w2aG9ka2I0bzNhcEVsNEtyYi1IMUJUd1lYSTRTcHc4b0J0ZmlnUEVZUWJibVYzaDIwMjFXQWNBbDU1OFRnUWZwSXJyNGt0UGNaLVhnVTd3S2kzRG5kQmQweDhVR3pZVC10ekhkQ0NhQVR1Vm95VHUwYzZpRWJMX0lqNUJxQXpjVHBaWVlwSHpuVFdiNmVaVVk0dnNkMHBCR0paMmQwTGtqV25xYWdJeklRcXA3a2NHZ2k4Zw?oc=5",
+   "source": "Reuters",
+   "snippet": "",
+   "date": "2026-11-23T18:21:33+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -650,16 +1328,6 @@
    "date": "2026-11-23T18:02:37+00:00",
    "tags": [
     "Regulatory"
-   ]
-  },
-  {
-   "title": "CPHI India opens in New Delhi, puts spotlight on India Pharma’s next phase of growth",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkhRVmp5OHJyM3g5TG9md1pxcWJhMldMR1FCYlFxRDltMk5SRFF1VXFVSWVMRERFd05QVm40b2EwdDlxd3ExSW52SGNYTE0ycFhIbXZiQWtzM0VBMGtZMUxpTkRHZmxYY0M0blIzUElCczlCTEVyTTdycDBRaDRYUURXTDZZbnktWk9icW95QkxBNU9iOWN3Z3QzX2JHWDZOVkpOLWUybzByWjdFbmZsM21n?oc=5",
-   "source": "Express Pharma",
-   "snippet": "",
-   "date": "2026-11-23T18:00:05+00:00",
-   "tags": [
-    "India"
    ]
   },
   {
@@ -688,16 +1356,6 @@
    "source": "Pharmacy Times",
    "snippet": "",
    "date": "2026-11-23T17:54:13+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "US FDA approves Roche's breast cancer pill for early-stage patients",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzdnZWMxbVNWTWhyMDVjWGpfVmlfQThzd3o4QU5wTWpUT1R0UU1GOHpJUDZ2alNlekdwUjVWM0lleTlwbDJGb2JGWTU3VUhNdTdyYWlTeFpWeUEwUHgwSFZfMXgxTWFtTGFndDBlNTFiRzhsWjZBWUZqbnZ2akRncTV5N256TTlfbUo5d25qcGxtZjBBWmlFc0JvYnZyQ2FUeVNzd1FHeXBmYzVQaE1ENW5mZmI2dlE1WmVHSFUza2I3V0h4c0FpRXpZcUFKV0pJTExZ?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-23T17:41:23+00:00",
    "tags": [
     "Regulatory"
    ]
@@ -761,6 +1419,17 @@
    "date": "2026-11-23T17:24:36+00:00",
    "tags": [
     "Regulatory"
+   ]
+  },
+  {
+   "title": "Lupin Receives Approval from U.S. FDA for Ferric Citrate Tablets",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXd0WEd4RkdNSzdsYnlQSEJ6RU5xN1luelUyblBLcDVpQlEtdHJ6Y291Y0R2ZkgxeF9xeER5WE5GdHJXUkc3U2dsUnBwN09GUTMzNUl2d280ZU4tNnNILU04RkZUQ3F3Q0dHNTR6VFRxaGJWOHI3dGgzcjhCYXRpb1VBOHFXUE9fWWJWN2VyTQ?oc=5",
+   "source": "EquityBulls",
+   "snippet": "",
+   "date": "2026-11-23T17:21:35+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
    ]
   },
   {
@@ -836,17 +1505,6 @@
    ]
   },
   {
-   "title": "Lupin secures US FDA approval for Ferric Citrate tablets",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemxPWFVUYkpDakVkdDZWTmkyemJwTTl0S3JOeVd0ekhnUHhRUndhUGkydjBycmlOVExueHR4dm5hSzdsRUZlVmUzOVhlM3V1UGkxNVNLTzR6Vzk0aGk1SkhVWld6c1gzdG5nU2NUMDNjT3lhUDhJb3dFUk1WeC1VMnNFN2djSTBhN3pBWng5Y3o3OWJCRE84b2VKeHN3ampDUWlrV0luTWt6QUVxTXc?oc=5",
-   "source": "scanx.trade",
-   "snippet": "",
-   "date": "2026-11-23T16:24:54+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
    "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
    "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
    "source": "BioPharma Dive",
@@ -865,6 +1523,26 @@
    "tags": [
     "Regulatory",
     "Biotech"
+   ]
+  },
+  {
+   "title": "Why Iambic’s CEO believes preclinical cancer therapy could be ‘holy grail’ for CDK inhibitors",
+   "link": "https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies",
+   "source": "Fierce Biotech",
+   "snippet": "Fresh off a $150 million IPO, Iambic Therapeutics has unveiled preclinical data for a potential challenger in one of oncology's most competitive drug classes: cyclin-dependent kinases.",
+   "date": "2026-11-23T15:27:00+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
+   "title": "Kymera eczema pill meets goals in mid-stage trial",
+   "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+   "source": "BioPharma Dive",
+   "snippet": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron’s market leader Dupixent.",
+   "date": "2026-11-23T14:53:55+00:00",
+   "tags": [
+    "General"
    ]
   },
   {
@@ -1111,17 +1789,6 @@
    ]
   },
   {
-   "title": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkl1SWx6c1VnbkJ6NTYxRDkzOHFTMlZJT0tzM1FoeGdYYlFKMG82bGozaE5BRTlQTW5GT3RMWW5nZE02RlJDZnpLRVFseW51WHl0c2N3bkNnR2UtRTdpOGYzU2x4VWE1OEdKOXA2TWVpQzVQbUpTTEJSM001N002RnVRa1FxRldnck5mQktQbmgyZk8wWVJHNi1DNDVnZ2NDUTFCQWVJQnZiZmtKY1l2RzdSekZCQ29aRy1UMk1TalJEWlhwZ2o4?oc=5",
-   "source": "Fierce Biotech",
-   "snippet": "",
-   "date": "2026-11-23T09:00:00+00:00",
-   "tags": [
-    "Regulatory",
-    "Biotech"
-   ]
-  },
-  {
    "title": "Lilly buys preclinical LoQus23 in $725M deal to zero in on Huntington’s target",
    "link": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target",
    "source": "Fierce Biotech",
@@ -1158,6 +1825,16 @@
    "source": "Pharmabiz.com",
    "snippet": "",
    "date": "2026-11-23T08:43:53+00:00",
+   "tags": [
+    "Licensing & Deals"
+   ]
+  },
+  {
+   "title": "LPU and Biodeal Pharmaceuticals discuss research and industry collaboration",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXBKbXc4dEFfbDF6MzJDWUg3MVpHQ2g2YVNObUt6cUN5U3ZucUdKWkFrQmdObnlKeDhpSnp0dml0dnpRR2JUMnc2M09BZm1rY3hZbzJPUWFmN1V2LUF3NWFLY2lTNjdQSmtsSEVBMFp0eWRtak9QN05vcmhiS3FITnY1VUhqWmZZcjlRXzd5ZWxmTmZTa3hOVXRtR1VMbzFYTDh0REIxdGE?oc=5",
+   "source": "Express Pharma",
+   "snippet": "",
+   "date": "2026-11-23T08:41:28+00:00",
    "tags": [
     "Licensing & Deals"
    ]
@@ -1233,6 +1910,16 @@
    ]
   },
   {
+   "title": "ACG calls for integrated approach to combat counterfeit medicines",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3JzZXFjZ3NqOVU4WEFMWkxiY05feGVoRUpwU1VwRFo4Q1QxeTlDdGdUNk9MT1lTSjRMdlpxaHJTbWFqR2Q0ZWZrU2V5QnAtb2R5VV9CS19zb09kcWZNTFpZajctWEp4Tkh6VDEyaTBSbi1DejZKYmtVYnlBb2xnTEszQUZGc0UwT3VEcEpQaUVkTWR5Tm5lQ3lhSQ?oc=5",
+   "source": "Express Pharma",
+   "snippet": "",
+   "date": "2026-11-23T05:12:42+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "With two upcoming FDA decisions, ‘oddball’ Praxis is on the cusp of commercialization",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeHdYS1lmaHh5WFdqS1dUQktwakdPOVlDMWxZdGNaMlNtemswaTFKa1FkQ0lQUmdTdHRlUVQyTHNaMG9wRFBGUzFSR3Z1VVlWYjNsVDJqa2t2aGZiY2ZLU0N2SDZiYTR3cFVLYjJxbHQ5QVBDc1ZjYkd3X3FrWmRkenJFLWdjUk9JcWZpeHg5RWNzV2Z3NzQzWlQzMzdreEdoNm1WbTVRZ0JNaG1CTU9QU3ZZNHVpMEwxeXlZc3dkcTNRdw?oc=5",
    "source": "BioSpace",
@@ -1255,6 +1942,16 @@
   },
   {
    "title": "FDA Approves Adjuvant Wilserdly for Early-Stage ER+/HER2- Breast Cancer",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzUxU0UwOWJpejlJaUhWNlBrUk1teWlhdkhpS3hfQjByYjNpUkdVZEwtQzZHWGI4RDNDS2RtZnVTcEdzZ0tobXp3a2pXS185dUhLRllqWTFmUDF3bV9NMnZON1pBOW9yLWxjbjlSR2tkaEZSdS01U0dySWFHUkN0ZWRtVmpwWjVKeGRHd19pSEdLQmZCTVE?oc=5",
+   "source": "Medical Professionals Reference",
+   "snippet": "",
+   "date": "2026-11-23T05:00:00+00:00",
+   "tags": [
+    "Regulatory"
+   ]
+  },
+  {
+   "title": "FDA Approves Adjuvant Wilserdly for Early-Stage ER+/HER2- Breast Cancer - MPR",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzUxU0UwOWJpejlJaUhWNlBrUk1teWlhdkhpS3hfQjByYjNpUkdVZEwtQzZHWGI4RDNDS2RtZnVTcEdzZ0tobXp3a2pXS185dUhLRllqWTFmUDF3bV9NMnZON1pBOW9yLWxjbjlSR2tkaEZSdS01U0dySWFHUkN0ZWRtVmpwWjVKeGRHd19pSEdLQmZCTVE?oc=5",
    "source": "Medical Professionals Reference",
    "snippet": "",
@@ -1312,6 +2009,17 @@
    "date": "2026-11-23T02:30:24+00:00",
    "tags": [
     "General"
+   ]
+  },
+  {
+   "title": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+   "link": "https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns",
+   "source": "Fierce Biotech",
+   "snippet": "Contrasting with the blunt release of the complete response letter that heralded the initial rejection of deramiocel last summer, the FDA appeared mindful of the optics Friday as it sought to explain why it turned…",
+   "date": "2026-11-23T02:19:00+00:00",
+   "tags": [
+    "Regulatory",
+    "Biotech"
    ]
   },
   {
@@ -1544,8 +2252,19 @@
    ]
   },
   {
+   "title": "Remidio ROP AI Gets CDSCO Nod for Premature Baby Eye Screening",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zQXBab013OTlURmxNXzlUOVdXTzlhYmlZcjI3N2NUQVZpUUxhWGVPY0owb0JkOW5qRkNrWVcyaFdYMF8xNVM0TUtjSHR5RVNZTVFRWGJfeDV5MGNqc1lYY21WZDY3Um5RbjRKVEZn?oc=5",
+   "source": "eHealth Magazine",
+   "snippet": "",
+   "date": "2026-11-21T08:00:00+00:00",
+   "tags": [
+    "Regulatory",
+    "India"
+   ]
+  },
+  {
    "title": "Zoetis receives USDA license for Poulvac Procerta HVT-ND-ILT vaccine for chickens",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9odkl3dGxrREI2aHliX3ZZLUNOWnpxakc1dzZLdHlRelJXaGlDVkFERjRSN0hFb1B4WGFLXzIyQmplZmd1WUloQjNLODBzcEd1bllfS1c5OUtRYmNpTUpkR19rZEhZTXdrZEtF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05MWtodld1MzhCY3E1cGE3TnNHYWFXZG1NODd3WHd1dlAwbVNTbVRoZjk5b0xWdWM4WXp2TXZsN1BPUnJ1bmFnZVhKejZnTDRkZ3hDSGxDQWtDVWxNSnJXWFhuUlppUjdFNm1TUm1qRQ?oc=5",
    "source": "Pharmabiz.com",
    "snippet": "",
    "date": "2026-11-21T07:35:10+00:00",
@@ -2076,7 +2795,7 @@
   },
   {
    "title": "Racket of spurious drugs unearthed by HPDCA and UP FDA",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmdHQyTER5MnludEhGNjEyWDBkX192ZlFtNWNYLS15c0JtNldkd3hpMkpKODUyTHQ3VFQ5dVRnUlVYQnFaQXpUdFpESk1XVUdIcTJXN3ZfalRoUWMtZXBnTy1NMzV5SnNiMHRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iZVVUMkY1cG9QNFVnMGFVb014cTRubWQxQkRqRTBLTUltRC00X0pQbWdiOXR3SU54YnBhYWZrWVNZSElMbWVGczlkaXM5NTlhektsV1FKU250OU5qVlVUTy1oclZEa1JPVmtNcm9ucw?oc=5",
    "source": "Pharmabiz.com",
    "snippet": "",
    "date": "2026-11-20T11:50:12+00:00",
@@ -2319,16 +3038,6 @@
    "date": "2026-11-20T06:33:42+00:00",
    "tags": [
     "Biotech"
-   ]
-  },
-  {
-   "title": "FDA Drug Approval Decisions Expected in December 2026",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2xMY3dSNHpjUzFhbHIyU0NmbGkwUjhvbWFCRlNSQk1EbVR3dmpOWFFKSGg5ZFYwVmhWZENIQTVSdTY2TjRoYXMwZDkwemd0ZXk4RVRjNTdtWkxuT2pMVHByeHdkakk2UFp0UDVQSlhrOWhpOXlic2NydTRLLWFNcnNHS01kVHc?oc=5",
-   "source": "Infectious Disease Advisor",
-   "snippet": "",
-   "date": "2026-11-20T05:00:00+00:00",
-   "tags": [
-    "Regulatory"
    ]
   },
   {
@@ -2580,7 +3289,7 @@
   {
    "title": "FDA Approves First siRNA Therapy for AChR-Positive Myasthenia Gravis",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX05VR01zNnRPc1p5eVd2TGVycUZRUk9KMldpXzRYNkRPeG5FbTFDV25NLUx5b2JTYlZDSWttMDhOdzFHMWZxZkpRdG4wQnNBaElZWDZ2Sm5YUDZlTGJyRFRZa0VFNmpnUFRSZjhPQ3lSaU5RYkV5ZEdFNkV1SkpzM09LbUZuRWFpOU83YV90N1R2QjhIQ1JPczFB?oc=5",
-   "source": "The American Journal of Managed Care",
+   "source": "The American Journal of Managed Care® (AJMC®)",
    "snippet": "",
    "date": "2026-11-19T19:26:04+00:00",
    "tags": [
@@ -3034,6 +3743,16 @@
    ]
   },
   {
+   "title": "From GMP compliance to workforce compliance: Why digital HR systems matter for pharma manufacturers",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnRmXzlSeXFNeEd5OWtCdlhHOUZMdG9PLTNiVDByR3FQSG5NV19QQWR2S0xjdUtTTDlsdnc5aEZncXRyODRkdDdDd09zVG1zMXRYejctVHNxU3JNaTRENjRVOXc3UGllTkQ3NHNXRlJPdE84Wkc5TlRRVGJpdTBfdWs5WGRhWC1xWHdPVF95Vk82eTA0UkpwZC1yZGN3b1hBZlZCVm9nTS1JRVhkNHJpbllKNElhZHF4WDdIREtrZXdnODFyNWxJ?oc=5",
+   "source": "Express Pharma",
+   "snippet": "",
+   "date": "2026-11-19T11:27:04+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "How to Order Medicines Online Safely in India (2026-27 Step-by-Step Guide)",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWR0RkZGMGZUbXJhTm5aYnRHMF82NU41cm5qN2Jka256YVZINjF0a3lsc2xzUjFjNTluNTg5aU1fdEVESzd0blFIUHFMTVh2OWY4eS10TVVWMldidEQ5MC01QmlCaGFaZlpHVHY2RzFwTkhQT0F0c0o3YVVMYjR5SmdLTEhuTWxsaERMdXNaUGNQbnNBX25OMmlXeXFsR0RXU2l5ckl0b091TUd4Sm9UTG5lNVJZQlhac1d2NG9hR1dFaHo2QmdZ0gHMAUFVX3lxTFB0dUZTMGZJTjE1T3lUWVM4MmVXanVkUTc4OXBKeXk5WWtqUG5OalozZ19PbGFyVTFjQjU4MlRUOXQwYW10bmxsdXVDZi1NVmtJQ2NvT2ZHdVlfV2NGLWR3X1V4STRjTDhvTHY3NWlUYVdkMkFjNXZ6b1JSajBjaTIwb1JnM2ZVLTVabHdTQTJNZEdIQlB0dWN1dTlFNWdVY21CQXZZbWg5eEYtZllPQ09TN21NaVcwX2xtMTRMV1p2ZUZ1NVF0cHctZDdicA?oc=5",
    "source": "ETV Bharat",
@@ -3340,7 +4059,7 @@
   },
   {
    "title": "Pharmacy colleges see AI as catalyst for future readiness as Karnataka govt gives a push to workforce tech prowess",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWeGwzVnpMc2lFcldLd1p0a3dFckxjNlJ2bHcwZmJDUktuRWVhT2FCaG9PU3lhZjV3MmhnTTVreWZfNzYwdDNTMVB3RVhxWm9aMUduanZpN2p3cVFVa1JySndoaHh3bDdqdnp3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlbm90anRhaGVyTnlDSFNFbWV5Q2ctbGlrWUFFN3MxemwzbUFWVkZBZ1VEbVdEMUdmVWZCYW0tTkc5aU5CU2dyZjRwU0Z6SDhiWVJFXzRKdG9HOHd3bV9GS0prbDE5TldUdjhhMEs3MA?oc=5",
    "source": "Pharmabiz.com",
    "snippet": "",
    "date": "2026-11-19T02:28:45+00:00",
@@ -3846,6 +4565,16 @@
    ]
   },
   {
+   "title": "Scientists at IISc suggest combining antibiotics to tackle drug-resistant TB",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFpzZWRrWXdFQlNUcm1xLXBRYVBVcGJCRFZiWG1EUVpEeXlaYmkwSFR1b0dFODFPNnl3ZHNvOUpmLVM4SlV6eVkzMUI0TlU0X1lTcVl1ZzZ0QTZwRFB4anRkdV9Ob3FyQk5YRzVMcEJIbUc0UHJsRDRwMEtLQVd0c2l6dUVvSlVrYUVmcWxUYnRFSjltN2Z4SGd6Ynl3MW4wZzNRcXRqZ3l5VmhfdFBLMUZPVWU1MHhUUC1ETmNSZ19GQUx0Zmk4?oc=5",
+   "source": "BioSpectrum India",
+   "snippet": "",
+   "date": "2026-11-18T10:37:56+00:00",
+   "tags": [
+    "General"
+   ]
+  },
+  {
    "title": "Enterprise secures EMA orphan status for CF therapy",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEF5MDhYRUhFNjJUbjNYUG80MVVJTEtwaE04bXRyenFIbFNGR0w2Zl80aHZMUWpBS2tsODR5STBzb3g4SzRyS2hVQ25KVHhFSHNZOFdkUzgyd0tpcVgtZFJYNGQ3UF8zSG0wOUtEYUJhdzBIY2hBTWJhbFFTWWUyWHhHR1R1R0hq?oc=5",
    "source": "PharmaTimes",
@@ -4230,16 +4959,6 @@
    ]
   },
   {
-   "title": "FDA approves new drug for advanced head and neck squamous cell carcinoma",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlJDUXJLdDFsbi01UWlvbVhsSkRrQ0hYV3p0OXFmSnRKLU5YRlNhVGw5MGFqdE1RV09PeHZqV3B2bkRHcUFpUXQzQ1JIMklVYlNGbTNaRFJ6SEdWS25YTHJTMVJrSS1TZDVXWS1HbzdHaGZiZ25fNXJSa09iY0lzdw?oc=5",
-   "source": "Medical Xpress",
-   "snippet": "",
-   "date": "2026-11-18T01:20:05+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
    "title": "FDA Approves Nelkarmi, a New Daily Pill for Advanced ALK-Positive Lung Cancer",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFZ6RXc5b1gySThMS0Y3eExTU18zWHBIZUhHS2tJdVJVeDZPVFV1R0UwMDltdldtdEFiVnVZcGg2eEZndEZ1eXBUWXdtTUowU2p1VWRBdE9Gcng1SmtyLTRkUUlCeG5KVlRjMEY2djZyQUhDVkRFYnhyWDZkU3ZVWEFQbVZ1QjB2UjFlWjk4OXpKUjRKcl8zUw?oc=5",
    "source": "WebMD",
@@ -4386,727 +5105,6 @@
    "source": "Fierce Pharma",
    "snippet": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
    "date": "2026-11-17T20:29:00+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves New Medication, Giredestrant, for Certain Patients With Metastatic Breast Cancer",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTnQtNWRIdHY1ZFBieTRwdF9FVXJjZXZoV1pzRGlaamgtd3Y4NWhlTVRBNENWQ0k5cy0wc1EtYmo3WElDeFZRVnZJeUNjeFBmeEVORkFGQUlZSDdqd3BGek96d0NwcGJxN0xlVTY3dmtzZkVmTGdzWEFDSWlxM3p5UXFLVkM5RFh5NWt5ckNRdWROMVlTZTRyYnFwcUZmTl9zNTNON1BR?oc=5",
-   "source": "Breast Cancer Research Foundation | BCRF",
-   "snippet": "",
-   "date": "2026-11-17T20:22:18+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Grants Accelerated Approval to Neladalkib for Previously Treated ALK-Positive NSCLC",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDY5SFdUS1JFLTVvOGl1NlFvUExNSUh3bEljekoweWVmempCNmctMXlzTmhaWkFwa0YtTnFSUW54WFRrQjFiYTRFZDZnX2prSHduRXU5QVhneFdCcmJBSHR5WUdPbWFZZzg4eG95NVYzSzN6aE5fV2ZmdEY2bk5IRjlXTDVYdFJsR2F3enY2RS1BcVFQSjVKN3RRM3JtR3cxSER6TXhXUFlIVnFKT2w0N05XZVc5aG9DaGt4RGprZw?oc=5",
-   "source": "Pharmacy Times",
-   "snippet": "",
-   "date": "2026-11-17T20:11:35+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Neladalkib (Nelkarmi): FDA Approval and Uses",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWo3MWtYNmE4UzZZNnVQRWJEUFc3Vy04OVE3Zi00dlpteHg5RWFscTNJUUdJTl9Eb3VYbm9hWVF3UnFjeWdNR1Y4YTdIXzdXQ2k4VVZDOTdkUDluYlBPWjEwWElvX0lDMmtXam50ZTMwNWl2VlNvbXhWeUJXZEJUNVpsazMwLVdpRVNNMVoyQjRSTmxNc0pUbU1uNWs0WjZDQ0poU19Ia2U2dXVFWGJYbDFXS0k?oc=5",
-   "source": "Oncology News Central",
-   "snippet": "",
-   "date": "2026-11-17T19:55:28+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "US FDA proposes to withdraw approval for Salerno's cholesterol medication",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTRKWjVOQnR5WDU4SS1Ob3RPYjhNN0twcGxwcFYwVkVxQlFQbUJzc1U5MFFtelY2WnA5Q0lFaEdBSm1QYm5CZVdlOUZsdXJ6cWxJRi1FLWUwT19rbEc3NTZCSnh1dGhzNmd2VXhZeUlEMUppazUyTnhrbGtaYU13S2ZRNGVFN3VCLTBOV0w1T05IWmpMc2M5SDdpYzRVVlEyY3NTNHpGQ0xkZU5vb0Radk5nS01jUktjMEE?oc=5",
-   "source": "Reuters",
-   "snippet": "",
-   "date": "2026-11-17T19:44:49+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Scientists at IISc suggest combining antibiotics to tackle drug-resistant TB",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFpycjB1Z2NvZmNTa0s1cy1teDdvX21xNVF1YnJKVm80bUdvQXoyd1RPY19KNV9mSXVGNW5lbm5XTGJpZnljei1PZUE5UzJtTHBmd05PcXFhM1lrNHRqWGJEY2c0Rnh4UTBxbmw1djQ0bDBkNHZHQ0duNS14empMUF81WU9MLVpFdzhCNGtXUG9UTFh0aVM0cHdoOXFLSUc1X1JCQU5nLVZUN3g2clVkSmExcmp4MjRsZ2dlbVV6dks2NXdyU21r?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-11-17T19:36:25+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "FDA Approves Neladalkib for Previously Treated Advanced ALK-Positive NSCLC",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0J4RXNkcU1RSW9uVHFFZDFaZGhqUTRySTB2UkNsTmwtUEFINmNMOHJKT3ctMXJub2MtYW1sTUZCT0JUSEZvWmtvNEJCaEFBOTJrVGw0NFBoQ0dURmQ2R2F3Y0lfek5BLV9TenV6S0h3ZkJ5ZXowYm1tVjlzM1JIUQ?oc=5",
-   "source": "Targeted Onc",
-   "snippet": "",
-   "date": "2026-11-17T19:28:29+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Recon: FDA approves Roche’s oral SERD for late-stage breast cancer; Lilly strikes up to $5.9B cancer deal with Stipple Bio",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObHZraEttejY4ZVBQdEtnVHhOWGR1UWJWb3dPQVlTUGdWNGpFQVRBYmY5UXBJcXdxbERzYWJGX2lXQkRjQXA1a2tWckhLZWFPeXdRX1Uwdl9CNGlheEs5NlEzVUZiS291MnROSEhpeUQ0WjF2TlhYU3dnTlV1c2JQRFl3dGwydVBUek8tOG5VM3JYOGJ0QmZxWm1JZ0pCMDhBX2pxNU1qVmZwdUltb2NVX2plMWRaTkR3Um5LSllzdmZjTG9XaktzZHJfX3dLUFdYdFJTVG5zUDdwai11VE4tbVRkeHpxT3BidlE?oc=5",
-   "source": "RAPS",
-   "snippet": "",
-   "date": "2026-11-17T19:16:00+00:00",
-   "tags": [
-    "Licensing & Deals",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Vertex signs $220M deal with Genomics to re-up long-running discovery pact",
-   "link": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
-   "source": "Fierce Biotech",
-   "snippet": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together.",
-   "date": "2026-11-17T19:02:00+00:00",
-   "tags": [
-    "Licensing & Deals",
-    "Biotech"
-   ]
-  },
-  {
-   "title": "FDA Approves Giredestrant Plus Everolimus: A New Treatment Option for ESR1-Mutated Advanced Breast Cancer",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5weUpoR2w4RmpXZTQwRG15dzhGTWRvMk42STB2WE1YTzMyaFA4TkUwcDNFYU9MUy1YZHdpSldUZzZDYlQ3dDBHdzJUUXFKLUNnTGtTX2F6eVBWSnVNRnJ5dFBmZy1Xb3ZXdlhKcFhiUTYxN0hx?oc=5",
-   "source": "Oncodaily",
-   "snippet": "",
-   "date": "2026-11-17T19:00:40+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFlycFRmd0tsZGw3OGxSd1BGUGU3VXR4V2RMUHJjUXBXNGtsNGJpSGJFYU9HN0VzWWJFeHM4YmJhT3BxSTlrLWNVdzZ2dUh3N0xxLVZ4SnRnMWxWbkJxZWZSR1FteFJRVTBmd3l3NEdjX2ZqREZuWERNMElwMTdhRy1yeUZmNFVQNFE5X1FGcWZlSWlGdDlkMERCWF9LNjg2WUxmSTY1cjk1UQ?oc=5",
-   "source": "Fierce Pharma",
-   "snippet": "",
-   "date": "2026-11-17T19:00:00+00:00",
-   "tags": [
-    "Patents",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Dexmedetomidine as First At-Home Treatment for Acute Agitation",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzJEMkNMOUtsMjhCdE51c1hIZ2FIaHFwSTdQajd4V2hhOTVvVFdSVzRvTWVWbFFqSDQzaVY5V1o1X3hhZVRhNzdCOGlYZXF4RUlfSlVWM1pZVnZEN1lVeXFUSVdHUGl1ekNIeVhkNW4wTG45QUR6Sy1sc2VqbFpzREMxajkxVDVxNmhpcUxkVzBoNkpaVVpLXzNlRQ?oc=5",
-   "source": "Patient Care Online",
-   "snippet": "",
-   "date": "2026-11-17T18:45:27+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Grants Accelerated Approval to Neladalkib in Pretreated ALK+ NSCLC",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1ViN19DTXhBSVJWb01NWS0yUmJySl9EU0hyeFp5THNpaXg3WXV0Mks0ZDYzSGs2MDJtNG56UE1WYi1iQlY2bThZTEx6R1hSSjZyeG5yYW9FeVg5bUFtcDNwTzZIM3BNU2xhS1JvZ2ZhdVJGdVF6aHlFTDNDXzlPbVcwOWhLQnNkNTk5VzVtNXFKdWo0U005bzk0N0cwZDJkbVZuMHdlWXc?oc=5",
-   "source": "Oncology Nursing News",
-   "snippet": "",
-   "date": "2026-11-17T18:31:08+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "GSK scores FDA approval for Nelkarmi, its 2nd lung cancer drug from Nuvalent deal",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVpJYm1oclczRGVvMFVaTGwyREwtUF91Ni1FY3Y5eDhUUmFjclkzenZrMERveS1aaUxQdmVUeVNDSlRmTm5xOEl1QXVhVjdZQlFaSWFQWkZlMkNRUWVnT1owTmhfRDVWQnBHT25NcEw2N25FdlF1NXFsWEhmRHlFdmxKZG95SnQ5VGVOWGV1MVIxLUtmYkpna3lMeG92OE53ekF0djd3?oc=5",
-   "source": "Fierce Pharma",
-   "snippet": "",
-   "date": "2026-11-17T18:30:00+00:00",
-   "tags": [
-    "Licensing & Deals",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Mohit Manrao: FDA Approves AstraZeneca's VOLGA Trial Regimen for Muscle-Invasive Bladder Cancer",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82LTJDQUhScVBsVmZWYm92b1UtMlB3Mk1PMmlrNkJCamJ5Q1ZsdGo4UzBVYXdzTGR2YWxTdmEtVjZYc3ZuUEpOcG5RZ1NBVEtpaDF4MWxqbGdIQzg1QzhYME9KWUpCd05fMXl3V19uX21pZw?oc=5",
-   "source": "Oncodaily",
-   "snippet": "",
-   "date": "2026-11-17T18:20:06+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Neladalkib for Previously Treated ALK+ Lung Cancer",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3JNODRhck5QM0pnMkVvMGpKR0E2dmJ1ZVdsTldWd294OFU2aklmQU1wLXc4aEtUZGRqRXZhQ00zUEdGa1RwWFpwVVB3Q1JPeVFyVE5nVDFneTM2bFlEZEVvTXZYMkZNem9DSU92WVBWYVd2WWsyUHBidGRiSXNySWFpWnVMRS15cG5NLTQ3SElKeURjdUhzeQ?oc=5",
-   "source": "Cure Today",
-   "snippet": "",
-   "date": "2026-11-17T18:18:26+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Nelkarmi for Previously Treated ALK+ Lung Cancer",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3JNODRhck5QM0pnMkVvMGpKR0E2dmJ1ZVdsTldWd294OFU2aklmQU1wLXc4aEtUZGRqRXZhQ00zUEdGa1RwWFpwVVB3Q1JPeVFyVE5nVDFneTM2bFlEZEVvTXZYMkZNem9DSU92WVBWYVd2WWsyUHBidGRiSXNySWFpWnVMRS15cG5NLTQ3SElKeURjdUhzeQ?oc=5",
-   "source": "Cure Today",
-   "snippet": "",
-   "date": "2026-11-17T18:18:26+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Neladalkib in Advanced ALK+ Non–Small Cell Lung Cancer",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXJKdktqT1NNUzg5aEp1cjJfM0hnblhJYk9qeFowMHFaLUxBeDRsUUh1ZmVodWMwT09ra05BNUV5YV9yWEZ5Nm9BbFVCZDg5LVVIQi10Z1FXdFEyNjlTQmJBNkM5ODQ2aVRGZGE0anFQcjM0THhKbi1FQzJNaENHTmVlTUlLcUI2WVRaT0RfcmE1ZWh4YlBQaGFtNWw5U3diRmpn?oc=5",
-   "source": "CancerNetwork",
-   "snippet": "",
-   "date": "2026-11-17T18:14:07+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "GSK CFO Points to Cancer Drugs to Bridge £3.4 Billion Sales Forecast Gap",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcXBDR2FxdEZfTXo1UWRHX3FsQWQxTHVWelhVY3A4SXU3UWJRUkg4WHR3anNVTU5jT1lSZmtNR215eHFyalBzSWoxWGFsSGY1bllZRkJwZ2s5Y0xaWnNjZWlrdlpTNURRUDdqZ19rV19SQkktbUZuZlFwc2pfd3VlMUtrbDZrdUJSWncza3R0bkJKZjBXdG1DeEprTDdLczJuSkFRMlB5dGV0dFBUalFYb3BLRkpyaDZ1bU5hcXJjX2p0REY2X1JzS0tVRQ?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T18:12:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "US FDA approves GSK's second lung cancer drug from historic $11 billion deal",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGdPaC1LajlVdk9HM2NrcDI4UFlRdWw1eHEzN0c3dHpuelNwb1I5YU5FRXF5RWZjdHlFdEdwZWItMmZiZ1BwbDFCMjQyRVEzdG5ya3NjLTdjcjd5Z3FwNzZmU3JkZDJfN3I1Ry1zMi0wZUdXZktFWGNNUFJQV3F4Vnp6TmdTNHZOYl8yMjBhaVJTU2hXakRhR1dHTHE5Ukxpd0hGZkR3cURuRlNSZ3BTbjlxaE1DQkVaV2wwVTliMUxaY25SdHI5cXRhOWo4MkdGMGNVRFN0Nk1YSUt1aXc?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T17:59:44+00:00",
-   "tags": [
-    "Licensing & Deals",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Giredestrant + Everolimus for BC in Second-Line",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQU9CV05PQ3FqcXZUeEFhNURnWDNmVXZWMWxYbG54SmIzY0tvSWp5ZTZkdFRkRTZXWlZ2SkJMUVBVY0IyNS1aaFVqenpRR3pybEt2U0ZQQVdwSW5XVkpFbHRkamt3SFVNT25QeUxjX3ZIc0FlZDVSRjRzTWlFd0hZRk5zRTNCLTBpNUdnSUVFM0dmYy1JaHNHY1IxMGhNZ1pUalNHNGV5S1VHODAzeHc?oc=5",
-   "source": "Medscape",
-   "snippet": "",
-   "date": "2026-11-17T17:48:45+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Scientists uncover ‘very detailed map’ of an enzyme target for rare metabolic disease",
-   "link": "https://www.fiercebiotech.com/research/scientists-uncover-very-detailed-map-enzyme-target-therapies-rare-metabolic-disease",
-   "source": "Fierce Biotech",
-   "snippet": "For some rare genetic diseases, the problem isn't a missing protein but the buildup of toxic molecules that the body can no longer clear away.",
-   "date": "2026-11-17T17:33:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "FDA Clears Secukinumab for Use in Polymyalgia Rheumatica",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbldXTmFjR1JuQ0dWTjhCSXFEeEVjdUpkZXp0MVBDX3hJYVBBNlhNcTVwbXVic091WjhHYlFhY3g5bG9rWWJBN185eVE5a3N5aWZEUHp5Vm1zVE54V05xN3hQSk1NNzN5T3pVX0xXajJ4V29ybzZOZmpHSEVmUUpCQWJPWXFkM1BFWVpHUHZ6NERQVWhuZW5sWjJ6RWFtUzdo?oc=5",
-   "source": "Medscape",
-   "snippet": "",
-   "date": "2026-11-17T17:23:59+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Roche breast cancer pill cleared by FDA",
-   "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
-   "source": "BioPharma Dive",
-   "snippet": "Wilserdly’s U.S. approval is seen by analysts as a “key first step” in an important launch for Roche, which has claimed the drug could become its top-selling product.",
-   "date": "2026-11-17T17:18:00+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Cosentyx as First Anti-IL-17 Biologic for Polymyalgia Rheumatica",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVFjbGtBVWMzcVRueWotS0lobmFMeWRPRnNPcHNiYllmelhHdGs3N0RyT2h4VXBiYkxhNElUVzdVQzdUZXNxb1gzUFpuQzU3Um4tdUVpaHlOVDhDNzFyUWNQVmI2b3JYWG5SaWNZcjdTcEJaSnhVNUFSeWV6dEtmUC1keFQzcTZOYWZQQU9MdFZNM2pXV3dfb1hfRHBmamZhNkpBYlN3NXQzdURvUHhfQk81azRVSVRhRFZtUQ?oc=5",
-   "source": "BioPharm International",
-   "snippet": "",
-   "date": "2026-11-17T16:50:37+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Secukinumab as First IL-17 Biologic for Polymyalgia Rheumatica",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUxDeTdSbkppcGczTEk4SHMybXNDZHBEYTU3VzgxNUQ0Q05uY0dBNU96NEhvUFdpMDB4dDRYUDAxNlh0Y0t4Nm9SbGFOMExLUGFXTlk0TDFRLTQ3ZUNKeUFKS1AxOXRmczNXbjRhaGo4Q1g5Tmo2eGVDR3lvTktzSk9sMnRnVVB2cG1lcnhtTlBjU0VvUlAtTlhhM2dMS2lzeGIxSEdvbjkwQi00QTNN?oc=5",
-   "source": "Pharmacy Times",
-   "snippet": "",
-   "date": "2026-11-17T16:30:05+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "5 FDA Approvals From This Fall That People With Cancer Should Know",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3dNMW9zTmV2eFdWaWNHalQ1WTlsYU1OR2ZVVDVZUmcxZnpHQXhqTG45MnpxN2cxQ0FXZWNVYkFkaVNtZ3RwR1ZveTY3bVo0N3JtblJmOWZHNFVKRHVtY2Y0aXgtMzAxM1RHcjZoV192WHNQN041RWtSY1VubXVBT29tRFRLZE5NanZLbDZEYzRxU1JCd2xnRjZ0WWZWdw?oc=5",
-   "source": "Cure Today",
-   "snippet": "",
-   "date": "2026-11-17T16:08:19+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
-   "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
-   "source": "BioPharma Dive",
-   "snippet": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year.",
-   "date": "2026-11-17T15:51:00+00:00",
-   "tags": [
-    "Biotech"
-   ]
-  },
-  {
-   "title": "FDA Approves Liquid Biopsy Companion Diagnostic for Wilserdly Breast Cancer Therapy",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEY1YjRwSDB4c25STGp6cnlxVmM2N01YNlNzWERxblRCX3RBdUtLSmZqTUFENmRvQ1VuXzM3QkNVUHlhbjlQaWFIU2NOamwxR3pQOXZGYUE5MFYtN1owVjg4b1V6UnNnMmlOeVd5bXhodXpYTkllbkRTN0xHa25VTWJ3TFI3UU1weTloVVNwa2RncE9sclpheE1mQk0ySFUyLXJCcHlRajgwdnRfVmVGVkZtbFBKQQ?oc=5",
-   "source": "Clinical Lab Products",
-   "snippet": "",
-   "date": "2026-11-17T15:50:56+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Roche’s next big breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNLRjNiQUxlcDVYc1FFd2JtbFJ3cWVHSHVxa1ZNNFgzVHc4Y1ZsUnNSeXhzdjZvb2xmY0hhRGVsY3U0ZDd2bFlxbFo0cm8xdGl0M1hObzZZd09yajJhN25lSDBiTEwxSXd6QUh6OVdoX3c0ZUMyOW1mdTI5dkM2aWs2a3JSaWVRSVNxVGZYbTB1eVZhZV9JUFh2c2d5UW9NYUNPVmFxMzZBR0k0RTB2N0MwTHY?oc=5",
-   "source": "Fierce Pharma",
-   "snippet": "",
-   "date": "2026-11-17T15:50:20+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Roche’s next major breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNLRjNiQUxlcDVYc1FFd2JtbFJ3cWVHSHVxa1ZNNFgzVHc4Y1ZsUnNSeXhzdjZvb2xmY0hhRGVsY3U0ZDd2bFlxbFo0cm8xdGl0M1hObzZZd09yajJhN25lSDBiTEwxSXd6QUh6OVdoX3c0ZUMyOW1mdTI5dkM2aWs2a3JSaWVRSVNxVGZYbTB1eVZhZV9JUFh2c2d5UW9NYUNPVmFxMzZBR0k0RTB2N0MwTHY?oc=5",
-   "source": "Fierce Pharma",
-   "snippet": "",
-   "date": "2026-11-17T15:50:20+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Giredestrant Combination for Advanced Breast Cancer",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFFzN0JGMHI0QllyOFotVEpQMTA0YlJLZjN5allLWmhFbnZQSmFQSTRVa3RqbzhnWW9fdG5wWVVqWUdGeW15ZmY4WWRPa1hpU1JzQldreU5oeWF5M0JjN0oyOTJkbVpVYmZXQXN4aHlZa1p0djEtSTd6WXhJbnlkMXJROW1XRlB1MDI5OHZndzVfMVkyQXpRVUxadFVGVjdqMVdwbXpjb1NGRDQ5NDZuOA?oc=5",
-   "source": "Oncology News Central",
-   "snippet": "",
-   "date": "2026-11-17T15:18:34+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnVDLUZYZERoNWJQMFI2YTFNREdxYk1OS2E3MTNvOXUyZEhMbWpNUWtKcHEzcFRlUEc5Rmc3Wk0wOVRBREFqbVNfVUtaQkoxLUVTYmlkY2VTVi1ySHF3MWlpbmtBcHBpY2N3VDA4QVJ0Y1lvOGRTRThic210NVlTc25aRWxWM2RZY2RnM1Jrcjc1VExFdUlrQ280YWFkY2lNeFRqMXBlY3hSWW5qdTFHdW5uQmhWeWYzTHhkNlhTVmttUGM?oc=5",
-   "source": "Becker's Oncology",
-   "snippet": "",
-   "date": "2026-11-17T15:10:30+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Cosentyx for Polymyalgia Rheumatica, Wilserdly for ER-Positive ESR1-Mutated Advanced Breast Cancer",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTi1FZHc4aDVWLWlrdVNEQzNjVXhjSkNoa2tZWlBzSlRCQ0tKY0c2R0t6WGJqZS1QMTIzVkU0UEowQ3dtTkx2alVkSi11WW1TMzFSNFVZTkQtcTEtZGlsOTd1MkxBMWV6TG9ucmo5dTFpNDNJQk1zY21qYTk1VEdKbzZ6Z3NTbVY0OVgyRHFYNWtCOG5aQVNjQXk2SlN6QVF2Y09WaDQydVcxaVRNa0k1SS13RkxMeXp5a0RQSy1HQ2tPMm5xVnloVEFLM19LZw?oc=5",
-   "source": "Pharmaceutical Executive",
-   "snippet": "",
-   "date": "2026-11-17T14:50:27+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "NRXP: First FDA approval and launch shift operations toward a 2027 profitability goal",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVlB4bTE1Z2xyRzdtOW04ZHNWTDRodWIzQTZIVkNCUXNKM0dRTkpKMEsyTG5JS25pTHdUODlNMFBsTDROQnlIQ2FkMGd2OThxZjk0dVNVYjJ3ekU3MGh5NXZkZHFIbmx0MHZNcUlaOC1kY0FvSUVOUkozOTNuMEpGQ0dkN2xjazFZQV9xTHJSVVk5WVVORFEtcU9oTlA0dDZ1enJ1dFZFeVh1Z3R3NUFZejBiR2lNOHFrUUxvUF9Ta2U4aFUyamg0aGJ6QzdnZ0t4U1VpYU5QQ19XYXpoaHFxbjNBei1taWdZS0d1RGw2ME9leVpEcVBBcXRiUnNOS2xt?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T14:43:39+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "AZ defeats health plan lawsuit alleging Soliris antitrust maneuvers",
-   "link": "https://www.fiercepharma.com/pharma/az-deflects-health-plan-lawsuit-alleging-soliris-antitrust-maneuvers",
-   "source": "Fierce Pharma",
-   "snippet": "Winning a ruling in their favor Monday, AstraZeneca and its rare disease unit Alexion have successfully sidestepped U.S. antitrust allegations linked to aging rare disease drug Soliris.",
-   "date": "2026-11-17T14:36:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "BeOne commits $3M to expand CLL Society patient education partnership",
-   "link": "https://www.fiercepharma.com/marketing/beone-commits-3m-expand-cll-society-patient-education-partnership",
-   "source": "Fierce Pharma",
-   "snippet": "BeOne Medicines has expanded its partnership with CLL Society, entering into a three-year, $3 million pact to support leukemia and lymphoma patients.",
-   "date": "2026-11-17T14:27:00+00:00",
-   "tags": [
-    "Licensing & Deals"
-   ]
-  },
-  {
-   "title": "C-CAMP & Genopole, France, sign MoU for biotech innovation collaboration",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWk1Sm05OWVHS3p5WERRSW4zWjVRdEtLQ1pEcnJVMnFaX2twa2l3X3ZWbUpmSnh4M0txZWJVOTIxM2ZVWWJhTkI5X2c4VkFDYWxVa1duOGFNbzMtbmRUUEk1c1Z2a2R6TXRUTEpaM2EzajJnR1QtaFRNNk9CX0ZCUUM5UzZ5cFpMSkdMTVM3UTczdFdMSnBFWmJ6cFBhWGxLSVNMNVBFYUFtMmZqZGJabDRpNm5MZkxlWGJDTA?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-11-17T13:56:58+00:00",
-   "tags": [
-    "Licensing & Deals",
-    "Biotech"
-   ]
-  },
-  {
-   "title": "Kyntra axes mid-stage ADC, adding to years of stumbles",
-   "link": "https://www.fiercebiotech.com/biotech/kyntra-axes-mid-stage-adc-adding-years-myriad-stumbles",
-   "source": "Fierce Biotech",
-   "snippet": "Beleaguered Kyntra Bio can’t catch a break. Formerly known as FibroGen, the company has endured a series of woes over the last few years, and now the biotech is cutting a clinical antibody-drug conjugate program from…",
-   "date": "2026-11-17T13:31:00+00:00",
-   "tags": [
-    "Biotech"
-   ]
-  },
-  {
-   "title": "FDA Approves Giredestrant Plus Everolimus for Advanced Breast Cancer With ER-Positive ESR1 Mutations",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rRnluQllfMS1EZUJRRDNlc3dpMEY2Q2h3ZGNRSHlscjJyMzZmb1lpcmoyU2pHMy1jLUtKcUJSbGN5QnBPd2hHZ2VRRjcyS2wwUlE2OEE2bE1hdDVhUEhZVjVB?oc=5",
-   "source": "Oncodaily",
-   "snippet": "",
-   "date": "2026-11-17T13:20:37+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Giredestrant Plus Everolimus for ER-Positive Advanced Breast Cancer With ESR1 Mutations",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rRnluQllfMS1EZUJRRDNlc3dpMEY2Q2h3ZGNRSHlscjJyMzZmb1lpcmoyU2pHMy1jLUtKcUJSbGN5QnBPd2hHZ2VRRjcyS2wwUlE2OEE2bE1hdDVhUEhZVjVB?oc=5",
-   "source": "Oncodaily",
-   "snippet": "",
-   "date": "2026-11-17T13:20:37+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "From making vaccines to inventing them: India’s next challenge",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS3FBTU96RkJHdnN3MkpjalZCRklrVEtLUUxhV2JyMWxKLTFzZ09sUEtvdVREZ05lZUlEY05KZGtfX01wVVFITV9yLTVTX2VzX3ctQ1NUZThGOUN1STBpRlU2ZFRUSUV5ME9PV29UQ0Vua3JyNkJIa1ZXQlpXamdwLVh0Sm02V2xIWVc5RDVLOTFoOWhhZWNnbnhn?oc=5",
-   "source": "Express Pharma",
-   "snippet": "",
-   "date": "2026-11-17T13:19:23+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "EktaH advances first-in-class obesity treatment NKS-3 into phase II clinical development",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdEFkaFdVVE5mQVlHQWRkZkJpTjJhb2JxZUJCVWNYdHlOZUV0ZTM3aGFfRloyN3dWNUVZWEZ2NzR1TzhFczFrWnZZZEJOTkQtZjNYalczQXJ6Y25SdHNvTTdIdGphZ1pBQzkw?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-11-17T12:59:45+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "NRXP: FDA approval launches commercialization as clinical and defense programs advance toward 2027",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQnh1OGo5ZTNGZERERk8yMlZvNlNVSHhOUHNxTzBTOHRpTDFUWlVjVFFyRlc3ckgwRFpBcEVWNlVtWnpiTktWX043RVJHV1hrNHM2Q2ZDc2lDbkc5djNzS2h0Zk5STHNZTTU1VTJScVRYLVN2Q0Nfd3pPcHJUTzJWclZwR0R5V3htc0ZQMDlWMVAwZHhrakxLT01LaTNUMG5ISnlfSTlxZ3ZTUGhxWnhPNUdYSDdlMzREYzcyd3RJUTZzZVFqdXpnRmE2eFZkY3ZRRk9pY0RuQVNqR21RWkh1N3BIeEtDbnNBQUdWRXdoMFJ3TkgtMmw4NG9OMXh1eHZNZmRtU2tFVkRQeDAw?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T12:51:51+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Isomorphic Labs raises $5B series C months after $2.1B round",
-   "link": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round",
-   "source": "Fierce Biotech",
-   "snippet": "Isomorphic Labs has raised a $5 billion series C round, marking the second time in six months that the AI drug development startup has pulled off a multibillion-dollar financing.",
-   "date": "2026-11-17T12:37:00+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "USV chided by FDA over contamination risks at India site",
-   "link": "https://www.fiercepharma.com/manufacturing/usv-private-hit-fda-warning-letter-potential-contamination-issues",
-   "source": "Fierce Pharma",
-   "snippet": "Indian drug manufacturer USV was hit with a warning letter from the FDA that outlined three major violations. The observations largely centered on a lack of procedures that could lead to microbial and particulate…",
-   "date": "2026-11-17T12:29:00+00:00",
-   "tags": [
-    "Regulatory",
-    "India"
-   ]
-  },
-  {
-   "title": "CRISPR Therapeutics Eyes Late-Stage Trials as Key Data and CASGEVY Demand Build",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdjRZUW1RdHMzUHJqeEo1VVFRNzhjRjI3NGk3ZjJyblo3OHVrbnZ4N0ZLUjZZS0Y3ZC1pVWRBLVZlMlRTNEZBUm9rR2tHcnlNV1JueGtvNmI1ZlpxY0N5OV9jQ05CVk5xSjdDVjhVN3BYdXJpWHFtWWUyLU0zWWRWRk5hOGF2ZDJMUUlyem9CODdzRXlMZUFIS3ROcGhLNzJyMW1Za1NDaEM4ekxSU1BFVS00NV9RTlRqVDJLaG5pN3JXcWNzeWJPRVV2YU9STGlVdzU4SmVJSQ?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T12:13:28+00:00",
-   "tags": [
-    "Biotech"
-   ]
-  },
-  {
-   "title": "COLL: ADHD growth leads the outlook as pain revenue stability hinges on Belbuca generic risk",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZU1hc04yZWhYbXZtNXdUOUZUVnVaTFMyNlEzajNXU1hUUU5yaVd5dGNSVFV3LUp5VWRuMFhSSkotaGhHMEk4Y0FkXzkyZ25GWE1kaXl4b2J4Rm1WSGtCU2tEWVNjMV9WZHpJdzBUelZxbGNURzlSWWUwRWZJUDYyaHdNRGFuYlgya0pUOWRlSlBwWjNXdlJWMGYxem5naDBfcnVMUklwNS1GWi1Gc3hHN1dkRnF5andCbkhSa0hmb0R1Q00wRmpJbnlaenNGSkNDSmJ0aDZjenJjalE4YVRwRlR4REEtT2F0WEwwS19NUVlOdldCTTJYLVNpT1JGRnZZM3BBeDJwcm90Zw?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T12:07:43+00:00",
-   "tags": [
-    "Biosimilars & Generics"
-   ]
-  },
-  {
-   "title": "FDA Approves Breakthrough Treatment That Helps Children With Type 1 Diabetes Keep Producing Insulin",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzZkaEVNM0padGdaMGhBcVkyN05vWXg4WkRhZnkwOGFDNWJsc1lqaTMzblRUR1BRd0lwWjVGcDh2ZHJmbEpoVjJnM3N2ZXFPSGVRcHdWdDhSaFdlV212Sy1CX1FnbVZBODBjMzVScUZvelJnSFJBNHlMVnJtR1VueTdtWDVLWVFBNnc0SjdYNTV2SUVxbDdDVGJWM0lUdTc2d1dsY1dBZVQ1dE9yQVhYcldnZmV0SkVRa2VGNzEyc3loOWM?oc=5",
-   "source": "SciTechDaily",
-   "snippet": "",
-   "date": "2026-11-17T12:07:11+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
-   "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
-   "source": "BioPharma Dive",
-   "snippet": "Armed with $173 million in venture funding, the startup is developing what it’s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
-   "date": "2026-11-17T12:00:00+00:00",
-   "tags": [
-    "Biotech"
-   ]
-  },
-  {
-   "title": "The Journey of India's Biotechnology Ecosystem",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dmMHdzdm94VXFWTDRZa19Ud0FZMEkyQ1IyY0ZJN0MxV2JTU0I4N3ZVdXJOdV9pLU1WYkJCajNOaHNJS05sbWY3Y2pwY1JyY0RKX29qc0pKX3hqQVFTTkNmajdDdXRwVlZubzVENmlyeEhRNjlLbTVZaHVnYXRSeWNuejZsUjJ5RkNWY1Z3?oc=5",
-   "source": "orfonline.org",
-   "snippet": "",
-   "date": "2026-11-17T11:53:11+00:00",
-   "tags": [
-    "Biotech",
-    "India"
-   ]
-  },
-  {
-   "title": "FDA grants accelerated approval to novel head and neck cancer treatment",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2p0MXUzSm5la1JRRkt3S095U2s3R3RlUDVWTUY5ODlza0RQWnU5RHo2MkVpemowVGlzdWV5alN6TWFMUVQ5ZzR4MEhCdWM1bjI4aDFRcWJfQVZpZGxiNkMtUVpOZlR4VDVfamlGb0IteVR6OGdBNzVBbDBvUnRrVDhSREdYWGpIZzFFa01kWFhhTTFzY2FrZklZUlJiWjhoaHlTRElQZW8?oc=5",
-   "source": "Oncology Central",
-   "snippet": "",
-   "date": "2026-11-17T11:48:07+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Pebrilzo wins FDA approval as a second Perjeta biosimilar—but U.S. patients may have to wait until late 2028",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVhwNHNlOUNwNWpCVUJRUGg3eEhBSVA4NW8xdlJBeW5HVk9jeF9LcDR4S1pmaXN5U1p0c0FtTW16OUh0anUtbVNXWlU2RURUUnREZl9SM01UTTJ3UU9YUmVxLWFXaVp4YmVaSkNacm4zTHZBLUNucmVfN0o3aHd2YlJOQ01xaVlCY2RNTzhORDJndzNyTDB3a2preG1WQmNqVW1ZZA?oc=5",
-   "source": "Medical Daily",
-   "snippet": "",
-   "date": "2026-11-17T11:27:22+00:00",
-   "tags": [
-    "Biosimilars & Generics",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Pfizer CEO Sees Growth Beyond Patent Cliff, Highlights Monthly Obesity Drug Ambitions",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakFvcklTSUgycnlEcHZzQkxOVnpKYU9xazdqT0RwMUpIaFA2ZXdhYkxkZWNHdjgtZUlONGw3WjVJNUhvLXFjMmdrempTaEtXWlZPVlRJNVNobTZnNEtoQzZjZXZkX1V6NWdrbGZlMjktd3RDZEoxMVJoWVZBdFNyR2Q3LWhVRlJuU3BGMzIwQ282NXdfZXNtY2JTbFEtaTJVMFpQQVd4MUdMS2c5alhkOElOZXk4MDVXM09fT1JLMmNLdkNUWngxdjF3TEJQR3F5a1pBZVdQWkZYZ0s0bXc?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T11:12:28+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "GSK stock faces patent cliff as oncology strategy takes shape",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWdBdEpTQXcwOWxsLUljMHF5ckN0T2JTc2l1djBocVRLNTk2Wjk4OGl3enBWbFBvLUl2VzNtQnJHb3dHVFJrUmJHVE9sY2d4ckFlNzlrM1VuRlpfVGpvRWM5WDJDVE5VR3dKSURrVUduN0RKUDYtNlRtb3FaZnVON2xFR0VobmV3WVVFYlh6UFZXekt4aVMwSXluN1hIOTFCVm5JSWdLcGdGVE1fY0w5Y0lOTmE0TFpObTMwTDRiSTNBdw?oc=5",
-   "source": "ad-hoc-news.de",
-   "snippet": "",
-   "date": "2026-11-17T10:58:33+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "Why 2027 could be ‘Europe’s year to shine’: Panelists debate biotech funding at Fierce’s London event",
-   "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding",
-   "source": "Fierce Biotech",
-   "snippet": "Panelists at Fierce Biotech's London Life Sciences Week event discussed whether Europe can pull its weight in biopharma investment next year against the gravitational pull of the U.S. and China.",
-   "date": "2026-11-17T10:21:00+00:00",
-   "tags": [
-    "Biotech"
-   ]
-  },
-  {
-   "title": "FDA Approves Giredestrant Plus Everolimus in ESR1-Mutated Breast Cancer",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDJwQ0ZxOTBna2t5X2pvNDhudG5xR3d1TGV4ZmVjX2tmRXc2WlNBczF2Y3p1cDBLdWZWeHo1SzJRaFRGb1FDSjkwUUlDbi1sTkxYdFp1dkFiNWxyTWVLUHVLMVFNLWxlTHkwU1ZHejVDX0pXSkFGN0Y3bEhhbC00N2FYVmFyc09URjZtenZrbEs2QQ?oc=5",
-   "source": "Targeted Onc",
-   "snippet": "",
-   "date": "2026-11-17T10:14:51+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "GSK Targets £40 Billion in Sales as HIV Patent Cliff Looms",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkhPSTRERWVYNlNwbW95X1pSUWlPbU0tc1NScGFFYkFOd3dDcGJ6S3FyU2NqTDdKOXh0UzYwUE9nNm1zOUpwYmsxX0ljWW00b0VIekhVZ3ByaExfZ21qRmNUMWtNZW9pN2lxcXE1b2cxV1Q5dUp5Z1psSkw4TndtSnVvampkM2ZiTGJQMVoyV0FYRHhsWGd5NWRhWXR5azU4RzFYeG1YdlpKMEJIcC12aGNJb0Q0S0N4Z3c?oc=5",
-   "source": "TradingView",
-   "snippet": "",
-   "date": "2026-11-17T10:12:09+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "Enterprise Therapeutics granted EMA orphan medicinal product designation for cystic fibrosis therapy",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDdlY1cwNkNnTGl4TzdpVWJaMU01UzdzdTNmbG5XUzZVdVFrR1paSWZmbi1fOTRHby1weTlGZC1UYWdtMWtRX0JOWHlDb0NJMmVraU9KcXpnVllXVTRDdG1qZE5FT0s4R1RVQ2RteXFQaHNzNHFySmZyUlp3MVZPMjZKSm90bHBNSHAzWmphZFhZeklpVDU5RHRqemcyUzY1R3FWejJpM0I?oc=5",
-   "source": "Manufacturing Chemist",
-   "snippet": "",
-   "date": "2026-11-17T10:10:22+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "From lab to market: Bridging India’s pharma innovation gap",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEFFcnliU0t3VkswOWlWdkd3R0I2Z24yU2VTajRMUVZFdEtpZjMtX2p2YllHVThIMDE5RV9FTGpOYzJXcUxjd3d2S2ZfSVVwTzl5OFBNMVRXR2xGTFdlMGR2RGRhUWN1c1c5UElMX1N6VEg0RjNVdU51RGdpVGE4YzZyVHdzYXVZWmRGdnlKcGRwcWpT?oc=5",
-   "source": "Express Pharma",
-   "snippet": "",
-   "date": "2026-11-17T10:08:48+00:00",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "GSK at Jefferies Global Healthcare Conference: growth plan faces patent cliff By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZkV3M3RtV1hmU0dfRk9iTURlR3dsdmJILVoxVHdyczZBWjFwVnVtTmhiVEdMdGNFbGh0eDRfdXVFTk9ieGNHRWJCOFl2MDlUMXVidHdFWnpnM1hfR1g1bGxxbXR0T1lxQ0Fqa3dNTHk1TWUtZ2JpY2U0Tkxaamc0WG90NGFjbG1BM0RLMHFJZVJIdWFCclBxY2tONE93ZURJYnEtdkxTTERKXy1RWlRqQUhMQ0NiZEo0WEF6WEVWcHZIWDBDS2VDWHhySVdpUDJCOFFN?oc=5",
-   "source": "Investing.com India",
-   "snippet": "",
-   "date": "2026-11-17T08:43:27+00:00",
-   "tags": [
-    "Patents"
-   ]
-  },
-  {
-   "title": "AI Moves From Digital Discovery To Clinical Development in Biotechnology",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3poMzNKdDlLZExwSEVldDZCbXpuTl9TX0t0c2hoU2pDZGpYR0tZZUtaMlExam5SV1QwMU4tQldCNTVudzF0d0VqQ0RmVGkwQVhmRFQwVFVTYlIwY1hMd1lYSHdIRzV1Z3JUN0VJVWRJNXZDdE5LZEJhM25IZmtaMHQyLUNlMC1ZdGt4V01XenVMbG12eUhtSk9iSHA4ZkhjQmNTYnNfZjBDM3c?oc=5",
-   "source": "RankiaPro",
-   "snippet": "",
-   "date": "2026-11-17T08:42:14+00:00",
-   "tags": [
-    "Biotech"
-   ]
-  },
-  {
-   "title": "US FDA approves Roche’s Gazyva/Gazyvaro for the treatment for primary membranous nephropathy",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HOGZuc3FsZU9jTU1xd0gxNU54WXBDS2dXdms4TllZUlZFOHFkalJtX0p3eEhrTUtPSlZ2U3dZTHc5czhzR3NNeFFpMFRBS20xbmR3ZmlibnlXaWFya2g1SmpEeHFTTjNZaExn?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-11-17T08:30:36+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Approves Adrabetadex for Infantile-Onset Niemann-Pick Type C",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2ppMU1xOE5Pemg2ZDNTb2pqek9veW5aSDhPNG1iVXZ4LWRCZGkwVkNhVDNTeW91U3FaVllnZ3pxTGlac0Q0c1REckRmWGpBN2I1TmF5V2VUb21Ra2x6Q2hVVmhCVXNzSnV4R3hvYWV5d3BaSlQxNzZUVFZ6RV9ydjhGUzZFM2l2MzVHU3hKcXpOQmY3?oc=5",
-   "source": "The American Journal of Managed Care",
-   "snippet": "",
-   "date": "2026-11-17T08:00:00+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "The BioPharm Brief: A First for Streamlined Biosimilar Approval, a Head-to-Head Bispecific Trial in Wet AMD, and In Vivo KIR-CAR T",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYzRNTUwzVFY0OEFTOXZUTmxLOFB5YzdQQ1lRVTB2bndaU1kySGpMZTdhZkxvMno0a0l6NFhwaXFFVS1iajFBdWFMS1N0RkE5OF9MXzVRMGVOc0tYN1hock5GN0hYU0ZSZklqcVBoUXlRQTZ1M21JSEVlVnF6allZcHBPNkxrbmMtNlNYTmc1c09FS0dkUUdhcXhNcHcxbi1sUkl2ZmhSUGV4ZGlZM0NVUGZDNE9pSWh3Q01YdFBHZW1VODB3T3VTT3NVLVJxU25JclRuVHI3OHl5Q051Wi11U3lzZXd0U2JZd2VhSm9yQ3VKelV5eE4ybUhRUVFWd1E?oc=5",
-   "source": "BioPharm International",
-   "snippet": "",
-   "date": "2026-11-17T08:00:00+00:00",
-   "tags": [
-    "Biosimilars & Generics",
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Alembic Pharma receives US FDA approval for binimetinib tablets",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxbXVINlJoOENjdDhYa29uZzMzcmcydndRQnVlMDUycFptUVdjREJhWmI5MTVMMFgtZjZUUW4wRndnRkVoWkctMDhpS2Fac1BNX1d2XzVSWjdyVlVXUlNVUHRHUWNmVHhfU1Q0?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-11-17T07:59:29+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "FDA Rejects ivonescimab BLA Over Missing Overall Survival Data",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDI3T01CZ1VjMERmQlVEdmFyVGRsTXgzN2JqbnBJbzRUVkd1VEVBaFRBdGFVNUVxRU0ydkZjMWI2WVUtd3lJWDhKMmFfLW9wZTM3eGFaVXhqYjFsVWJ3c2ctcWhiNlkzVndZX2ZoVHZhRTJpQ09uc3M4aldOTTFHTDlQVlU3anB3UEo1bXVObWpMUkhsQm1ZYlhDQVczeWQ0eWwtU2Y0MUgwZw?oc=5",
-   "source": "The Clinical Trial Vanguard",
-   "snippet": "",
-   "date": "2026-11-17T07:41:09+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "BTS 2026 puts India's biotech startups and research institutions in focus",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUy13bzQwUkhoR1JjclNWcllXTTY5eklsVTlzclg5cDJFbWY4Z1NWbFo3bDlKWFVuV2loSlRTN0lMc1BoSmxyNmtUem8xQld3bDRfZnRQSU5lN0k2UlZPSWVDbWpHWGRvMmpodS1qWndoLVdMeHRsc25jcWxrbXFPM3BUQ2tjM0FrZ1B5QWhEMHdPZExDbHotYVVtVkpxcVh4OURxbFY2dlZHQTBtZ0Z2Z3NjUmxlQlFEY3pVT25mR0REZw?oc=5",
-   "source": "BioSpectrum India",
-   "snippet": "",
-   "date": "2026-11-17T07:26:12+00:00",
-   "tags": [
-    "Biotech",
-    "India"
-   ]
-  },
-  {
-   "title": "Noema Pharma wins FDA Orphan Drug Designation for basimglurant in trigeminal neuralgia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkxVSkZkSHlWWWcyenJ1TEZCazFFZjZrbzlsVDhYajNmaEYteWNkT2JPT2VUNW5mY2JwSFFjZkczLXdvNmNDbHR0aFk1bWdGTURvRFZQaE9yOGJ2VmtkczJsUU9idlBGX0p6cndQdG9JTFhNb0daZnJGRnk3OXNkWm5PVEJLczFyUXR5bVcwa0hpaFlsZDhCZ1Z1S1hpRlhiMlNHakQ0SEpZRURMV2NWZWpIUWZVaFVXNG9kNg?oc=5",
-   "source": "Dealroom",
-   "snippet": "",
-   "date": "2026-11-17T07:22:01+00:00",
-   "tags": [
-    "Regulatory"
-   ]
-  },
-  {
-   "title": "Lilly signs $5.9B deal with Stipple to unlock oncology targets",
-   "link": "https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets",
-   "source": "Fierce Biotech",
-   "snippet": "Eli Lilly has struck a $5.9 billion deal to partner with Stipple Bio on oncology drug candidates that more precisely target tumor cells.",
-   "date": "2026-11-17T07:04:00+00:00",
-   "tags": [
-    "Licensing & Deals"
-   ]
-  },
-  {
-   "title": "Evotec secures $2.9 mn grant to advance early drug safety testing using human stem cell technology",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sdjYwY0tCekRrS2k3QlE3d2s1YzJhOUFDSTUycEIyY09VbWdITUxtazV0dWVPS3pWNF9GSElYdG9JY2JjaFl1djI5eUpnSWRrdkZKQVh3TVI5TThVQlBIZUp4ckt5ekFkdy1z?oc=5",
-   "source": "Pharmabiz.com",
-   "snippet": "",
-   "date": "2026-11-17T06:30:03+00:00",
-   "tags": [
-    "General"
-   ]
-  },
-  {
-   "title": "Pimjetmi Gets FDA Approval for Tenosynovial Giant Cell Tumor",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1dyaFlocXBreDQySkpmYmVUUms4VlhMUzZTOFd1NkpRUzBoTjFKdURXX3dkT2k3MjNrNVpUekZGTGxRU3FNRXpwUW10YmRTWG5CUEZxQ2w0QlAyMWsweUEtT3FCc19aWlRMMEVSM0htZUNVZWY2MFdvcVhmNnNNdHZqXzNQTHE4U3VQZ2k4QldsaU9RNWU3NA?oc=5",
-   "source": "Cancer Therapy Advisor",
-   "snippet": "",
-   "date": "2026-11-17T05:00:00+00:00",
    "tags": [
     "Regulatory"
    ]
